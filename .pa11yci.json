@@ -1,0 +1,13 @@
+{
+  "defaults": {
+    "standard": "WCAG2AA",
+    "timeout": 30000,
+    "wait": 500
+  },
+  "urls": [
+    "http://localhost:8080/index.html",
+    "http://localhost:8080/deals.html",
+    "http://localhost:8080/about.html",
+    "http://localhost:8080/submit.html"
+  ]
+}

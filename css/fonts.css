@@ -1,0 +1,20 @@
+/* Self-hosted brand fonts — NO external requests, so the Content-Security-Policy
+   can stay locked to 'self'. Run scripts/get_fonts.sh once to download the woff2
+   files into /fonts. Until they exist, the site falls back to system fonts
+   automatically (nothing breaks — it just upgrades to the brand look when present). */
+
+@font-face { font-family:'Sora'; font-style:normal; font-weight:600; font-display:swap;
+  src:url('../fonts/sora-600.woff2') format('woff2'); }
+@font-face { font-family:'Sora'; font-style:normal; font-weight:700; font-display:swap;
+  src:url('../fonts/sora-700.woff2') format('woff2'); }
+@font-face { font-family:'Sora'; font-style:normal; font-weight:800; font-display:swap;
+  src:url('../fonts/sora-800.woff2') format('woff2'); }
+
+@font-face { font-family:'DM Sans'; font-style:normal; font-weight:400; font-display:swap;
+  src:url('../fonts/dmsans-400.woff2') format('woff2'); }
+@font-face { font-family:'DM Sans'; font-style:normal; font-weight:500; font-display:swap;
+  src:url('../fonts/dmsans-500.woff2') format('woff2'); }
+@font-face { font-family:'DM Sans'; font-style:normal; font-weight:600; font-display:swap;
+  src:url('../fonts/dmsans-600.woff2') format('woff2'); }
+@font-face { font-family:'DM Sans'; font-style:normal; font-weight:700; font-display:swap;
+  src:url('../fonts/dmsans-700.woff2') format('woff2'); }

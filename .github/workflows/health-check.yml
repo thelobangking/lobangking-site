@@ -1,0 +1,36 @@
+name: Site health check
+
+# Free uptime monitoring: pings the live site on a schedule. If the homepage or
+# the deals feed is down, the workflow fails — and GitHub emails you automatically.
+# For a full status page with history + Slack/Telegram alerts, use Upptime
+# (https://upptime.js.org) — also free, also powered by GitHub Actions.
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"     # every 30 minutes
+  workflow_dispatch: {}
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping homepage and deals feed
+        run: |
+          set -e
+          URL="https://lobangking.sg"
+
+          code=$(curl -sS -o /dev/null -w "%{http_code}" --max-time 20 "$URL/")
+          echo "Homepage      → HTTP $code"
+          test "$code" = "200" || { echo "::error::Homepage is down ($code)"; exit 1; }
+
+          dcode=$(curl -sS -o /dev/null -w "%{http_code}" --max-time 20 "$URL/data/deals.json")
+          echo "deals.json    → HTTP $dcode"
+          test "$dcode" = "200" || { echo "::error::deals.json is unreachable ($dcode)"; exit 1; }
+
+          # Freshness check — warn (don't fail) if deals weren't refreshed today
+          updated=$(curl -sS --max-time 20 "$URL/data/deals.json" | grep -o '"updated": *"[0-9-]*"' | head -1)
+          today=$(date -u +%Y-%m-%d)
+          echo "Deals updated → $updated (today is $today)"
+          echo "$updated" | grep -q "$today" || echo "::warning::deals.json may be stale — last update not today"
+
+          echo "✅ Site is healthy."

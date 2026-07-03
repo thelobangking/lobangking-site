@@ -1,0 +1,30 @@
+# HTTP response headers.
+# These are applied automatically by Cloudflare Pages and Netlify.
+# GitHub Pages does NOT read this file — to get real headers on GitHub Pages,
+# put Cloudflare (free) in front of your domain (see SECURITY.md). The site
+# also ships a <meta> CSP fallback in every page so core protection works
+# even without these headers.
+
+/*
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; connect-src 'self'; manifest-src 'self'; worker-src 'self'; form-action 'self' https://formspree.io; base-uri 'self'; object-src 'none'; frame-ancestors 'none'; upgrade-insecure-requests
+  Content-Security-Policy-Report-Only: require-trusted-types-for 'script'; trusted-types lk-sanitizer lk-sw 'allow-duplicates'
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  X-Robots-Tag: noai, noimageai
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(), microphone=(), camera=(), payment=(), usb=(), browsing-topics=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: same-origin
+
+# Long-cache fingerprint-stable assets
+/css/*
+  Cache-Control: public, max-age=31536000, immutable
+/js/*
+  Cache-Control: public, max-age=31536000, immutable
+/images/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Deals refresh daily — keep this short so visitors see new deals quickly
+/data/deals.json
+  Cache-Control: public, max-age=300, must-revalidate

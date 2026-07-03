@@ -1,0 +1,29 @@
+name: Accessibility check
+
+# Runs pa11y-ci (WCAG 2.1 AA) against the built pages on every push, so an
+# accessibility regression fails the build before it reaches visitors.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  pa11y:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install tools
+        run: npm install -g pa11y-ci serve
+      - name: Serve the site
+        run: |
+          serve -l 8080 . &
+          npx --yes wait-on http://localhost:8080/index.html
+      - name: Run accessibility tests
+        run: pa11y-ci --config .pa11yci.json

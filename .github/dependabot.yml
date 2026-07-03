@@ -1,0 +1,12 @@
+version: 2
+updates:
+  # Keep the GitHub Actions we pin (checkout, setup-python, etc.) patched — a 2026
+  # supply-chain best practice. Dependabot opens a PR when a newer version ships.
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "ci"
+    labels:
+      - "dependencies"

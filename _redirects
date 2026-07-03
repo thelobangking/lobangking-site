@@ -1,0 +1,4 @@
+# Cloudflare Pages redirects (also read by Netlify).
+# Force the www subdomain to the bare apex domain. For this to fire, add
+# www.lobangking.sg as a custom domain on the Pages project alongside the apex.
+https://www.lobangking.sg/*  https://lobangking.sg/:splat  301

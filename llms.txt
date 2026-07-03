@@ -1,0 +1,15 @@
+# LobangKing.sg
+
+> Every Deal in Singapore — verified daily.
+
+Static, automated, AI-assisted deals website. Full machine-readable architecture blueprint for rebuilding or understanding this system is in MOTHERLODE.yaml (structured) and MOTHERLODE.md (English).
+
+## Key docs
+- [Blueprint (structured)](MOTHERLODE.yaml): every component, script, security control, data model, roadmap.
+- [Blueprint (English)](MOTHERLODE.md): the same, as a rebuild playbook.
+- [README](README.md): deploy + operations.
+- [Security](SECURITY.md): threat model + hardening.
+
+## Site
+- [All deals](deals.html) · [About](about.html) · [Submit a deal](submit.html)
+- Deals data: [deals.json](data/deals.json) · Feed: [feed.xml](feed.xml)

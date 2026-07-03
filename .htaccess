@@ -1,0 +1,58 @@
+# LobangKing.sg — Apache / cPanel config (for Exabytes & most shared hosting).
+# Mirrors the _headers file (which only Cloudflare/Netlify read) so the same
+# security headers, HTTPS redirect, caching and custom 404 also work on Apache.
+# Uses standard cPanel modules: mod_rewrite, mod_headers, mod_deflate.
+
+# ---- Force HTTPS (the site's CSP upgrades insecure requests + sends HSTS) ----
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTPS} !=on
+  RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+# ---- Default document & no directory listing ----
+DirectoryIndex index.html
+Options -Indexes
+
+# ---- Custom error page ----
+ErrorDocument 404 /404.html
+
+# ---- Security & privacy headers ----
+<IfModule mod_headers.c>
+  Header always set Content-Security-Policy "default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; connect-src 'self'; manifest-src 'self'; worker-src 'self'; form-action 'self' https://formspree.io; base-uri 'self'; object-src 'none'; frame-ancestors 'none'; upgrade-insecure-requests"
+  Header always set X-Frame-Options "DENY"
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Robots-Tag "noai, noimageai"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "geolocation=(), microphone=(), camera=(), payment=(), usb=(), browsing-topics=()"
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+  Header always set Cross-Origin-Opener-Policy "same-origin"
+  Header always set Cross-Origin-Resource-Policy "same-origin"
+</IfModule>
+
+# ---- Caching: fingerprinted assets long, deals feed short ----
+<IfModule mod_headers.c>
+  <FilesMatch "\.(css|js|woff2|png|jpe?g|webp|svg|ico)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+  <Files "deals.json">
+    Header set Cache-Control "public, max-age=300, must-revalidate"
+  </Files>
+</IfModule>
+
+# ---- Compression ----
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json image/svg+xml application/manifest+json text/xml application/xml
+</IfModule>
+
+# ---- Correct MIME types ----
+<IfModule mod_mime.c>
+  AddType application/manifest+json .webmanifest
+  AddType font/woff2 .woff2
+</IfModule>
+
+# ---- Don't serve build/source files if the whole project is uploaded ----
+RedirectMatch 404 ^/(scripts|\.github|\.memories)/
+<FilesMatch "\.(py|md|yml|yaml|toml|lock)$">
+  Require all denied
+</FilesMatch>

@@ -1,0 +1,4 @@
+{
+  "_help": "OPTIONAL hand-picked deals that should ALWAYS appear, regardless of the feeds. They are added first and win on de-duplication. Leave the 'deals' array empty to run a 100% automated, feed-only site. Use the same fields as a normal deal (see README).",
+  "deals": []
+}

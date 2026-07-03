@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Preview — LobangKing.sg</title>
+  <!-- Static, no-JS preview of the homepage. Uses the REAL stylesheet and logo,
+       with sample deals baked in, so it renders identically when opened directly
+       (the live site renders these same cards from data/deals.json via JavaScript). -->
+  <link rel="stylesheet" href="css/fonts.css">
+  <link rel="stylesheet" href="css/styles.css">
+  <style>
+    /* Little banner so it's obvious this is the static preview */
+    .preview-flag{background:#0f1b2d;color:#fff;text-align:center;font-family:'DM Sans',system-ui,sans-serif;
+      font-size:.82rem;padding:8px 16px}
+    .preview-flag b{color:var(--gold-l)}
+    .preview-split{display:grid;gap:0}
+  </style>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<div class="preview-flag">👁️ Static preview of the homepage — the live site is interactive (search, filters, dark-mode toggle, sharing). Open <b>index.html</b> for the real thing.</div>
+
+<div class="ribbon">🔴 5 deals ending tonight — <a href="deals.html">grab them before midnight →</a></div>
+
+<header class="site-header">
+  <div class="container nav">
+    <a class="nav__logo" href="index.html" aria-label="LobangKing.sg home">
+      <img class="nav__logo-img" src="images/icon-192.png" alt="">
+      <span class="wordmark">lobang<b>king</b></span>
+    </a>
+    <nav class="nav__links" aria-label="Primary">
+      <a class="nav__link nav__link--active" href="index.html">Home</a>
+      <a class="nav__link" href="deals.html">All Deals</a>
+      <a class="nav__link" href="about.html">About</a>
+      <a class="nav__link" href="submit.html">Submit a Deal</a>
+    </nav>
+    <div class="nav__actions">
+      <button class="icon-btn theme-toggle" type="button" aria-label="Toggle dark mode"><span class="moon">🌙</span></button>
+      <a class="btn btn--gold nav__cta-desktop" href="#">Subscribe free</a>
+      <button class="icon-btn menu-toggle" type="button" aria-label="Menu">☰</button>
+    </div>
+  </div>
+</header>
+
+<main id="main" tabindex="-1">
+  <!-- HERO -->
+  <section class="hero">
+    <div class="container hero__inner">
+      <span class="hero__eyebrow">👑 Singapore's #1 deals site</span>
+      <h1 class="hero__title">Every Deal in <span class="hl">Singapore</span>,<br>verified every morning</h1>
+      <p class="hero__sub">Hand-checked promos, freebies and discounts — <strong>so you never overpay again.</strong> Updated daily at 9am.</p>
+      <form class="search" role="search" onsubmit="return false">
+        <input class="search__input" type="search" placeholder="Search deals… e.g. milk tea, AirPods, Bangkok" aria-label="Search">
+        <button class="btn btn--gold search__btn" type="button" aria-label="Search">🔍</button>
+      </form>
+      <div class="trust-row">
+        <span>✅ Every deal hand-verified</span><span>🆓 Always free to use</span><span>🇸🇬 Made in Singapore</span>
+      </div>
+      <div class="hero__stats">
+        <div class="stat"><div class="stat__num">24</div><div class="stat__label">Live Deals</div></div>
+        <div class="stat"><div class="stat__num">16</div><div class="stat__label">Brands Tracked</div></div>
+        <div class="stat"><div class="stat__num">9</div><div class="stat__label">Categories</div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CATEGORIES -->
+  <section class="cats">
+    <div class="container">
+      <div class="cats__scroll">
+        <button class="cat-chip is-active"><span class="ic">🔥</span> All Deals</button>
+        <button class="cat-chip"><span class="ic">🍜</span> Food &amp; Drinks</button>
+        <button class="cat-chip"><span class="ic">💻</span> Electronics</button>
+        <button class="cat-chip"><span class="ic">🏠</span> Home &amp; Living</button>
+        <button class="cat-chip"><span class="ic">✈️</span> Travel</button>
+        <button class="cat-chip"><span class="ic">🚗</span> Transport</button>
+        <button class="cat-chip"><span class="ic">👗</span> Fashion &amp; Beauty</button>
+        <button class="cat-chip"><span class="ic">🎮</span> Fun &amp; Leisure</button>
+        <button class="cat-chip"><span class="ic">💳</span> Finance</button>
+        <button class="cat-chip"><span class="ic">🛒</span> Online</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- DEAL OF THE DAY -->
+  <section class="section section--tight">
+    <div class="container">
+      <div class="spotlight-card">
+        <span class="spotlight__badge">👑 Deal of the Day</span>
+        <div class="spotlight__grid">
+          <div class="spotlight__icon">💻</div>
+          <div class="spotlight__body">
+            <h3 class="spotlight__title">$199 off MacBook Air M3 (Shopee Official)</h3>
+            <div class="spotlight__store">Apple via Shopee Official</div>
+            <p class="spotlight__desc">Apply voucher TECHKING at checkout plus Shopee coins cashback. Stacks with credit-card promos. Lowest price we've tracked this month.</p>
+            <div class="deal-card__access acc--easy" style="margin-top:14px">🟢 Online — add to cart &amp; apply code</div>
+            <button class="code-pill" type="button">🎟️ TECHKING <span class="copy">Tap to copy</span></button>
+          </div>
+        </div>
+        <div class="spotlight__foot">
+          <span class="deal-card__time">⏱ Ends tonight 11:59pm</span>
+          <div class="deal-card__actions">
+            <button class="btn-share" type="button">↗ Share</button>
+            <a class="btn btn--gold" href="#">Get Deal →</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- HOTTEST DEALS -->
+  <section class="section">
+    <div class="container">
+      <div class="section__head">
+        <h2 class="section__title"><span class="ic">🔥</span> Hottest Deals Right Now</h2>
+        <a class="section__link" href="deals.html">See all deals →</a>
+      </div>
+      <div class="deal-grid">
+
+        <article class="deal-card">
+          <div class="deal-card__head">
+            <div class="deal-card__icon">🧋</div>
+            <div class="deal-card__hd-body">
+              <div class="deal-card__title">FREE Brown Sugar Milk Tea</div>
+              <div class="deal-card__store">Gong Cha · Islandwide</div>
+            </div>
+            <span class="heat">🔥 342</span>
+          </div>
+          <div class="deal-card__badges"><span class="badge badge--free">FREE</span><span class="badge badge--ending">ENDS TODAY</span></div>
+          <p class="deal-card__desc">Show the LobangKing page in store to redeem one free regular Brown Sugar Milk Tea. One per customer while stocks last.</p>
+          <div class="deal-card__access acc--easy">🟢 Walk in — no purchase needed</div>
+          <a class="deal-card__source" href="#">Source: SINGPromos ↗</a>
+          <div class="deal-card__foot">
+            <span class="deal-card__time">⏱ 7 hours left</span>
+            <div class="deal-card__actions">
+              <button class="vote">▲ <span class="vc">342</span></button>
+              <button class="btn-share">↗ Share</button>
+              <a class="btn-deal" href="#">Get Deal →</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="deal-card">
+          <div class="deal-card__head">
+            <div class="deal-card__icon">🍔</div>
+            <div class="deal-card__hd-body">
+              <div class="deal-card__title">1-for-1 McSpicy Meal</div>
+              <div class="deal-card__store">McDonald's · 2–5pm daily</div>
+            </div>
+            <span class="heat">🔥 218</span>
+          </div>
+          <div class="deal-card__badges"><span class="badge badge--new">MCDONALD'S</span><span class="badge badge--discount">1-FOR-1</span><span class="badge badge--plain">App only</span></div>
+          <p class="deal-card__desc">Buy one McSpicy Meal, get one free every afternoon. Dine-in and takeaway both eligible through the app.</p>
+          <div class="deal-card__access acc--app">🟡 App needed — redeem in MyMcDonald's</div>
+          <a class="deal-card__source" href="#">Source: SINGPromos ↗</a>
+          <div class="deal-card__foot">
+            <span class="deal-card__time">⏱ Ends 2 Jul</span>
+            <div class="deal-card__actions">
+              <button class="vote">▲ <span class="vc">218</span></button>
+              <button class="btn-share">↗ Share</button>
+              <a class="btn-deal" href="#">Get Deal →</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="deal-card">
+          <div class="deal-card__head">
+            <div class="deal-card__icon">🎧</div>
+            <div class="deal-card__hd-body">
+              <div class="deal-card__title">AirPods Pro 2 — $269 (usual $349)</div>
+              <div class="deal-card__store">Lazada Official Store</div>
+            </div>
+            <span class="heat">🔥 156</span>
+          </div>
+          <div class="deal-card__badges"><span class="badge badge--discount">23% OFF</span></div>
+          <p class="deal-card__desc">Lowest verified price for the USB-C model. Bank card promos stack for an extra 10% off on checkout day.</p>
+          <div class="deal-card__access acc--easy">🟢 Online — add to cart</div>
+          <a class="deal-card__source" href="#">Source: Great Deals Singapore ↗</a>
+          <div class="deal-card__foot">
+            <span class="deal-card__time">⏱ Ends 3 Jul</span>
+            <div class="deal-card__actions">
+              <button class="vote">▲ <span class="vc">156</span></button>
+              <button class="btn-share">↗ Share</button>
+              <a class="btn-deal" href="#">Get Deal →</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="deal-card">
+          <div class="deal-card__head">
+            <div class="deal-card__icon">✈️</div>
+            <div class="deal-card__hd-body">
+              <div class="deal-card__title">$99 Return Flights to Bangkok</div>
+              <div class="deal-card__store">Scoot · Book by 5 Jul</div>
+            </div>
+            <span class="heat">🔥 287</span>
+          </div>
+          <div class="deal-card__badges"><span class="badge badge--discount">FLASH SALE</span></div>
+          <p class="deal-card__desc">All-in return fares to Bangkok on selected July–September dates. Limited seats per flight — clears fast on weekends.</p>
+          <div class="deal-card__access acc--easy">🟢 Online — book on Scoot.com</div>
+          <a class="deal-card__source" href="#">Source: SGDtips ↗</a>
+          <div class="deal-card__foot">
+            <span class="deal-card__time">⏱ Ends 5 Jul</span>
+            <div class="deal-card__actions">
+              <button class="vote">▲ <span class="vc">287</span></button>
+              <button class="btn-share">↗ Share</button>
+              <a class="btn-deal" href="#">Get Deal →</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="deal-card">
+          <div class="deal-card__head">
+            <div class="deal-card__icon">🛋️</div>
+            <div class="deal-card__hd-body">
+              <div class="deal-card__title">Kids Eat Free — IKEA Restaurant</div>
+              <div class="deal-card__store">IKEA · Weekdays</div>
+            </div>
+            <span class="heat">🔥 132</span>
+          </div>
+          <div class="deal-card__badges"><span class="badge badge--new">IKEA</span><span class="badge badge--free">KIDS FREE</span></div>
+          <p class="deal-card__desc">One free kids' meal with every adult main course purchased, every weekday. IKEA Family membership is free to join.</p>
+          <div class="deal-card__access acc--easy">🟢 Dine in — with any adult main</div>
+          <a class="deal-card__source" href="#">Source: IKEA news ↗</a>
+          <div class="deal-card__foot">
+            <span class="deal-card__time">⏱ Ends 31 Jul</span>
+            <div class="deal-card__actions">
+              <button class="vote">▲ <span class="vc">132</span></button>
+              <button class="btn-share">↗ Share</button>
+              <a class="btn-deal" href="#">Get Deal →</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="deal-card">
+          <div class="deal-card__head">
+            <div class="deal-card__icon">🚗</div>
+            <div class="deal-card__hd-body">
+              <div class="deal-card__title">$5 Off Next 3 Grab Rides</div>
+              <div class="deal-card__store">Grab · Code GOKING</div>
+            </div>
+            <span class="heat">🔥 134</span>
+          </div>
+          <div class="deal-card__badges"><span class="badge badge--code">PROMO CODE</span></div>
+          <p class="deal-card__desc">Stackable across three separate rides this week. Works on JustGrab and GrabCar, minimum fare $8.</p>
+          <div class="deal-card__access acc--app">🟡 App — enter code in Grab app</div>
+          <button class="code-pill" type="button">🎟️ GOKING <span class="copy">Tap to copy</span></button>
+          <a class="deal-card__source" href="#">Source: SINGPromos ↗</a>
+          <div class="deal-card__foot">
+            <span class="deal-card__time">⏱ Ends 1 Jul</span>
+            <div class="deal-card__actions">
+              <button class="vote">▲ <span class="vc">134</span></button>
+              <button class="btn-share">↗ Share</button>
+              <a class="btn-deal" href="#">Get Deal →</a>
+            </div>
+          </div>
+        </article>
+
+      </div>
+      <div style="text-align:center;margin-top:28px">
+        <a class="btn btn--ghost btn--lg" href="deals.html">Browse all deals →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- SUBSCRIBE -->
+  <section class="subscribe">
+    <div class="container">
+      <div class="subscribe__card">
+        <div class="subscribe__inner">
+          <h2>Never miss a lobang again</h2>
+          <p>Get the best deals in your inbox every morning — free, no spam, unsubscribe anytime.</p>
+          <form class="subscribe__form" onsubmit="return false">
+            <input type="email" placeholder="your@email.com" aria-label="Email">
+            <button class="btn btn--gold" type="button">Subscribe</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer__grid">
+      <div class="footer__brand">
+        <a class="nav__logo" href="index.html" style="margin-bottom:14px">
+          <img class="nav__logo-img" src="images/icon-192.png" alt="">
+          <span class="wordmark">lobang<b>king</b></span>
+        </a>
+        <p>Singapore's friendliest deals site. We hand-check every promo so you can save without the scrolling. Always free.</p>
+                <div class="social social--soon" aria-label="Social channels — coming soon">
+          <span class="social__chip" title="Facebook — coming soon" aria-label="Facebook — coming soon">📘</span>
+          <span class="social__chip" title="TikTok — coming soon" aria-label="TikTok — coming soon">🎵</span>
+          <span class="social__chip" title="Instagram — coming soon" aria-label="Instagram — coming soon">📸</span>
+          <span class="social__chip" title="X — coming soon" aria-label="X — coming soon">𝕏</span>
+          <span class="social__soon-label">Coming soon</span>
+        </div>
+        <p class="footer__contact">📧 <a href="mailto:thelobangkingsg@gmail.com">thelobangkingsg@gmail.com</a></p>
+      </div>
+      <div class="footer__col"><h4>Browse</h4><a href="#">All Deals</a><a href="#">Food &amp; Drinks</a><a href="#">Electronics</a><a href="#">Travel</a></div>
+      <div class="footer__col"><h4>Site</h4><a href="#">About Us</a><a href="#">Submit a Deal</a><a href="#">Subscribe</a><a href="#">Advertise</a></div>
+      <div class="footer__col"><h4>Legal</h4><a href="#">Privacy Policy</a><a href="#">Terms of Use</a><a href="#">Disclaimer</a></div>
+    </div>
+    <div class="footer__bottom">
+      <span>© 2026 LobangKing.sg — Every Deal in Singapore 👑</span>
+      <nav><a href="#">About</a><a href="#">Submit</a><a href="#">Privacy</a></nav>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

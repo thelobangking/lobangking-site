@@ -1,0 +1,66 @@
+name: Update deals daily
+
+# Runs every day and refreshes data/deals.json from the configured sources.
+# Free on GitHub: scheduled Actions are included at no cost (unlimited minutes
+# on public repos; a generous monthly allowance on private ones).
+
+on:
+  schedule:
+    # 01:00 UTC = 09:00 Singapore time, every day.
+    # Change this cron to run more/less often (https://crontab.guru).
+    - cron: "0 1 * * *"
+  workflow_dispatch: {}        # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write              # needed so the bot can commit the updated deals file
+
+concurrency:
+  group: update-deals
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Aggregate the latest deals
+        env:
+          # Only used if you enable the optional Involve Asia affiliate feed.
+          INVOLVE_API_KEY: ${{ secrets.INVOLVE_API_KEY }}
+          INVOLVE_API_SECRET: ${{ secrets.INVOLVE_API_SECRET }}
+          # Only used if you enable the optional AI polish (any OpenAI-compatible provider).
+          AI_API_URL: ${{ secrets.AI_API_URL }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
+        run: python3 scripts/aggregate_deals.py
+
+      - name: Fetch real source images for each deal
+        run: python3 scripts/fetch_images.py
+
+      - name: Pre-render deals into the HTML (SEO)
+        run: python3 scripts/build_pages.py
+
+      - name: Snapshot history & change-log
+        run: python3 scripts/snapshot.py
+
+      - name: Update Motherlode blueprint
+        run: python3 scripts/motherlode.py
+
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name  "lobangking-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A   # includes generated per-deal/category pages, feed & sitemap
+          if git diff --staged --quiet; then
+            echo "No deal changes today."
+          else
+            git commit -m "🤖 Daily deals update ($(date -u +%Y-%m-%d))"
+            git push
+          fi

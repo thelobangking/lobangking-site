@@ -1,0 +1,58 @@
+name: Hourly validate & auto-fix
+
+# Runs every hour on GitHub's servers (NOT in visitors' browsers) to keep the site
+# compliant and its information current. Prunes expired deals, re-renders, and
+# commits the fix. Because the site is static files on a CDN, this has zero effect
+# on page-load performance for visitors.
+
+on:
+  schedule:
+    - cron: "0 * * * *"     # top of every hour
+  workflow_dispatch: {}
+
+# 2026 least-privilege: only the permission actually needed.
+permissions:
+  contents: write
+
+concurrency:
+  group: validate
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Set up Node (for JS syntax validation)
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Validate JavaScript syntax
+        run: |
+          for f in js/*.js sw.js; do
+            echo "checking $f"; node --check "$f"
+          done
+
+      - name: Validate compliance & auto-correct information
+        run: python3 scripts/validate.py
+
+      - name: Commit any fixes
+        if: always()      # commit auto-fixes even if compliance checks flagged an issue
+        run: |
+          git config user.name  "lobangking-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A   # includes any regenerated pages/feed/sitemap from the auto-fix
+          if git diff --staged --quiet; then
+            echo "Nothing to correct this hour."
+          else
+            git commit -m "🔧 Hourly auto-fix ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          fi

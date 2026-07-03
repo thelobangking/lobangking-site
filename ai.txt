@@ -1,0 +1,61 @@
+# ai.txt — AI usage policy for LobangKing.sg
+# We RESERVE this site's content from AI training and AI input (TDM reservation).
+# Content may not be used to train, fine-tune or ground AI models, or be ingested
+# as AI input, without prior written permission.
+
+Content-Signal: search=yes, ai-input=no, ai-train=no
+User-Agent: *
+Disallow: /
+
+# Explicitly named AI crawlers (also blocked in robots.txt):
+# - AI2Bot
+# - Ai2Bot-Dolma
+# - Amazonbot
+# - anthropic-ai
+# - Applebot-Extended
+# - Brightbot 1.0
+# - Bytespider
+# - CCBot
+# - ChatGPT-User
+# - Claude-SearchBot
+# - Claude-User
+# - Claude-Web
+# - ClaudeBot
+# - cohere-ai
+# - cohere-training-data-crawler
+# - Crawlspace
+# - DataForSeoBot
+# - DeepSeekBot
+# - Diffbot
+# - DuckAssistBot
+# - FacebookBot
+# - FriendlyCrawler
+# - Google-Extended
+# - GoogleOther
+# - GoogleOther-Image
+# - GoogleOther-Video
+# - GPTBot
+# - iaskspider/2.0
+# - ICC-Crawler
+# - ImagesiftBot
+# - img2dataset
+# - ISSCyberRiskCrawler
+# - Kangaroo Bot
+# - magpie-crawler
+# - Meta-ExternalAgent
+# - Meta-ExternalFetcher
+# - OAI-SearchBot
+# - omgili
+# - omgilibot
+# - PanguBot
+# - Perplexity-User
+# - PerplexityBot
+# - PetalBot
+# - Scrapy
+# - SemrushBot-OCOB
+# - Sidetrade indexer bot
+# - Timpibot
+# - TurnitinBot
+# - VelenPublicWebCrawler
+# - Webzio-Extended
+# - YouBot

@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+dist/
+lobangking-site.zip
+
+# Brand fonts — fetched fresh on each deploy by build.sh, never committed
+fonts/*.woff2

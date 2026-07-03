@@ -1,0 +1,41 @@
+name: Check outbound links
+
+# Daily: removes deals whose outbound link has gone dead (404/410/451). Runs a few
+# hours after the morning build so it catches links that died during the day.
+# Transient errors never delete a deal. Runs on GitHub's servers — no visitor impact.
+
+on:
+  schedule:
+    - cron: "0 7 * * *"     # 15:00 Singapore time
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: check-links
+  cancel-in-progress: false
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check links & prune dead ones
+        run: python3 scripts/check_links.py
+      - name: Flag sold-out / fully-redeemed deals
+        run: python3 scripts/check_stock.py
+      - name: Commit if anything was pruned
+        run: |
+          git config user.name  "lobangking-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "All links healthy."
+          else
+            git commit -m "🔗 Removed dead-linked deal(s) ($(date -u +%Y-%m-%d))"
+            git push
+          fi

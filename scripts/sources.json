@@ -1,0 +1,46 @@
+{
+  "_help": "Sources for the daily aggregator. 'rss' = deal-publisher feeds. 'brand_news' = per-brand Google News RSS (Singapore, promo-filtered) — each item links to the original article. 'involve_asia' = optional merchant-authorised API (also earns commission). For a site without a native feed, generate one free at https://rss.app.",
+
+  "rss": [
+    { "name": "SINGPromos",            "url": "https://singpromos.com/feed/" },
+    { "name": "Great Deals Singapore", "url": "https://www.greatdeals.com.sg/feed/" }
+  ],
+
+  "rss_optional_add_after_verifying": [
+    { "name": "SGDtips",   "url": "https://sgdtips.com/feed/" },
+    { "name": "Dive Deals", "url": "https://divedeals.sg/feed/" }
+  ],
+
+  "brand_news": {
+    "enabled": true,
+    "query_suffix": "Singapore (promotion OR deal OR sale OR discount OR offer OR launch)",
+    "hl": "en-SG",
+    "gl": "SG",
+    "ceid": "SG:en",
+    "max_per_brand": 4,
+    "brands": [
+      "IKEA", "Don Don Donki", "Muji", "Uniqlo", "Adidas", "Nike", "Charles & Keith",
+      "Ya Kun", "McDonald's", "Starbucks", "Chagee", "Apple", "Lenovo", "Secretlab",
+      "Universal Studios Singapore", "Singapore Zoo"
+    ]
+  },
+
+  "involve_asia": {
+    "enabled": false,
+    "token_url": "",
+    "offers_url": "",
+    "note": "Free to join at involve.asia. Request an API key (Profile > Tools > API), add INVOLVE_API_KEY and INVOLVE_API_SECRET as GitHub repo Secrets, paste your token/offers endpoints above, then set enabled to true."
+  },
+
+  "ai": {
+    "enabled": false,
+    "model": "openai/gpt-4o-mini",
+    "batch_size": 12,
+    "note": "OPTIONAL AI polish of fetched deals (cleaner titles/summaries, category check). It never invents facts. Set AI_API_URL, AI_API_KEY and AI_MODEL as GitHub Secrets, then flip enabled to true. Free OpenAI-compatible providers in 2026: GitHub Models, Groq, Google Gemini."
+  },
+
+  "settings": {
+    "max_deals": 72,
+    "max_per_source": 25
+  }
+}
