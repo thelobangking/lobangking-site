@@ -601,3 +601,81 @@ body::before { content:""; position:fixed; inset:0; z-index:-2; pointer-events:n
   .site-header,.ribbon,.subscribe,.back-to-top,.btn-share,.share-menu,.site-footer { display:none!important; }
   body { background:#fff; color:#000; }
 }
+
+/* ============================================================
+   Latest-lobangs carousel (Stage 2)
+   Progressive enhancement: the pre-rendered single card becomes
+   a swipeable, auto-advancing slider of the newest lobangs.
+   ============================================================ */
+.spot-carousel { position:relative; }
+.spot-viewport { overflow:hidden; border-radius:var(--r-xl); }
+.spot-track { display:flex; margin:0; padding:0; list-style:none;
+  transition:transform .5s cubic-bezier(.22,.61,.36,1); will-change:transform; }
+.spot-slide { flex:0 0 100%; min-width:100%; }
+.spot-slide .spotlight-card { height:100%; }
+.spot-arrow { position:absolute; top:50%; transform:translateY(-50%); z-index:2;
+  width:44px; height:44px; border-radius:50%; border:1px solid var(--border);
+  background:var(--surface); color:var(--t1); display:grid; place-items:center;
+  cursor:pointer; box-shadow:var(--shadow-md); transition:background .15s ease, transform .12s ease; }
+.spot-arrow:hover { background:var(--gold-bg); }
+.spot-arrow:active { transform:translateY(-50%) scale(.94); }
+.spot-arrow .ic { width:22px; height:22px; }
+.spot-arrow--prev { left:10px; }
+.spot-arrow--prev .ic { transform:rotate(180deg); }
+.spot-arrow--next { right:10px; }
+.spot-dots { display:flex; gap:8px; justify-content:center; margin-top:14px; }
+.spot-dot { width:9px; height:9px; padding:0; border-radius:50%; border:none; cursor:pointer;
+  background:var(--border); transition:background .2s ease, transform .2s ease; }
+.spot-dot.is-active { background:var(--gold-ink); transform:scale(1.35); }
+.spot-dot:focus-visible, .spot-arrow:focus-visible { outline:2px solid var(--gold-ink); outline-offset:2px; }
+@media (max-width:520px){ .spot-arrow { width:38px; height:38px; } .spot-arrow .ic { width:19px; height:19px; } }
+@media (prefers-reduced-motion: reduce){ .spot-track { transition:none; } }
+
+/* ============================================================
+   Daily check-in + lobang tiers (Stage 2)
+   Gamified return hook. All state lives in localStorage — no
+   account, no server, no tracking. JS reveals the panel; without
+   JS it stays hidden (nothing non-functional is shown).
+   ============================================================ */
+.sr-only { position:absolute!important; width:1px; height:1px; padding:0; margin:-1px;
+  overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0; }
+.checkin { position:relative; overflow:hidden; background:var(--surface); border:1px solid var(--border);
+  border-radius:var(--r-xl); padding:clamp(18px,3vw,26px); box-shadow:var(--shadow-md); }
+.checkin[hidden] { display:none; }
+.checkin::before { content:''; position:absolute; inset:0 0 auto 0; height:4px;
+  background:linear-gradient(90deg,var(--gold),var(--gold-ink)); }
+.checkin__main { display:flex; gap:clamp(14px,3vw,26px); align-items:center; flex-wrap:wrap; }
+.checkin__flame { font-size:clamp(2.4rem,6vw,3.4rem); line-height:1; transition:opacity .3s ease;
+  filter:drop-shadow(0 3px 8px rgba(0,0,0,.15)); }
+.checkin__info { flex:1; min-width:220px; }
+.checkin__eyebrow { font-weight:700; color:var(--gold-ink); margin:0 0 2px; }
+.checkin__streak { font-size:clamp(1.4rem,3.4vw,2rem); margin:0 0 4px; }
+.checkin__streak span { color:var(--gold-ink); }
+.checkin__next { color:var(--t2); font-size:.95rem; margin:0 0 10px; }
+.checkin__bar { height:8px; max-width:340px; border-radius:var(--r-pill); background:var(--surface-2); overflow:hidden; }
+.checkin__bar-fill { height:100%; width:0; border-radius:inherit;
+  background:linear-gradient(90deg,var(--gold),var(--gold-ink)); transition:width .6s cubic-bezier(.22,.61,.36,1); }
+.checkin__action { text-align:center; }
+.checkin__action .btn { white-space:nowrap; }
+.checkin__action .btn.is-done { opacity:.72; cursor:default; }
+.checkin__meta { color:var(--t3); font-size:.82rem; margin:8px 0 0; }
+.checkin__tiers { display:flex; gap:8px; list-style:none; margin:18px 0 0; padding:0 0 4px; overflow-x:auto; }
+.tier-chip { flex:0 0 auto; min-width:82px; display:flex; flex-direction:column; align-items:center; gap:2px;
+  padding:10px 12px; border-radius:var(--r-lg); border:1px solid var(--border); background:var(--surface-2);
+  opacity:.5; filter:grayscale(1); transition:opacity .25s ease, filter .25s ease, transform .2s ease; }
+.tier-chip.is-on { opacity:1; filter:none; border-color:var(--gold); background:var(--gold-bg); transform:translateY(-1px); }
+.tier-chip__em { font-size:1.5rem; line-height:1; }
+.tier-chip__lbl { font-size:.74rem; font-weight:700; text-align:center; }
+.tier-chip__req { font-size:.68rem; color:var(--t3); }
+@media (max-width:620px){ .checkin__action { width:100%; } .checkin__action .btn { width:100%; } }
+
+/* Confetti burst on check-in / tier unlock */
+.confetti { position:fixed; inset:0; pointer-events:none; z-index:60; overflow:hidden; }
+.confetti-bit { position:absolute; top:-6vh; left:var(--x); font-size:1.15rem; opacity:0;
+  animation:confetti-fall 1.5s cubic-bezier(.3,.7,.4,1) forwards; animation-delay:var(--d); }
+@keyframes confetti-fall {
+  0% { transform:translateY(-6vh) rotate(0); opacity:0; }
+  12% { opacity:1; }
+  100% { transform:translateY(108vh) rotate(var(--r)); opacity:.9; }
+}
+@media (prefers-reduced-motion: reduce){ .checkin__bar-fill { transition:none; } }

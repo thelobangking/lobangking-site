@@ -62,6 +62,7 @@ CATEGORY_ICONS = {c["id"]: c["icon"] for c in CATEGORIES}
 # Brands to track. Each canonical name maps to match aliases (word-boundary matched).
 # A deal's brand is recorded and used to boost it so brand coverage stays strong.
 BRANDS = {
+    # --- original set ---
     "IKEA": ["ikea"],
     "Don Don Donki": ["don don donki", "don don donki", "donki", "dondonki"],
     "Muji": ["muji"],
@@ -78,6 +79,54 @@ BRANDS = {
     "Secretlab": ["secretlab", "secret lab"],
     "Universal Studios Singapore": ["universal studios", "uss", "rws"],
     "Singapore Zoo": ["singapore zoo", "mandai", "night safari", "river wonders", "bird paradise", "zoo"],
+    # --- fashion & beauty ---
+    "Zalora": ["zalora"],
+    "Zara": ["zara"],
+    "H&M": ["h&m", "h & m"],
+    "Cotton On": ["cotton on", "cottonon"],
+    "Love, Bonito": ["love bonito", "love, bonito", "lovebonito"],
+    "Pedro": ["pedro"],
+    "Lululemon": ["lululemon"],
+    "Sephora": ["sephora"],
+    "Watsons": ["watsons", "watson's"],
+    "Guardian": ["guardian pharmacy", "guardian sg", "guardian singapore"],
+    "Sasa": ["sasa", "sa sa"],
+    "Decathlon": ["decathlon"],
+    # --- electronics ---
+    "Courts": ["courts"],
+    "Harvey Norman": ["harvey norman"],
+    "Challenger": ["challenger"],
+    "Best Denki": ["best denki", "bestdenki"],
+    "Gain City": ["gain city"],
+    "Samsung": ["samsung"],
+    "Xiaomi": ["xiaomi"],
+    "Sony": ["sony"],
+    "Razer": ["razer"],
+    "Logitech": ["logitech"],
+    "Dyson": ["dyson"],
+    # --- food & beverage ---
+    "KFC": ["kfc"],
+    "Burger King": ["burger king"],
+    "Subway": ["subway"],
+    "Jollibee": ["jollibee"],
+    "Gong Cha": ["gong cha", "gongcha"],
+    "LiHO": ["liho", "li ho"],
+    "Toast Box": ["toast box", "toastbox"],
+    # --- supermarkets ---
+    "FairPrice": ["fairprice", "fair price", "ntuc fairprice"],
+    "Sheng Siong": ["sheng siong"],
+    "Cold Storage": ["cold storage"],
+    # --- online marketplaces ---
+    "Shopee": ["shopee"],
+    "Lazada": ["lazada"],
+    "Amazon": ["amazon"],
+    "Qoo10": ["qoo10", "qoo 10"],
+    # --- travel ---
+    "Klook": ["klook"],
+    "Scoot": ["scoot"],
+    "Singapore Airlines": ["singapore airlines"],
+    "Agoda": ["agoda"],
+    "Trip.com": ["trip.com"],
 }
 
 # Maps a brand to its most natural category (used when a brand deal is otherwise ambiguous)
@@ -87,6 +136,24 @@ BRAND_CATEGORY = {
     "McDonald's": "food", "Starbucks": "food", "Chagee": "food", "Apple": "electronics",
     "Lenovo": "electronics", "Secretlab": "home", "Universal Studios Singapore": "entertainment",
     "Singapore Zoo": "entertainment",
+    # fashion & beauty
+    "Zalora": "fashion", "Zara": "fashion", "H&M": "fashion", "Cotton On": "fashion",
+    "Love, Bonito": "fashion", "Pedro": "fashion", "Lululemon": "fashion", "Sephora": "fashion",
+    "Watsons": "fashion", "Guardian": "fashion", "Sasa": "fashion", "Decathlon": "fashion",
+    # electronics
+    "Courts": "electronics", "Harvey Norman": "electronics", "Challenger": "electronics",
+    "Best Denki": "electronics", "Gain City": "electronics", "Samsung": "electronics",
+    "Xiaomi": "electronics", "Sony": "electronics", "Razer": "electronics",
+    "Logitech": "electronics", "Dyson": "home",
+    # food & supermarkets
+    "KFC": "food", "Burger King": "food", "Subway": "food", "Jollibee": "food",
+    "Gong Cha": "food", "LiHO": "food", "Toast Box": "food", "FairPrice": "food",
+    "Sheng Siong": "food", "Cold Storage": "food",
+    # online marketplaces
+    "Shopee": "online", "Lazada": "online", "Amazon": "online", "Qoo10": "online",
+    # travel
+    "Klook": "travel", "Scoot": "travel", "Singapore Airlines": "travel",
+    "Agoda": "travel", "Trip.com": "travel",
 }
 
 # Keep brand-news items only if they look promotional (not generic corporate news)
@@ -95,6 +162,34 @@ PROMO_KEYWORDS = [
     "1 for 1", "voucher", "bundle", "launch", "new menu", "giveaway", "%", "cashback",
     "$", "save", "buy 1", "bogo", "members",
 ]
+
+# Non-deal / news signals. Brand searches and general feeds sometimes surface
+# reporting (road closures, accidents, court cases, outages, obituaries, weather)
+# rather than promotions. An item that trips one of these is dropped UNLESS it
+# also carries an unmistakable offer signal (so a genuine "closing-down sale —
+# 70% off" is still kept). Phrases are matched case-insensitively as substrings.
+NON_DEAL_PATTERNS = [
+    "road closure", "road closed", "lane closure", "traffic diversion", "road diversion",
+    "detour", "accident", "collision", "car crash", "arrest", "arrested",
+    "charged in court", "jailed", "police report", "scam", "phishing", "fraud alert",
+    "obituary", "passed away", "dies at", " died", "fire at", "flooding", "flash flood",
+    "haze", "dengue", "covid", "outbreak", "mrt disruption", "train delay",
+    "service disruption", "power outage", "weather forecast", "thunderstorm",
+    "weather warning", "product recall", "lawsuit", "resigns", "layoffs", "retrenchment",
+]
+# Unmistakable promotional signals that rescue an item from the news filter.
+STRONG_OFFER = [
+    "1-for-1", "1 for 1", "% off", "$", "free ", "discount", "promo code", "voucher",
+    "cashback", "bundle", "giveaway", "buy 1", "bogo", "off storewide", "flash sale",
+]
+
+
+def looks_like_news(title: str, summary: str) -> bool:
+    """True when an item reads as news/reporting rather than a promotion."""
+    blob = f"{title} {summary}".lower()
+    if any(p in blob for p in NON_DEAL_PATTERNS):
+        return not any(s in blob for s in STRONG_OFFER)
+    return False
 
 SLUG_HINTS = {
     "dining-restaurants-food": "food", "food": "food", "groceries": "food", "grocery": "food",
@@ -341,6 +436,10 @@ def deal_from_record(rec: dict, source_name: str):
     link = rec["link"] or "#"
     if link != "#" and not re.match(r"^https?://", link, re.I):
         link = "#"  # only allow real web links into the site (defence-in-depth)
+
+    # Drop reporting/news that isn't an actual promotion (road closures, accidents…).
+    if looks_like_news(title, summary):
+        return None
 
     brand = detect_brand(f"{title} {summary}")
     category = classify(title, summary, link, rec.get("categories"), brand)

@@ -1,217 +1,373 @@
 {
-  "updated": "2026-06-30",
+  "updated": "2026-07-04",
   "categories": [
-    { "id": "all",           "label": "All Deals",       "icon": "🔥" },
-    { "id": "food",          "label": "Food & Drinks",   "icon": "🍜" },
-    { "id": "electronics",   "label": "Electronics",     "icon": "💻" },
-    { "id": "home",          "label": "Home & Living",   "icon": "🏠" },
-    { "id": "travel",        "label": "Travel",          "icon": "✈️" },
-    { "id": "transport",     "label": "Transport",       "icon": "🚗" },
-    { "id": "fashion",       "label": "Fashion & Beauty","icon": "👗" },
-    { "id": "entertainment", "label": "Fun & Leisure",   "icon": "🎮" },
-    { "id": "finance",       "label": "Finance",         "icon": "💳" },
-    { "id": "online",        "label": "Online Shopping",  "icon": "🛒" }
+    {
+      "id": "all",
+      "label": "All Deals",
+      "icon": "🔥"
+    },
+    {
+      "id": "food",
+      "label": "Food & Drinks",
+      "icon": "🍜"
+    },
+    {
+      "id": "electronics",
+      "label": "Electronics",
+      "icon": "💻"
+    },
+    {
+      "id": "home",
+      "label": "Home & Living",
+      "icon": "🏠"
+    },
+    {
+      "id": "travel",
+      "label": "Travel",
+      "icon": "✈️"
+    },
+    {
+      "id": "transport",
+      "label": "Transport",
+      "icon": "🚗"
+    },
+    {
+      "id": "fashion",
+      "label": "Fashion & Beauty",
+      "icon": "👗"
+    },
+    {
+      "id": "entertainment",
+      "label": "Fun & Leisure",
+      "icon": "🎮"
+    },
+    {
+      "id": "finance",
+      "label": "Finance",
+      "icon": "💳"
+    },
+    {
+      "id": "online",
+      "label": "Online Shopping",
+      "icon": "🛒"
+    }
   ],
   "deals": [
     {
       "id": "macbook-air-m3",
       "title": "$199 off MacBook Air M3",
       "store": "Apple via Shopee Official",
-      "categories": ["electronics", "online"],
+      "categories": [
+        "electronics",
+        "online"
+      ],
       "icon": "💻",
-      "spotlight": true,
-      "badges": [{ "type": "discount", "label": "$199 OFF" }],
-      "access": { "type": "easy", "label": "Online — add to cart & apply code" },
+      "badges": [
+        {
+          "type": "discount",
+          "label": "$199 OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — add to cart & apply code"
+      },
       "code": "TECHKING",
       "desc": "Apply voucher TECHKING at checkout plus Shopee coins cashback. Stacks with credit-card promos. Lowest price we've tracked this month.",
       "expiry": "Ends tonight 11:59pm",
       "heat": 412,
-      "url": "#"
+      "url": "#",
+      "first_seen": "2026-07-04",
+      "spotlight": true
     },
     {
       "id": "gongcha-free-tea",
       "title": "FREE Brown Sugar Milk Tea",
       "store": "Gong Cha · Islandwide",
-      "categories": ["food"],
+      "categories": [
+        "food"
+      ],
       "icon": "🧋",
-      "badges": [{ "type": "free", "label": "FREE" }, { "type": "ending", "label": "ENDS TODAY" }],
-      "access": { "type": "easy", "label": "Walk in — no purchase needed" },
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE"
+        },
+        {
+          "type": "ending",
+          "label": "ENDS TODAY"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Walk in — no purchase needed"
+      },
       "desc": "Show the LobangKing page in store to redeem one free regular Brown Sugar Milk Tea. One per customer while stocks last.",
       "expiry": "7 hours left",
       "heat": 342,
-      "url": "#"
-    },
-    {
-      "id": "mcspicy-1for1",
-      "title": "1-for-1 McSpicy Meal",
-      "store": "McDonald's · 2–5pm daily",
-      "categories": ["food"],
-      "icon": "🍔",
-      "badges": [{ "type": "discount", "label": "1-FOR-1" }, { "type": "plain", "label": "App only" }],
-      "access": { "type": "app", "label": "App needed — redeem in MyMcDonald's" },
-      "desc": "Buy one McSpicy Meal, get one free every afternoon. Dine-in and takeaway both eligible through the app.",
-      "expiry": "Ends 2 Jul",
-      "heat": 218,
-      "url": "#"
-    },
-    {
-      "id": "airpods-pro-2",
-      "title": "AirPods Pro 2 — $269 (usual $349)",
-      "store": "Lazada Official Store",
-      "categories": ["electronics", "online"],
-      "icon": "🎧",
-      "badges": [{ "type": "discount", "label": "23% OFF" }],
-      "access": { "type": "easy", "label": "Online — add to cart" },
-      "desc": "Lowest verified price for the USB-C model. Bank card promos stack for an extra 10% off on checkout day.",
-      "expiry": "Ends 3 Jul",
-      "heat": 156,
-      "url": "#"
+      "url": "#",
+      "first_seen": "2026-07-04"
     },
     {
       "id": "scoot-bangkok",
       "title": "$99 Return Flights to Bangkok",
       "store": "Scoot · Book by 5 Jul",
-      "categories": ["travel"],
+      "categories": [
+        "travel"
+      ],
       "icon": "✈️",
-      "badges": [{ "type": "discount", "label": "FLASH SALE" }],
-      "access": { "type": "easy", "label": "Online — book on Scoot.com" },
+      "badges": [
+        {
+          "type": "discount",
+          "label": "FLASH SALE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — book on Scoot.com"
+      },
       "desc": "All-in return fares to Bangkok on selected July–September dates. Limited seats per flight — clears fast on weekends.",
       "expiry": "Ends 5 Jul",
       "heat": 287,
-      "url": "#"
-    },
-    {
-      "id": "grab-5off",
-      "title": "$5 Off Next 3 Grab Rides",
-      "store": "Grab · Code GOKING",
-      "categories": ["transport"],
-      "icon": "🚗",
-      "code": "GOKING",
-      "badges": [{ "type": "code", "label": "PROMO CODE" }],
-      "access": { "type": "app", "label": "App — enter code in Grab app" },
-      "desc": "Stackable across three separate rides this week. Works on JustGrab and GrabCar, minimum fare $8.",
-      "expiry": "Ends 1 Jul",
-      "heat": 134,
-      "url": "#"
+      "url": "#",
+      "first_seen": "2026-07-04"
     },
     {
       "id": "dbs-cashback",
       "title": "$50 Cashback — New DBS Live Fresh Card",
       "store": "DBS · New sign-ups",
-      "categories": ["finance"],
+      "categories": [
+        "finance"
+      ],
       "icon": "💳",
-      "badges": [{ "type": "discount", "label": "CASHBACK" }, { "type": "plain", "label": "New customers" }],
-      "access": { "type": "easy", "label": "Online — apply via DBS website" },
+      "badges": [
+        {
+          "type": "discount",
+          "label": "CASHBACK"
+        },
+        {
+          "type": "plain",
+          "label": "New customers"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — apply via DBS website"
+      },
       "desc": "Welcome cashback credited within 30 days of first spend. Card gives 5% back on online and contactless spend.",
       "expiry": "Ends 31 Jul",
       "heat": 76,
-      "url": "#"
+      "url": "#",
+      "first_seen": "2026-07-04"
     },
     {
       "id": "shopee-8off",
       "title": "$8 off $60 Spend (Sitewide)",
       "store": "Shopee · Code LKSG8OFF",
-      "categories": ["online"],
+      "categories": [
+        "online"
+      ],
       "icon": "🛒",
       "code": "LKSG8OFF",
-      "badges": [{ "type": "code", "label": "PROMO CODE" }, { "type": "ending", "label": "ENDS TODAY" }],
-      "access": { "type": "easy", "label": "Online — apply at checkout" },
+      "badges": [
+        {
+          "type": "code",
+          "label": "PROMO CODE"
+        },
+        {
+          "type": "ending",
+          "label": "ENDS TODAY"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — apply at checkout"
+      },
       "desc": "Sitewide voucher with no category restriction. Claim it in-app first, then it auto-applies at checkout.",
       "expiry": "Ends tonight",
       "heat": 203,
-      "url": "#"
+      "url": "#",
+      "first_seen": "2026-07-04"
     },
     {
       "id": "dyson-airwrap-trial",
       "title": "Free Dyson Airwrap Styling Session",
       "store": "Dyson Demo · ION Orchard",
-      "categories": ["fashion", "home"],
+      "categories": [
+        "fashion",
+        "home"
+      ],
       "icon": "💨",
-      "badges": [{ "type": "free", "label": "FREE" }, { "type": "plain", "label": "Orchard" }],
-      "access": { "type": "easy", "label": "Walk in — no purchase needed" },
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE"
+        },
+        {
+          "type": "plain",
+          "label": "Orchard"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Walk in — no purchase needed"
+      },
       "desc": "Book a 20-minute hands-on styling session with a Dyson expert. Great way to try before you buy.",
       "expiry": "Ongoing",
       "heat": 58,
-      "url": "#"
+      "url": "#",
+      "first_seen": "2026-07-04"
     },
     {
       "id": "ikea-meatballs",
       "title": "Kids Eat Free — IKEA Restaurant",
       "store": "IKEA · Weekdays",
-      "categories": ["food", "home"],
+      "categories": [
+        "food",
+        "home"
+      ],
       "icon": "🍝",
-      "badges": [{ "type": "free", "label": "KIDS FREE" }],
-      "access": { "type": "easy", "label": "Dine in — with any adult main" },
+      "badges": [
+        {
+          "type": "free",
+          "label": "KIDS FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Dine in — with any adult main"
+      },
       "desc": "One free kids' meal with every adult main course purchased, every weekday. IKEA Family membership is free to join.",
       "expiry": "Ends 31 Jul",
       "heat": 92,
-      "url": "#"
+      "url": "#",
+      "first_seen": "2026-07-04"
     },
     {
       "id": "uniqlo-airism",
       "title": "AIRism Tees from $9.90",
       "store": "UNIQLO · In-store & online",
-      "categories": ["fashion", "online"],
+      "categories": [
+        "fashion",
+        "online"
+      ],
       "icon": "👕",
-      "badges": [{ "type": "discount", "label": "UP TO 40% OFF" }],
-      "access": { "type": "easy", "label": "Online — limited offer pricing" },
+      "badges": [
+        {
+          "type": "discount",
+          "label": "UP TO 40% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — limited offer pricing"
+      },
       "desc": "Cooling AIRism range marked down for the heat. Selected colours and sizes; restocks midweek.",
       "expiry": "Ends 6 Jul",
       "heat": 71,
-      "url": "#"
+      "url": "#",
+      "first_seen": "2026-07-04"
     },
     {
       "id": "gv-movie-tue",
       "title": "$7 Movie Tickets Every Tuesday",
       "store": "Golden Village · Weekly",
-      "categories": ["entertainment"],
+      "categories": [
+        "entertainment"
+      ],
       "icon": "🎬",
-      "badges": [{ "type": "discount", "label": "WEEKLY DEAL" }],
-      "access": { "type": "app", "label": "App — book in GV mobile app" },
+      "badges": [
+        {
+          "type": "discount",
+          "label": "WEEKLY DEAL"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App — book in GV mobile app"
+      },
       "desc": "Flat $7 standard tickets all day every Tuesday for GV members. Membership sign-up is free in the app.",
       "expiry": "Every Tuesday",
       "heat": 119,
-      "url": "#"
+      "url": "#",
+      "first_seen": "2026-07-04"
     },
     {
       "id": "klook-attractions",
       "title": "15% off Singapore Attractions",
       "store": "Klook · Code SGFUN15",
-      "categories": ["entertainment", "travel"],
+      "categories": [
+        "entertainment",
+        "travel"
+      ],
       "icon": "🎡",
       "code": "SGFUN15",
-      "badges": [{ "type": "code", "label": "PROMO CODE" }],
-      "access": { "type": "easy", "label": "Online — apply code at checkout" },
+      "badges": [
+        {
+          "type": "code",
+          "label": "PROMO CODE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — apply code at checkout"
+      },
       "desc": "Discount on the Flyer, S.E.A. Aquarium, Universal Studios and more. Great for staycations and visiting family.",
       "expiry": "Ends 10 Jul",
       "heat": 64,
-      "url": "#"
+      "url": "#",
+      "first_seen": "2026-07-04"
     },
     {
       "id": "guardian-vitamins",
       "title": "Buy 2 Get 1 Free — Vitamins",
       "store": "Guardian · Islandwide",
-      "categories": ["home", "fashion"],
+      "categories": [
+        "home",
+        "fashion"
+      ],
       "icon": "💊",
-      "badges": [{ "type": "discount", "label": "B2G1 FREE" }],
-      "access": { "type": "easy", "label": "In-store & online" },
+      "badges": [
+        {
+          "type": "discount",
+          "label": "B2G1 FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "In-store & online"
+      },
       "desc": "Across selected health supplement brands. Mix and match within participating ranges; cheapest item is free.",
       "expiry": "Ends 8 Jul",
       "heat": 47,
-      "url": "#"
+      "url": "#",
+      "first_seen": "2026-07-04"
     },
     {
       "id": "singtel-roaming",
       "title": "$5 Unlimited Data Roaming Pass",
       "store": "Singtel · ASEAN",
-      "categories": ["travel", "transport"],
+      "categories": [
+        "travel",
+        "transport"
+      ],
       "icon": "📶",
-      "badges": [{ "type": "discount", "label": "TRAVEL" }],
-      "access": { "type": "app", "label": "App — activate in My Singtel" },
+      "badges": [
+        {
+          "type": "discount",
+          "label": "TRAVEL"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App — activate in My Singtel"
+      },
       "desc": "Daily unlimited roaming across Malaysia, Thailand, Indonesia and more for $5/day. Activate before you fly.",
       "expiry": "Ongoing",
       "heat": 53,
-      "url": "#"
+      "url": "#",
+      "first_seen": "2026-07-04"
     }
-  ]
+  ],
+  "brands_today": []
 }

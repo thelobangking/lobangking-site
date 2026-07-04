@@ -72,22 +72,109 @@
     });
   }
 
-  /* ---------------- date + streak ---------------- */
-  function initDateStreak() {
-    var d = $("#today");
-    if (d) d.textContent = new Date().toLocaleDateString("en-SG", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
+  /* ---------------- daily check-in + lobang tiers ---------------- */
+  // Return-visitor hook. Streak/tier state is 100% localStorage — no account,
+  // no server, no tracking. Checking in is an explicit tap (once per day).
+  var TIERS = [
+    { min: 1,  emoji: "🥉", name: "Kaki" },
+    { min: 3,  emoji: "🔥", name: "Regular" },
+    { min: 7,  emoji: "🥇", name: "Lobang Hunter" },
+    { min: 14, emoji: "💎", name: "Lobang Pro" },
+    { min: 30, emoji: "👑", name: "Lobang King" }
+  ];
+  function dayStr(d) { return d.toDateString(); }
+  function todayStr() { return dayStr(new Date()); }
+  function yesterdayStr() { var y = new Date(); y.setDate(y.getDate() - 1); return dayStr(y); }
 
-    var el = $("#streak");
-    if (!el) return;
-    var today = new Date().toDateString();
-    var last = store.get("lk-last", null);
-    var s = store.get("lk-streak", 0);
-    if (last !== today) {
-      var y = new Date(); y.setDate(y.getDate() - 1);
-      s = last === y.toDateString() ? s + 1 : 1;
-      store.set("lk-streak", s); store.set("lk-last", today);
+  // Celebratory confetti burst; silently skipped for reduced-motion users.
+  function confetti(big) {
+    if (window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    var wrap = document.createElement("div"); wrap.className = "confetti";
+    var EM = ["🎉", "👑", "🔥", "✨", "💎", "🥳"], n = big ? 26 : 14;
+    for (var i = 0; i < n; i++) {
+      var b = document.createElement("span"); b.className = "confetti-bit";
+      b.textContent = EM[i % EM.length];
+      b.style.setProperty("--x", Math.round(Math.random() * 100) + "%");
+      b.style.setProperty("--r", Math.round(Math.random() * 720 - 360) + "deg");
+      b.style.setProperty("--d", (i % 6) * 55 + "ms");
+      wrap.appendChild(b);
     }
-    if (s > 1) setHTML(el, '<span class="hero__eyebrow">🔥 ' + s + '-day streak — welcome back!</span>');
+    document.body.appendChild(wrap);
+    setTimeout(function () { if (wrap.parentNode) wrap.parentNode.removeChild(wrap); }, 1700);
+  }
+
+  function initCheckin() {
+    var panel = $("#checkin");
+    if (!panel) return;
+    var elStreak = $("#ciStreak"), elTier = $("#ciTier"), elNext = $("#ciNext"), elBar = $("#ciBar"),
+        elBtn = $("#ciBtn"), elBest = $("#ciBest"), elTotal = $("#ciTotal"), elTiers = $("#ciTiers"),
+        elFlame = $("#ciFlame"), elLive = $("#ciLive"), heroEb = $("#streak");
+
+    // Streak counts only if the last check-in was today or yesterday; a missed
+    // day breaks it back to 0 until the next check-in restarts the count.
+    function effectiveStreak() {
+      var last = store.get("lk-last", null), s = store.get("lk-streak", 0);
+      return (last === todayStr() || last === yesterdayStr()) ? s : 0;
+    }
+    function checkedToday() { return store.get("lk-last", null) === todayStr(); }
+    function nextTier(s) { for (var i = 0; i < TIERS.length; i++) { if (s < TIERS[i].min) return TIERS[i]; } return null; }
+    function currentTier(s) { var t = null; for (var i = 0; i < TIERS.length; i++) { if (s >= TIERS[i].min) t = TIERS[i]; } return t; }
+
+    function paint() {
+      var s = effectiveStreak(), best = store.get("lk-best", 0), total = store.get("lk-checkins", 0);
+      var ct = currentTier(s), nt = nextTier(s);
+      elStreak.textContent = s;
+      elTier.textContent = ct ? (ct.emoji + " " + ct.name) : "✨ New here";
+      elBest.textContent = best; elTotal.textContent = total;
+      if (elFlame) elFlame.style.opacity = s >= 1 ? "1" : ".35";
+      var prevMin = ct ? ct.min : 0;
+      if (nt) {
+        var need = nt.min - s;
+        elNext.textContent = need + " more day" + (need === 1 ? "" : "s") + " to " + nt.emoji + " " + nt.name;
+        var pct = Math.round(((s - prevMin) / (nt.min - prevMin)) * 100);
+        elBar.style.width = Math.max(6, Math.min(100, pct)) + "%";
+      } else {
+        elNext.textContent = "👑 Top tier reached — you're a true Lobang King!";
+        elBar.style.width = "100%";
+      }
+      if (checkedToday()) {
+        elBtn.textContent = "✓ Checked in today"; elBtn.setAttribute("disabled", "disabled"); elBtn.classList.add("is-done");
+      } else {
+        elBtn.textContent = s >= 1 ? "Check in — keep it going!" : "Start your streak";
+        elBtn.removeAttribute("disabled"); elBtn.classList.remove("is-done");
+      }
+      setHTML(elTiers, TIERS.map(function (t) {
+        var on = best >= t.min || s >= t.min;
+        return '<li class="tier-chip' + (on ? " is-on" : "") + '" title="' + esc(t.name + " · " + t.min + "-day streak") + '">' +
+          '<span class="tier-chip__em" aria-hidden="true">' + t.emoji + "</span>" +
+          '<span class="tier-chip__lbl">' + esc(t.name) + "</span>" +
+          '<span class="tier-chip__req">' + t.min + "d</span></li>";
+      }).join(""));
+      if (heroEb) setHTML(heroEb, s > 1 ? '<span class="hero__eyebrow">🔥 ' + s + '-day check-in streak — welcome back!</span>' : "");
+    }
+
+    function doCheckin() {
+      if (checkedToday()) return;
+      var last = store.get("lk-last", null), s = store.get("lk-streak", 0);
+      s = (last === yesterdayStr()) ? s + 1 : 1;
+      var best = Math.max(store.get("lk-best", 0), s), total = store.get("lk-checkins", 0) + 1;
+      store.set("lk-streak", s); store.set("lk-last", todayStr());
+      store.set("lk-best", best); store.set("lk-checkins", total);
+      var milestone = null;
+      for (var i = 0; i < TIERS.length; i++) { if (s === TIERS[i].min) milestone = TIERS[i]; }
+      paint();
+      if (milestone) {
+        toast("🎉 New tier unlocked — " + milestone.emoji + " " + milestone.name + "!"); confetti(true);
+        if (elLive) elLive.textContent = "New tier unlocked: " + milestone.name + ". " + s + "-day streak.";
+      } else {
+        toast("🔥 Day " + s + " — checked in! See you tomorrow."); confetti(false);
+        if (elLive) elLive.textContent = "Checked in. " + s + "-day streak.";
+      }
+    }
+
+    elBtn.addEventListener("click", doCheckin);
+    panel.hidden = false;
+    paint();
   }
 
   /* ---------------- view counter ---------------- */
@@ -99,7 +186,7 @@
 
   /* ---------------- deal rendering ---------------- */
   var DATA = { deals: [], categories: [] };
-  var state = { category: "all", query: "", sort: "hot", page: 1 };
+  var state = { category: "all", query: "", sort: "new", page: 1 };
   var PAGE_SIZE = 12; // render in chunks so a big deal list never bogs the browser down
 
   function voteKey(id) { return "lk-vote-" + id; }
@@ -125,7 +212,7 @@
     var via = (d.source && d.source.url && d.source.url !== "#")
       ? ' · <a class="deal-card__via" href="' + esc(safeUrl(d.source.url)) + '" target="_blank" rel="noopener nofollow">via ' + esc(d.source.name || "source") + "</a>" : "";
     var cta = claimed ? '<span class="deal-card__cta is-disabled">Fully claimed</span>'
-      : '<a class="deal-card__cta" href="' + url + '" rel="noopener">View deal ' + jic("i-arrow") + "</a>";
+      : '<a class="deal-card__cta" href="' + url + '" rel="noopener">View lobang ' + jic("i-arrow") + "</a>";
     return (
       '<article class="deal-card reveal' + (claimed ? " is-claimed" : "") + '" data-id="' + esc(d.id) + '" data-cats="' + esc((d.categories || []).join(",")) +
         '" data-title="' + esc(d.title) + '" data-store="' + esc(d.store) + '">' +
@@ -145,25 +232,110 @@
     );
   }
 
-  function spotlightCard(d) {
+  function spotlightCard(d, noReveal) {
     var url = esc(safeUrl(d.url));
     var img = esc(d.image || "images/deal-fallback.jpg");
     var code = d.code ? '<button class="code-pill" data-code="' + esc(d.code) + '" type="button">' + jic("i-tag") + esc(d.code) + "</button>" : "";
     return (
-      '<div class="spotlight-card reveal" data-id="' + esc(d.id) + '" data-cats="' + esc((d.categories || []).join(",")) +
+      '<div class="spotlight-card' + (noReveal ? "" : " reveal") + '" data-id="' + esc(d.id) + '" data-cats="' + esc((d.categories || []).join(",")) +
         '" data-title="' + esc(d.title) + '" data-store="' + esc(d.store) + '">' +
         '<a class="spotlight__media" href="' + url + '" rel="noopener" tabindex="-1" aria-hidden="true"><img src="' + img + '" alt="" loading="lazy" decoding="async"></a>' +
         '<div class="spotlight__body">' +
-          '<span class="spotlight__kicker">' + jic("i-bolt") + "Deal of the Week</span>" +
+          '<span class="spotlight__kicker">' + jic("i-bolt") + "Latest Lobang</span>" +
           '<div class="spotlight__store">' + esc(d.store) + "</div>" +
           '<h2 class="spotlight__title">' + esc(d.title) + "</h2>" +
           (d.desc ? '<p class="spotlight__desc">' + esc(d.desc) + "</p>" : "") +
           code +
           '<div class="spotlight__foot"><span class="deal-card__time">' + jic("i-clock") + esc(d.expiry || "") + "</span>" +
-            '<a class="btn btn--gold btn--lg" href="' + url + '" rel="noopener">View this deal ' + jic("i-arrow") + "</a></div>" +
+            '<a class="btn btn--gold btn--lg" href="' + url + '" rel="noopener">View this lobang ' + jic("i-arrow") + "</a></div>" +
         "</div>" +
       "</div>"
     );
+  }
+
+  // Build the "latest lobangs" carousel markup from the newest N deals.
+  function spotlightCarousel(items) {
+    var slides = items.map(function (d, i) {
+      return '<li class="spot-slide" role="group" aria-roledescription="slide" aria-label="' +
+        (i + 1) + " of " + items.length + '"' + (i === 0 ? "" : ' aria-hidden="true"') + ">" +
+        spotlightCard(d, true) + "</li>";
+    }).join("");
+    var dots = items.map(function (d, i) {
+      return '<button class="spot-dot' + (i === 0 ? " is-active" : "") + '" type="button" role="tab" ' +
+        'aria-label="Show latest lobang ' + (i + 1) + '" aria-selected="' + (i === 0 ? "true" : "false") +
+        '" data-i="' + i + '"></button>';
+    }).join("");
+    var controls = items.length > 1
+      ? '<button class="spot-arrow spot-arrow--prev" type="button" aria-label="Previous lobang">' + jic("i-arrow") + "</button>" +
+        '<button class="spot-arrow spot-arrow--next" type="button" aria-label="Next lobang">' + jic("i-arrow") + "</button>" +
+        '<div class="spot-dots" role="tablist" aria-label="Choose a lobang">' + dots + "</div>"
+      : "";
+    return '<div class="spot-carousel" aria-roledescription="carousel" aria-label="Latest lobangs">' +
+        '<div class="spot-viewport"><ul class="spot-track">' + slides + "</ul></div>" +
+        controls + "</div>";
+  }
+
+  // Wire up sliding, dots, autoplay, swipe and keyboard for one carousel.
+  function initCarousel(root) {
+    if (!root) return;
+    var track = root.querySelector(".spot-track");
+    var slides = Array.prototype.slice.call(root.querySelectorAll(".spot-slide"));
+    var dots = Array.prototype.slice.call(root.querySelectorAll(".spot-dot"));
+    var n = slides.length, idx = 0, timer = null;
+    if (n < 2) return;
+    var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+    function go(to) {
+      idx = (to + n) % n;
+      track.style.transform = "translateX(-" + (idx * 100) + "%)";
+      for (var i = 0; i < n; i++) {
+        slides[i].setAttribute("aria-hidden", i === idx ? "false" : "true");
+        if (dots[i]) {
+          dots[i].classList.toggle("is-active", i === idx);
+          dots[i].setAttribute("aria-selected", i === idx ? "true" : "false");
+        }
+      }
+    }
+    function next() { go(idx + 1); }
+    function prev() { go(idx - 1); }
+    function start() { if (!reduce && !timer) timer = setInterval(next, 5000); }
+    function stop() { if (timer) { clearInterval(timer); timer = null; } }
+    function bump() { stop(); start(); } // reset the clock after a manual move
+
+    var pv = root.querySelector(".spot-arrow--next"); if (pv) pv.addEventListener("click", function () { next(); bump(); });
+    var pp = root.querySelector(".spot-arrow--prev"); if (pp) pp.addEventListener("click", function () { prev(); bump(); });
+    dots.forEach(function (dot) {
+      dot.addEventListener("click", function () { go(parseInt(dot.getAttribute("data-i"), 10)); bump(); });
+    });
+
+    // Pause while hovered or keyboard-focused inside.
+    root.addEventListener("mouseenter", stop);
+    root.addEventListener("mouseleave", start);
+    root.addEventListener("focusin", stop);
+    root.addEventListener("focusout", start);
+
+    // Keyboard: left/right arrows when focus is inside the carousel.
+    root.addEventListener("keydown", function (e) {
+      if (e.key === "ArrowLeft") { prev(); bump(); e.preventDefault(); }
+      else if (e.key === "ArrowRight") { next(); bump(); e.preventDefault(); }
+    });
+
+    // Touch swipe.
+    var sx = 0, sy = 0, swiping = false;
+    root.addEventListener("touchstart", function (e) {
+      var t = e.changedTouches[0]; sx = t.clientX; sy = t.clientY; swiping = true; stop();
+    }, { passive: true });
+    root.addEventListener("touchend", function (e) {
+      if (!swiping) return; swiping = false;
+      var t = e.changedTouches[0], dx = t.clientX - sx, dy = t.clientY - sy;
+      if (Math.abs(dx) > 40 && Math.abs(dx) > Math.abs(dy)) { (dx < 0 ? next : prev)(); }
+      bump();
+    }, { passive: true });
+
+    // Pause when the tab is hidden (saves battery, avoids jumps on return).
+    document.addEventListener("visibilitychange", function () { document.hidden ? stop() : start(); });
+
+    go(0); start();
   }
 
   function filterSort(list) {
@@ -174,7 +346,7 @@
       return inCat && inQ;
     });
     if (state.sort === "hot") out.sort(function (a, b) { return dealHeat(b) - dealHeat(a); });
-    else if (state.sort === "new") out.reverse();
+    else if (state.sort === "new") out.sort(function (a, b) { var x = a.first_seen || "", y = b.first_seen || ""; return x < y ? 1 : x > y ? -1 : 0; });
     else if (state.sort === "ending") out.sort(function (a, b) {
       var ea = /today|tonight|hour/i.test(a.expiry || "") ? 0 : 1;
       var eb = /today|tonight|hour/i.test(b.expiry || "") ? 0 : 1;
@@ -198,20 +370,28 @@
       if (countEl) countEl.textContent = total;
       setHTML(grid, list.length
         ? list.map(dealCard).join("")
-        : '<div class="empty"><span class="ic">🔍</span>No deals match your search. Try another category or keyword.</div>');
+        : '<div class="empty"><span class="ic">🔍</span>No lobangs match your search. Try another category or keyword.</div>');
       var lm = $("#loadMoreWrap");
       if (lm) setHTML(lm, (limit === 0 && shown < total)
-        ? '<button class="btn btn--ghost btn--lg" id="loadMore" type="button">Load more deals (' + (total - shown) + ' more)</button>'
+        ? '<button class="btn btn--ghost btn--lg" id="loadMore" type="button">Load more lobangs (' + (total - shown) + ' more)</button>'
         : "");
     }
-    // Spotlight visibility follows the active category filter
+    // "Latest lobangs" carousel — a showcase of the newest deals. Shown only in
+    // the default view (no category filter, no search); hidden while filtering.
     var spot = $("#spotlight");
     if (spot) {
-      var sd = DATA.deals.filter(function (d) { return d.spotlight; })[0] || DATA.deals[0];
-      var show = sd && (state.category === "all" || (sd.categories || []).indexOf(state.category) > -1) &&
-        (!state.query || (sd.title + " " + sd.store).toLowerCase().indexOf(state.query.toLowerCase()) > -1);
+      var show = state.category === "all" && !state.query.trim();
       spot.style.display = show ? "" : "none";
-      if (show && spot.getAttribute("data-rendered") !== "1") { setHTML(spot, spotlightCard(sd)); spot.setAttribute("data-rendered", "1"); }
+      if (show && spot.getAttribute("data-rendered") !== "1") {
+        var latest = DATA.deals.slice().sort(function (a, b) {
+          var x = a.first_seen || "", y = b.first_seen || ""; return x < y ? 1 : x > y ? -1 : 0;
+        }).slice(0, 6);
+        if (latest.length) {
+          setHTML(spot, spotlightCarousel(latest));
+          spot.setAttribute("data-rendered", "1");
+          initCarousel(spot.querySelector(".spot-carousel"));
+        }
+      }
     }
     revealObserve();
     if (window.__lkRetranslate) window.__lkRetranslate();   // re-apply on-device translation to new cards
@@ -237,7 +417,7 @@
   function pageUrl() { return window.location.href.split("#")[0]; }
 
   function doShare(platform, card) {
-    var title = card.getAttribute("data-title") || "Great deal";
+    var title = card.getAttribute("data-title") || "Great lobang";
     var brand = card.getAttribute("data-store") || "";
     var url = pageUrl();
     var text = title + (brand ? " (" + brand + ")" : "") + " — found on LobangKing.sg 👑";
@@ -428,12 +608,12 @@
       })
       .catch(function () {
         var g = $("#dealGrid");
-        if (g) setHTML(g, '<div class="empty"><span class="ic">📡</span>Deals are loading slowly. Please refresh the page.</div>');
+        if (g) setHTML(g, '<div class="empty"><span class="ic">📡</span>Lobangs are loading slowly. Please refresh the page.</div>');
       });
   }
 
   function init() {
-    initTheme(); initMenu(); initDateStreak(); initViews();
+    initTheme(); initMenu(); initCheckin(); initViews();
     initDelegation(); initControls(); initBackToTop(); initForms(); initSW(); initBg();
     loadDeals(); revealObserve();
   }

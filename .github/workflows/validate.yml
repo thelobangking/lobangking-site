@@ -54,5 +54,10 @@ jobs:
             echo "Nothing to correct this hour."
           else
             git commit -m "🔧 Hourly auto-fix ($(date -u +%Y-%m-%dT%H:%MZ))"
-            git push
+            # Rebase on top of anything the daily deal-bot pushed since checkout,
+            # then push. Retry once on a race so a concurrent commit doesn't fail
+            # the run. Requires Settings ▸ Actions ▸ General ▸ Workflow permissions
+            # = "Read and write permissions" (one-time repo setting).
+            git pull --rebase --autostash origin main || true
+            git push || (git pull --rebase --autostash origin main && git push)
           fi

@@ -35,6 +35,7 @@ import xml.dom.minidom
 import aggregate_deals as agg   # reuse parse_expiry + TODAY (single source of truth)
 import build_pages              # reuse the renderer so HTML stays in sync
 import prune_pages              # retention garbage collector (deals expired >10 days)
+import verify_deals             # freshness/validity gate (expired, month-only, stale)
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data" / "deals.json"
@@ -153,6 +154,17 @@ def check_robots_and_securitytxt():
 
 
 # ---------------------------------------------------------------- auto-correct
+def verify_current():
+    """Freshness/validity gate — drop expired, month-only-expired, stale and
+    unverifiable deals, re-order newest-first, and rebuild pages if anything
+    changed. Runs every hour so nothing goes stale between daily builds."""
+    removed = verify_deals.verify(dry_run=DRY, rebuild=True)
+    if removed:
+        log("fix", f"verified deals: removed {len(removed)} expired/stale/unverifiable "
+                   f"(e.g. {removed[0][1]})" + (" [dry-run: not written]" if DRY else ""))
+    return len(removed)
+
+
 def prune_expired():
     """Database retention GC — hard-delete deals that expired more than 10 days ago,
     then rebuild so the sitemap + per-deal/category pages stay in sync (new deals get
@@ -176,6 +188,10 @@ def main():
             log("warn", f"{fn.__name__} could not run: {e}")
 
     if not errors or all("not valid JSON" not in e for e in errors):
+        try:
+            verify_current()   # freshness gate first (catches month-only expiries etc.)
+        except Exception as e:  # noqa: BLE001
+            log("warn", f"verify step failed: {e}")
         try:
             prune_expired()
         except Exception as e:  # noqa: BLE001

@@ -45,8 +45,8 @@ PAGES = {
     "submit.html": "submit",
     "privacy.html": None,
 }
-NAV = [("home", "index.html", "Home"), ("deals", "deals.html", "All Deals"),
-       ("about", "about.html", "About"), ("submit", "submit.html", "Submit a Deal")]
+NAV = [("home", "index.html", "Home"), ("deals", "deals.html", "All Lobangs"),
+       ("about", "about.html", "About"), ("submit", "submit.html", "Submit a Lobang")]
 
 
 def esc(s):
@@ -106,7 +106,7 @@ def footer():
           <img class="nav__logo-img" src="images/icon-192.png" alt="" loading="lazy" decoding="async">
           <span class="wordmark">lobang<b>king</b></span>
         </a>
-        <p>Singapore's friendliest deals site. We hand-check every promo so you can save without the scrolling. Always free.</p>
+        <p>Singapore's friendliest lobang site. We hand-check every promo so you can save without the scrolling. Always free.</p>
         <div class="social social--soon" aria-label="Social channels — coming soon">
 {social_chips}
           <span class="social__soon-label">Coming soon</span>
@@ -114,17 +114,17 @@ def footer():
         <p class="footer__contact">📧 <a href="mailto:{CONTACT_EMAIL}">{CONTACT_EMAIL}</a></p>
       </div>
       <div class="footer__col"><h4>Browse</h4>
-        <a href="deals.html">All Deals</a><a href="deals.html?cat=food">Food &amp; Drinks</a>
+        <a href="deals.html">All Lobangs</a><a href="deals.html?cat=food">Food &amp; Drinks</a>
         <a href="deals.html?cat=electronics">Electronics</a><a href="deals.html?cat=travel">Travel</a></div>
       <div class="footer__col"><h4>Site</h4>
-        <a href="about.html">About Us</a><a href="submit.html">Submit a Deal</a>
+        <a href="about.html">About Us</a><a href="submit.html">Submit a Lobang</a>
         <a href="index.html#subscribe">Subscribe</a><a href="about.html#advertise">Advertise</a></div>
       <div class="footer__col"><h4>Legal</h4>
         <a href="privacy.html">Privacy Policy</a><a href="privacy.html#terms">Terms of Use</a>
         <a href="privacy.html#disclaimer">Disclaimer</a></div>
     </div>
     <div class="footer__bottom">
-      <span>© 2026 LobangKing.sg — Every Deal in Singapore 👑</span>
+      <span>© 2026 LobangKing.sg — Every Lobang in Singapore 👑</span>
       <nav><a href="about.html">About</a><a href="submit.html">Submit</a><a href="privacy.html">Privacy</a></nav>
     </div>
   </div>
@@ -180,7 +180,7 @@ def card_html(d):
     via = (f' · <a class="deal-card__via" href="{esc(safe_url(s.get("url")))}" target="_blank" rel="noopener nofollow">via {esc(s.get("name","source"))}</a>'
            if s and safe_url(s.get("url")) != "#" else "")
     cta = ('<span class="deal-card__cta is-disabled">Fully claimed</span>' if claimed
-           else f'<a class="deal-card__cta" href="{url}" rel="noopener">View deal {icon("i-arrow")}</a>')
+           else f'<a class="deal-card__cta" href="{url}" rel="noopener">View lobang {icon("i-arrow")}</a>')
     return (
         f'<article class="deal-card{" is-claimed" if claimed else ""}" data-id="{esc(d.get("id",""))}" '
         f'data-cats="{esc(",".join(d.get("categories") or []))}" data-title="{esc(d.get("title",""))}" '
@@ -207,13 +207,13 @@ def spotlight_html(d):
     return (
         f'<div class="spotlight-card" data-id="{esc(d.get("id",""))}" data-title="{esc(d.get("title",""))}" data-store="{esc(d.get("store",""))}">'
         f'<a class="spotlight__media" href="{url}" rel="noopener" tabindex="-1" aria-hidden="true"><img src="{img}" alt="" loading="lazy" decoding="async"></a>'
-        f'<div class="spotlight__body"><span class="spotlight__kicker">{icon("i-bolt")}Deal of the Week</span>'
+        f'<div class="spotlight__body"><span class="spotlight__kicker">{icon("i-bolt")}Latest Lobang</span>'
         f'<div class="spotlight__store">{esc(d.get("store",""))}</div>'
         f'<h2 class="spotlight__title">{esc(d.get("title",""))}</h2>'
         + (f'<p class="spotlight__desc">{esc(d.get("desc",""))}</p>' if d.get("desc") else "")
         + code
         + f'<div class="spotlight__foot"><span class="deal-card__time">{icon("i-clock")}{esc(d.get("expiry",""))}</span>'
-        f'<a class="btn btn--gold btn--lg" href="{url}" rel="noopener">View this deal {icon("i-arrow")}</a></div>'
+        f'<a class="btn btn--gold btn--lg" href="{url}" rel="noopener">View this lobang {icon("i-arrow")}</a></div>'
         f'</div></div>'
     )
 
@@ -319,24 +319,24 @@ def full_page(title, desc, canonical, jsonld, body, og_image=None):
   <meta property="og:image" content="{esc(og_image)}">
   <meta property="og:url" content="{esc(canonical)}">
   <meta name="twitter:card" content="summary_large_image">
-  <script src="js/theme.js?v=6"></script>
-  <link rel="preload" as="font" type="font/woff2" href="fonts/dmsans-400.woff2?v=6" crossorigin>
-  <link rel="preload" as="font" type="font/woff2" href="fonts/sora-700.woff2?v=6" crossorigin>
-  <link rel="stylesheet" href="css/fonts.min.css?v=6">
-  <link rel="stylesheet" href="css/styles.min.css?v=6">
+  <script src="js/theme.js?v=8"></script>
+  <link rel="preload" as="font" type="font/woff2" href="fonts/dmsans-400.woff2?v=8" crossorigin>
+  <link rel="preload" as="font" type="font/woff2" href="fonts/sora-700.woff2?v=8" crossorigin>
+  <link rel="stylesheet" href="css/fonts.min.css?v=8">
+  <link rel="stylesheet" href="css/styles.min.css?v=8">
   {jsonld}
   {SPEC_RULES}
 </head>
 <body>
 '''
     tail = ('<button class="back-to-top" id="backToTop" type="button" aria-label="Back to top">↑</button>\n'
-            '<script src="js/consent.js?v=6" defer></script>\n'
-            '<script src="js/protect.js?v=6" defer></script>\n'
-            '<script src="js/vitals.js?v=6" defer></script>\n'
-            '<script src="js/engagement.js?v=6" defer></script>\n'
-            '<script src="js/translate.js?v=6" defer></script>\n'
-            '<script src="js/a11y.js?v=6" defer></script>\n'
-            '<script src="js/main.js?v=6" defer></script>\n</body>\n</html>\n')
+            '<script src="js/consent.js?v=8" defer></script>\n'
+            '<script src="js/protect.js?v=8" defer></script>\n'
+            '<script src="js/vitals.js?v=8" defer></script>\n'
+            '<script src="js/engagement.js?v=8" defer></script>\n'
+            '<script src="js/translate.js?v=8" defer></script>\n'
+            '<script src="js/a11y.js?v=8" defer></script>\n'
+            '<script src="js/main.js?v=8" defer></script>\n</body>\n</html>\n')
     return head + header(None) + '<main id="main" tabindex="-1">\n' + body + "\n</main>\n" + footer() + "\n" + tail
 
 
@@ -360,7 +360,7 @@ def deal_page(d, all_deals):
     related = [x for x in all_deals if x.get("id") != d.get("id") and cat in (x.get("categories") or [])][:6]
     if claimed:
         cta_block = ('<div class="claimed-notice"><span class="claimed-notice__tag">Fully claimed</span>'
-                     '<h2>This deal has been fully redeemed</h2>'
+                     '<h2>This lobang has been fully redeemed</h2>'
                      '<p>Sorry — this lobang has been fully claimed or is out of stock. The good news: '
                      'there are plenty more below, hand-verified and refreshed every morning.</p>'
                      f'<a class="btn btn--gold btn--lg" href="deals.html">Browse live {esc(label.lower())} deals {icon("i-arrow")}</a></div>')
@@ -396,7 +396,7 @@ def category_page(cat, deals):
         ensure_ascii=False) + '</script>' + itemlist_jsonld(deals, canonical))
     body = (
         '<section class="page-hero"><div class="container page-hero__inner">'
-        f'<h1>Best {esc(label)} Deals in Singapore</h1>'
+        f'<h1>Best {esc(label)} Lobangs in Singapore</h1>'
         f'<p>{len(deals)} hand-verified {esc(label.lower())} promos, updated daily.</p>'
         '</div></section>'
         '<section class="section"><div class="container">'

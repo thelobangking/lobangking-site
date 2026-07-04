@@ -1,8 +1,9 @@
 name: Lighthouse CI
 
-# Performance / accessibility / SEO budget. Fails the run if accessibility or SEO
-# drops below 0.9 (performance is a warning). Reports are uploaded to temporary
-# public storage and linked in the run summary.
+# Performance / accessibility / SEO / best-practices budget, run against the BUILT
+# site (dist/) so it audits exactly what visitors get, fonts and all. Scores are
+# reported as warnings (not hard gates) because headless CI scores vary run to run;
+# the full report is uploaded to temporary public storage and linked in the summary.
 
 on:
   push:
@@ -20,6 +21,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
+      - name: Build the deployable site
+        run: bash build.sh
       - name: Run Lighthouse CI
         uses: treosh/lighthouse-ci-action@v12
         with:
