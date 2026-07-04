@@ -196,9 +196,19 @@ def verify(dry_run: bool = False, rebuild: bool = False,
         is_editor = editors_exempt and (d.get("source", {}) or {}).get("name") == "Editor's pick"
         end = effective_end(d, first_seen)
         age = (today - first_seen).days
+        src = d.get("source", {}) or {}
+        blob = f"{d.get('title','')} {d.get('desc','')} {d.get('expiry','')}"
 
         reason = None
-        if end and end < today:
+        # Blocked publisher (setlui, alvinology, …) — shared list with the aggregator.
+        if agg.is_blocked_source(src.get("name"), src.get("url"), d.get("url")) and not is_editor:
+            reason = f"blocked source — {src.get('name','?')}"
+        # Present-year gate: drop anything dated to a previous year.
+        elif end and end.year < agg.CURRENT_YEAR:
+            reason = f"expired — ended {end.day} {end.strftime('%b %Y')}"
+        elif agg.mentions_past_year(blob) and not is_editor:
+            reason = "past year — copy references a bygone year"
+        elif end and end < today:
             reason = f"expired — ended {end.day} {end.strftime('%b %Y')}"
         elif end is None and age > max_age and not is_editor:
             reason = f"stale — no end date and unseen-fresh for {age} days"

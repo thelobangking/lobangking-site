@@ -532,7 +532,7 @@ body::before { content:""; position:fixed; inset:0; z-index:-2; pointer-events:n
 .hero .search__input::placeholder { color:#5a6472; }
 
 /* Image-led deal card */
-.deal-card { padding:0; overflow:hidden; }
+.deal-card { padding:0; overflow:hidden; position:relative; }
 .deal-card__media { position:relative; display:block; aspect-ratio:16/10; overflow:hidden; background:var(--surface-2); }
 .deal-card__media img { width:100%; height:100%; object-fit:cover; transition:transform .55s var(--ease); }
 .deal-card:hover .deal-card__media img { transform:scale(1.05); }
@@ -551,6 +551,23 @@ body::before { content:""; position:fixed; inset:0; z-index:-2; pointer-events:n
 .deal-card__store { font-size:.8rem; color:var(--t3); font-weight:600; }
 .deal-card__via { color:var(--t4); text-decoration:none; }
 .deal-card__via:hover { color:var(--gold-ink); text-decoration:underline; }
+/* Compact "mini source link" — small labelled chip instead of the full publisher name */
+.deal-card__src { display:inline-flex; align-items:center; gap:3px; color:var(--t4); font-size:.72rem; font-weight:700;
+  text-decoration:none; text-transform:uppercase; letter-spacing:.03em; vertical-align:middle; }
+.deal-card__src .ic { width:12px; height:12px; opacity:.8; }
+.deal-card__src:hover { color:var(--gold-ink); text-decoration:underline; }
+
+/* Hover share button — appears over the media on hover / keyboard focus */
+.deal-share { position:absolute; top:12px; left:12px; z-index:3; display:inline-flex; align-items:center; justify-content:center;
+  width:38px; height:38px; border-radius:50%; border:0; cursor:pointer; padding:0;
+  background:rgba(12,20,29,.62); color:#fff; box-shadow:var(--shadow-md); backdrop-filter:blur(6px);
+  opacity:0; transform:translateY(-6px) scale(.9); transition:opacity .2s var(--ease), transform .2s var(--ease), background .2s; }
+.deal-share .ic { width:19px; height:19px; }
+.deal-card:hover .deal-share, .deal-card:focus-within .deal-share,
+.deal-share:focus-visible { opacity:1; transform:translateY(0) scale(1); }
+.deal-share:hover { background:var(--gold); color:#0c141d; }
+.deal-share:focus-visible { outline:3px solid var(--gold); outline-offset:2px; }
+@media (hover:none) { .deal-share { opacity:1; transform:none; } }  /* always visible on touch */
 .deal-card__title { font-size:1.06rem; line-height:1.3; margin:0; font-family:'Sora',sans-serif; }
 .deal-card__title a { color:var(--t1); }
 .deal-card__title a:hover { color:var(--gold-ink); }
@@ -565,6 +582,61 @@ body::before { content:""; position:fixed; inset:0; z-index:-2; pointer-events:n
 .deal-claimed { position:absolute; z-index:3; top:50%; left:50%; transform:translate(-50%,-50%) rotate(-4deg);
   background:rgba(226,59,80,.94); color:#fff; font-weight:800; padding:8px 18px; border-radius:var(--r-sm);
   font-size:.85rem; letter-spacing:.04em; text-transform:uppercase; box-shadow:var(--shadow-lg); }
+
+/* ============================================================
+   "Share this lobang" popup + success animation
+   ============================================================ */
+body.share-open { overflow:hidden; }
+.share-modal { position:fixed; inset:0; z-index:1200; display:none; align-items:center; justify-content:center; padding:20px; }
+.share-modal:not([hidden]) { display:flex; }
+.share-modal__backdrop { position:absolute; inset:0; background:rgba(7,12,18,.62); backdrop-filter:blur(4px);
+  animation:lkFade .2s var(--ease); }
+.share-modal__panel { position:relative; z-index:1; width:100%; max-width:430px; background:var(--surface);
+  border:1px solid var(--border-h); border-radius:var(--r-lg); box-shadow:var(--shadow-lg);
+  padding:26px 24px 24px; text-align:center; animation:lkModalIn .28s var(--ease); }
+.share-modal__x { position:absolute; top:12px; right:14px; width:34px; height:34px; border:0; background:transparent;
+  color:var(--t3); font-size:1.5rem; line-height:1; cursor:pointer; border-radius:50%; transition:all .18s; }
+.share-modal__x:hover { background:var(--surface-2); color:var(--t1); }
+.share-modal__title { font-family:'Sora',sans-serif; font-size:1.32rem; margin:0 0 4px; }
+.share-modal__deal { font-size:.9rem; color:var(--t3); margin:0 0 18px; font-weight:600; }
+.share-modal__grid { display:grid; grid-template-columns:repeat(3,1fr); gap:11px; }
+.share-opt { display:flex; flex-direction:column; align-items:center; gap:8px; padding:15px 6px; cursor:pointer;
+  background:var(--surface-2); border:1px solid var(--border); border-radius:var(--r-md); color:var(--t2);
+  font-weight:700; font-size:.82rem; transition:transform .16s var(--ease), border-color .16s, background .16s, box-shadow .16s; }
+.share-opt:hover { transform:translateY(-3px); border-color:var(--border-h); box-shadow:var(--shadow-md); }
+.share-opt:focus-visible { outline:3px solid var(--gold); outline-offset:2px; }
+.share-opt__ic { display:inline-flex; align-items:center; justify-content:center; width:44px; height:44px; border-radius:50%;
+  font-size:1.35rem; background:var(--surface-3); transition:transform .16s var(--ease); }
+.share-opt:hover .share-opt__ic { transform:scale(1.08); }
+.share-opt--wa:hover  { border-color:#25d366; } .share-opt--wa .share-opt__ic  { background:rgba(37,211,102,.16); }
+.share-opt--fb:hover  { border-color:#1877f2; } .share-opt--fb .share-opt__ic  { background:rgba(24,119,242,.16); }
+.share-opt--ig:hover  { border-color:#e1306c; } .share-opt--ig .share-opt__ic  { background:rgba(225,48,108,.15); }
+.share-opt--x:hover   { border-color:var(--t1); } .share-opt--x .share-opt__ic  { background:var(--surface-3); }
+.share-opt--msg:hover { border-color:#34c759; } .share-opt--msg .share-opt__ic { background:rgba(52,199,89,.15); }
+.share-opt--copy:hover{ border-color:var(--gold); } .share-opt--copy .share-opt__ic{ background:var(--gold-bg); }
+
+/* Success state — grid gives way to an animated confirmation */
+.share-success { display:none; flex-direction:column; align-items:center; gap:12px; padding:12px 0 4px; }
+.share-modal.is-success .share-modal__grid, .share-modal.is-success .share-modal__deal { display:none; }
+.share-modal.is-success .share-success { display:flex; animation:lkFade .25s var(--ease); }
+.share-success__check { width:78px; height:78px; }
+.share-success__check .ssc-ring { stroke:var(--green); stroke-width:2.5; stroke-dasharray:146; stroke-dashoffset:146;
+  animation:sscRing .5s var(--ease) forwards; }
+.share-success__check .ssc-tick { stroke:var(--green); stroke-width:4; stroke-linecap:round; stroke-linejoin:round;
+  stroke-dasharray:44; stroke-dashoffset:44; animation:sscTick .3s var(--ease) .42s forwards; }
+.share-success__msg { font-family:'Sora',sans-serif; font-weight:800; font-size:1.12rem; margin:0; color:var(--t1);
+  opacity:0; animation:sscMsg .3s var(--ease) .6s forwards; }
+@keyframes lkFade { from{opacity:0} to{opacity:1} }
+@keyframes lkModalIn { from{opacity:0; transform:translateY(14px) scale(.96)} to{opacity:1; transform:none} }
+@keyframes sscRing { to{stroke-dashoffset:0} }
+@keyframes sscTick { to{stroke-dashoffset:0} }
+@keyframes sscMsg  { from{opacity:0; transform:translateY(5px)} to{opacity:1; transform:none} }
+@media (prefers-reduced-motion:reduce) {
+  .share-modal__backdrop, .share-modal__panel, .share-modal.is-success .share-success, .share-success__msg { animation:none; }
+  .share-success__check .ssc-ring, .share-success__check .ssc-tick { animation:none; stroke-dashoffset:0; }
+  .share-success__msg { opacity:1; }
+}
+@media (max-width:420px) { .share-modal__grid { grid-template-columns:repeat(2,1fr); } }
 
 /* Image-led Deal of the Week */
 .spotlight-card { display:grid; grid-template-columns:1fr; padding:0; overflow:hidden; align-items:stretch; }

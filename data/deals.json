@@ -3,7 +3,7 @@
   "categories": [
     {
       "id": "all",
-      "label": "All Deals",
+      "label": "All Lobangs",
       "icon": "🔥"
     },
     {
@@ -279,7 +279,7 @@
       "badges": [
         {
           "type": "discount",
-          "label": "WEEKLY DEAL"
+          "label": "WEEKLY LOBANG"
         }
       ],
       "access": {

@@ -209,8 +209,12 @@
     var overlay = (primary && !claimed) ? '<span class="deal-badge deal-badge--' + esc(primary.type) + '">' + esc(primary.label) + "</span>" : "";
     var claim = claimed ? '<span class="deal-claimed">Fully claimed</span>' : "";
     var code = (d.code && !claimed) ? '<button class="code-pill" data-code="' + esc(d.code) + '" type="button">' + jic("i-tag") + esc(d.code) + "</button>" : "";
-    var via = (d.source && d.source.url && d.source.url !== "#")
-      ? ' · <a class="deal-card__via" href="' + esc(safeUrl(d.source.url)) + '" target="_blank" rel="noopener nofollow">via ' + esc(d.source.name || "source") + "</a>" : "";
+    // Compact "mini source link": the raw publisher name is no longer the visible
+    // hyperlink — instead a small labelled Source chip carries the outbound link.
+    var src = (d.source && d.source.url && d.source.url !== "#")
+      ? ' · <a class="deal-card__src" href="' + esc(safeUrl(d.source.url)) + '" target="_blank" rel="noopener nofollow" title="Source: ' + esc(d.source.name || "source") + '">' + jic("i-arrow") + "Source</a>" : "";
+    // Share button — hidden until the card is hovered or focused (see styles.css).
+    var share = '<button class="deal-share" type="button" data-share-open aria-label="Share this lobang">' + jic("i-share") + "</button>";
     var cta = claimed ? '<span class="deal-card__cta is-disabled">Fully claimed</span>'
       : '<a class="deal-card__cta" href="' + url + '" rel="noopener">View lobang ' + jic("i-arrow") + "</a>";
     return (
@@ -220,9 +224,9 @@
           '<img src="' + img + '" alt="" loading="lazy" decoding="async">' +
           '<span class="deal-card__cat">' + jic(CAT_ICON[cat] || "i-tag") + esc(catLabel(cat)) + "</span>" +
           overlay + claim +
-        "</a>" +
+        "</a>" + share +
         '<div class="deal-card__body">' +
-          '<div class="deal-card__store">' + esc(d.store) + via + "</div>" +
+          '<div class="deal-card__store">' + esc(d.store) + src + "</div>" +
           '<h3 class="deal-card__title"><a href="' + url + '" rel="noopener">' + esc(d.title) + "</a></h3>" +
           (d.desc ? '<p class="deal-card__take">' + esc(d.desc) + "</p>" : "") +
           code +
@@ -416,18 +420,118 @@
   /* ---------------- interactions (event delegation) ---------------- */
   function pageUrl() { return window.location.href.split("#")[0]; }
 
-  function doShare(platform, card) {
-    var title = card.getAttribute("data-title") || "Great lobang";
-    var brand = card.getAttribute("data-store") || "";
-    var url = pageUrl();
-    var text = title + (brand ? " (" + brand + ")" : "") + " — found on LobangKing.sg 👑";
-    if (platform === "copy") { navigator.clipboard && navigator.clipboard.writeText(url).then(function () { toast("✅ Link copied"); }); return; }
+  /* ---------------- "Share this lobang" popup + success animation ---------------- */
+  // One reusable modal for the whole page. A card's share button opens it,
+  // populated with that lobang's title/store and its own deal-page link. Every
+  // share target (WhatsApp / Facebook / Instagram / X / Message / copy) fires an
+  // animated success confirmation. All CSP-safe: markup here, styling in CSS.
+  var shareCtx = { title: "", store: "", url: "" };
+  var shareModal = null;
+
+  function shareText() {
+    return shareCtx.title + (shareCtx.store ? " (" + shareCtx.store + ")" : "") + " — found on LobangKing.sg 👑";
+  }
+  function dealShareUrl(card) {
+    // Prefer the lobang's own page (keeps sharers on LobangKing); fall back to this page.
+    var id = card.getAttribute("data-id");
+    if (id) { try { return new URL("deal-" + id + ".html", location.href).href; } catch (e) {} }
+    return pageUrl();
+  }
+
+  function buildShareModal() {
+    if (shareModal) return shareModal;
+    var opts = [
+      ["whatsapp",  "WhatsApp",  "wa",   "💬"],
+      ["facebook",  "Facebook",  "fb",   "📘"],
+      ["instagram", "Instagram", "ig",   "📸"],
+      ["twitter",   "X",         "x",    "𝕏"],
+      ["message",   "Message",   "msg",  "✉️"],
+      ["copy",      "Copy link", "copy", "🔗"]
+    ];
+    var grid = opts.map(function (o) {
+      return '<button class="share-opt share-opt--' + o[2] + '" type="button" data-share="' + o[0] + '">' +
+        '<span class="share-opt__ic" aria-hidden="true">' + o[3] + "</span>" +
+        '<span class="share-opt__lbl">' + o[1] + "</span></button>";
+    }).join("");
+    var m = document.createElement("div");
+    m.className = "share-modal";
+    m.id = "lkShareModal";
+    m.setAttribute("role", "dialog");
+    m.setAttribute("aria-modal", "true");
+    m.setAttribute("aria-labelledby", "lkShareTitle");
+    m.hidden = true;
+    setHTML(m,
+      '<div class="share-modal__backdrop" data-share-close></div>' +
+      '<div class="share-modal__panel" role="document">' +
+        '<button class="share-modal__x" type="button" aria-label="Close" data-share-close>&times;</button>' +
+        '<h2 class="share-modal__title" id="lkShareTitle">Share this lobang</h2>' +
+        '<p class="share-modal__deal" id="lkShareDeal"></p>' +
+        '<div class="share-modal__grid">' + grid + "</div>" +
+        '<div class="share-success" aria-hidden="true">' +
+          '<svg class="share-success__check" viewBox="0 0 52 52" aria-hidden="true">' +
+            '<circle class="ssc-ring" cx="26" cy="26" r="23" fill="none"/>' +
+            '<path class="ssc-tick" fill="none" d="M15 27l7.5 7.5L37 19"/></svg>' +
+          '<p class="share-success__msg">Lobang shared! 🎉</p>' +
+        "</div>" +
+      "</div>");
+    document.body.appendChild(m);
+    shareModal = m;
+    return m;
+  }
+
+  function openShare(card) {
+    shareCtx.title = card.getAttribute("data-title") || "Great lobang";
+    shareCtx.store = card.getAttribute("data-store") || "";
+    shareCtx.url = dealShareUrl(card);
+    var m = buildShareModal();
+    var dealEl = m.querySelector("#lkShareDeal");
+    if (dealEl) dealEl.textContent = shareCtx.title + (shareCtx.store ? " · " + shareCtx.store : "");
+    m.classList.remove("is-success");
+    m.hidden = false;
+    document.body.classList.add("share-open");
+    m._opener = card.querySelector("[data-share-open]") || null;
+    var first = m.querySelector(".share-opt");
+    if (first) { try { first.focus(); } catch (e) {} }
+  }
+  function closeShare() {
+    if (!shareModal || shareModal.hidden) return;
+    clearTimeout(shareSuccess._t);
+    shareModal.hidden = true;
+    shareModal.classList.remove("is-success");
+    document.body.classList.remove("share-open");
+    var op = shareModal._opener;
+    if (op && op.focus) { try { op.focus(); } catch (e) {} }
+  }
+
+  // Play the professional success animation, then auto-dismiss.
+  function shareSuccess() {
+    var m = shareModal;
+    if (!m) return;
+    m.classList.add("is-success");
+    confetti(false);
+    clearTimeout(shareSuccess._t);
+    shareSuccess._t = setTimeout(closeShare, 1750);
+  }
+
+  function doShare(platform) {
+    var url = shareCtx.url, text = shareText();
+    // Instagram has no public web share intent — copy caption+link so it can be
+    // pasted into a story or DM. "Copy link" copies just the link.
+    if (platform === "instagram" || platform === "copy") {
+      var payload = platform === "instagram" ? (text + " " + url) : url;
+      if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(payload).catch(function () {});
+      toast(platform === "instagram" ? "📸 Caption copied — paste into your Instagram story or DM" : "✅ Link copied");
+      shareSuccess();
+      return;
+    }
     var map = {
       whatsapp: "https://wa.me/?text=" + encodeURIComponent(text + "\n" + url),
-      telegram: "https://t.me/share/url?url=" + encodeURIComponent(url) + "&text=" + encodeURIComponent(text),
-      twitter:  "https://twitter.com/intent/tweet?text=" + encodeURIComponent(text) + "&url=" + encodeURIComponent(url)
+      facebook: "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(url),
+      twitter:  "https://twitter.com/intent/tweet?text=" + encodeURIComponent(text) + "&url=" + encodeURIComponent(url),
+      message:  "sms:?&body=" + encodeURIComponent(text + " " + url)
     };
     if (map[platform]) window.open(map[platform], "_blank", "noopener");
+    shareSuccess();
   }
 
   function initDelegation() {
@@ -461,30 +565,34 @@
         return;
       }
 
-      // share button (use native share if available, else menu)
-      var sb = e.target.closest(".btn-share");
-      if (sb && !e.target.closest(".share-menu")) {
-        var cardS = sb.closest("[data-id]");
-        if (navigator.share) {
-          navigator.share({ title: cardS.getAttribute("data-title"), text: cardS.getAttribute("data-title") + " — LobangKing.sg", url: pageUrl() }).catch(function () {});
-        } else {
-          var menu = $(".share-menu", sb);
-          $$(".share-menu.open").forEach(function (m) { if (m !== menu) m.classList.remove("open"); });
-          menu.classList.toggle("open");
-        }
+      // open the "Share this lobang" popup from a card's hover share button
+      var opener = e.target.closest("[data-share-open]");
+      if (opener) {
+        e.preventDefault();
+        var cardS = opener.closest("[data-id]");
+        if (cardS) openShare(cardS);
         return;
       }
 
-      // share menu item
-      var si = e.target.closest(".share-item");
-      if (si) {
-        doShare(si.getAttribute("data-share"), si.closest("[data-id]"));
-        si.closest(".share-menu").classList.remove("open");
-        return;
-      }
+      // a share target inside the popup (WhatsApp / Facebook / Instagram / X / Message / copy)
+      var opt = e.target.closest(".share-opt");
+      if (opt) { doShare(opt.getAttribute("data-share")); return; }
 
-      // click outside closes share menus
-      if (!e.target.closest(".btn-share")) $$(".share-menu.open").forEach(function (m) { m.classList.remove("open"); });
+      // close controls (backdrop or ✕)
+      if (e.target.closest("[data-share-close]")) { closeShare(); return; }
+    });
+
+    // Esc closes the share popup; Tab is kept inside it while open (focus trap).
+    document.addEventListener("keydown", function (e) {
+      if (!shareModal || shareModal.hidden) return;
+      if (e.key === "Escape") { closeShare(); return; }
+      if (e.key === "Tab") {
+        var f = $$('.share-opt, .share-modal__x', shareModal);
+        if (!f.length) return;
+        var first = f[0], last = f[f.length - 1];
+        if (e.shiftKey && document.activeElement === first) { last.focus(); e.preventDefault(); }
+        else if (!e.shiftKey && document.activeElement === last) { first.focus(); e.preventDefault(); }
+      }
     });
   }
 

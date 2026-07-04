@@ -27,6 +27,7 @@ import html
 import hashlib
 import datetime
 import pathlib
+import email.utils
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -43,10 +44,59 @@ SOURCES_FILE = HERE / "sources.json"
 MANUAL_FILE = HERE / "manual_deals.json"
 
 TODAY = datetime.date.today()
+CURRENT_YEAR = TODAY.year
 USER_AGENT = "LobangKingBot/1.0 (+https://lobangking.sg; daily deal aggregator)"
 
+# ----------------------------------------------------------------------------
+# Source blocking + present-year gate
+# ----------------------------------------------------------------------------
+# Publishers whose posts we never want to surface (stale/low-quality feeds that
+# kept re-appearing with old promos, e.g. months-expired April listings). Matched
+# case-insensitively as a substring of the source name, the feed's <source>
+# publisher, or the article URL/domain. Extend this via "blocked_sources" in
+# scripts/sources.json — those entries are merged into this default set at runtime.
+BLOCKED_SOURCES = {"setlui", "alvinology"}
+
+# A 4-digit year 2000–2099 anywhere in text.
+_YEAR_RE = re.compile(r"\b(20\d{2})\b")
+
+
+def is_blocked_source(*fields) -> bool:
+    """True if any blocked publisher/domain appears in the given fields."""
+    blob = " ".join(str(f or "") for f in fields).lower()
+    return any(b in blob for b in BLOCKED_SOURCES)
+
+
+def parse_pubdate(raw: str):
+    """Parse an RSS/Atom publish date (RFC-822 or ISO-8601) → date, or None."""
+    if not raw:
+        return None
+    raw = raw.strip()
+    try:
+        dt = email.utils.parsedate_to_datetime(raw)   # RFC-822 (RSS <pubDate>)
+        if dt:
+            return dt.date()
+    except (TypeError, ValueError, IndexError, OverflowError):
+        pass
+    try:
+        return datetime.date.fromisoformat(raw[:10])  # ISO-8601 (Atom <published>)
+    except ValueError:
+        return None
+
+
+def mentions_past_year(text: str) -> bool:
+    """True if the text names a past year (e.g. 2023) and NOT the current year.
+
+    Catches stale listings whose own copy is dated to a bygone year even when the
+    feed carries no machine-readable publish date. A deal that also mentions the
+    current year is kept (it may be an updated/rolled-over promo)."""
+    years = {int(y) for y in _YEAR_RE.findall(text or "")}
+    if not years:
+        return False
+    return any(y < CURRENT_YEAR for y in years) and CURRENT_YEAR not in years
+
 CATEGORIES = [
-    {"id": "all",           "label": "All Deals",        "icon": "🔥"},
+    {"id": "all",           "label": "All Lobangs",      "icon": "🔥"},
     {"id": "food",          "label": "Food & Drinks",    "icon": "🍜"},
     {"id": "electronics",   "label": "Electronics",      "icon": "💻"},
     {"id": "home",          "label": "Home & Living",    "icon": "🏠"},
@@ -403,7 +453,7 @@ def parse_feed(xml_bytes: bytes):
         atom = True
     records = []
     for it in items:
-        rec = {"title": "", "link": "", "description": "", "categories": [], "publisher": ""}
+        rec = {"title": "", "link": "", "description": "", "categories": [], "publisher": "", "published": ""}
         for ch in it:
             tag = _local(ch)
             if tag == "title" and not rec["title"]:
@@ -423,6 +473,8 @@ def parse_feed(xml_bytes: bytes):
                     rec["categories"].append(c)
             elif tag == "source" and not rec["publisher"]:
                 rec["publisher"] = (ch.text or "").strip()
+            elif tag in ("pubdate", "published", "updated", "date") and not rec["published"]:
+                rec["published"] = (ch.text or "").strip()
         if rec["title"]:
             records.append(rec)
     return records
@@ -437,8 +489,20 @@ def deal_from_record(rec: dict, source_name: str):
     if link != "#" and not re.match(r"^https?://", link, re.I):
         link = "#"  # only allow real web links into the site (defence-in-depth)
 
+    # Drop blocked publishers (e.g. setlui, alvinology) by name, feed source or URL.
+    if is_blocked_source(source_name, rec.get("publisher"), link):
+        return None
+
     # Drop reporting/news that isn't an actual promotion (road closures, accidents…).
     if looks_like_news(title, summary):
+        return None
+
+    # Present-year gate: never surface a deal from a previous year. Prefer the
+    # feed's own publish date; fall back to a past-year mention in the copy.
+    pub = parse_pubdate(rec.get("published"))
+    if pub and pub.year < CURRENT_YEAR:
+        return None
+    if mentions_past_year(f"{title} {summary}"):
         return None
 
     brand = detect_brand(f"{title} {summary}")
@@ -578,6 +642,12 @@ def fetch_involve_asia(cfg: dict, max_items: int):
 def main():
     print(f"LobangKing aggregator — {TODAY.isoformat()}")
     cfg = json.loads(SOURCES_FILE.read_text(encoding="utf-8"))
+    # Merge any operator-defined blocked publishers from sources.json into the defaults.
+    for b in cfg.get("blocked_sources", []):
+        if isinstance(b, str) and b.strip():
+            BLOCKED_SOURCES.add(b.strip().lower())
+    print(f"  · blocking sources: {', '.join(sorted(BLOCKED_SOURCES))}")
+    print(f"  · present-year gate: keeping {CURRENT_YEAR} only")
     settings = cfg.get("settings", {})
     max_total = int(settings.get("max_deals", 72))
     max_per = int(settings.get("max_per_source", 25))

@@ -177,8 +177,12 @@ def card_html(d):
     code = (f'<button class="code-pill" data-code="{esc(d["code"])}" type="button">{icon("i-tag")}{esc(d["code"])}</button>'
             if d.get("code") and not claimed else "")
     s = d.get("source")
-    via = (f' · <a class="deal-card__via" href="{esc(safe_url(s.get("url")))}" target="_blank" rel="noopener nofollow">via {esc(s.get("name","source"))}</a>'
+    # Compact "mini source link" (mirrors js/main.js) — the publisher name is no
+    # longer the visible hyperlink; a small labelled Source chip carries the link.
+    src = (f' · <a class="deal-card__src" href="{esc(safe_url(s.get("url")))}" target="_blank" rel="noopener nofollow" title="Source: {esc(s.get("name","source"))}">{icon("i-arrow")}Source</a>'
            if s and safe_url(s.get("url")) != "#" else "")
+    # Share button — hidden until the card is hovered/focused (see styles.css).
+    share = f'<button class="deal-share" type="button" data-share-open aria-label="Share this lobang">{icon("i-share")}</button>'
     cta = ('<span class="deal-card__cta is-disabled">Fully claimed</span>' if claimed
            else f'<a class="deal-card__cta" href="{url}" rel="noopener">View lobang {icon("i-arrow")}</a>')
     return (
@@ -188,9 +192,9 @@ def card_html(d):
         f'<a class="deal-card__media" href="{url}" rel="noopener" tabindex="-1" aria-hidden="true">'
         f'<img src="{img}" alt="" loading="lazy" decoding="async">'
         f'<span class="deal-card__cat">{icon(CAT_ICON.get(cat,"i-tag"))}{esc(CAT_LABELS.get(cat,""))}</span>'
-        f'{overlay}{claim}</a>'
+        f'{overlay}{claim}</a>{share}'
         f'<div class="deal-card__body">'
-        f'<div class="deal-card__store">{esc(d.get("store",""))}{via}</div>'
+        f'<div class="deal-card__store">{esc(d.get("store",""))}{src}</div>'
         f'<h3 class="deal-card__title"><a href="{url}" rel="noopener">{esc(d.get("title",""))}</a></h3>'
         + (f'<p class="deal-card__take">{esc(d.get("desc",""))}</p>' if d.get("desc") else "")
         + code
@@ -226,7 +230,7 @@ def itemlist_jsonld(deals, page_url):
             "item": {"@type": "Offer", "name": d.get("title", ""), "category": (d.get("categories") or [""])[0],
                      "seller": {"@type": "Organization", "name": d.get("store", "")},
                      "url": safe_url(d.get("url"))}})
-    data = {"@context": "https://schema.org", "@type": "ItemList", "name": "Singapore Deals",
+    data = {"@context": "https://schema.org", "@type": "ItemList", "name": "Singapore Lobangs",
             "url": page_url, "numberOfItems": len(items), "itemListElement": items}
     return '<script type="application/ld+json">\n' + json.dumps(data, ensure_ascii=False) + '\n</script>'
 
@@ -234,7 +238,7 @@ def itemlist_jsonld(deals, page_url):
 def org_jsonld():
     data = {"@context": "https://schema.org", "@type": "Organization", "name": "LobangKing.sg",
             "url": SITE_URL + "/", "logo": SITE_URL + "/images/icon-512.png",
-            "description": "Singapore's #1 deals site — verified daily promos, freebies and discounts.",
+            "description": "Singapore's #1 lobang site — verified daily promos, freebies and discounts.",
             "email": CONTACT_EMAIL}
     return '<script type="application/ld+json">\n' + json.dumps(data, ensure_ascii=False) + '\n</script>'
 
@@ -252,7 +256,7 @@ def write_feed(deals):
             "</item>")
     feed = ('<?xml version="1.0" encoding="UTF-8"?>\n'
             '<rss version="2.0"><channel>'
-            '<title>LobangKing.sg — Singapore Deals</title>'
+            '<title>LobangKing.sg — Singapore Lobangs</title>'
             f'<link>{SITE_URL}/</link>'
             '<description>Verified daily promos, freebies and discounts across Singapore.</description>'
             '<language>en-SG</language>'
@@ -283,6 +287,7 @@ def replace_region(s, start, end, content):
 
 # ---- SEO: per-deal + category pages (more indexable pages = more search traffic) ----
 CAT_LABELS = {c["id"]: c["label"] for c in CATEGORIES}
+DEFAULT_LABEL = "Lobangs"
 
 
 def is_active(d):
@@ -312,38 +317,38 @@ def full_page(title, desc, canonical, jsonld, body, og_image=None):
   <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32.png">
   <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
   <link rel="manifest" href="manifest.webmanifest">
-  <link rel="alternate" type="application/rss+xml" title="LobangKing.sg deals" href="feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="LobangKing.sg lobangs" href="feed.xml">
   <meta property="og:type" content="website">
   <meta property="og:title" content="{esc(title)}">
   <meta property="og:description" content="{esc(desc)}">
   <meta property="og:image" content="{esc(og_image)}">
   <meta property="og:url" content="{esc(canonical)}">
   <meta name="twitter:card" content="summary_large_image">
-  <script src="js/theme.js?v=8"></script>
-  <link rel="preload" as="font" type="font/woff2" href="fonts/dmsans-400.woff2?v=8" crossorigin>
-  <link rel="preload" as="font" type="font/woff2" href="fonts/sora-700.woff2?v=8" crossorigin>
-  <link rel="stylesheet" href="css/fonts.min.css?v=8">
-  <link rel="stylesheet" href="css/styles.min.css?v=8">
+  <script src="js/theme.js?v=9"></script>
+  <link rel="preload" as="font" type="font/woff2" href="fonts/dmsans-400.woff2?v=9" crossorigin>
+  <link rel="preload" as="font" type="font/woff2" href="fonts/sora-700.woff2?v=9" crossorigin>
+  <link rel="stylesheet" href="css/fonts.min.css?v=9">
+  <link rel="stylesheet" href="css/styles.min.css?v=9">
   {jsonld}
   {SPEC_RULES}
 </head>
 <body>
 '''
     tail = ('<button class="back-to-top" id="backToTop" type="button" aria-label="Back to top">↑</button>\n'
-            '<script src="js/consent.js?v=8" defer></script>\n'
-            '<script src="js/protect.js?v=8" defer></script>\n'
-            '<script src="js/vitals.js?v=8" defer></script>\n'
-            '<script src="js/engagement.js?v=8" defer></script>\n'
-            '<script src="js/translate.js?v=8" defer></script>\n'
-            '<script src="js/a11y.js?v=8" defer></script>\n'
-            '<script src="js/main.js?v=8" defer></script>\n</body>\n</html>\n')
+            '<script src="js/consent.js?v=9" defer></script>\n'
+            '<script src="js/protect.js?v=9" defer></script>\n'
+            '<script src="js/vitals.js?v=9" defer></script>\n'
+            '<script src="js/engagement.js?v=9" defer></script>\n'
+            '<script src="js/translate.js?v=9" defer></script>\n'
+            '<script src="js/a11y.js?v=9" defer></script>\n'
+            '<script src="js/main.js?v=9" defer></script>\n</body>\n</html>\n')
     return head + header(None) + '<main id="main" tabindex="-1">\n' + body + "\n</main>\n" + footer() + "\n" + tail
 
 
 def deal_page(d, all_deals):
     cat = (d.get("categories") or ["online"])[0]
-    label = CAT_LABELS.get(cat, "Deals")
-    title = f"{d.get('title', 'Deal')} — {d.get('store', '')} | LobangKing.sg"
+    label = CAT_LABELS.get(cat, DEFAULT_LABEL)
+    title = f"{d.get('title', 'Lobang')} — {d.get('store', '')} | LobangKing.sg"
     desc = (d.get("desc") or d.get("title", ""))[:155]
     canonical = f"{SITE_URL}/deal-{d['id']}.html"
     claimed = d.get("status") == "claimed"
@@ -353,7 +358,7 @@ def deal_page(d, all_deals):
              "availability": "https://schema.org/" + ("SoldOut" if claimed else "InStock")}
     crumbs = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
         {"@type": "ListItem", "position": 1, "name": "Home", "item": SITE_URL + "/"},
-        {"@type": "ListItem", "position": 2, "name": "Deals", "item": SITE_URL + "/deals.html"},
+        {"@type": "ListItem", "position": 2, "name": "Lobangs", "item": SITE_URL + "/deals.html"},
         {"@type": "ListItem", "position": 3, "name": d.get("title", "Deal")}]}
     jsonld = ('<script type="application/ld+json">' + json.dumps(offer, ensure_ascii=False) + '</script>'
               '<script type="application/ld+json">' + json.dumps(crumbs, ensure_ascii=False) + '</script>')
@@ -363,13 +368,13 @@ def deal_page(d, all_deals):
                      '<h2>This lobang has been fully redeemed</h2>'
                      '<p>Sorry — this lobang has been fully claimed or is out of stock. The good news: '
                      'there are plenty more below, hand-verified and refreshed every morning.</p>'
-                     f'<a class="btn btn--gold btn--lg" href="deals.html">Browse live {esc(label.lower())} deals {icon("i-arrow")}</a></div>')
+                     f'<a class="btn btn--gold btn--lg" href="deals.html">Browse live {esc(label.lower())} lobangs {icon("i-arrow")}</a></div>')
     else:
         cta_block = (f'<div class="center-cta"><a class="btn btn--gold btn--lg" '
-                     f'href="{esc(safe_url(d.get("url")))}" rel="noopener">Get this deal {icon("i-arrow")}</a></div>')
+                     f'href="{esc(safe_url(d.get("url")))}" rel="noopener">Get this lobang {icon("i-arrow")}</a></div>')
     body = (
         '<section class="page-hero"><div class="container page-hero__inner">'
-        f'<p class="muted"><a class="link-gold" href="deals.html">← All deals</a> · {esc(label)}</p>'
+        f'<p class="muted"><a class="link-gold" href="deals.html">← All lobangs</a> · {esc(label)}</p>'
         f'<h1>{esc(d.get("title", ""))}</h1>'
         f'<p>{esc(d.get("store", ""))} · {esc(d.get("expiry", ""))}</p>'
         '</div></section>'
@@ -379,7 +384,7 @@ def deal_page(d, all_deals):
         '</div></section>')
     if related:
         body += ('<section class="section"><div class="container">'
-                 f'<div class="section__head"><h2 class="section__title">More {esc(label)} deals</h2>'
+                 f'<div class="section__head"><h2 class="section__title">More {esc(label)} lobangs</h2>'
                  '<a class="section__link" href="deals.html">See all →</a></div>'
                  f'<div class="deal-grid">{"".join(card_html(x) for x in related)}</div>'
                  '</div></section>')
