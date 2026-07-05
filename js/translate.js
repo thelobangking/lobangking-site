@@ -51,6 +51,16 @@
   // Let main.js re-apply the chosen language after it re-renders the deal grid.
   window.__lkRetranslate = function () { if (current !== "en") apply(current); };
 
+  // Let the first-page language gate (js/langgate-ui.js) drive the translator:
+  // persist the choice, sync the nav switcher, and translate the page.
+  window.__lkSetLang = function (to) {
+    current = to;
+    try { localStorage.setItem(KEY, to); } catch (e) {}
+    var sel = document.getElementById("langSelect");
+    if (sel) sel.value = to;
+    return apply(to);
+  };
+
   function inject() {
     var host = document.querySelector(".nav__actions");
     if (!host || document.getElementById("langSelect")) return;

@@ -53,64 +53,96 @@
     }
   ],
   "brands_tracked": [
-    "IKEA",
-    "Don Don Donki",
-    "Muji",
-    "Uniqlo",
+    "4Fingers",
     "Adidas",
-    "Nike",
-    "Charles & Keith",
-    "Ya Kun",
-    "McDonald's",
-    "Starbucks",
-    "Chagee",
+    "Agoda",
+    "Amazon",
     "Apple",
+    "BEST Denki",
+    "Best Denki",
+    "BreadTalk",
+    "Burger King",
+    "CIMB",
+    "Chagee",
+    "Challenger",
+    "Charles & Keith",
+    "Coach",
+    "Cold Storage",
+    "Cotton On",
+    "Courts",
+    "Decathlon",
+    "Don Don Donki",
+    "Dyson",
+    "Eu Yan Sang",
+    "Expedia",
+    "FairPrice",
+    "GOLDLION",
+    "Gain City",
+    "GetGo",
+    "Giant",
+    "Gong Cha",
+    "Guardian",
+    "H&M",
+    "HP",
+    "HarbourFront Centre",
+    "Harvey Norman",
+    "Jollibee",
+    "KFC",
+    "Kei Kaisendon",
+    "Kenny Rogers Roasters",
+    "Klook",
+    "Lazada",
     "Lenovo",
+    "LiHO",
+    "Logitech",
+    "Love, Bonito",
+    "Lululemon",
+    "McDonald's",
+    "Michael Kors",
+    "Moley Apparels",
+    "Muji",
+    "Nike",
+    "Orchard Hotel",
+    "Panasonic",
+    "Pedro",
+    "Popeyes",
+    "Punggol GRC",
+    "Qatar Airways",
+    "Qoo10",
+    "REFASH",
+    "Razer",
+    "SUKIYA",
+    "SUSHIRO",
+    "Samsung",
+    "Sasa",
+    "Scoot",
     "Secretlab",
-    "Universal Studios Singapore",
+    "Sephora",
+    "Sheng Siong",
+    "Shihlin",
+    "Shopee",
+    "Singapore Airlines",
     "Singapore Zoo",
+    "Sony",
+    "Sothys",
+    "Starbucks",
+    "Subway",
+    "Swensen's",
+    "TANGS",
+    "Takagi Ramen",
+    "Toast Box",
+    "Toys“R”Us",
+    "Trip.com",
+    "Uniqlo",
+    "Universal Studios Singapore",
+    "Watsons",
+    "Welcia",
+    "Xiaomi",
+    "Ya Kun",
+    "Yellow Ribbon",
     "Zalora",
     "Zara",
-    "H&M",
-    "Cotton On",
-    "Love, Bonito",
-    "Pedro",
-    "Lululemon",
-    "Sephora",
-    "Watsons",
-    "Guardian",
-    "Sasa",
-    "Decathlon",
-    "Courts",
-    "Harvey Norman",
-    "Challenger",
-    "Best Denki",
-    "Gain City",
-    "Samsung",
-    "Xiaomi",
-    "Sony",
-    "Razer",
-    "Logitech",
-    "Dyson",
-    "KFC",
-    "Burger King",
-    "Subway",
-    "Jollibee",
-    "Gong Cha",
-    "LiHO",
-    "Toast Box",
-    "FairPrice",
-    "Sheng Siong",
-    "Cold Storage",
-    "Shopee",
-    "Lazada",
-    "Amazon",
-    "Qoo10",
-    "Klook",
-    "Scoot",
-    "Singapore Airlines",
-    "Agoda",
-    "Trip.com"
+    "Zenyum"
   ],
   "brands_today": [
     "4Fingers",
@@ -119,15 +151,40 @@
     "Burger King",
     "CIMB",
     "Challenger",
+    "Coach",
     "Courts",
     "Eu Yan Sang",
     "Expedia",
+    "GOLDLION",
     "Gain City",
     "GetGo",
+    "Giant",
+    "HP",
+    "HarbourFront Centre",
+    "KFC",
+    "Kei Kaisendon",
+    "Kenny Rogers Roasters",
     "McDonald's",
+    "Michael Kors",
+    "Moley Apparels",
+    "Orchard Hotel",
+    "Panasonic",
+    "Popeyes",
+    "Punggol GRC",
     "Qatar Airways",
+    "REFASH",
+    "SUKIYA",
+    "SUSHIRO",
+    "Sephora",
     "Shihlin",
-    "Swensen's"
+    "Sothys",
+    "Swensen's",
+    "TANGS",
+    "Takagi Ramen",
+    "Toys“R”Us",
+    "Welcia",
+    "Yellow Ribbon",
+    "Zenyum"
   ],
   "deals": [
     {
@@ -159,7 +216,138 @@
       },
       "first_seen": "2026-07-05",
       "expires_at": "2026-07-10",
+      "upcoming": false,
+      "starts_at": "",
       "spotlight": true
+    },
+    {
+      "id": "michael-kors-sale",
+      "title": "Up to 55% off designer handbags, shoes & watches",
+      "store": "Michael Kors · Online & boutiques",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "UP TO 55% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online & in-boutique — prices as marked"
+      },
+      "desc": "Official Michael Kors sale with further reductions across designer handbags, shoes, watches and clothing — over 1,000 styles. Example: the Ava extra-small Saffiano crossbody is down from $430 to $189.",
+      "expiry": "While stocks last",
+      "expires_at": "",
+      "url": "https://www.michaelkors.global/sg/en/sale/",
+      "source": {
+        "name": "Michael Kors",
+        "url": "https://www.michaelkors.global/sg/en/sale/"
+      },
+      "brand": "Michael Kors",
+      "heat": 0,
+      "first_seen": "2026-07-05",
+      "starts_at": "",
+      "upcoming": false
+    },
+    {
+      "id": "coach-bags-sale",
+      "title": "Designer leather bags on sale + free shipping",
+      "store": "Coach · Official online store",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "SALE + FREE SHIP"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — free shipping for a limited time"
+      },
+      "desc": "Coach Singapore's official leather bag sale — exclusive deals on handbags and signature styles, with free shipping for a limited time. New customers get 10% off their first order with code HELLO10.",
+      "expiry": "While stocks last",
+      "expires_at": "",
+      "url": "https://singapore.coach.com/sales/bags.html",
+      "source": {
+        "name": "Coach Singapore",
+        "url": "https://singapore.coach.com/sales/bags.html"
+      },
+      "brand": "Coach",
+      "heat": 0,
+      "first_seen": "2026-07-05",
+      "starts_at": "",
+      "upcoming": false
+    },
+    {
+      "id": "sephora-sale-50",
+      "title": "Up to 50% off makeup, skincare & fragrance",
+      "store": "Sephora · Online & stores",
+      "categories": [
+        "fashion",
+        "online"
+      ],
+      "icon": "💄",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "UP TO 50% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online & in-store — prices as marked"
+      },
+      "desc": "Sephora's ongoing sale takes up to 50% off across makeup, skincare, fragrance and hair — including Sephora Collection (40–60% off) plus Sulwhasoo, Laneige and Caudalie. New app users get an extra 10% off their first purchase with code APP10.",
+      "expiry": "While stocks last",
+      "expires_at": "",
+      "url": "https://www.sephora.sg/sale",
+      "source": {
+        "name": "Sephora Singapore",
+        "url": "https://www.sephora.sg/sale"
+      },
+      "brand": "Sephora",
+      "heat": 0,
+      "first_seen": "2026-07-05",
+      "starts_at": "",
+      "upcoming": false
+    },
+    {
+      "id": "sukiya-shrimp-miso",
+      "title": "Shrimp Ball Miso Soup from $2.90",
+      "store": "SUKIYA · All 30 halal outlets",
+      "brand": "SUKIYA",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍲",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "FROM $2.90"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Dine-in at all outlets islandwide"
+      },
+      "desc": "New Shrimp Ball Miso Soup for a limited time — order it on its own or upgrade any regular miso soup for just $2.90. Available at all 30 Halal-certified SUKIYA outlets.",
+      "expiry": "While stocks last",
+      "heat": 372,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -190,7 +378,73 @@
         "url": "https://www.gaincity.com/"
       },
       "first_seen": "2026-07-05",
-      "expires_at": "2026-07-26"
+      "expires_at": "2026-07-26",
+      "upcoming": false,
+      "starts_at": ""
+    },
+    {
+      "id": "takagi-ramen-1for1-ndp",
+      "title": "Ultimate 1-for-1 ramen & rice bowls",
+      "store": "Takagi Ramen · Delivery & outlets",
+      "brand": "Takagi Ramen",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "GrabFood, Foodpanda or order direct"
+      },
+      "desc": "NDP-season Ultimate 1-for-1 on selected ramen and rice bowls — great-value Japanese comfort food via GrabFood, Foodpanda or direct ordering.",
+      "expiry": "While stocks last",
+      "heat": 369,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": ""
+    },
+    {
+      "id": "yellowribbon-hellokitty-plush",
+      "title": "Win a Hello Kitty x Yellow Ribbon 50th plush",
+      "store": "Yellow Ribbon Singapore · Giveaway",
+      "brand": "Yellow Ribbon",
+      "categories": [
+        "entertainment"
+      ],
+      "icon": "🎁",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE GIVEAWAY"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Share your story to enter"
+      },
+      "desc": "For its 50th Anniversary, Yellow Ribbon Singapore is giving away an exclusive Hello Kitty collectible plush. Share a thank-you story to someone who believed in you for a chance to win.",
+      "expiry": "Ends 31 Jul",
+      "heat": 366,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-31",
+      "upcoming": false,
+      "starts_at": ""
     },
     {
       "id": "challenger-ms365",
@@ -220,7 +474,41 @@
         "url": "https://online.challenger.sg/pages/promotions"
       },
       "first_seen": "2026-07-05",
-      "expires_at": "2026-07-31"
+      "expires_at": "2026-07-31",
+      "upcoming": false,
+      "starts_at": ""
+    },
+    {
+      "id": "kennyrogers-670-meals",
+      "title": "$6.70 rice or pasta meals islandwide",
+      "store": "Kenny Rogers Roasters · Islandwide",
+      "brand": "Kenny Rogers Roasters",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍗",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "$6.70 MEALS"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Selected outlets & online ordering"
+      },
+      "desc": "Rice or pasta meals for just $6.70 each — an easy, wallet-friendly lunch or dinner at selected Kenny Rogers Roasters outlets islandwide and via online ordering.",
+      "expiry": "While stocks last",
+      "heat": 363,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": ""
     },
     {
       "id": "mcdonalds-mcnuggets-990",
@@ -250,7 +538,73 @@
         "url": "https://singpromos.com/sales-calendar/2026-07/dining-restaurants-food/"
       },
       "first_seen": "2026-07-05",
-      "expires_at": "2026-07-08"
+      "expires_at": "2026-07-08",
+      "upcoming": false,
+      "starts_at": ""
+    },
+    {
+      "id": "welcia-kose-beauty",
+      "title": "Up to 50% off KOSE beauty + free gifts",
+      "store": "Welcia · KOSE brands",
+      "brand": "Welcia",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "💄",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "UP TO 50% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "In-store at Welcia outlets"
+      },
+      "desc": "Up to 50% off selected KOSE beauty brands including SEKKISEI, ONE BY KOSÉ and FASIO, plus exclusive SEKKISEI x Monchhichi gifts, foldable bags and deluxe samples with qualifying purchases.",
+      "expiry": "While stocks last",
+      "heat": 360,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": ""
+    },
+    {
+      "id": "hp-double7-savings",
+      "title": "Double 7: up to $120 off HP laptops & printers",
+      "store": "HP Singapore Online Store",
+      "brand": "HP",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "💻",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "UP TO $120 OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Sitewide vouchers at HP online store"
+      },
+      "desc": "HP's Double 7 sale: sitewide vouchers worth up to $120 off selected HP AI laptops, workstations, printers and accessories. Upgrade your tech for less while the offer lasts.",
+      "expiry": "While stocks last",
+      "heat": 357,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": ""
     },
     {
       "id": "courts-get7",
@@ -282,7 +636,9 @@
         "url": "https://www.courts.com.sg/promotions-terms-conditions"
       },
       "first_seen": "2026-07-05",
-      "expires_at": "2026-07-12"
+      "expires_at": "2026-07-12",
+      "upcoming": false,
+      "starts_at": ""
     },
     {
       "id": "shihlin-fried-chicken-day",
@@ -312,7 +668,74 @@
         "url": "https://thesmartlocal.com/read/deals-this-week-singapore/"
       },
       "first_seen": "2026-07-05",
-      "expires_at": "2026-07-08"
+      "expires_at": "2026-07-08",
+      "upcoming": true,
+      "starts_at": "2026-07-06"
+    },
+    {
+      "id": "giant-durian-buffet",
+      "title": "Unlimited durian buffet at Giant Tampines",
+      "store": "Giant · Tampines Hypermarket",
+      "brand": "Giant",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍈",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "EARLY-BIRD DEAL"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Book ahead for early-bird pricing"
+      },
+      "desc": "Giant's popular Durian Buffet Party returns to Giant Tampines Hypermarket — unlimited fresh durians with complimentary fresh coconut and tropical fruits. Book ahead to lock in early-bird pricing.",
+      "expiry": "18–19 Jul",
+      "heat": 354,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-19",
+      "upcoming": true,
+      "starts_at": "2026-07-18",
+      "image": "images/up-giant-durian.jpg"
+    },
+    {
+      "id": "sothys-july-skincare",
+      "title": "10% off + gifts worth up to $106",
+      "store": "Sothys Singapore",
+      "brand": "Sothys",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "🧴",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "10% OFF + GIFTS"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "In-store & online while stocks last"
+      },
+      "desc": "Sothys July skincare offers: the new MultiVit range, complimentary gifts worth up to $106, limited-edition cleansing sets, anti-ageing offers and 10% off selected favourites.",
+      "expiry": "While stocks last",
+      "heat": 351,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": ""
     },
     {
       "id": "4fingers-fried-chicken-day",
@@ -342,7 +765,41 @@
         "url": "https://sg.everydayonsales.com/promotions-freebies/"
       },
       "first_seen": "2026-07-05",
-      "expires_at": "2026-07-09"
+      "expires_at": "2026-07-09",
+      "upcoming": true,
+      "starts_at": "2026-07-06"
+    },
+    {
+      "id": "harbourfront-summer-popup",
+      "title": "Free selfie-mirror pop-up experience",
+      "store": "HarbourFront Centre · Pop-up",
+      "brand": "HarbourFront Centre",
+      "categories": [
+        "entertainment"
+      ],
+      "icon": "🎡",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE ACTIVITY"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Drop by the mall pop-up"
+      },
+      "desc": "A creative summer pop-up with a fun selfie-mirror personalisation activity — a simple, free, hands-on mall experience for families, shoppers and commuters.",
+      "expiry": "Ends 26 Jul",
+      "heat": 348,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-26",
+      "upcoming": false,
+      "starts_at": ""
     },
     {
       "id": "breadtalk-26th-anniversary",
@@ -372,7 +829,73 @@
         "url": "https://thesmartlocal.com/read/deals-this-week-singapore/"
       },
       "first_seen": "2026-07-05",
-      "expires_at": "2026-07-31"
+      "expires_at": "2026-07-31",
+      "upcoming": false,
+      "starts_at": ""
+    },
+    {
+      "id": "kfc-drivethru-voucher",
+      "title": "Free decal + $5 voucher, no min spend",
+      "store": "KFC · Drive-Thru outlets",
+      "brand": "KFC",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍗",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE $5 VOUCHER"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Islandwide Drive-Thru, no min spend"
+      },
+      "desc": "KFC Drive-Thru freebie: a free decal and a $5 voucher with no minimum spend, at islandwide Drive-Thru outlets while stocks last.",
+      "expiry": "While stocks last",
+      "heat": 345,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": ""
+    },
+    {
+      "id": "zenyum-sonic2-50off",
+      "title": "50% off ZenyumSonic 2.0 (now $59.90)",
+      "store": "Zenyum Singapore",
+      "brand": "Zenyum",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "🪥",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "50% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online at Zenyum SG"
+      },
+      "desc": "Half price on the ZenyumSonic 2.0 smart sonic toothbrush — smarter oral care for just $59.90.",
+      "expiry": "Ends 12 Jul",
+      "heat": 342,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-12",
+      "upcoming": false,
+      "starts_at": ""
     },
     {
       "id": "swensens-saf-sundae",
@@ -402,7 +925,41 @@
         "url": "https://sg.everydayonsales.com/promotions-freebies/"
       },
       "first_seen": "2026-07-05",
-      "expires_at": "2026-07-31"
+      "expires_at": "2026-07-31",
+      "upcoming": false,
+      "starts_at": ""
+    },
+    {
+      "id": "panasonic-grooming-10off",
+      "title": "10% off shavers & hair dryers + extra 5%",
+      "store": "Panasonic Singapore · Online",
+      "brand": "Panasonic",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "🪒",
+      "badges": [
+        {
+          "type": "code",
+          "label": "CODE: PANASAF26"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — apply code PANASAF26"
+      },
+      "desc": "10% off selected Panasonic shavers and hair dryers, with an extra 5% off when you buy more than one. Apply promo code PANASAF26 at checkout.",
+      "expiry": "Ends 15 Jul",
+      "heat": 339,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-15",
+      "upcoming": false,
+      "starts_at": ""
     },
     {
       "id": "burgerking-app-coupons",
@@ -432,7 +989,9 @@
         "url": "https://singpromos.com/date/2026/07/"
       },
       "first_seen": "2026-07-05",
-      "expires_at": "2026-07-31"
+      "expires_at": "2026-07-31",
+      "upcoming": false,
+      "starts_at": ""
     },
     {
       "id": "euyansang-online-jul",
@@ -463,7 +1022,9 @@
         "url": "https://sg.everydayonsales.com/promotions-freebies/"
       },
       "first_seen": "2026-07-05",
-      "expires_at": "2026-07-08"
+      "expires_at": "2026-07-08",
+      "upcoming": false,
+      "starts_at": "2026-07-02"
     },
     {
       "id": "bestdenki-oppo-x9s",
@@ -493,7 +1054,9 @@
         "url": "https://sg.everydayonsales.com/promotions-freebies/"
       },
       "first_seen": "2026-07-05",
-      "expires_at": "2026-07-31"
+      "expires_at": "2026-07-31",
+      "upcoming": false,
+      "starts_at": ""
     },
     {
       "id": "getgo-weekday-drives",
@@ -523,7 +1086,9 @@
         "url": "https://www.getgo.sg/blog/best-promos-and-deals-singapore-july-2026"
       },
       "first_seen": "2026-07-05",
-      "expires_at": "2026-07-31"
+      "expires_at": "2026-07-31",
+      "upcoming": false,
+      "starts_at": ""
     },
     {
       "id": "expedia-uob-hotels",
@@ -553,7 +1118,9 @@
         "url": "https://singpromos.com/date/2026/07/"
       },
       "first_seen": "2026-07-05",
-      "expires_at": "2026-12-31"
+      "expires_at": "2026-12-31",
+      "upcoming": false,
+      "starts_at": ""
     },
     {
       "id": "qatar-mastercard-flights",
@@ -583,7 +1150,9 @@
         "url": "https://singpromos.com/date/2026/07/"
       },
       "first_seen": "2026-07-05",
-      "expires_at": "2026-12-31"
+      "expires_at": "2026-12-31",
+      "upcoming": false,
+      "starts_at": ""
     },
     {
       "id": "cimb-fixed-deposit",
@@ -613,7 +1182,336 @@
         "url": "https://singpromos.com/date/2026/07/"
       },
       "first_seen": "2026-07-05",
-      "expires_at": ""
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-07-01"
+    },
+    {
+      "id": "sushiro-myvillage-opening",
+      "title": "1-for-1 sushi + grand-opening gifts",
+      "store": "SUSHIRO · myVillage @ Serangoon Garden",
+      "brand": "SUSHIRO",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍣",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1 SUSHI"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Dine-in — new outlet launch"
+      },
+      "desc": "SUSHIRO's newest outlet opens at myVillage @ Serangoon Garden with two weeks of 1-for-1 sushi — Bluefin Fatty Tuna, Fresh Salmon and Medium Fatty Tuna included — plus opening-day gifts and launch rewards.",
+      "expiry": "7–20 Jul",
+      "expires_at": "2026-07-20",
+      "starts_at": "2026-07-07",
+      "heat": 372,
+      "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/"
+      },
+      "image": "images/up-sushiro.jpg",
+      "first_seen": "2026-07-05",
+      "upcoming": true
+    },
+    {
+      "id": "popeyes-heartbeat-bucket",
+      "title": "$11.50 4pc chicken + drink, every Tuesday",
+      "store": "Popeyes · Islandwide",
+      "brand": "Popeyes",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍗",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "$11.50 TUESDAYS"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Selected Tuesdays · 11am–10pm"
+      },
+      "desc": "Popeyes' Singapore Heartbeat Bucket Set: 4 pieces of Signature Chicken with a Large Drink for only $11.50 every selected Tuesday — a National-Day-season treat that runs all the way to 25 August.",
+      "expiry": "Tuesdays till 25 Aug",
+      "expires_at": "2026-08-25",
+      "starts_at": "2026-07-07",
+      "heat": 340,
+      "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/"
+      },
+      "image": "images/up-popeyes-heartbeat.jpg",
+      "first_seen": "2026-07-05",
+      "upcoming": true
+    },
+    {
+      "id": "tangs-sulwhasoo-candle",
+      "title": "Sulwhasoo candle workshop + $100 voucher",
+      "store": "TANGS × Sulwhasoo · Tang Plaza",
+      "brand": "TANGS",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "🕯️",
+      "badges": [
+        {
+          "type": "free",
+          "label": "$152 IN GIFTS"
+        }
+      ],
+      "access": {
+        "type": "signup",
+        "label": "Book a workshop slot"
+      },
+      "desc": "Craft a bespoke scented candle at the Sulwhasoo Candle Making Workshop (10–12 & 24–26 Jul) at TANGS Tang Plaza, and walk away with a $100 Sulwhasoo voucher plus a complimentary 3-piece gift worth $52.",
+      "expiry": "10–26 Jul",
+      "expires_at": "2026-07-26",
+      "starts_at": "2026-07-10",
+      "heat": 300,
+      "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/"
+      },
+      "image": "images/up-tangs-sulwhasoo.jpg",
+      "first_seen": "2026-07-05",
+      "upcoming": true
+    },
+    {
+      "id": "refash-go-green-market",
+      "title": "Turn preloved fashion into eVouchers",
+      "store": "REFASH · West Mall",
+      "brand": "REFASH",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "♻️",
+      "badges": [
+        {
+          "type": "free",
+          "label": "EARN eVOUCHERS"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Walk-in — no appointment"
+      },
+      "desc": "Declutter your wardrobe at the REFASH Go Green Market — bring eligible preloved clothing, bags and wallets and receive West Mall eVouchers in return. Walk-in, no appointment needed, sustainable fashion for the win.",
+      "expiry": "10–11 Jul",
+      "expires_at": "2026-07-11",
+      "starts_at": "2026-07-10",
+      "heat": 286,
+      "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/"
+      },
+      "image": "images/up-refash.jpg",
+      "first_seen": "2026-07-05",
+      "upcoming": true
+    },
+    {
+      "id": "toysrus-football-sale",
+      "title": "Up to 80% off toys + Panini trading",
+      "store": "Toys“R”Us · Islandwide",
+      "brand": "Toys“R”Us",
+      "categories": [
+        "entertainment"
+      ],
+      "icon": "⚽",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "UP TO 80% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "In-store & online"
+      },
+      "desc": "The Toys“R”Us Football Sale brings up to 80% off selected toys plus a live Panini sticker trading event — a goal for parents, kids and collectors alike.",
+      "expiry": "6–12 Jul",
+      "expires_at": "2026-07-12",
+      "starts_at": "2026-07-06",
+      "heat": 312,
+      "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/"
+      },
+      "image": "images/up-toysrus.jpg",
+      "first_seen": "2026-07-05",
+      "upcoming": true
+    },
+    {
+      "id": "punggol-harmony-carnival",
+      "title": "Free open-top bus tour + carnival fun",
+      "store": "Punggol GRC · Punggol 21 CC",
+      "brand": "Punggol GRC",
+      "categories": [
+        "entertainment"
+      ],
+      "icon": "🎪",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE ADMISSION"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Free entry — one day only"
+      },
+      "desc": "The Inter-Racial & Religious Harmony Carnival brings a FREE open-top bus Punggol tour, multicultural performances, kampong games, snacks and getai — a full, free family day out on 19 July.",
+      "expiry": "19 Jul only",
+      "expires_at": "2026-07-19",
+      "starts_at": "2026-07-19",
+      "heat": 268,
+      "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/"
+      },
+      "image": "images/up-punggol-carnival.jpg",
+      "first_seen": "2026-07-05",
+      "upcoming": true
+    },
+    {
+      "id": "orchard-hotel-nationalday-drinks",
+      "title": "Local-inspired drinks from $6.10",
+      "store": "Orchard Hotel Singapore",
+      "brand": "Orchard Hotel",
+      "categories": [
+        "food"
+      ],
+      "icon": "🥂",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "FROM $6.10"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Available through August"
+      },
+      "desc": "Celebrate National Day at Orchard Hotel Singapore with a series of local-inspired drinks priced from $6.10 all through August — a nostalgic, wallet-friendly way to toast SG61.",
+      "expiry": "Aug 2026",
+      "expires_at": "2026-08-31",
+      "starts_at": "2026-08-01",
+      "heat": 258,
+      "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/"
+      },
+      "image": "images/up-orchard-hotel.jpg",
+      "first_seen": "2026-07-05",
+      "upcoming": true
+    },
+    {
+      "id": "goldlion-moving-out",
+      "title": "Moving-out sale + free $10 voucher",
+      "store": "GOLDLION · Moving-out sale",
+      "brand": "GOLDLION",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👔",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE $10 VOUCHER"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "In-store · no min spend voucher"
+      },
+      "desc": "GOLDLION's moving-out sale pairs a Spend-More-Save-More deal with a $10 cash voucher (no minimum spend) — quality menswear, leather goods and accessories before the store closes.",
+      "expiry": "Ends 31 Jul",
+      "expires_at": "2026-07-31",
+      "starts_at": "",
+      "heat": 244,
+      "url": "https://sg.everydayonsales.com/warehouse-sale/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/warehouse-sale/"
+      },
+      "first_seen": "2026-07-05",
+      "upcoming": false
+    },
+    {
+      "id": "moley-apparels-closing",
+      "title": "30% off storewide — closing after 15 years",
+      "store": "Moley Apparels · HarbourFront Centre",
+      "brand": "Moley Apparels",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "🏷️",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "30% OFF ALL"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "In-store while it lasts"
+      },
+      "desc": "Moley Apparels bids farewell to its very first HarbourFront Centre store after 15 years — 30% off storewide during the moving-out sale before the doors close for good.",
+      "expiry": "Ends 26 Jul",
+      "expires_at": "2026-07-26",
+      "starts_at": "",
+      "heat": 230,
+      "url": "https://sg.everydayonsales.com/warehouse-sale/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/warehouse-sale/"
+      },
+      "first_seen": "2026-07-05",
+      "upcoming": false
+    },
+    {
+      "id": "kei-kaisendon-premium-set",
+      "title": "Premium Kaisendon set from $22.95++",
+      "store": "Kei Kaisendon",
+      "brand": "Kei Kaisendon",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍥",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "FROM $22.95++"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Dine-in"
+      },
+      "desc": "Kei Kaisendon's Premium Set Meal: an authentic Japanese kaisendon served with side dishes and a drink for $22.95++ (usual $24.95++) — a worthwhile treat for seafood lovers.",
+      "expiry": "While stocks last",
+      "expires_at": "",
+      "starts_at": "",
+      "heat": 210,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-07-05",
+      "upcoming": false
     }
   ]
 }

@@ -1,7 +1,10 @@
 {
   "_help": "Sources for the daily aggregator. 'rss' = deal-publisher feeds. 'brand_news' = per-brand Google News RSS (Singapore, promo-filtered) — each item links to the original article. 'involve_asia' = optional merchant-authorised API (also earns commission). For a site without a native feed, generate one free at https://rss.app.",
   "_blocked_help": "Publishers to never surface (matched case-insensitively against the source name, the feed's publisher, or the article URL). Add a name or domain fragment here to exclude a blog whose deals are stale or off-brand.",
-  "blocked_sources": ["setlui", "alvinology"],
+  "blocked_sources": [
+    "setlui",
+    "alvinology"
+  ],
   "rss": [
     {
       "name": "SINGPromos",
@@ -31,7 +34,6 @@
     "ceid": "SG:en",
     "max_per_brand": 4,
     "brands": [
-      "IKEA",
       "Don Don Donki",
       "Muji",
       "Uniqlo",
@@ -88,7 +90,34 @@
       "Scoot",
       "Singapore Airlines",
       "Agoda",
-      "Trip.com"
+      "Trip.com",
+      "Coach",
+      "Michael Kors",
+      "Kate Spade",
+      "Furla",
+      "Longchamp",
+      "Tory Burch",
+      "Marc Jacobs",
+      "Tumi",
+      "Fossil",
+      "Swatch",
+      "Charlotte Tilbury",
+      "Estée Lauder",
+      "Lancôme",
+      "Clinique",
+      "La Mer",
+      "SK-II",
+      "Jo Malone",
+      "Aesop",
+      "Kiehl's",
+      "Shiseido",
+      "Laneige",
+      "Sulwhasoo",
+      "Tangs",
+      "Takashimaya",
+      "Robinsons",
+      "Metro",
+      "BHG"
     ]
   },
   "involve_asia": {

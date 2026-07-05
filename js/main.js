@@ -253,6 +253,76 @@
     );
   }
 
+  /* ================================================================
+     Upcoming Lobangs — an immersive, deliberately-different poster card for
+     deals that haven't started yet. Full-bleed hero image + gradient veil, a
+     glowing live launch-countdown pill, and a drawer that expands the copy on
+     hover/focus. Same data-* attributes as dealCard so Chope + Share just work.
+     Kept in lockstep with upcoming_card_html() in scripts/build_pages.py.
+     ================================================================ */
+  var MON3 = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  function fmtDayMon(iso) {
+    var p = /^(\d{4})-(\d{2})-(\d{2})/.exec(iso); if (!p) return "";
+    return (+p[3]) + " " + (MON3[+p[2] - 1] || "");
+  }
+  // {cls,text} for the launch-countdown pill (mirror of launch_label() in Python).
+  function launchLabel(iso) {
+    var d = daysLeft(iso);
+    if (d === null) return { cls: "", text: "Coming soon" };
+    if (d < 0) return { cls: "is-live", text: "Live now" };
+    if (d === 0) return { cls: "is-imminent", text: "Launches today" };
+    if (d === 1) return { cls: "is-imminent", text: "Launches tomorrow" };
+    if (d <= 6) return { cls: "is-soon", text: "Launches in " + d + " days" };
+    return { cls: "", text: "Launches " + fmtDayMon(iso) };
+  }
+  function upcomingCard(d) {
+    var cat = (d.categories || ["online"])[0];
+    var url = esc(safeUrl(d.url));
+    var img = esc(d.image || "images/deal-fallback.jpg");
+    var badges = d.badges || [], primary = null;
+    for (var i = 0; i < badges.length; i++) { if (["free", "discount", "code"].indexOf(badges[i].type) > -1) { primary = badges[i]; break; } }
+    var badge = primary ? '<span class="up-card__badge up-card__badge--' + esc(primary.type) + '">' + esc(primary.label) + "</span>" : "";
+    var src = (d.source && d.source.url && d.source.url !== "#")
+      ? '<a class="up-card__src" href="' + esc(safeUrl(d.source.url)) + '" target="_blank" rel="noopener nofollow" title="Source: ' + esc(d.source.name || "source") + '">' + jic("i-arrow") + "Source</a>" : "";
+    var L = launchLabel(d.starts_at || "");
+    var launch = '<span class="up-card__count ' + L.cls + '" data-starts="' + esc(d.starts_at || "") + '">' + jic("i-clock") + '<span class="uc-text">' + esc(L.text) + "</span></span>";
+    var share = '<button class="deal-share" type="button" data-share-open aria-label="Share this lobang">' + jic("i-share") + "</button>";
+    var eyebrow = '<span class="up-card__eyebrow"><span class="up-card__emoji" aria-hidden="true">' + esc(d.icon || "✨") + "</span>Upcoming lobang</span>";
+    return (
+      '<article class="up-card reveal" data-id="' + esc(d.id) + '" data-cats="' + esc((d.categories || []).join(",")) +
+        '" data-title="' + esc(d.title) + '" data-store="' + esc(d.store) + '" data-url="' + url + '" data-img="' + img + '" data-expires="' + esc(d.expires_at || "") + '">' +
+        '<div class="up-card__poster">' +
+          '<img class="up-card__img" src="' + img + '" alt="" loading="lazy" decoding="async">' +
+          '<span class="up-card__veil" aria-hidden="true"></span>' +
+          '<span class="up-card__sheen" aria-hidden="true"></span>' +
+          '<span class="up-card__cat">' + jic(CAT_ICON[cat] || "i-tag") + esc(catLabel(cat)) + "</span>" +
+          launch + chopeBtn() + share +
+          '<div class="up-card__head">' + eyebrow +
+            '<div class="up-card__store">' + esc(d.store) + "</div>" +
+            '<h3 class="up-card__title"><a href="' + url + '" rel="noopener">' + esc(d.title) + "</a></h3>" +
+          "</div>" +
+        "</div>" +
+        '<div class="up-card__drawer">' +
+          '<div class="up-card__row">' + badge + src + "</div>" +
+          (d.desc ? '<p class="up-card__desc">' + esc(d.desc) + "</p>" : "") +
+          '<div class="up-card__foot">' + timeChip(d) +
+            '<a class="up-card__cta" href="' + url + '" rel="noopener">Sneak peek ' + jic("i-arrow") + "</a>" +
+          "</div>" +
+        "</div>" +
+      "</article>"
+    );
+  }
+  // Refresh every Upcoming card's launch pill (days-to-launch shrinks over time).
+  function applyLaunchCountdowns() {
+    $$(".up-card__count[data-starts]").forEach(function (chip) {
+      var L = launchLabel(chip.getAttribute("data-starts"));
+      chip.classList.remove("is-live", "is-imminent", "is-soon");
+      if (L.cls) chip.classList.add(L.cls);
+      var t = chip.querySelector(".uc-text");
+      if (t) t.textContent = L.text;
+    });
+  }
+
   function spotlightCard(d, noReveal) {
     var url = esc(safeUrl(d.url));
     var img = esc(d.image || "images/deal-fallback.jpg");
@@ -382,7 +452,7 @@
     if (grid) {
       var limit = parseInt(grid.getAttribute("data-limit") || "0", 10);
       var excludeSpot = grid.getAttribute("data-exclude-spotlight") === "true";
-      var list = DATA.deals.slice();
+      var list = DATA.deals.filter(function (d) { return !d.upcoming; });  // upcoming deals live in their own section
       if (excludeSpot) list = list.filter(function (d) { return !d.spotlight; });
       list = filterSort(list);
       var total = list.length, shown;
@@ -398,6 +468,18 @@
         ? '<button class="btn btn--ghost btn--lg" id="loadMore" type="button">Load more lobangs (' + (total - shown) + ' more)</button>'
         : "");
     }
+    // Upcoming lobangs — deals that haven't started yet, in their own section.
+    // Shown only in the default view (no filter), mirroring the carousel below.
+    var upWrap = $("#upcomingSection"), upGrid = $("#upcomingGrid");
+    if (upWrap && upGrid) {
+      var ups = DATA.deals.filter(function (d) { return d.upcoming; }).sort(function (a, b) {
+        var x = a.starts_at || "9999-12-31", y = b.starts_at || "9999-12-31"; return x < y ? -1 : x > y ? 1 : 0;
+      });
+      var showUp = ups.length > 0 && state.category === "all" && !state.query.trim();
+      upWrap.hidden = !showUp;
+      setHTML(upGrid, showUp ? ups.map(upcomingCard).join("") : "");
+    }
+
     // "Latest lobangs" carousel — a showcase of the newest deals. Shown only in
     // the default view (no category filter, no search); hidden while filtering.
     var spot = $("#spotlight");
@@ -405,7 +487,7 @@
       var show = state.category === "all" && !state.query.trim();
       spot.style.display = show ? "" : "none";
       if (show && spot.getAttribute("data-rendered") !== "1") {
-        var latest = DATA.deals.slice().sort(function (a, b) {
+        var latest = DATA.deals.filter(function (d) { return !d.upcoming; }).sort(function (a, b) {
           var x = a.first_seen || "", y = b.first_seen || ""; return x < y ? 1 : x > y ? -1 : 0;
         }).slice(0, 6);
         if (latest.length) {
@@ -418,6 +500,7 @@
     revealObserve();
     paintChopeButtons();      // reflect saved state on freshly-rendered cards
     applyCountdowns();        // turn time chips into live countdowns
+    applyLaunchCountdowns();  // refresh Upcoming cards' launch pills
     renderLobangOfDay();      // refresh the daily pick once deals are in
     if (window.__lkRetranslate) window.__lkRetranslate();   // re-apply on-device translation to new cards
   }
@@ -619,10 +702,11 @@
     });
   }
   var _cdTimer = null;
+  function tickCountdowns() { applyCountdowns(); applyLaunchCountdowns(); }
   function startCountdownTicker() {
     if (_cdTimer) return;
-    _cdTimer = setInterval(applyCountdowns, 60000);   // refresh every minute
-    document.addEventListener("visibilitychange", function () { if (!document.hidden) applyCountdowns(); });
+    _cdTimer = setInterval(tickCountdowns, 60000);   // refresh every minute
+    document.addEventListener("visibilitychange", function () { if (!document.hidden) tickCountdowns(); });
   }
 
   /* ================================================================

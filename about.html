@@ -19,16 +19,26 @@
   <meta property="og:description" content="How Singapore's friendliest lobang site works.">
   <meta property="og:image" content="images/og-image.png">
   <meta name="twitter:card" content="summary_large_image">
-  <script src="js/theme.js?v=10"></script>
-  <link rel="preload" as="font" type="font/woff2" href="fonts/dmsans-400.woff2?v=10" crossorigin>
-  <link rel="preload" as="font" type="font/woff2" href="fonts/sora-700.woff2?v=10" crossorigin>
-  <link rel="stylesheet" href="css/fonts.min.css?v=10">
-  <link rel="stylesheet" href="css/styles.min.css?v=10">
+  <script src="js/theme.js?v=12"></script>
+  <link rel="preload" as="font" type="font/woff2" href="fonts/dmsans-400.woff2?v=12" crossorigin>
+  <link rel="preload" as="font" type="font/woff2" href="fonts/sora-700.woff2?v=12" crossorigin>
+  <link rel="stylesheet" href="css/fonts.min.css?v=12">
+  <link rel="stylesheet" href="css/styles.min.css?v=12">
   <script type="speculationrules">
   {"prerender":[{"where":{"href_matches":"/*"},"eagerness":"moderate"}],"prefetch":[{"where":{"href_matches":"/*"},"eagerness":"moderate"}]}
   </script>
 </head>
 <body>
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -76,54 +86,111 @@
 </header>
 
 <main id="main" tabindex="-1">
-  <section class="page-hero">
+  <section class="page-hero about-hero">
     <div class="container page-hero__inner">
-      <span class="hero__eyebrow">👑 About us</span>
-      <h1>Saving Singapore money, one lobang at a time</h1>
-      <p>We're a small team of lobang-hunters who believe finding a good promo shouldn't feel like a part-time job. So we do the digging — you do the saving.</p>
+      <span class="hero__eyebrow">👑 About LobangKing</span>
+      <h1>Every good lobang in Singapore, hunted by the King</h1>
+      <p>We're your kaki for saving money. The Lobang King and his royal crew comb the whole island — stores, banks, telco apps, community tip-offs — so you never miss a steal. You just show up and cash in.</p>
+      <div class="stat-band reveal">
+        <div class="stat-band__item"><b>100%</b><span>Hand-verified</span></div>
+        <div class="stat-band__item"><b>Daily</b><span>Fresh lobangs</span></div>
+        <div class="stat-band__item"><b>$0</b><span>Free, forever</span></div>
+        <div class="stat-band__item"><b>1-tap</b><span>Grab &amp; share</span></div>
+      </div>
     </div>
   </section>
 
-  <section class="section">
+  <section class="section howto">
     <div class="container">
-      <div class="section__head"><h2 class="section__title"><span class="ic">⚙️</span> How it works</h2></div>
+      <div class="section__head section__head--center">
+        <h2 class="section__title">👑 How the King works — 1, 2, 3</h2>
+        <p class="section__sub">Three steps between you and your next steal. Tap a step to watch the King in action.</p>
+      </div>
+
+      <div class="stepper reveal">
+        <input class="stepper__radio" type="radio" name="howto" id="howto-1" aria-label="Step 1: Hunt" checked>
+        <input class="stepper__radio" type="radio" name="howto" id="howto-2" aria-label="Step 2: Verify">
+        <input class="stepper__radio" type="radio" name="howto" id="howto-3" aria-label="Step 3: Strike gold">
+
+        <div class="stepper__tabs">
+          <label class="stepper__tab" for="howto-1"><span class="stepper__num">1</span><span class="stepper__tabtxt"><b>Hunt</b><i>We dig it up</i></span></label>
+          <label class="stepper__tab" for="howto-2"><span class="stepper__num">2</span><span class="stepper__tabtxt"><b>Verify</b><i>Confirm plus chop</i></span></label>
+          <label class="stepper__tab" for="howto-3"><span class="stepper__num">3</span><span class="stepper__tabtxt"><b>Strike gold</b><i>You cash in</i></span></label>
+        </div>
+
+        <div class="stepper__panels">
+          <article class="stepper__panel" id="howto-panel-1">
+            <div class="stepper__art"><img src="images/how-step-1-hunt.webp" alt="The Lobang King hunting for deals with a magnifying glass among Singapore shophouses" width="720" height="505" loading="lazy" decoding="async"></div>
+            <div class="stepper__copy">
+              <span class="stepper__kicker">Step 01 · The hunt</span>
+              <h3>The King chiongs for the lobangs</h3>
+              <p>Every single morning — before you've even had your kopi — we're on the prowl. We sweep stores, banks, telco apps, food chains and tip-offs from the community for lobangs that are actually worth your time.</p>
+              <ul class="ticks">
+                <li>Whole-island coverage, from Jurong to Changi</li>
+                <li>Fresh drops every morning</li>
+                <li>Community tip-offs always welcome</li>
+              </ul>
+            </div>
+          </article>
+
+          <article class="stepper__panel" id="howto-panel-2">
+            <div class="stepper__art"><img src="images/how-step-2-verify.webp" alt="The Lobang King stamping a deal as approved beside a giant gold checkmark shield" width="720" height="676" loading="lazy" decoding="async"></div>
+            <div class="stepper__copy">
+              <span class="stepper__kicker">Step 02 · The check</span>
+              <h3>Confirm plus chop — we verify every one</h3>
+              <p>No clickbait, no expired codes, no sneaky fine print. A real person checks the price, the catch and the expiry date before any lobang earns the royal stamp of approval. Dead ones never make the list.</p>
+              <ul class="ticks">
+                <li>Checked by a real human, not a bot</li>
+                <li>Expiry dates tracked — stale lobangs get dropped</li>
+                <li>Clear labels: walk-in, app-only or online</li>
+              </ul>
+            </div>
+          </article>
+
+          <article class="stepper__panel" id="howto-panel-3">
+            <div class="stepper__art"><img src="images/how-step-3-save.webp" alt="The Lobang King celebrating with shopping bags and a treasure chest of gold coins" width="720" height="663" loading="lazy" decoding="async"></div>
+            <div class="stepper__copy">
+              <span class="stepper__kicker">Step 03 · The payoff</span>
+              <h3>You strike gold (die-die must grab)</h3>
+              <p>Browse, search, or get a friendly morning email. Tap <b>View lobang</b> and the treasure's yours — no endless scrolling, no hunting for the catch. Then fire it into the family chat and be everyone's hero.</p>
+              <ul class="ticks">
+                <li>Grab the deal in a single tap</li>
+                <li>One-tap share to WhatsApp &amp; Telegram</li>
+                <li>Always 100% free — no account, no paywall</li>
+              </ul>
+            </div>
+          </article>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--tint">
+    <div class="container">
+      <div class="section__head section__head--center">
+        <h2 class="section__title">The royal promise</h2>
+        <p class="section__sub">Four things the King will never compromise on.</p>
+      </div>
       <div class="feature-grid">
-        <div class="feature reveal">
-          <div class="feature__ic">🔎</div>
-          <h3>1. We hunt</h3>
-          <p>Every morning we scan stores, banks, apps and tip-offs from the community for genuinely good lobangs across Singapore.</p>
-        </div>
-        <div class="feature reveal">
-          <div class="feature__ic">✅</div>
-          <h3>2. We verify</h3>
-          <p>No clickbait. Each promo is checked by a real person for the price, the catch, and how easy it is to claim — before it goes live.</p>
-        </div>
-        <div class="feature reveal">
-          <div class="feature__ic">📣</div>
-          <h3>3. You save</h3>
-          <p>Browse, search or get a friendly morning email. Tap "View lobang" and you're done — no endless scrolling or expired codes.</p>
-        </div>
+        <div class="feature reveal"><div class="feature__ic">✅</div><h3>Hand-verified</h3><p>We'd rather show you 20 real lobangs than 500 dead links. Every one is checked before it goes live.</p></div>
+        <div class="feature reveal"><div class="feature__ic">🏷️</div><h3>Clear labels</h3><p>Every lobang tells you upfront if it's walk-in, app-only or online — so there are no surprises at the counter.</p></div>
+        <div class="feature reveal"><div class="feature__ic">📲</div><h3>One-tap share</h3><p>Found a gem? Send it to your family or kaki chat in two taps. Sharing good lobang is good karma.</p></div>
+        <div class="feature reveal"><div class="feature__ic">🎉</div><h3>Free forever</h3><p>No paywalls, no accounts, no catch. LobangKing.sg is free today and will stay free — full stop.</p></div>
       </div>
     </div>
   </section>
 
   <section class="section">
     <div class="container prose">
-      <h2>Why people keep coming back</h2>
-      <p>LobangKing.sg was built to be the opposite of cluttered coupon sites. It's fast, it works beautifully on your phone and your laptop, and it has a clean light mode for comfortable reading and a dark mode for night owls — your choice, remembered automatically.</p>
-      <ul>
-        <li><strong>Hand-verified lobangs</strong> — we'd rather show you 20 real lobangs than 500 dead links.</li>
-        <li><strong>Clear access labels</strong> — every lobang tells you upfront if it's walk-in, app-only, or online.</li>
-        <li><strong>One-tap sharing</strong> — found a gem? Send it to your family chat in two taps.</li>
-        <li><strong>Always free</strong> — no paywalls, no account required.</li>
-      </ul>
+      <h2>The King's story</h2>
+      <p>LobangKing.sg was built to be the opposite of cluttered coupon sites. It's fast, it looks great on your phone and your laptop, and it comes with a clean light mode for daytime reading and a dark mode for the night owls — your choice, remembered automatically. Behind it is a small crew who simply believe that finding a good promo in Singapore shouldn't feel like a part-time job.</p>
 
-      <h2 id="advertise">Advertise with us</h2>
-      <p>Reaching lobang-savvy Singaporeans? We offer tasteful, clearly-labelled partner placements that respect our readers. Featured lobang slots, category sponsorships and newsletter mentions are available.</p>
-      <p><a href="submit.html">Get in touch via our contact form →</a></p>
+      <h2 id="advertise">Advertise with the King</h2>
+      <p>Want to reach lobang-savvy Singaporeans? We offer tasteful, clearly-labelled partner placements that respect our readers — featured lobang slots, category sponsorships and newsletter mentions. No pop-ups, no spam, ever.</p>
+      <p><a class="link-gold" href="submit.html">Get in touch via our contact form →</a></p>
 
       <h2>A note on honesty</h2>
-      <p>Some outbound links may be affiliate links, which means we might earn a small commission at no extra cost to you. It never changes whether a lobang makes the cut — if it's not genuinely good, it doesn't get listed.</p>
+      <p>Some outbound links may be affiliate links, which means we might earn a small commission at no extra cost to you. It never changes whether a lobang makes the cut — if it's not genuinely good, the King doesn't crown it.</p>
     </div>
   </section>
 
@@ -180,12 +247,12 @@
 </footer>
 
 <button class="back-to-top" id="backToTop" type="button" aria-label="Back to top">↑</button>
-<script src="js/consent.js?v=10" defer></script>
-<script src="js/protect.js?v=10" defer></script>
-<script src="js/vitals.js?v=10" defer></script>
-<script src="js/engagement.js?v=10" defer></script>
-<script src="js/translate.js?v=10" defer></script>
-<script src="js/a11y.js?v=10" defer></script>
-<script src="js/main.js?v=10" defer></script>
+<script src="js/consent.js?v=12" defer></script>
+<script src="js/protect.js?v=12" defer></script>
+<script src="js/vitals.js?v=12" defer></script>
+<script src="js/engagement.js?v=12" defer></script>
+<script src="js/translate.js?v=12" defer></script>
+<script src="js/a11y.js?v=12" defer></script>
+<script src="js/main.js?v=12" defer></script>
 </body>
 </html>

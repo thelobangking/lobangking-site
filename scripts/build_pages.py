@@ -25,7 +25,7 @@ import html
 import pathlib
 import datetime
 import minify
-from aggregate_deals import CATEGORIES, parse_expiry, TODAY  # single source of truth
+from aggregate_deals import CATEGORIES, parse_expiry, TODAY, is_upcoming  # single source of truth
 
 HERE = pathlib.Path(__file__).resolve().parent
 ROOT = HERE.parent
@@ -235,6 +235,75 @@ def card_html(d):
     )
 
 
+def launch_label(starts_at, ref=None):
+    """(css-suffix, text) for an Upcoming card's launch pill. Mirrors
+    launchLabel() in js/main.js so the server-rendered label matches the live one
+    js re-computes on load."""
+    ref = ref or TODAY
+    try:
+        start = datetime.date.fromisoformat(starts_at) if starts_at else None
+    except ValueError:
+        start = None
+    if not start:
+        return ("", "Coming soon")
+    d = (start - ref).days
+    if d < 0:
+        return ("is-live", "Live now")
+    if d == 0:
+        return ("is-imminent", "Launches today")
+    if d == 1:
+        return ("is-imminent", "Launches tomorrow")
+    if d <= 6:
+        return ("is-soon", f"Launches in {d} days")
+    return ("", f"Launches {start.day} {start.strftime('%b')}")
+
+
+def upcoming_card_html(d):
+    """Immersive 'Upcoming Lobang' poster card — a deliberately different, richer
+    treatment than the standard grid card: a full-bleed hero image with a gradient
+    veil, a glowing live launch-countdown pill, an eyebrow, and a sliding info
+    drawer that expands the description on hover/focus. Carries the same data-*
+    attributes as card_html so Chope (save) + Share work unchanged. Kept byte-for
+    -byte in step with upcomingCard() in js/main.js."""
+    cat = (d.get("categories") or ["online"])[0]
+    url = esc(safe_url(d.get("url")))
+    img = esc(d.get("image") or "images/deal-fallback.jpg")
+    badges = d.get("badges") or []
+    primary = next((b for b in badges if b.get("type") in ("free", "discount", "code")), None)
+    badge = (f'<span class="up-card__badge up-card__badge--{esc(primary["type"])}">{esc(primary["label"])}</span>'
+             if primary else "")
+    s = d.get("source")
+    src = (f'<a class="up-card__src" href="{esc(safe_url(s.get("url")))}" target="_blank" rel="noopener nofollow" '
+           f'title="Source: {esc(s.get("name","source"))}">{icon("i-arrow")}Source</a>'
+           if s and safe_url(s.get("url")) != "#" else "")
+    lcls, ltext = launch_label(d.get("starts_at") or "")
+    launch = (f'<span class="up-card__count {lcls}" data-starts="{esc(d.get("starts_at") or "")}">'
+              f'{icon("i-clock")}<span class="uc-text">{esc(ltext)}</span></span>')
+    share = f'<button class="deal-share" type="button" data-share-open aria-label="Share this lobang">{icon("i-share")}</button>'
+    eyebrow = f'<span class="up-card__eyebrow"><span class="up-card__emoji" aria-hidden="true">{esc(d.get("icon") or "✨")}</span>Upcoming lobang</span>'
+    return (
+        f'<article class="up-card reveal" data-id="{esc(d.get("id",""))}" '
+        f'data-cats="{esc(",".join(d.get("categories") or []))}" data-title="{esc(d.get("title",""))}" '
+        f'data-store="{esc(d.get("store",""))}" data-url="{url}" data-img="{img}" data-expires="{esc(d.get("expires_at",""))}">'
+        f'<div class="up-card__poster">'
+        f'<img class="up-card__img" src="{img}" alt="" loading="lazy" decoding="async">'
+        f'<span class="up-card__veil" aria-hidden="true"></span>'
+        f'<span class="up-card__sheen" aria-hidden="true"></span>'
+        f'<span class="up-card__cat">{icon(CAT_ICON.get(cat,"i-tag"))}{esc(CAT_LABELS.get(cat,""))}</span>'
+        f'{launch}{chope_btn()}{share}'
+        f'<div class="up-card__head">{eyebrow}'
+        f'<div class="up-card__store">{esc(d.get("store",""))}</div>'
+        f'<h3 class="up-card__title"><a href="{url}" rel="noopener">{esc(d.get("title",""))}</a></h3>'
+        f'</div></div>'
+        f'<div class="up-card__drawer">'
+        f'<div class="up-card__row">{badge}{src}</div>'
+        + (f'<p class="up-card__desc">{esc(d.get("desc",""))}</p>' if d.get("desc") else "")
+        + f'<div class="up-card__foot">{time_chip(d)}'
+        f'<a class="up-card__cta" href="{url}" rel="noopener">Sneak peek {icon("i-arrow")}</a>'
+        f'</div></div></article>'
+    )
+
+
 def spotlight_html(d):
     url = esc(safe_url(d.get("url")))
     img = esc(d.get("image") or "images/deal-fallback.jpg")
@@ -370,24 +439,24 @@ def full_page(title, desc, canonical, jsonld, body, og_image=None):
   <meta property="og:image" content="{esc(og_image)}">
   <meta property="og:url" content="{esc(canonical)}">
   <meta name="twitter:card" content="summary_large_image">
-  <script src="js/theme.js?v=10"></script>
-  <link rel="preload" as="font" type="font/woff2" href="fonts/dmsans-400.woff2?v=10" crossorigin>
-  <link rel="preload" as="font" type="font/woff2" href="fonts/sora-700.woff2?v=10" crossorigin>
-  <link rel="stylesheet" href="css/fonts.min.css?v=10">
-  <link rel="stylesheet" href="css/styles.min.css?v=10">
+  <script src="js/theme.js?v=12"></script>
+  <link rel="preload" as="font" type="font/woff2" href="fonts/dmsans-400.woff2?v=12" crossorigin>
+  <link rel="preload" as="font" type="font/woff2" href="fonts/sora-700.woff2?v=12" crossorigin>
+  <link rel="stylesheet" href="css/fonts.min.css?v=12">
+  <link rel="stylesheet" href="css/styles.min.css?v=12">
   {jsonld}
   {SPEC_RULES}
 </head>
 <body>
 '''
     tail = ('<button class="back-to-top" id="backToTop" type="button" aria-label="Back to top">↑</button>\n'
-            '<script src="js/consent.js?v=10" defer></script>\n'
-            '<script src="js/protect.js?v=10" defer></script>\n'
-            '<script src="js/vitals.js?v=10" defer></script>\n'
-            '<script src="js/engagement.js?v=10" defer></script>\n'
-            '<script src="js/translate.js?v=10" defer></script>\n'
-            '<script src="js/a11y.js?v=10" defer></script>\n'
-            '<script src="js/main.js?v=10" defer></script>\n</body>\n</html>\n')
+            '<script src="js/consent.js?v=12" defer></script>\n'
+            '<script src="js/protect.js?v=12" defer></script>\n'
+            '<script src="js/vitals.js?v=12" defer></script>\n'
+            '<script src="js/engagement.js?v=12" defer></script>\n'
+            '<script src="js/translate.js?v=12" defer></script>\n'
+            '<script src="js/a11y.js?v=12" defer></script>\n'
+            '<script src="js/main.js?v=12" defer></script>\n</body>\n</html>\n')
     return head + header(None) + '<main id="main" tabindex="-1">\n' + body + "\n</main>\n" + footer() + "\n" + tail
 
 
@@ -486,9 +555,28 @@ def generate_seo_pages(deals):
 def main():
     minify.build()  # refresh css/*.min.css from source
     data = json.loads(DATA_FILE.read_text(encoding="utf-8"))
-    deals = [d for d in data.get("deals", []) if is_active(d)]  # render only non-expired deals
+    active_deals = [d for d in data.get("deals", []) if is_active(d)]  # non-expired only
+    # Split live deals from ones that haven't started yet — the latter go into a
+    # separate "Upcoming" section instead of the main grid.
+    def _is_up(d):
+        return bool(d.get("upcoming")) or is_upcoming(d)[0]
+    upcoming = [d for d in active_deals if _is_up(d)]
+    # Sort upcoming by soonest launch first so the anticipation builds top-down.
+    upcoming.sort(key=lambda d: d.get("starts_at") or "9999-12-31")
+    deals = [d for d in active_deals if not _is_up(d)]             # "current" deals for the live grid
+    upcoming_cards = "".join(upcoming_card_html(d) for d in upcoming)
     spot = next((d for d in deals if d.get("spotlight")), deals[0] if deals else None)
     non_spot = [d for d in deals if not d.get("spotlight")]
+
+    def set_upcoming(s):
+        """Fill the Upcoming section's cards and show/hide it based on content."""
+        s = replace_region(s, "<!--UPCOMING:START-->", "<!--UPCOMING:END-->", upcoming_cards)
+        # Toggle the `hidden` attribute on the section wrapper.
+        if upcoming:
+            s = re.sub(r'(<section[^>]*id="upcomingSection"[^>]*?)\s+hidden(\s|>)', r"\1\2", s, count=1)
+        elif 'id="upcomingSection" hidden' not in s and 'id="upcomingSection"' in s:
+            s = re.sub(r'(<section[^>]*id="upcomingSection")(?![^>]*\shidden)', r"\1 hidden", s, count=1)
+        return s
 
     for page, active in PAGES.items():
         p = ROOT / page
@@ -507,11 +595,13 @@ def main():
                 s = replace_region(s, "<!--SPOT:START-->", "<!--SPOT:END-->", spotlight_html(spot))
             s = replace_region(s, "<!--DEALS:START-->", "<!--DEALS:END-->",
                                "".join(card_html(d) for d in non_spot[:9]))
+            s = set_upcoming(s)
             s = replace_region(s, "<!--JSONLD:START-->", "<!--JSONLD:END-->",
                                org_jsonld() + itemlist_jsonld(deals, SITE_URL + "/"))
         elif page == "deals.html":
             s = replace_region(s, "<!--DEALS:START-->", "<!--DEALS:END-->",
                                "".join(card_html(d) for d in deals[:24]))
+            s = set_upcoming(s)
             s = replace_region(s, "<!--JSONLD:START-->", "<!--JSONLD:END-->",
                                itemlist_jsonld(deals, SITE_URL + "/deals.html"))
         # Serve minified CSS in production (smaller + harder to read for copycats)

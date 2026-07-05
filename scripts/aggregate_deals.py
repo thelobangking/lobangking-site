@@ -67,6 +67,115 @@ def is_blocked_source(*fields) -> bool:
     return any(b in blob for b in BLOCKED_SOURCES)
 
 
+# Brands we never want to surface (retailer asked us to remove them, or their
+# "deals" are really evergreen catalogue/membership pages that read as stale).
+# Matched as a whole-word, case-insensitive token against the brand + title so
+# we don't clip unrelated words (e.g. "ikea" won't match inside another word).
+BLOCKED_BRANDS = {"ikea"}
+
+
+def is_blocked_brand(*fields) -> bool:
+    """True if a blocked brand appears as a standalone word in the given fields."""
+    blob = " ".join(str(f or "") for f in fields).lower()
+    return any(re.search(rf"\b{re.escape(b)}\b", blob) for b in BLOCKED_BRANDS)
+
+
+# ----------------------------------------------------------------------------
+# URL date-stamp inspection
+# ----------------------------------------------------------------------------
+# Many aggregator feeds (greatdeals, singpromos, brand blogs) encode the month a
+# post belongs to directly in its URL — e.g. /2026/01/, /2026-01-, or
+# "…-january-2026". If the LATEST month a URL names is already in the past, the
+# linked page is a bygone monthly round-up and the deal is stale, so we drop it.
+# A URL naming the current or a future month is kept; a URL with no date is
+# judged on its copy instead (this function only reports what the URL encodes).
+_URL_NUM_MONTH = re.compile(r"(?:^|[/_-])(20\d{2})[/_-](0[1-9]|1[0-2])(?:[/_-]|$)")
+_URL_NAME_MONTH = re.compile(
+    r"(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*[/_-](20\d{2})"
+    r"|(20\d{2})[/_-](jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*",
+    re.I,
+)
+
+
+def url_months(url: str):
+    """Return every (year, month) pair encoded in a URL's path/slug."""
+    u = str(url or "").lower()
+    out = []
+    for y, m in _URL_NUM_MONTH.findall(u):
+        out.append((int(y), int(m)))
+    for a_mon, a_yr, b_yr, b_mon in _URL_NAME_MONTH.findall(u):
+        mon = a_mon or b_mon
+        yr = a_yr or b_yr
+        if mon and yr:
+            out.append((int(yr), MONTHS[mon.lower()[:3]]))
+    return out
+
+
+def url_month_stale(url: str, ref: "datetime.date | None" = None) -> bool:
+    """True when the newest month a URL encodes is strictly before the current
+    month — i.e. the link points at a past-month page. No date in the URL → not
+    stale (we can't judge it by the URL alone)."""
+    ref = ref or TODAY
+    months = url_months(url)
+    if not months:
+        return False
+    newest = max(months)
+    return newest < (ref.year, ref.month)
+
+
+def parse_start(text: str):
+    """Best-effort START date for a promo from its copy — the mirror of
+    parse_expiry's end date. Recognises "from D Mon", "D Mon onwards", and the
+    first day of a "D–D Mon" / "D Mon–D Mon" range. Returns a date or None."""
+    t = text or ""
+    # "from 4 Jul" / "starts 4 July" / "4 Jul onwards"
+    m = re.search(rf"(?:from|starts?|beginning|w\.e\.f\.?)\s+(\d{{1,2}})\s+{_MON}\.?\s*(\d{{4}})?", t, re.I)
+    if not m:
+        m = re.search(rf"(\d{{1,2}})\s+{_MON}\.?\s*(\d{{4}})?\s+onwards?", t, re.I)
+    if not m:
+        # first endpoint of a "4 Jul - 9 Jul" or "4–9 Jul" range
+        m = re.search(rf"(\d{{1,2}})\s+{_MON}\s*[-–to]+\s*\d{{1,2}}\s+{_MON}", t, re.I)
+        if not m:
+            m = re.search(rf"(\d{{1,2}})\s*[-–]\s*\d{{1,2}}\s+{_MON}\.?\s*(\d{{4}})?", t, re.I)
+    if not m:
+        return None
+    groups = m.groups()
+    day = groups[0]
+    mon = groups[1] if len(groups) > 1 and groups[1] else None
+    year = groups[2] if len(groups) > 2 else None
+    # the day-range branch captures (day, mon, year); the "onwards" branch (day, mon, year) too
+    if mon is None:
+        # try to find the month token following the day within the match
+        mm = re.search(_MON, m.group(0), re.I)
+        mon = mm.group(0) if mm else None
+    if not mon:
+        return None
+    return _build_date(day, mon, year)
+
+
+def is_upcoming(deal: dict, ref: "datetime.date | None" = None):
+    """(upcoming?, start_date) for a deal — True when the deal HASN'T STARTED yet
+    (its start date is strictly after today), so it belongs in the 'Upcoming
+    Lobangs' section rather than the live grid. Day granularity: a promo that
+    only kicks off next week — even later this same month — is 'upcoming' until
+    its start date arrives, then it graduates into the live grid automatically.
+    An explicit `upcoming: true` flag on the deal is always honoured as an
+    override (curated future deals), so editors can force a deal into the section
+    even before parse_start can read a date from its copy."""
+    ref = ref or TODAY
+    stored = deal.get("starts_at")
+    start = None
+    if stored:
+        try:
+            start = datetime.date.fromisoformat(stored)
+        except ValueError:
+            start = None
+    if start is None:
+        start = parse_start(f"{deal.get('title','')} {deal.get('desc','')} {deal.get('expiry','')}")
+    up = bool(deal.get("upcoming")) or bool(start and start > ref)
+    return (up, start)
+
+
 def parse_pubdate(raw: str):
     """Parse an RSS/Atom publish date (RFC-822 or ISO-8601) → date, or None."""
     if not raw:
@@ -493,6 +602,15 @@ def deal_from_record(rec: dict, source_name: str):
     if is_blocked_source(source_name, rec.get("publisher"), link):
         return None
 
+    # Drop a past-month link (e.g. /2026/01/… once it's July) — the URL itself
+    # tells us the page is a bygone monthly round-up.
+    if url_month_stale(link):
+        return None
+
+    # Drop blocked brands (e.g. IKEA) by title before we even classify them.
+    if is_blocked_brand(title):
+        return None
+
     # Drop reporting/news that isn't an actual promotion (road closures, accidents…).
     if looks_like_news(title, summary):
         return None
@@ -506,6 +624,8 @@ def deal_from_record(rec: dict, source_name: str):
         return None
 
     brand = detect_brand(f"{title} {summary}")
+    if brand and is_blocked_brand(brand):
+        return None
     category = classify(title, summary, link, rec.get("categories"), brand)
     expiry_label, end_date = parse_expiry(f"{title} {summary}")
     if end_date and end_date < TODAY:
@@ -706,6 +826,11 @@ def main():
     for d in deduped:
         _, _end = parse_expiry(f"{d.get('title','')} {d.get('desc','')} {d.get('expiry','')}")
         d["expires_at"] = _end.isoformat() if _end else ""
+        # Tag deals that haven't started yet so the site can list them under a
+        # separate "Upcoming" section instead of mixing them with live deals.
+        _up, _start = is_upcoming(d)
+        d["upcoming"] = _up
+        d["starts_at"] = _start.isoformat() if _start else ""
 
     if not deduped and DATA_FILE.exists():
         try:

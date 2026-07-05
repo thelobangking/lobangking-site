@@ -200,8 +200,15 @@ def verify(dry_run: bool = False, rebuild: bool = False,
         blob = f"{d.get('title','')} {d.get('desc','')} {d.get('expiry','')}"
 
         reason = None
+        # Blocked brand (e.g. IKEA) — dropped for everyone, even editor picks.
+        if agg.is_blocked_brand(d.get("brand"), d.get("title")):
+            reason = "blocked brand — removed on request"
+        # Past-month link (e.g. /2026/01/… once it's a later month) — the URL
+        # itself dates the page to a bygone month. Dropped for everyone.
+        elif agg.url_month_stale(d.get("url")) or agg.url_month_stale(src.get("url")):
+            reason = "stale URL — links to a past-month page"
         # Blocked publisher (setlui, alvinology, …) — shared list with the aggregator.
-        if agg.is_blocked_source(src.get("name"), src.get("url"), d.get("url")) and not is_editor:
+        elif agg.is_blocked_source(src.get("name"), src.get("url"), d.get("url")) and not is_editor:
             reason = f"blocked source — {src.get('name','?')}"
         # Present-year gate: drop anything dated to a previous year.
         elif end and end.year < agg.CURRENT_YEAR:
@@ -219,6 +226,13 @@ def verify(dry_run: bool = False, rebuild: bool = False,
             removed.append((d.get("title", did or "?"), reason))
         else:
             kept.append(d)
+
+    # Tag deals that haven't started yet so the site can bucket them under a
+    # separate "Upcoming" section instead of the live grid.
+    for d in kept:
+        up, start = agg.is_upcoming(d)
+        d["upcoming"] = up
+        d["starts_at"] = start.isoformat() if start else ""
 
     # Order newest-first. first_seen is day-granular, so equal-day deals keep the
     # aggregator's order (a stable sort) as the within-day tiebreak. This makes
