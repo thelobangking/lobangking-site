@@ -163,6 +163,37 @@ def icon(name):
     return f'<svg class="ic" aria-hidden="true"><use href="#{name}"></use></svg>'
 
 
+# Inline bookmark glyph — drawn with its own <path> (not the sprite) so the
+# "Chope" save button renders on every page, including the sprite-less 404.
+BOOKMARK_SVG = ('<svg class="ic" viewBox="0 0 24 24" aria-hidden="true">'
+                '<path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>')
+
+
+def chope_btn():
+    """The 'Chope' (Singlish: reserve/save) button on every card. Saving is
+    100% client-side (localStorage) in js/main.js — this is just initial markup."""
+    return ('<button class="deal-chope" type="button" data-chope '
+            'aria-label="Save this lobang" aria-pressed="false" '
+            f'title="Chope (save) this lobang">{BOOKMARK_SVG}</button>')
+
+
+def time_chip(d):
+    """Expiry chip carrying a machine-readable end date so js/main.js can run a
+    live countdown, plus a best-effort urgency colour computed at build time."""
+    ex = d.get("expires_at") or ""
+    cls = "deal-card__time"
+    if ex:
+        try:
+            days = (datetime.date.fromisoformat(ex) - TODAY).days
+            cls += " is-expired" if days < 0 else " is-urgent" if days <= 2 else " is-soon" if days <= 6 else ""
+        except ValueError:
+            pass
+    label = d.get("expiry", "")
+    attr = f' data-expires="{esc(ex)}"' if ex else ""
+    return (f'<span class="{cls}"{attr} data-label="{esc(label)}">{icon("i-clock")}'
+            f'<span class="tc-text">{esc(label)}</span></span>')
+
+
 # ---- Image-led deal card (mirrors js/main.js) -------------------------------
 def card_html(d):
     cat = (d.get("categories") or ["online"])[0]
@@ -183,22 +214,23 @@ def card_html(d):
            if s and safe_url(s.get("url")) != "#" else "")
     # Share button — hidden until the card is hovered/focused (see styles.css).
     share = f'<button class="deal-share" type="button" data-share-open aria-label="Share this lobang">{icon("i-share")}</button>'
+    chope = chope_btn()   # always-visible save button (mirrors js/main.js)
     cta = ('<span class="deal-card__cta is-disabled">Fully claimed</span>' if claimed
            else f'<a class="deal-card__cta" href="{url}" rel="noopener">View lobang {icon("i-arrow")}</a>')
     return (
         f'<article class="deal-card{" is-claimed" if claimed else ""}" data-id="{esc(d.get("id",""))}" '
         f'data-cats="{esc(",".join(d.get("categories") or []))}" data-title="{esc(d.get("title",""))}" '
-        f'data-store="{esc(d.get("store",""))}">'
+        f'data-store="{esc(d.get("store",""))}" data-url="{url}" data-img="{img}" data-expires="{esc(d.get("expires_at",""))}">'
         f'<a class="deal-card__media" href="{url}" rel="noopener" tabindex="-1" aria-hidden="true">'
         f'<img src="{img}" alt="" loading="lazy" decoding="async">'
         f'<span class="deal-card__cat">{icon(CAT_ICON.get(cat,"i-tag"))}{esc(CAT_LABELS.get(cat,""))}</span>'
-        f'{overlay}{claim}</a>{share}'
+        f'{overlay}{claim}</a>{chope}{share}'
         f'<div class="deal-card__body">'
         f'<div class="deal-card__store">{esc(d.get("store",""))}{src}</div>'
         f'<h3 class="deal-card__title"><a href="{url}" rel="noopener">{esc(d.get("title",""))}</a></h3>'
         + (f'<p class="deal-card__take">{esc(d.get("desc",""))}</p>' if d.get("desc") else "")
         + code
-        + f'<div class="deal-card__foot"><span class="deal-card__time">{icon("i-clock")}{esc(d.get("expiry",""))}</span>{cta}</div>'
+        + f'<div class="deal-card__foot">{time_chip(d)}{cta}</div>'
         f'</div></article>'
     )
 
@@ -209,14 +241,16 @@ def spotlight_html(d):
     code = (f'<button class="code-pill" data-code="{esc(d["code"])}" type="button">{icon("i-tag")}{esc(d["code"])}</button>'
             if d.get("code") else "")
     return (
-        f'<div class="spotlight-card" data-id="{esc(d.get("id",""))}" data-title="{esc(d.get("title",""))}" data-store="{esc(d.get("store",""))}">'
+        f'<div class="spotlight-card" data-id="{esc(d.get("id",""))}" data-title="{esc(d.get("title",""))}" '
+        f'data-store="{esc(d.get("store",""))}" data-url="{url}" data-img="{img}" data-expires="{esc(d.get("expires_at",""))}">'
         f'<a class="spotlight__media" href="{url}" rel="noopener" tabindex="-1" aria-hidden="true"><img src="{img}" alt="" loading="lazy" decoding="async"></a>'
+        f'{chope_btn()}'
         f'<div class="spotlight__body"><span class="spotlight__kicker">{icon("i-bolt")}Latest Lobang</span>'
         f'<div class="spotlight__store">{esc(d.get("store",""))}</div>'
         f'<h2 class="spotlight__title">{esc(d.get("title",""))}</h2>'
         + (f'<p class="spotlight__desc">{esc(d.get("desc",""))}</p>' if d.get("desc") else "")
         + code
-        + f'<div class="spotlight__foot"><span class="deal-card__time">{icon("i-clock")}{esc(d.get("expiry",""))}</span>'
+        + f'<div class="spotlight__foot">{time_chip(d)}'
         f'<a class="btn btn--gold btn--lg" href="{url}" rel="noopener">View this lobang {icon("i-arrow")}</a></div>'
         f'</div></div>'
     )
@@ -285,6 +319,18 @@ def replace_region(s, start, end, content):
     return pat.sub(lambda m: start + content + end, s, count=1)
 
 
+def strip_accumulated_chrome(s):
+    """Fix a long-standing build bug: header() prepends the skip-link, background
+    and icon-sprite before <header>, but the header swap only replaced <header>
+    itself — so every rebuild left the previous copies behind and pages piled up
+    duplicates (13 sprites, 10 backgrounds, 8 skip-links each ≈ 26 KB of bloat).
+    Remove every occurrence here; header() then re-injects exactly one fresh set."""
+    s = re.sub(r'<a class="skip-link"[^>]*>.*?</a>', '', s, flags=re.S)
+    s = re.sub(r'<div class="site-bg"[^>]*>.*?</div></div>', '', s, flags=re.S)
+    s = re.sub(r'<svg class="icon-sprite".*?</svg>', '', s, flags=re.S)
+    return s
+
+
 # ---- SEO: per-deal + category pages (more indexable pages = more search traffic) ----
 CAT_LABELS = {c["id"]: c["label"] for c in CATEGORIES}
 DEFAULT_LABEL = "Lobangs"
@@ -324,24 +370,24 @@ def full_page(title, desc, canonical, jsonld, body, og_image=None):
   <meta property="og:image" content="{esc(og_image)}">
   <meta property="og:url" content="{esc(canonical)}">
   <meta name="twitter:card" content="summary_large_image">
-  <script src="js/theme.js?v=9"></script>
-  <link rel="preload" as="font" type="font/woff2" href="fonts/dmsans-400.woff2?v=9" crossorigin>
-  <link rel="preload" as="font" type="font/woff2" href="fonts/sora-700.woff2?v=9" crossorigin>
-  <link rel="stylesheet" href="css/fonts.min.css?v=9">
-  <link rel="stylesheet" href="css/styles.min.css?v=9">
+  <script src="js/theme.js?v=10"></script>
+  <link rel="preload" as="font" type="font/woff2" href="fonts/dmsans-400.woff2?v=10" crossorigin>
+  <link rel="preload" as="font" type="font/woff2" href="fonts/sora-700.woff2?v=10" crossorigin>
+  <link rel="stylesheet" href="css/fonts.min.css?v=10">
+  <link rel="stylesheet" href="css/styles.min.css?v=10">
   {jsonld}
   {SPEC_RULES}
 </head>
 <body>
 '''
     tail = ('<button class="back-to-top" id="backToTop" type="button" aria-label="Back to top">↑</button>\n'
-            '<script src="js/consent.js?v=9" defer></script>\n'
-            '<script src="js/protect.js?v=9" defer></script>\n'
-            '<script src="js/vitals.js?v=9" defer></script>\n'
-            '<script src="js/engagement.js?v=9" defer></script>\n'
-            '<script src="js/translate.js?v=9" defer></script>\n'
-            '<script src="js/a11y.js?v=9" defer></script>\n'
-            '<script src="js/main.js?v=9" defer></script>\n</body>\n</html>\n')
+            '<script src="js/consent.js?v=10" defer></script>\n'
+            '<script src="js/protect.js?v=10" defer></script>\n'
+            '<script src="js/vitals.js?v=10" defer></script>\n'
+            '<script src="js/engagement.js?v=10" defer></script>\n'
+            '<script src="js/translate.js?v=10" defer></script>\n'
+            '<script src="js/a11y.js?v=10" defer></script>\n'
+            '<script src="js/main.js?v=10" defer></script>\n</body>\n</html>\n')
     return head + header(None) + '<main id="main" tabindex="-1">\n' + body + "\n</main>\n" + footer() + "\n" + tail
 
 
@@ -450,7 +496,9 @@ def main():
             continue
         s = p.read_text(encoding="utf-8")
         orig = s
-        # DRY chrome
+        # DRY chrome — first clear any duplicate chrome earlier builds left behind,
+        # then re-inject exactly one fresh header (which carries skip-link + bg + sprite).
+        s = strip_accumulated_chrome(s)
         s = re.sub(r'<header class="site-header">.*?</header>', lambda m: header(active), s, count=1, flags=re.S)
         s = re.sub(r'<footer class="site-footer">.*?</footer>', lambda m: footer(), s, count=1, flags=re.S)
         # Pre-render deals

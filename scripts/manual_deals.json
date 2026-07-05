@@ -1,4 +1,128 @@
 {
   "_help": "OPTIONAL hand-picked deals that should ALWAYS appear, regardless of the feeds. They are added first and win on de-duplication. Leave the 'deals' array empty to run a 100% automated, feed-only site. Use the same fields as a normal deal (see README).",
-  "deals": []
+  "deals": [
+    {
+      "id": "bestdenki-jackpot",
+      "title": "Up to 20% off TVs + up to $700 off soundbars",
+      "store": "BEST Denki · Storewide",
+      "brand": "BEST Denki",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "📺",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "UP TO 20% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "In-store & online — applied at checkout"
+      },
+      "desc": "Jackpot Sale storewide: up to 20% off selected TVs (free gifts worth up to $1,888), up to $700 off soundbars, plus fridge, washer and Dyson deals. Selected models, while stocks last.",
+      "expiry": "Ends 10 Jul",
+      "heat": 0,
+      "url": "https://www.bestdenki.com.sg/promotions.html",
+      "source": {
+        "name": "BEST Denki",
+        "url": "https://www.bestdenki.com.sg/promotions.html"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-10"
+    },
+    {
+      "id": "courts-get7",
+      "title": "7% + 7% off sitewide with code GET7",
+      "store": "Courts · Online",
+      "brand": "Courts",
+      "categories": [
+        "home",
+        "online"
+      ],
+      "icon": "🛋️",
+      "badges": [
+        {
+          "type": "code",
+          "label": "GET7"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — apply code at checkout"
+      },
+      "code": "GET7",
+      "desc": "Pre-07.07 Sale: stack 7% + 7% off sitewide with no minimum spend (capped at $99). Some brands excluded (Apple, Dyson, Sony and more). Online only.",
+      "expiry": "Ends 12 Jul",
+      "heat": 0,
+      "url": "https://www.courts.com.sg/promotions-terms-conditions",
+      "source": {
+        "name": "Courts",
+        "url": "https://www.courts.com.sg/promotions-terms-conditions"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-12"
+    },
+    {
+      "id": "gaincity-jul-voucher",
+      "title": "Limited-time voucher on selected tech & appliances",
+      "store": "Gain City · Online",
+      "brand": "Gain City",
+      "categories": [
+        "electronics",
+        "home"
+      ],
+      "icon": "🔌",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "VOUCHER"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — voucher applied on selected products"
+      },
+      "desc": "Limited-time online voucher on selected products (valid 22 Jun to 26 Jul), running alongside the in-store Monster-Sized Sale of 8% off your 1st item and 10% off your 2nd.",
+      "expiry": "Ends 26 Jul",
+      "heat": 0,
+      "url": "https://www.gaincity.com/",
+      "source": {
+        "name": "Gain City",
+        "url": "https://www.gaincity.com/"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-26"
+    },
+    {
+      "id": "challenger-ms365",
+      "title": "Microsoft 365 at $145 + 5% off notebooks",
+      "store": "Challenger · In-store & online",
+      "brand": "Challenger",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "💻",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "5% OFF + M365"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "ValueClub members — in-store & online"
+      },
+      "desc": "July notebook bundle: get Microsoft 365 for $145 with a selected notebook, plus a 5% off notebook coupon. Brands include Acer, ASUS, Lenovo and MSI.",
+      "expiry": "Ends 31 Jul",
+      "heat": 0,
+      "url": "https://online.challenger.sg/pages/promotions",
+      "source": {
+        "name": "Challenger",
+        "url": "https://online.challenger.sg/pages/promotions"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-31"
+    }
+  ]
 }

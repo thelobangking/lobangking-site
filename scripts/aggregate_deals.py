@@ -700,6 +700,13 @@ def main():
     if deduped:
         deduped[0]["spotlight"] = True
 
+    # Machine-readable expiry for live client-side countdowns. Derived from the
+    # SAME parse_expiry that builds the human "Ends 10 Jul" label — never invents
+    # a date. Empty string when the deal is ongoing or has no parseable end date.
+    for d in deduped:
+        _, _end = parse_expiry(f"{d.get('title','')} {d.get('desc','')} {d.get('expiry','')}")
+        d["expires_at"] = _end.isoformat() if _end else ""
+
     if not deduped and DATA_FILE.exists():
         try:
             prev = json.loads(DATA_FILE.read_text(encoding="utf-8"))

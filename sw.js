@@ -3,10 +3,10 @@
    keeps it working offline. Static assets are cache-first; the live deals file
    is network-first so deals stay fresh, falling back to cache when offline.
    Bump CACHE when you change site assets to push an update to visitors. */
-const CACHE = 'lobangking-v13';
+const CACHE = 'lobangking-v14';
 const CORE = [
   './', 'index.html', 'deals.html', 'about.html', 'submit.html', 'privacy.html', '404.html',
-  'css/styles.min.css?v=9', 'js/main.js?v=9', 'js/theme.js?v=9', 'js/vitals.js?v=9', 'js/protect.js?v=9', 'js/engagement.js?v=9', 'js/translate.js?v=9', 'js/consent.js?v=9', 'js/a11y.js?v=9',
+  'css/styles.min.css?v=10', 'js/main.js?v=10', 'js/theme.js?v=10', 'js/vitals.js?v=10', 'js/protect.js?v=10', 'js/engagement.js?v=10', 'js/translate.js?v=10', 'js/consent.js?v=10', 'js/a11y.js?v=10',
   'data/deals.json', 'manifest.webmanifest',
   'images/icon-192.png', 'images/logo.png', 'images/favicon-32.png', 'images/bg-hero.jpg', 'images/bg-hero-light.jpg', 'images/deal-fallback.jpg', 'images/hero-banner.jpg'
 ];

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04",
+  "updated": "2026-07-05",
   "categories": [
     {
       "id": "all",
@@ -54,59 +54,128 @@
   ],
   "deals": [
     {
-      "id": "macbook-air-m3",
-      "title": "$199 off MacBook Air M3",
-      "store": "Apple via Shopee Official",
+      "id": "bestdenki-jackpot",
+      "title": "Up to 20% off TVs + up to $700 off soundbars",
+      "store": "BEST Denki · Storewide",
+      "brand": "BEST Denki",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "📺",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "UP TO 20% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "In-store & online — applied at checkout"
+      },
+      "desc": "Jackpot Sale storewide: up to 20% off selected TVs (free gifts worth up to $1,888), up to $700 off soundbars, plus fridge, washer and Dyson deals. Selected models, while stocks last.",
+      "expiry": "Ends 10 Jul",
+      "heat": 0,
+      "url": "https://www.bestdenki.com.sg/promotions.html",
+      "source": {
+        "name": "BEST Denki",
+        "url": "https://www.bestdenki.com.sg/promotions.html"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-10",
+      "spotlight": true
+    },
+    {
+      "id": "courts-get7",
+      "title": "7% + 7% off sitewide with code GET7",
+      "store": "Courts · Online",
+      "brand": "Courts",
+      "categories": [
+        "home",
+        "online"
+      ],
+      "icon": "🛋️",
+      "badges": [
+        {
+          "type": "code",
+          "label": "GET7"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — apply code at checkout"
+      },
+      "code": "GET7",
+      "desc": "Pre-07.07 Sale: stack 7% + 7% off sitewide with no minimum spend (capped at $99). Some brands excluded (Apple, Dyson, Sony and more). Online only.",
+      "expiry": "Ends 12 Jul",
+      "heat": 0,
+      "url": "https://www.courts.com.sg/promotions-terms-conditions",
+      "source": {
+        "name": "Courts",
+        "url": "https://www.courts.com.sg/promotions-terms-conditions"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-12"
+    },
+    {
+      "id": "gaincity-jul-voucher",
+      "title": "Limited-time voucher on selected tech & appliances",
+      "store": "Gain City · Online",
+      "brand": "Gain City",
       "categories": [
         "electronics",
-        "online"
+        "home"
+      ],
+      "icon": "🔌",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "VOUCHER"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — voucher applied on selected products"
+      },
+      "desc": "Limited-time online voucher on selected products (valid 22 Jun to 26 Jul), running alongside the in-store Monster-Sized Sale of 8% off your 1st item and 10% off your 2nd.",
+      "expiry": "Ends 26 Jul",
+      "heat": 0,
+      "url": "https://www.gaincity.com/",
+      "source": {
+        "name": "Gain City",
+        "url": "https://www.gaincity.com/"
+      },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-26"
+    },
+    {
+      "id": "challenger-ms365",
+      "title": "Microsoft 365 at $145 + 5% off notebooks",
+      "store": "Challenger · In-store & online",
+      "brand": "Challenger",
+      "categories": [
+        "electronics"
       ],
       "icon": "💻",
       "badges": [
         {
           "type": "discount",
-          "label": "$199 OFF"
+          "label": "5% OFF + M365"
         }
       ],
       "access": {
-        "type": "easy",
-        "label": "Online — add to cart & apply code"
+        "type": "app",
+        "label": "ValueClub members — in-store & online"
       },
-      "code": "TECHKING",
-      "desc": "Apply voucher TECHKING at checkout plus Shopee coins cashback. Stacks with credit-card promos. Lowest price we've tracked this month.",
-      "expiry": "Ends tonight 11:59pm",
-      "heat": 412,
-      "url": "#",
-      "first_seen": "2026-07-04",
-      "spotlight": true
-    },
-    {
-      "id": "gongcha-free-tea",
-      "title": "FREE Brown Sugar Milk Tea",
-      "store": "Gong Cha · Islandwide",
-      "categories": [
-        "food"
-      ],
-      "icon": "🧋",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        },
-        {
-          "type": "ending",
-          "label": "ENDS TODAY"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Walk in — no purchase needed"
+      "desc": "July notebook bundle: get Microsoft 365 for $145 with a selected notebook, plus a 5% off notebook coupon. Brands include Acer, ASUS, Lenovo and MSI.",
+      "expiry": "Ends 31 Jul",
+      "heat": 0,
+      "url": "https://online.challenger.sg/pages/promotions",
+      "source": {
+        "name": "Challenger",
+        "url": "https://online.challenger.sg/pages/promotions"
       },
-      "desc": "Show the LobangKing page in store to redeem one free regular Brown Sugar Milk Tea. One per customer while stocks last.",
-      "expiry": "7 hours left",
-      "heat": 342,
-      "url": "#",
-      "first_seen": "2026-07-04"
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-31"
     },
     {
       "id": "scoot-bangkok",
@@ -130,7 +199,8 @@
       "expiry": "Ends 5 Jul",
       "heat": 287,
       "url": "#",
-      "first_seen": "2026-07-04"
+      "first_seen": "2026-07-04",
+      "expires_at": "2026-07-05"
     },
     {
       "id": "dbs-cashback",
@@ -158,65 +228,8 @@
       "expiry": "Ends 31 Jul",
       "heat": 76,
       "url": "#",
-      "first_seen": "2026-07-04"
-    },
-    {
-      "id": "shopee-8off",
-      "title": "$8 off $60 Spend (Sitewide)",
-      "store": "Shopee · Code LKSG8OFF",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "code": "LKSG8OFF",
-      "badges": [
-        {
-          "type": "code",
-          "label": "PROMO CODE"
-        },
-        {
-          "type": "ending",
-          "label": "ENDS TODAY"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — apply at checkout"
-      },
-      "desc": "Sitewide voucher with no category restriction. Claim it in-app first, then it auto-applies at checkout.",
-      "expiry": "Ends tonight",
-      "heat": 203,
-      "url": "#",
-      "first_seen": "2026-07-04"
-    },
-    {
-      "id": "dyson-airwrap-trial",
-      "title": "Free Dyson Airwrap Styling Session",
-      "store": "Dyson Demo · ION Orchard",
-      "categories": [
-        "fashion",
-        "home"
-      ],
-      "icon": "💨",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        },
-        {
-          "type": "plain",
-          "label": "Orchard"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Walk in — no purchase needed"
-      },
-      "desc": "Book a 20-minute hands-on styling session with a Dyson expert. Great way to try before you buy.",
-      "expiry": "Ongoing",
-      "heat": 58,
-      "url": "#",
-      "first_seen": "2026-07-04"
+      "first_seen": "2026-07-04",
+      "expires_at": "2026-07-31"
     },
     {
       "id": "ikea-meatballs",
@@ -241,7 +254,8 @@
       "expiry": "Ends 31 Jul",
       "heat": 92,
       "url": "#",
-      "first_seen": "2026-07-04"
+      "first_seen": "2026-07-04",
+      "expires_at": "2026-07-31"
     },
     {
       "id": "uniqlo-airism",
@@ -266,31 +280,8 @@
       "expiry": "Ends 6 Jul",
       "heat": 71,
       "url": "#",
-      "first_seen": "2026-07-04"
-    },
-    {
-      "id": "gv-movie-tue",
-      "title": "$7 Movie Tickets Every Tuesday",
-      "store": "Golden Village · Weekly",
-      "categories": [
-        "entertainment"
-      ],
-      "icon": "🎬",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "WEEKLY LOBANG"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App — book in GV mobile app"
-      },
-      "desc": "Flat $7 standard tickets all day every Tuesday for GV members. Membership sign-up is free in the app.",
-      "expiry": "Every Tuesday",
-      "heat": 119,
-      "url": "#",
-      "first_seen": "2026-07-04"
+      "first_seen": "2026-07-04",
+      "expires_at": "2026-07-06"
     },
     {
       "id": "klook-attractions",
@@ -316,7 +307,8 @@
       "expiry": "Ends 10 Jul",
       "heat": 64,
       "url": "#",
-      "first_seen": "2026-07-04"
+      "first_seen": "2026-07-04",
+      "expires_at": "2026-07-10"
     },
     {
       "id": "guardian-vitamins",
@@ -341,33 +333,14 @@
       "expiry": "Ends 8 Jul",
       "heat": 47,
       "url": "#",
-      "first_seen": "2026-07-04"
-    },
-    {
-      "id": "singtel-roaming",
-      "title": "$5 Unlimited Data Roaming Pass",
-      "store": "Singtel · ASEAN",
-      "categories": [
-        "travel",
-        "transport"
-      ],
-      "icon": "📶",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "TRAVEL"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App — activate in My Singtel"
-      },
-      "desc": "Daily unlimited roaming across Malaysia, Thailand, Indonesia and more for $5/day. Activate before you fly.",
-      "expiry": "Ongoing",
-      "heat": 53,
-      "url": "#",
-      "first_seen": "2026-07-04"
+      "first_seen": "2026-07-04",
+      "expires_at": "2026-07-08"
     }
   ],
-  "brands_today": []
+  "brands_today": [
+    "BEST Denki",
+    "Challenger",
+    "Courts",
+    "Gain City"
+  ]
 }
