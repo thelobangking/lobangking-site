@@ -1,33 +1,20 @@
 {
-  "_help": "OPTIONAL hand-picked deals that should ALWAYS appear, regardless of the feeds. They are added first and win on de-duplication. Leave the 'deals' array empty to run a 100% automated, feed-only site. Use the same fields as a normal deal (see README).",
+  "_help": "OPTIONAL hand-picked deals that should ALWAYS appear, regardless of the feeds. They are added first and win on de-duplication. Leave the 'deals' array empty to run a 100% automated, feed-only site. Use the same fields as a normal deal (see README). NOTE: every deal here must carry a real, working 'url' + 'source' and an 'expiry' in the 'Ends D Mon' format (or 'Ongoing') — the aggregator re-derives 'expires_at' from that label and the hourly verifier drops anything past its date. Never add a deal without a verifiable source.",
   "deals": [
     {
       "id": "bestdenki-jackpot",
       "title": "Up to 20% off TVs + up to $700 off soundbars",
       "store": "BEST Denki · Storewide",
       "brand": "BEST Denki",
-      "categories": [
-        "electronics"
-      ],
+      "categories": ["electronics"],
       "icon": "📺",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "UP TO 20% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "In-store & online — applied at checkout"
-      },
+      "badges": [{ "type": "discount", "label": "UP TO 20% OFF" }],
+      "access": { "type": "easy", "label": "In-store & online — applied at checkout" },
       "desc": "Jackpot Sale storewide: up to 20% off selected TVs (free gifts worth up to $1,888), up to $700 off soundbars, plus fridge, washer and Dyson deals. Selected models, while stocks last.",
       "expiry": "Ends 10 Jul",
       "heat": 0,
       "url": "https://www.bestdenki.com.sg/promotions.html",
-      "source": {
-        "name": "BEST Denki",
-        "url": "https://www.bestdenki.com.sg/promotions.html"
-      },
+      "source": { "name": "BEST Denki", "url": "https://www.bestdenki.com.sg/promotions.html" },
       "first_seen": "2026-07-05",
       "expires_at": "2026-07-10"
     },
@@ -36,30 +23,16 @@
       "title": "7% + 7% off sitewide with code GET7",
       "store": "Courts · Online",
       "brand": "Courts",
-      "categories": [
-        "home",
-        "online"
-      ],
+      "categories": ["home", "online"],
       "icon": "🛋️",
-      "badges": [
-        {
-          "type": "code",
-          "label": "GET7"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — apply code at checkout"
-      },
+      "badges": [{ "type": "code", "label": "GET7" }],
+      "access": { "type": "easy", "label": "Online — apply code at checkout" },
       "code": "GET7",
       "desc": "Pre-07.07 Sale: stack 7% + 7% off sitewide with no minimum spend (capped at $99). Some brands excluded (Apple, Dyson, Sony and more). Online only.",
       "expiry": "Ends 12 Jul",
       "heat": 0,
       "url": "https://www.courts.com.sg/promotions-terms-conditions",
-      "source": {
-        "name": "Courts",
-        "url": "https://www.courts.com.sg/promotions-terms-conditions"
-      },
+      "source": { "name": "Courts", "url": "https://www.courts.com.sg/promotions-terms-conditions" },
       "first_seen": "2026-07-05",
       "expires_at": "2026-07-12"
     },
@@ -68,29 +41,15 @@
       "title": "Limited-time voucher on selected tech & appliances",
       "store": "Gain City · Online",
       "brand": "Gain City",
-      "categories": [
-        "electronics",
-        "home"
-      ],
+      "categories": ["electronics", "home"],
       "icon": "🔌",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "VOUCHER"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — voucher applied on selected products"
-      },
+      "badges": [{ "type": "discount", "label": "VOUCHER" }],
+      "access": { "type": "easy", "label": "Online — voucher applied on selected products" },
       "desc": "Limited-time online voucher on selected products (valid 22 Jun to 26 Jul), running alongside the in-store Monster-Sized Sale of 8% off your 1st item and 10% off your 2nd.",
       "expiry": "Ends 26 Jul",
       "heat": 0,
       "url": "https://www.gaincity.com/",
-      "source": {
-        "name": "Gain City",
-        "url": "https://www.gaincity.com/"
-      },
+      "source": { "name": "Gain City", "url": "https://www.gaincity.com/" },
       "first_seen": "2026-07-05",
       "expires_at": "2026-07-26"
     },
@@ -99,30 +58,221 @@
       "title": "Microsoft 365 at $145 + 5% off notebooks",
       "store": "Challenger · In-store & online",
       "brand": "Challenger",
-      "categories": [
-        "electronics"
-      ],
+      "categories": ["electronics"],
       "icon": "💻",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "5% OFF + M365"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "ValueClub members — in-store & online"
-      },
+      "badges": [{ "type": "discount", "label": "5% OFF + M365" }],
+      "access": { "type": "app", "label": "ValueClub members — in-store & online" },
       "desc": "July notebook bundle: get Microsoft 365 for $145 with a selected notebook, plus a 5% off notebook coupon. Brands include Acer, ASUS, Lenovo and MSI.",
       "expiry": "Ends 31 Jul",
       "heat": 0,
       "url": "https://online.challenger.sg/pages/promotions",
-      "source": {
-        "name": "Challenger",
-        "url": "https://online.challenger.sg/pages/promotions"
-      },
+      "source": { "name": "Challenger", "url": "https://online.challenger.sg/pages/promotions" },
       "first_seen": "2026-07-05",
       "expires_at": "2026-07-31"
+    },
+    {
+      "id": "mcdonalds-mcnuggets-990",
+      "title": "$9.90 for 20pc Spicy Jalapeño Chicken McNuggets",
+      "store": "McDonald's · Islandwide",
+      "brand": "McDonald's",
+      "categories": ["food"],
+      "icon": "🍟",
+      "badges": [{ "type": "discount", "label": "$9.90 20PC" }],
+      "access": { "type": "easy", "label": "In-store, app & delivery — no min spend" },
+      "desc": "Grab 20 pieces of the Spicy Jalapeño Chicken McNuggets for $9.90 with no minimum spend, running through to 8 July. Great for sharing.",
+      "expiry": "Ends 8 Jul",
+      "heat": 0,
+      "url": "https://singpromos.com/sales-calendar/2026-07/dining-restaurants-food/",
+      "source": { "name": "SINGPromos", "url": "https://singpromos.com/sales-calendar/2026-07/dining-restaurants-food/" },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-08"
+    },
+    {
+      "id": "shihlin-fried-chicken-day",
+      "title": "2nd XXL Crispy Chicken at 50% off",
+      "store": "Shihlin Taiwan Street Food · Islandwide",
+      "brand": "Shihlin",
+      "categories": ["food"],
+      "icon": "🍗",
+      "badges": [{ "type": "discount", "label": "50% OFF 2ND" }],
+      "access": { "type": "easy", "label": "In-store — International Fried Chicken Day" },
+      "desc": "For International Fried Chicken Day, buy one signature XXL Crispy Chicken ($6.90) and get the second at half price. Runs 6–8 July at all outlets.",
+      "expiry": "Ends 8 Jul",
+      "heat": 0,
+      "url": "https://thesmartlocal.com/read/deals-this-week-singapore/",
+      "source": { "name": "TheSmartLocal", "url": "https://thesmartlocal.com/read/deals-this-week-singapore/" },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-08"
+    },
+    {
+      "id": "4fingers-fried-chicken-day",
+      "title": "Chicken Katsu Combo for $6 in your workout gear",
+      "store": "4Fingers Crispy Chicken · Islandwide",
+      "brand": "4Fingers",
+      "categories": ["food"],
+      "icon": "🍗",
+      "badges": [{ "type": "discount", "label": "$6 COMBO" }],
+      "access": { "type": "easy", "label": "In-store — turn up in workout outfit" },
+      "desc": "Turn up in your workout outfit from 6–9 July and get a Chicken Katsu Combo with a Coca-Cola for just $6. Fried Chicken Day treat for gym-goers.",
+      "expiry": "Ends 9 Jul",
+      "heat": 0,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": { "name": "EverydayOnSales", "url": "https://sg.everydayonsales.com/promotions-freebies/" },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-09"
+    },
+    {
+      "id": "breadtalk-26th-anniversary",
+      "title": "26th Anniversary: 1-for-1 pastries & bundle deals all July",
+      "store": "BreadTalk · Islandwide",
+      "brand": "BreadTalk",
+      "categories": ["food"],
+      "icon": "🥐",
+      "badges": [{ "type": "discount", "label": "ANNIVERSARY" }],
+      "access": { "type": "easy", "label": "In-store — deals rotate weekly" },
+      "desc": "Anniversary deals all month: buy-1-get-1 French Palmier, Buy-3-Get-1 Shio Pan, discounted Swiss rolls and multi-buy bun bundles. A free Flosss bun at VivoCity on 11 July.",
+      "expiry": "Ends 31 Jul",
+      "heat": 0,
+      "url": "https://thesmartlocal.com/read/deals-this-week-singapore/",
+      "source": { "name": "TheSmartLocal", "url": "https://thesmartlocal.com/read/deals-this-week-singapore/" },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-31"
+    },
+    {
+      "id": "swensens-saf-sundae",
+      "title": "Sticky Chewy Chocolate Sundae for $6.10 with any main",
+      "store": "Swensen's · Islandwide",
+      "brand": "Swensen's",
+      "categories": ["food"],
+      "icon": "🍨",
+      "badges": [{ "type": "discount", "label": "SAF DAY" }],
+      "access": { "type": "app", "label": "NSF & NSmen PAssion members" },
+      "desc": "SAF Day treat for NSF and NSmen PAssion members: add the popular Sticky Chewy Chocolate sundae for $6.10 with any main dish, all through July.",
+      "expiry": "Ends 31 Jul",
+      "heat": 0,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": { "name": "EverydayOnSales", "url": "https://sg.everydayonsales.com/promotions-freebies/" },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-31"
+    },
+    {
+      "id": "burgerking-app-coupons",
+      "title": "App coupons: value meals & deals from $1",
+      "store": "Burger King · Islandwide",
+      "brand": "Burger King",
+      "categories": ["food"],
+      "icon": "🍔",
+      "badges": [{ "type": "discount", "label": "FROM $1" }],
+      "access": { "type": "app", "label": "Burger King app — show at counter" },
+      "desc": "The Burger King app is loaded with coupons from $1, value meals and combo deals through to end-July. Redeem in-store or via the app.",
+      "expiry": "Ends 31 Jul",
+      "heat": 0,
+      "url": "https://singpromos.com/date/2026/07/",
+      "source": { "name": "SINGPromos", "url": "https://singpromos.com/date/2026/07/" },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-31"
+    },
+    {
+      "id": "euyansang-online-jul",
+      "title": "Up to $55 off + free next-day delivery",
+      "store": "Eu Yan Sang · Online",
+      "brand": "Eu Yan Sang",
+      "categories": ["food", "online"],
+      "icon": "🌿",
+      "badges": [{ "type": "discount", "label": "UP TO $55 OFF" }],
+      "access": { "type": "easy", "label": "Online — tiered discount at checkout" },
+      "desc": "Online wellness sale (2–8 July): tiered savings of up to $55 off, plus free next-day delivery on orders above $150. Good time to restock tonics and supplements.",
+      "expiry": "Ends 8 Jul",
+      "heat": 0,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": { "name": "EverydayOnSales", "url": "https://sg.everydayonsales.com/promotions-freebies/" },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-08"
+    },
+    {
+      "id": "bestdenki-oppo-x9s",
+      "title": "OPPO Find X9s launch: $100 cashback + $400 in offers",
+      "store": "BEST Denki · In-store & online",
+      "brand": "BEST Denki",
+      "categories": ["electronics"],
+      "icon": "📱",
+      "badges": [{ "type": "discount", "label": "$100 CASHBACK" }],
+      "access": { "type": "easy", "label": "In-store & online — on selected OPPO" },
+      "desc": "Launch offer on the new OPPO Find X9s: $100 instant cashback, over $400 worth of launch gifts, and 20% off selected OPPO IoT accessories through July.",
+      "expiry": "Ends 31 Jul",
+      "heat": 0,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": { "name": "EverydayOnSales", "url": "https://sg.everydayonsales.com/promotions-freebies/" },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-31"
+    },
+    {
+      "id": "getgo-weekday-drives",
+      "title": "10% off weekday drives",
+      "store": "GetGo · Islandwide",
+      "brand": "GetGo",
+      "categories": ["travel"],
+      "icon": "🚗",
+      "badges": [{ "type": "discount", "label": "10% OFF" }],
+      "access": { "type": "app", "label": "GetGo app — weekday bookings" },
+      "desc": "Car-sharing on the cheap: 10% off weekday drives all July. Handy for ferrying home your sale hauls without paying peak rates.",
+      "expiry": "Ends 31 Jul",
+      "heat": 0,
+      "url": "https://www.getgo.sg/blog/best-promos-and-deals-singapore-july-2026",
+      "source": { "name": "GetGo", "url": "https://www.getgo.sg/blog/best-promos-and-deals-singapore-july-2026" },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-07-31"
+    },
+    {
+      "id": "expedia-uob-hotels",
+      "title": "8% off selected hotels with UOB cards",
+      "store": "Expedia · Online",
+      "brand": "Expedia",
+      "categories": ["travel"],
+      "icon": "✈️",
+      "badges": [{ "type": "discount", "label": "8% OFF HOTELS" }],
+      "access": { "type": "easy", "label": "Online — pay with a UOB card" },
+      "desc": "Save 8% on selected hotel stays worldwide when you book on Expedia and pay with a UOB card. Long-running offer valid until the end of the year.",
+      "expiry": "Ends 31 Dec",
+      "heat": 0,
+      "url": "https://singpromos.com/date/2026/07/",
+      "source": { "name": "SINGPromos", "url": "https://singpromos.com/date/2026/07/" },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-12-31"
+    },
+    {
+      "id": "qatar-mastercard-flights",
+      "title": "Up to 10% off flights with Mastercard",
+      "store": "Qatar Airways · Online",
+      "brand": "Qatar Airways",
+      "categories": ["travel"],
+      "icon": "✈️",
+      "badges": [{ "type": "discount", "label": "UP TO 10% OFF" }],
+      "access": { "type": "easy", "label": "Online — pay with a Mastercard" },
+      "desc": "Qatar Airways is giving Mastercard holders up to 10% off flights when booking through the promo page. Valid until the end of December.",
+      "expiry": "Ends 31 Dec",
+      "heat": 0,
+      "url": "https://singpromos.com/date/2026/07/",
+      "source": { "name": "SINGPromos", "url": "https://singpromos.com/date/2026/07/" },
+      "first_seen": "2026-07-05",
+      "expires_at": "2026-12-31"
+    },
+    {
+      "id": "cimb-fixed-deposit",
+      "title": "SGD fixed deposit up to 1.50% p.a.",
+      "store": "CIMB Singapore · Online & branch",
+      "brand": "CIMB",
+      "categories": ["finance"],
+      "icon": "🏦",
+      "badges": [{ "type": "discount", "label": "1.50% P.A." }],
+      "access": { "type": "easy", "label": "Online & at branches" },
+      "desc": "CIMB's promotional SGD fixed deposit pays up to 1.50% p.a., with the 6-month rate nudged up from 1 July. Worth comparing if you're parking cash.",
+      "expiry": "Ongoing",
+      "heat": 0,
+      "url": "https://singpromos.com/date/2026/07/",
+      "source": { "name": "SINGPromos", "url": "https://singpromos.com/date/2026/07/" },
+      "first_seen": "2026-07-05",
+      "expires_at": ""
     }
   ]
 }

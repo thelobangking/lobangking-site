@@ -12,6 +12,7 @@
       "url": "https://www.greatdeals.com.sg/feed/"
     }
   ],
+  "_rss_verification_2026-07-05": "Live-checked the deal feeds. ACTIVE (in 'rss' above): SINGPromos + Great Deals Singapore — both returning fresh July-2026 items. PARKED below (do NOT enable without re-checking): SGDtips & MoneyDigest were unreachable; EverydayOnSales' feed surfaced stale 2025 items, which the present-year gate would discard anyway. The bulk of coverage comes from the per-brand Google News scan under 'brand_news'.",
   "rss_optional_add_after_verifying": [
     {
       "name": "SGDtips",
