@@ -124,6 +124,7 @@
     "Coach",
     "Cotton On",
     "Courts",
+    "Don Don Donki",
     "Eu Yan Sang",
     "Expedia",
     "FairPrice",
@@ -153,7 +154,6 @@
     "Sheng Siong",
     "Shihlin",
     "Sothys",
-    "Starbucks",
     "Subway",
     "Swensen's",
     "TANGS",
@@ -190,7 +190,7 @@
       },
       "desc": "Big savings on Burger King favourites",
       "expiry": "Ends 4 Oct",
-      "heat": 150,
+      "heat": 145,
       "url": "https://singpromos.com/dining-restaurants-food/burger-king-sg-latest-e-coupons-up-to-62-breakfast-meals-snacks-till-4-oct-2026-304072/",
       "source": {
         "name": "SINGPromos",
@@ -201,8 +201,40 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-06",
-      "image": "images/deals/burger-king-sg-latest-e-coupons-up-to-62-breakfast-meals-sna.jpg",
-      "spotlight": true
+      "spotlight": true,
+      "image": "images/deals/burger-king-sg-latest-e-coupons-up-to-62-breakfast-meals-sna.jpg"
+    },
+    {
+      "id": "free-gift-circles-life-ai-superplan-6-month-free-10-voucher",
+      "title": "[FREE GIFT] Circles.Life AI Superplan: $6/month + FREE $10 Voucher",
+      "store": "[FREE GIFT] Circles.Life AI",
+      "categories": [
+        "online"
+      ],
+      "icon": "🛒",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Get a FREE $10 Voucher when you sign up for the Circles.Life AI Superplan at just $6/month",
+      "expiry": "Check link for dates",
+      "heat": 135,
+      "url": "https://singpromos.com/telecoms/free-gift-circles-life-ai-superplan-6-month-free-10-voucher-304086/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/telecoms/free-gift-circles-life-ai-superplan-6-month-free-10-voucher-304086/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-07-06",
+      "image": "images/deals/free-gift-circles-life-ai-superplan-6-month-free-10-voucher.jpg"
     },
     {
       "id": "kfc-s-pore-6-70-usual-9-80-2pcs-hot-crispy-chicken-meal-from",
@@ -224,7 +256,7 @@
       },
       "desc": "Save up to $3.10",
       "expiry": "Ends 7 Jul",
-      "heat": 140,
+      "heat": 135,
       "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-70-usual-9-80-2pcs-hot-crispy-chicken-meal-from-6-7-jul-2026-304052/",
       "source": {
         "name": "SINGPromos",
@@ -261,7 +293,7 @@
       },
       "desc": "Save on housebrand favourites, CDC voucher specials, frozen foods and everyday grocery essentials.",
       "expiry": "Ends 6 Jul",
-      "heat": 120,
+      "heat": 115,
       "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-housebrand-50-off-mao-shang-king-potong-ice-cream-6s-more-until-6-jul-2026-303980/",
       "source": {
         "name": "SINGPromos",
@@ -294,7 +326,7 @@
       },
       "desc": "Crispy fried chicken for just $1",
       "expiry": "Ends 6 Jul",
-      "heat": 115,
+      "heat": 110,
       "url": "https://singpromos.com/dining-restaurants-food/texas-chicken-spore-1-fried-chicken-promotion-on-6-july-2026-304079/",
       "source": {
         "name": "SINGPromos",
@@ -326,7 +358,7 @@
       },
       "desc": "Score big on your next getaway",
       "expiry": "Ends 10 Jul",
-      "heat": 115,
+      "heat": 110,
       "url": "https://singpromos.com/vacations/trip-com-spore-7-7-mega-sale-from-7-to-10-july-2026-304009/",
       "source": {
         "name": "SINGPromos",
@@ -359,7 +391,7 @@
       },
       "desc": "Discover a new side of 7-Eleven",
       "expiry": "Ends 29 Jul",
-      "heat": 110,
+      "heat": 105,
       "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-free-10000-meals-giveaway-at-selected-outlets-every-wed-from-8-29-jul-2026-304033/",
       "source": {
         "name": "SINGPromos",
@@ -391,7 +423,7 @@
       },
       "desc": "Enjoy a local-inspired breakfast with croissant, coddled eggs and great weekday value.",
       "expiry": "Ongoing",
-      "heat": 105,
+      "heat": 100,
       "url": "https://singpromos.com/dining-restaurants-food/coffee-bean-sg-new-croissant-with-orh-nee-spread-coddled-eggs-weekday-breakfast-set-from-6-jul-2026-304061/",
       "source": {
         "name": "SINGPromos",
@@ -423,7 +455,7 @@
       },
       "desc": "Tubs, cones, sticks and multipacks from popular ice cream brands.",
       "expiry": "Ends 15 Jul",
-      "heat": 105,
+      "heat": 100,
       "url": "https://singpromos.com/dining-restaurants-food/fairprice-ice-cream-price-drop-niseko-magnolia-more-until-15-jul-2026-303990/",
       "source": {
         "name": "SINGPromos",
@@ -456,7 +488,7 @@
       },
       "desc": "Signature blend of seven cheeses and an edge-to-edge cheesy crunch",
       "expiry": "Ends 26 Jul",
-      "heat": 95,
+      "heat": 90,
       "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-singapore-cheesy-7-pizza-from-13-95-promotion-from-9-26-jul-2026-304026/",
       "source": {
         "name": "SINGPromos",
@@ -467,6 +499,42 @@
       "starts_at": "2026-07-09",
       "first_seen": "2026-07-06",
       "image": "images/deals/pizza-hut-singapore-cheesy-7-pizza-from-13-95-promotion-from.jpg"
+    },
+    {
+      "id": "up-to-70-off-selected-items-at-don-don-donki-till-19-jul-set",
+      "title": "Up to 70% off selected items at Don Don Donki till 19 Jul - SETHLUI.com",
+      "store": "Don Don Donki",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "DON DON DONKI"
+        },
+        {
+          "type": "discount",
+          "label": "70% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Up to 70% off selected items at Don Don Donki till 19 Jul SETHLUI.com",
+      "expiry": "Ends 19 Jul",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5",
+      "source": {
+        "name": "SETHLUI.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5"
+      },
+      "brand": "Don Don Donki",
+      "expires_at": "2026-07-19",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-07-06"
     },
     {
       "id": "muji-jewel-changi-airport-has-an-ongoing-clearance-sale-of-u",
@@ -956,7 +1024,7 @@
       },
       "desc": "Late-night fried chicken feast",
       "expiry": "Ends 10 Jul",
-      "heat": 85,
+      "heat": 80,
       "url": "https://singpromos.com/dining-restaurants-food/popeyes-spore-midnight-crunch-5pc-chicken-bucket-for-s12-from-6-to-10-july-2026-10pm-2am-304019/",
       "source": {
         "name": "SINGPromos",
@@ -967,6 +1035,39 @@
       "starts_at": "",
       "first_seen": "2026-07-06",
       "image": "images/deals/popeyes-s-pore-midnight-crunch-5pc-chicken-bucket-for-s-12-f.jpg"
+    },
+    {
+      "id": "fairprice-unveils-new-winnie-the-pooh-loyalty-collection-fea",
+      "title": "FairPrice Unveils New Winnie the Pooh Loyalty Collection Featuring Luggage, Cookware and More",
+      "store": "FairPrice",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "FAIRPRICE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Shop, collect Bonus Points and redeem adorable Winnie the Pooh lifestyle items.",
+      "expiry": "Check link for dates",
+      "heat": 80,
+      "url": "https://www.greatdeals.com.sg/2026/07/06/fairprice-winnie-the-pooh-loyalty-collection-july-september-2026",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://www.greatdeals.com.sg/2026/07/06/fairprice-winnie-the-pooh-loyalty-collection-july-september-2026"
+      },
+      "brand": "FairPrice",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-07-06",
+      "image": "images/deals/fairprice-unveils-new-winnie-the-pooh-loyalty-collection-fea.jpg"
     },
     {
       "id": "ihg-hotels-resorts-stay-3-pay-2-deal-till-15-sep-2026",
@@ -988,7 +1089,7 @@
       },
       "desc": "Enjoy longer suite and premium room stays with extra nights on the house at IHG resorts",
       "expiry": "Ends 15 Sep",
-      "heat": 80,
+      "heat": 75,
       "url": "https://singpromos.com/vacations/ihg-hotels-resorts-stay-3-pay-2-deal-till-15-sep-2026-304012/",
       "source": {
         "name": "SINGPromos",
@@ -999,39 +1100,6 @@
       "starts_at": "",
       "first_seen": "2026-07-06",
       "image": "images/deals/ihg-hotels-resorts-stay-3-pay-2-deal-till-15-sep-2026.jpg"
-    },
-    {
-      "id": "mcdonald-s-offers-4pc-chicken-mccrispy-honey-soy-for-just-9-",
-      "title": "McDonald’s Offers 4pc Chicken McCrispy Honey Soy for Just $9.90 This Int’l Fried Chicken Week",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Your fried chicken craving just got more affordable.",
-      "expiry": "Check link for dates",
-      "heat": 80,
-      "url": "https://www.greatdeals.com.sg/2026/06/29/mcdonalds-4pc-chicken-mccrispy-honey-soy-offer-july-2026",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://www.greatdeals.com.sg/2026/06/29/mcdonalds-4pc-chicken-mccrispy-honey-soy-offer-july-2026"
-      },
-      "brand": "McDonald's",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-06",
-      "image": "images/deals/mcdonald-s-offers-4pc-chicken-mccrispy-honey-soy-for-just-9-.jpg"
     },
     {
       "id": "unity-pharmacy-buy-1-get-1-deals-more-till-8-jul-2026",
@@ -1053,7 +1121,7 @@
       },
       "desc": "Double up on health, beauty and wellness essentials",
       "expiry": "Ends 8 Jul",
-      "heat": 75,
+      "heat": 70,
       "url": "https://singpromos.com/health/unity-pharmacy-buy-1-get-1-deals-more-till-8-jul-2026-303962/",
       "source": {
         "name": "SINGPromos",
@@ -1066,41 +1134,9 @@
       "image": "images/deals/unity-pharmacy-buy-1-get-1-deals-more-till-8-jul-2026.jpg"
     },
     {
-      "id": "g2000-singapore-secret-online-sale-till-12-july-2026",
-      "title": "G2000 Singapore Secret Online Sale till 12 July 2026",
-      "store": "G2000",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "Browse workwear, formalwear and smart-casual essentials for different occasions",
-      "expiry": "Ends 12 Jul",
-      "heat": 70,
-      "url": "https://singpromos.com/fashion-accessories/g2000-singapore-secret-online-sale-till-12-july-2026-304000/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/fashion-accessories/g2000-singapore-secret-online-sale-till-12-july-2026-304000/"
-      },
-      "expires_at": "2026-07-12",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-06",
-      "image": "images/deals/g2000-singapore-secret-online-sale-till-12-july-2026.jpg"
-    },
-    {
-      "id": "starbucks-singapore-has-a-1-second-venti-drink-deal-for-memb",
-      "title": "Starbucks Singapore Has a $1 Second Venti Drink Deal for Members from June 30 to July 2",
-      "store": "Starbucks",
+      "id": "mcdonald-s-offers-4pc-chicken-mccrispy-honey-soy-for-just-9-",
+      "title": "McDonald’s Offers 4pc Chicken McCrispy Honey Soy for Just $9.90 This Int’l Fried Chicken Week",
+      "store": "McDonald's",
       "categories": [
         "food"
       ],
@@ -1108,55 +1144,55 @@
       "badges": [
         {
           "type": "new",
-          "label": "STARBUCKS"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "If you're ordering Venti anyway, don't miss this.",
-      "expiry": "Check link for dates",
-      "heat": 70,
-      "url": "https://www.greatdeals.com.sg/2026/06/29/starbucks-2nd-venti-drink-deal-1-dollar-july-2026",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://www.greatdeals.com.sg/2026/06/29/starbucks-2nd-venti-drink-deal-1-dollar-july-2026"
-      },
-      "brand": "Starbucks",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-06",
-      "image": "images/deals/starbucks-singapore-has-a-1-second-venti-drink-deal-for-memb.jpg"
-    },
-    {
-      "id": "uniqlo-to-open-first-museum-pop-up-at-asian-civilisations-mu",
-      "title": "Uniqlo to open first museum pop-up at Asian Civilisations Museum and launch T-shirt collab in April - The Straits Times",
-      "store": "Uniqlo",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "UNIQLO"
+          "label": "MCDONALD'S"
         }
       ],
       "access": {
         "type": "easy",
         "label": "See source for how to redeem"
       },
-      "desc": "Uniqlo to open first museum pop-up at Asian Civilisations Museum and launch T-shirt collab in April The Straits Times",
+      "desc": "Your fried chicken craving just got more affordable.",
       "expiry": "Check link for dates",
       "heat": 70,
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVFrbmxDaEI2eHMtMGM1UGhpbVd5WGtNd2UyazZDWHFXVHJhbU0tSkE0eVVBemdycHdIVU0yWlNXMkhkaGh5WEw1V0tGVUxHSUxkTFU5a1JoaDdiZl9ibF9WNl8wbWVuLW9VazQwb3F6YnJxclowb19sQk0xSDZ6aEs0azZ6MDVUSHlieFFIdmpRQlI4YnRxdWc1amVBclZ5TnhVZ2h0RjhhaFR3Tjc4OWlvSFdxeTVQWVlrZGtjNWFxT1hK?oc=5",
+      "url": "https://www.greatdeals.com.sg/2026/06/29/mcdonalds-4pc-chicken-mccrispy-honey-soy-offer-july-2026",
       "source": {
-        "name": "The Straits Times",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVFrbmxDaEI2eHMtMGM1UGhpbVd5WGtNd2UyazZDWHFXVHJhbU0tSkE0eVVBemdycHdIVU0yWlNXMkhkaGh5WEw1V0tGVUxHSUxkTFU5a1JoaDdiZl9ibF9WNl8wbWVuLW9VazQwb3F6YnJxclowb19sQk0xSDZ6aEs0azZ6MDVUSHlieFFIdmpRQlI4YnRxdWc1amVBclZ5TnhVZ2h0RjhhaFR3Tjc4OWlvSFdxeTVQWVlrZGtjNWFxT1hK?oc=5"
+        "name": "Great Deals Singapore",
+        "url": "https://www.greatdeals.com.sg/2026/06/29/mcdonalds-4pc-chicken-mccrispy-honey-soy-offer-july-2026"
       },
-      "brand": "Uniqlo",
+      "brand": "McDonald's",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-07-06",
+      "image": "images/deals/mcdonald-s-offers-4pc-chicken-mccrispy-honey-soy-for-just-9-.jpg"
+    },
+    {
+      "id": "don-don-donki-other-stores-at-harbourfront-centre-are-having",
+      "title": "Don Don Donki & Other Stores At HarbourFront Centre Are Having Clearance Sales Before The Mall Shuts - TheSmartLocal",
+      "store": "Don Don Donki",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "DON DON DONKI"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Don Don Donki & Other Stores At HarbourFront Centre Are Having Clearance Sales Before The Mall Shuts TheSmartLocal",
+      "expiry": "Check link for dates",
+      "heat": 70,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jemNsR1ZRYVdrY1c3Y25LMVpIQzJaWGZXMXVWUHBLRm1lZlZfOEJiQkRuN3gxd0FNOTlESF91QkxMZFhmdWR2eTh6WGRBZDNscloyMzE5NWhYM2hyS2tSOENoSHpaMHdzMTNiOVFSRnVlM3dHT05IcU9B0gF_QVVfeXFMTllSODFwTENFZjR2X0VmQ0kxRnZJLUhBRG9SUzU2aFcyeEFQMzhaOXRHQ2ViQ2JiQkNsc3dMWWtoNFVVb1lWU0g1eG1DX0xJUlVUaVpDQlBRdW5Qc1hUSjZ4X0lkMVEzN3l1ZWJ6YTgyWHY3U0NaNWdLa1Y4WG1DMA?oc=5",
+      "source": {
+        "name": "TheSmartLocal",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jemNsR1ZRYVdrY1c3Y25LMVpIQzJaWGZXMXVWUHBLRm1lZlZfOEJiQkRuN3gxd0FNOTlESF91QkxMZFhmdWR2eTh6WGRBZDNscloyMzE5NWhYM2hyS2tSOENoSHpaMHdzMTNiOVFSRnVlM3dHT05IcU9B0gF_QVVfeXFMTllSODFwTENFZjR2X0VmQ0kxRnZJLUhBRG9SUzU2aFcyeEFQMzhaOXRHQ2ViQ2JiQkNsc3dMWWtoNFVVb1lWU0g1eG1DX0xJUlVUaVpDQlBRdW5Qc1hUSjZ4X0lkMVEzN3l1ZWJ6YTgyWHY3U0NaNWdLa1Y4WG1DMA?oc=5"
+      },
+      "brand": "Don Don Donki",
       "expires_at": "",
       "upcoming": false,
       "starts_at": "",
