@@ -15,12 +15,17 @@ import pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
+# Legal banner kept in the minified output (comments are otherwise stripped).
+BANNER = ("/*! © 2026 LobangKing.sg — All rights reserved. Proprietary; "
+          "copying, cloning or scraping of this code or design is prohibited. "
+          "https://lobangking.sg/LICENSE.txt */")
+
 
 def minify_css(src: str) -> str:
     s = re.sub(r"/\*.*?\*/", "", src, flags=re.S)     # remove comments
     s = re.sub(r"[ \t]*\r?\n[ \t]*", " ", s)          # newlines + indentation -> single space
     s = re.sub(r"[ \t]{2,}", " ", s)                  # runs of spaces -> single space
-    return s.strip()
+    return BANNER + s.strip()
 
 
 def build():

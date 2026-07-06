@@ -1,0 +1,16 @@
+/* TEAM */
+  Site: LobangKing.sg — Every Lobang in Singapore 👑
+  Contact: thelobangkingsg@gmail.com
+  Location: Singapore 🇸🇬
+
+/* SITE */
+  © 2026 LobangKing.sg. All rights reserved.
+  Rights: Proprietary — see /LICENSE.txt. No copying, cloning, scraping or
+          AI training without written permission.
+  Standards: HTML5, CSS3, vanilla JavaScript (no trackers, no frameworks)
+  Components: Self-hosted fonts, Progressive Web App, offline support
+  Updated: Deals refreshed automatically every morning
+
+/* NOTE */
+  Deals are hand-checked and rebuilt daily. Spotted a lobang we missed?
+  Share it at /submit.html — the best finds get crowned on the homepage.

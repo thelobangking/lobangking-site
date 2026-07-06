@@ -124,7 +124,7 @@ def footer():
         <a href="privacy.html#disclaimer">Disclaimer</a></div>
     </div>
     <div class="footer__bottom">
-      <span>© 2026 LobangKing.sg — Every Lobang in Singapore 👑</span>
+      <span>© 2026 LobangKing.sg — Every Lobang in Singapore 👑 · All rights reserved</span>
       <nav><a href="about.html">About</a><a href="submit.html">Submit</a><a href="privacy.html">Privacy</a></nav>
     </div>
   </div>
@@ -422,6 +422,10 @@ def full_page(title, desc, canonical, jsonld, body, og_image=None):
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="copyright" content="© 2026 LobangKing.sg. All rights reserved.">
+  <meta name="author" content="LobangKing.sg">
+  <meta name="rights" content="All rights reserved — reproduction or replication of this site's design, code or curated content is prohibited.">
+  <link rel="license" href="/LICENSE.txt">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; connect-src 'self'; manifest-src 'self'; worker-src 'self'; form-action 'self' https://formspree.io; base-uri 'self'; object-src 'none'; frame-ancestors 'none'; upgrade-insecure-requests">
   <meta name="referrer" content="strict-origin-when-cross-origin">
   <title>{esc(title)}</title>
@@ -439,24 +443,24 @@ def full_page(title, desc, canonical, jsonld, body, og_image=None):
   <meta property="og:image" content="{esc(og_image)}">
   <meta property="og:url" content="{esc(canonical)}">
   <meta name="twitter:card" content="summary_large_image">
-  <script src="js/theme.js?v=12"></script>
-  <link rel="preload" as="font" type="font/woff2" href="fonts/dmsans-400.woff2?v=12" crossorigin>
-  <link rel="preload" as="font" type="font/woff2" href="fonts/sora-700.woff2?v=12" crossorigin>
-  <link rel="stylesheet" href="css/fonts.min.css?v=12">
-  <link rel="stylesheet" href="css/styles.min.css?v=12">
+  <script src="js/theme.js?v=13"></script>
+  <link rel="preload" as="font" type="font/woff2" href="fonts/dmsans-400.woff2?v=13" crossorigin>
+  <link rel="preload" as="font" type="font/woff2" href="fonts/sora-700.woff2?v=13" crossorigin>
+  <link rel="stylesheet" href="css/fonts.min.css?v=13">
+  <link rel="stylesheet" href="css/styles.min.css?v=13">
   {jsonld}
   {SPEC_RULES}
 </head>
 <body>
 '''
     tail = ('<button class="back-to-top" id="backToTop" type="button" aria-label="Back to top">↑</button>\n'
-            '<script src="js/consent.js?v=12" defer></script>\n'
-            '<script src="js/protect.js?v=12" defer></script>\n'
-            '<script src="js/vitals.js?v=12" defer></script>\n'
-            '<script src="js/engagement.js?v=12" defer></script>\n'
-            '<script src="js/translate.js?v=12" defer></script>\n'
-            '<script src="js/a11y.js?v=12" defer></script>\n'
-            '<script src="js/main.js?v=12" defer></script>\n</body>\n</html>\n')
+            '<script src="js/consent.js?v=13" defer></script>\n'
+            '<script src="js/protect.js?v=13" defer></script>\n'
+            '<script src="js/vitals.js?v=13" defer></script>\n'
+            '<script src="js/engagement.js?v=13" defer></script>\n'
+            '<script src="js/translate.js?v=13" defer></script>\n'
+            '<script src="js/a11y.js?v=13" defer></script>\n'
+            '<script src="js/main.js?v=13" defer></script>\n</body>\n</html>\n')
     return head + header(None) + '<main id="main" tabindex="-1">\n' + body + "\n</main>\n" + footer() + "\n" + tail
 
 

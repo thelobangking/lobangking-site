@@ -1,0 +1,50 @@
+LobangKing.sg — Proprietary License
+Copyright © 2026 LobangKing.sg. All rights reserved.
+
+Last updated: 6 July 2026
+
+1. OWNERSHIP
+   This website — including its source code (HTML, CSS, JavaScript), design,
+   layout, visual style, wordmark, logo, iconography, copy/text, the structure
+   and selection of its curated deal listings ("lobangs"), and all other
+   original material (collectively, the "Work") — is the exclusive property of
+   LobangKing.sg and is protected by copyright and other intellectual-property
+   laws of Singapore and international treaties.
+
+2. ALL RIGHTS RESERVED
+   No part of the Work may be copied, reproduced, republished, mirrored,
+   framed, scraped, harvested, "cloned", redistributed, sold, sublicensed, or
+   used to create a derivative or substantially similar website or service,
+   in whole or in part, by any means, without the prior written permission of
+   LobangKing.sg. This expressly includes:
+     • duplicating the site's design, layout, or stylesheet;
+     • copying its HTML/CSS/JavaScript source, minified or not;
+     • bulk-copying, re-hosting, or re-selling its curated deal listings;
+     • automated scraping, crawling, or ingestion for training or resale.
+
+3. PERMITTED USE
+   You may view this site in a web browser for your own personal,
+   non-commercial use, and share links to it. Normal browser caching and
+   accessibility tools are permitted. Nothing here grants any licence to the
+   underlying code, design, or data beyond such personal viewing.
+
+4. NO AI TRAINING / NO DATA MINING
+   Use of the Work to develop, train, fine-tune, evaluate, or benchmark any
+   machine-learning or generative-AI system, or any text/data-mining, is
+   prohibited without written permission. This reservation is also expressed
+   in /robots.txt, /ai.txt, /llms.txt and the site's response headers.
+
+5. TRADEMARKS
+   "LobangKing", the crown wordmark and the logo are trademarks of
+   LobangKing.sg. Third-party brand names and deals mentioned belong to their
+   respective owners and are referenced for informational purposes only.
+
+6. ENFORCEMENT
+   Pages carry hidden origin markers and are regenerated daily; verbatim
+   copies are readily identifiable and go stale within 24 hours. Unauthorized
+   use may result in takedown requests and legal action.
+
+7. CONTACT / PERMISSIONS
+   To request permission or report misuse: thelobangkingsg@gmail.com
+
+This notice must not be removed from the Work or any copy of it.

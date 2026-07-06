@@ -1,3 +1,5 @@
+/*! © 2026 LobangKing.sg — All rights reserved. Proprietary code; copying,
+    cloning or scraping is prohibited. See https://lobangking.sg/LICENSE.txt */
 /* =====================================================================
    LobangKing.sg — main.js
    Powers: theming, mobile nav, deal rendering from data/deals.json,
@@ -1026,6 +1028,16 @@
     });
   }
 
+  // Prefill the Submit form's title from ?title= (homepage quick-share hands off here).
+  function initPrefill() {
+    try {
+      var t = new URLSearchParams(window.location.search).get("title");
+      if (!t) return;
+      var el = document.getElementById("f-title");
+      if (el && !el.value) { el.value = t; el.focus(); }
+    } catch (e) {}
+  }
+
   /* ---------------- dynamic background parallax (smooth up/down) ---------------- */
   function initBg() {
     var img = $(".site-bg__img");
@@ -1088,7 +1100,7 @@
 
   function init() {
     initTheme(); initMenu(); initCheckin(); initViews();
-    initDelegation(); initControls(); initBackToTop(); initForms(); initSW(); initBg();
+    initDelegation(); initControls(); initBackToTop(); initForms(); initPrefill(); initSW(); initBg();
     initChope(); startCountdownTicker();
     loadDeals(); revealObserve();
     applyCountdowns();   // enhance any server-pre-rendered time chips before deals.json loads
