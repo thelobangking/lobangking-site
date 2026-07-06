@@ -124,7 +124,6 @@
     "Coach",
     "Cotton On",
     "Courts",
-    "Don Don Donki",
     "Eu Yan Sang",
     "Expedia",
     "FairPrice",
@@ -468,42 +467,6 @@
       "starts_at": "2026-07-09",
       "first_seen": "2026-07-06",
       "image": "images/deals/pizza-hut-singapore-cheesy-7-pizza-from-13-95-promotion-from.jpg"
-    },
-    {
-      "id": "up-to-70-off-selected-items-at-don-don-donki-till-19-jul-set",
-      "title": "Up to 70% off selected items at Don Don Donki till 19 Jul - SETHLUI.com",
-      "store": "Don Don Donki",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "DON DON DONKI"
-        },
-        {
-          "type": "discount",
-          "label": "70% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Up to 70% off selected items at Don Don Donki till 19 Jul SETHLUI.com",
-      "expiry": "Ends 19 Jul",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5",
-      "source": {
-        "name": "SETHLUI.com",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5"
-      },
-      "brand": "Don Don Donki",
-      "expires_at": "2026-07-19",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-06"
     },
     {
       "id": "muji-jewel-changi-airport-has-an-ongoing-clearance-sale-of-u",
@@ -1166,6 +1129,38 @@
       "starts_at": "",
       "first_seen": "2026-07-06",
       "image": "images/deals/starbucks-singapore-has-a-1-second-venti-drink-deal-for-memb.jpg"
+    },
+    {
+      "id": "uniqlo-to-open-first-museum-pop-up-at-asian-civilisations-mu",
+      "title": "Uniqlo to open first museum pop-up at Asian Civilisations Museum and launch T-shirt collab in April - The Straits Times",
+      "store": "Uniqlo",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "UNIQLO"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Uniqlo to open first museum pop-up at Asian Civilisations Museum and launch T-shirt collab in April The Straits Times",
+      "expiry": "Check link for dates",
+      "heat": 70,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVFrbmxDaEI2eHMtMGM1UGhpbVd5WGtNd2UyazZDWHFXVHJhbU0tSkE0eVVBemdycHdIVU0yWlNXMkhkaGh5WEw1V0tGVUxHSUxkTFU5a1JoaDdiZl9ibF9WNl8wbWVuLW9VazQwb3F6YnJxclowb19sQk0xSDZ6aEs0azZ6MDVUSHlieFFIdmpRQlI4YnRxdWc1amVBclZ5TnhVZ2h0RjhhaFR3Tjc4OWlvSFdxeTVQWVlrZGtjNWFxT1hK?oc=5",
+      "source": {
+        "name": "The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZVFrbmxDaEI2eHMtMGM1UGhpbVd5WGtNd2UyazZDWHFXVHJhbU0tSkE0eVVBemdycHdIVU0yWlNXMkhkaGh5WEw1V0tGVUxHSUxkTFU5a1JoaDdiZl9ibF9WNl8wbWVuLW9VazQwb3F6YnJxclowb19sQk0xSDZ6aEs0azZ6MDVUSHlieFFIdmpRQlI4YnRxdWc1amVBclZ5TnhVZ2h0RjhhaFR3Tjc4OWlvSFdxeTVQWVlrZGtjNWFxT1hK?oc=5"
+      },
+      "brand": "Uniqlo",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-07-06"
     },
     {
       "id": "bestdenki-jackpot",
