@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06",
+  "updated": "2026-07-07",
   "categories": [
     {
       "id": "all",
@@ -151,7 +151,6 @@
     "SUKIYA",
     "SUSHIRO",
     "Sephora",
-    "Sheng Siong",
     "Shihlin",
     "Sothys",
     "Subway",
@@ -268,75 +267,6 @@
       "starts_at": "2026-07-06",
       "first_seen": "2026-07-06",
       "image": "images/deals/kfc-s-pore-6-70-usual-9-80-2pcs-hot-crispy-chicken-meal-from.jpg"
-    },
-    {
-      "id": "sheng-siong-housebrand-50-off-mao-shang-king-potong-ice-crea",
-      "title": "Sheng Siong Housebrand 50% OFF Mao Shang King Potong Ice Cream 6s & More Until 6 Jul 2026",
-      "store": "Sheng Siong",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SHENG SIONG"
-        },
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Save on housebrand favourites, CDC voucher specials, frozen foods and everyday grocery essentials.",
-      "expiry": "Ends 6 Jul",
-      "heat": 115,
-      "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-housebrand-50-off-mao-shang-king-potong-ice-cream-6s-more-until-6-jul-2026-303980/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-housebrand-50-off-mao-shang-king-potong-ice-cream-6s-more-until-6-jul-2026-303980/"
-      },
-      "brand": "Sheng Siong",
-      "expires_at": "2026-07-06",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-06",
-      "image": "images/deals/sheng-siong-housebrand-50-off-mao-shang-king-potong-ice-crea.jpg"
-    },
-    {
-      "id": "texas-chicken-s-pore-1-fried-chicken-promotion-on-6-july-202",
-      "title": "Texas Chicken S’pore $1 Fried Chicken Promotion on 6 July 2026",
-      "store": "Texas Chicken",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Crispy fried chicken for just $1",
-      "expiry": "Ends 6 Jul",
-      "heat": 110,
-      "url": "https://singpromos.com/dining-restaurants-food/texas-chicken-spore-1-fried-chicken-promotion-on-6-july-2026-304079/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/texas-chicken-spore-1-fried-chicken-promotion-on-6-july-2026-304079/"
-      },
-      "expires_at": "2026-07-06",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-06",
-      "image": "images/deals/texas-chicken-s-pore-1-fried-chicken-promotion-on-6-july-202.jpg"
     },
     {
       "id": "trip-com-s-pore-7-7-mega-sale-from-7-to-10-july-2026",
