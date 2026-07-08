@@ -1208,7 +1208,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "2026-07-10",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "michael-kors-sale",
@@ -1439,7 +1440,8 @@
       "expires_at": "2026-07-12",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/courts-get7.jpg"
+      "image": "images/deals/courts-get7.jpg",
+      "status": "claimed"
     },
     {
       "id": "shihlin-fried-chicken-day",
