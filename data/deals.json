@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08",
+  "updated": "2026-07-09",
   "categories": [
     {
       "id": "all",
@@ -124,7 +124,6 @@
     "Cotton On",
     "Courts",
     "Don Don Donki",
-    "Eu Yan Sang",
     "Expedia",
     "GOLDLION",
     "Gain City",
@@ -152,7 +151,6 @@
     "Samsung",
     "Scoot",
     "Sephora",
-    "Shihlin",
     "Shopee",
     "Sothys",
     "Starbucks",
@@ -167,39 +165,6 @@
     "Zenyum"
   ],
   "deals": [
-    {
-      "id": "coe-premiums-rise-across-all-categories-after-8-jul-2026-bid",
-      "title": "COE premiums rise across all categories after 8 Jul 2026 bidding exercise",
-      "store": "COE premiums rise across",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Latest COE premiums show higher prices across all vehicle categories",
-      "expiry": "Ends 8 Jul",
-      "heat": 115,
-      "url": "https://singpromos.com/news/coe-premiums-rise-across-all-categories-after-8-jul-2026-bidding-exercise-304164/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/news/coe-premiums-rise-across-all-categories-after-8-jul-2026-bidding-exercise-304164/"
-      },
-      "expires_at": "2026-07-08",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-08",
-      "image": "images/deals/coe-premiums-rise-across-all-categories-after-8-jul-2026-bid.jpg",
-      "spotlight": true
-    },
     {
       "id": "branded-mega-clearance-sale-singapore-9-11-july-2026",
       "title": "Branded Mega Clearance Sale Singapore (9-11 July 2026)",
@@ -230,7 +195,8 @@
       "upcoming": true,
       "starts_at": "2026-07-09",
       "first_seen": "2026-07-08",
-      "image": "images/deals/branded-mega-clearance-sale-singapore-9-11-july-2026.jpg"
+      "image": "images/deals/branded-mega-clearance-sale-singapore-9-11-july-2026.jpg",
+      "spotlight": true
     },
     {
       "id": "7-eleven-s-pore-7-11-day-party-20-storewide-from-9-11-july-2",
@@ -1375,39 +1341,6 @@
       "image": "images/deals/challenger-ms365.jpg"
     },
     {
-      "id": "mcdonalds-mcnuggets-990",
-      "title": "$9.90 for 20pc Spicy Jalapeño Chicken McNuggets",
-      "store": "McDonald's · Islandwide",
-      "brand": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍟",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "$9.90 20PC"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "In-store, app & delivery — no min spend"
-      },
-      "desc": "Grab 20 pieces of the Spicy Jalapeño Chicken McNuggets for $9.90 with no minimum spend, running through to 8 July. Great for sharing.",
-      "expiry": "Ends 8 Jul",
-      "heat": 345,
-      "url": "https://singpromos.com/sales-calendar/2026-07/dining-restaurants-food/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/sales-calendar/2026-07/dining-restaurants-food/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-08",
-      "upcoming": false,
-      "starts_at": "",
-      "image": "images/deals/mcdonalds-mcnuggets-990.jpg"
-    },
-    {
       "id": "courts-get7",
       "title": "7% + 7% off sitewide with code GET7",
       "store": "Courts · Online",
@@ -1442,39 +1375,6 @@
       "starts_at": "",
       "image": "images/deals/courts-get7.jpg",
       "status": "claimed"
-    },
-    {
-      "id": "shihlin-fried-chicken-day",
-      "title": "2nd XXL Crispy Chicken at 50% off",
-      "store": "Shihlin Taiwan Street Food · Islandwide",
-      "brand": "Shihlin",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍗",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "50% OFF 2ND"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "In-store — International Fried Chicken Day"
-      },
-      "desc": "For International Fried Chicken Day, buy one signature XXL Crispy Chicken ($6.90) and get the second at half price. Runs 6–8 July at all outlets.",
-      "expiry": "Ends 8 Jul",
-      "heat": 340,
-      "url": "https://thesmartlocal.com/read/deals-this-week-singapore/",
-      "source": {
-        "name": "TheSmartLocal",
-        "url": "https://thesmartlocal.com/read/deals-this-week-singapore/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-08",
-      "upcoming": false,
-      "starts_at": "2026-07-06",
-      "image": "images/deals/shihlin-fried-chicken-day.jpg"
     },
     {
       "id": "4fingers-fried-chicken-day",
@@ -1605,39 +1505,6 @@
       "upcoming": false,
       "starts_at": "",
       "image": "images/deals/burgerking-app-coupons.jpg"
-    },
-    {
-      "id": "euyansang-online-jul",
-      "title": "Up to $55 off + free next-day delivery",
-      "store": "Eu Yan Sang · Online",
-      "brand": "Eu Yan Sang",
-      "categories": [
-        "food",
-        "online"
-      ],
-      "icon": "🌿",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "UP TO $55 OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — tiered discount at checkout"
-      },
-      "desc": "Online wellness sale (2–8 July): tiered savings of up to $55 off, plus free next-day delivery on orders above $150. Good time to restock tonics and supplements.",
-      "expiry": "Ends 8 Jul",
-      "heat": 315,
-      "url": "https://sg.everydayonsales.com/promotions-freebies/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/promotions-freebies/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-08",
-      "upcoming": false,
-      "starts_at": "2026-07-02"
     },
     {
       "id": "bestdenki-oppo-x9s",
