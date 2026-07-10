@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09",
+  "updated": "2026-07-10",
   "categories": [
     {
       "id": "all",
@@ -113,7 +113,6 @@
     "Trip.com"
   ],
   "brands_today": [
-    "4Fingers",
     "Apple",
     "BEST Denki",
     "BreadTalk",
@@ -1375,38 +1374,6 @@
       "starts_at": "",
       "image": "images/deals/courts-get7.jpg",
       "status": "claimed"
-    },
-    {
-      "id": "4fingers-fried-chicken-day",
-      "title": "Chicken Katsu Combo for $6 in your workout gear",
-      "store": "4Fingers Crispy Chicken · Islandwide",
-      "brand": "4Fingers",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍗",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "$6 COMBO"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "In-store — turn up in workout outfit"
-      },
-      "desc": "Turn up in your workout outfit from 6–9 July and get a Chicken Katsu Combo with a Coca-Cola for just $6. Fried Chicken Day treat for gym-goers.",
-      "expiry": "Ends 9 Jul",
-      "heat": 335,
-      "url": "https://sg.everydayonsales.com/promotions-freebies/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/promotions-freebies/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-09",
-      "upcoming": false,
-      "starts_at": "2026-07-06"
     },
     {
       "id": "breadtalk-26th-anniversary",
