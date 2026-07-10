@@ -157,9 +157,9 @@ _ci_ — Scheduled jobs: daily deals build, hourly validate+GC, 30-min uptime pi
 8. Verify: run scripts/test_aggregate.py, scripts/build_pages.py and scripts/validate.py; then let the daily/hourly workflows take over.
 
 ## Live inventory (auto-scanned)
-- **Total files:** 230
-- **Generated:** 59 per-deal pages, 8 category pages, 4 history snapshots
-- **By directory:** (root) (96), .git (30), .github (9), .well-known (1), css (4), data (2), fonts (1), history (5), images (49), js (11), scripts (22)
+- **Total files:** 226
+- **Generated:** 56 per-deal pages, 8 category pages, 5 history snapshots
+- **By directory:** (root) (93), .git (30), .github (9), .well-known (1), css (4), data (2), fonts (1), history (6), images (47), js (11), scripts (22)
 
 ---
 _Regenerate with `python3 scripts/motherlode.py` (also runs in the daily build). Edit the `BLUEPRINT` in `scripts/motherlode.py` to document new features or roadmap items._
