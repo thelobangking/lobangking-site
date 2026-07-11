@@ -534,7 +534,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-10",
-      "image": "images/deals/s-3-off-selected-eggs-rice-every-saturday-with-dbs-posb-card.jpg"
+      "image": "images/deals/s-3-off-selected-eggs-rice-every-saturday-with-dbs-posb-card.jpg",
+      "status": "claimed"
     },
     {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
@@ -1338,7 +1339,8 @@
       "expires_at": "2026-07-12",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/courts-get7.jpg"
+      "image": "images/deals/courts-get7.jpg",
+      "status": "claimed"
     },
     {
       "id": "breadtalk-26th-anniversary",
