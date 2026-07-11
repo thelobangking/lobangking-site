@@ -198,8 +198,8 @@
       "upcoming": true,
       "starts_at": "2026-07-13",
       "first_seen": "2026-07-11",
-      "spotlight": true,
-      "image": "images/deals/starbucks-s-pore-pink-bearista-glass-cold-cup-available-from.jpg"
+      "image": "images/deals/starbucks-s-pore-pink-bearista-glass-cold-cup-available-from.jpg",
+      "spotlight": true
     },
     {
       "id": "popeyes-s-pore-1-for-1-2pc-love-that-chicken-meal-midnight-c",
