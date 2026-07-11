@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10",
+  "updated": "2026-07-11",
   "categories": [
     {
       "id": "all",
@@ -267,38 +267,6 @@
       "starts_at": "2026-07-10",
       "first_seen": "2026-07-10",
       "image": "images/deals/f-n-new-magnolia-hershey-s-matcha-almond-stick-ice-cream-fro.jpg"
-    },
-    {
-      "id": "wingstop-s-pore-50-off-large-voodoo-fries-on-10-july-2026",
-      "title": "Wingstop S’pore 50% Off Large Voodoo Fries on 10 July 2026",
-      "store": "Wingstop",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Large Voodoo Fries get a one-day half-price drop for National Fry Day.",
-      "expiry": "Ends 10 Jul",
-      "heat": 115,
-      "url": "https://singpromos.com/dining-restaurants-food/wingstop-spore-50-off-large-voodoo-fries-on-10-july-2026-304219/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/wingstop-spore-50-off-large-voodoo-fries-on-10-july-2026-304219/"
-      },
-      "expires_at": "2026-07-10",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-10",
-      "image": "images/deals/wingstop-s-pore-50-off-large-voodoo-fries-on-10-july-2026.jpg"
     },
     {
       "id": "cold-storage-selling-ben-jerry-s-at-3-for-25-other-deals-til",
@@ -1140,39 +1108,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-06"
-    },
-    {
-      "id": "bestdenki-jackpot",
-      "title": "Up to 20% off TVs + up to $700 off soundbars",
-      "store": "BEST Denki · Storewide",
-      "brand": "BEST Denki",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "📺",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "UP TO 20% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "In-store & online — applied at checkout"
-      },
-      "desc": "Jackpot Sale storewide: up to 20% off selected TVs (free gifts worth up to $1,888), up to $700 off soundbars, plus fridge, washer and Dyson deals. Selected models, while stocks last.",
-      "expiry": "Ends 10 Jul",
-      "heat": 380,
-      "url": "https://www.bestdenki.com.sg/promotions.html",
-      "source": {
-        "name": "BEST Denki",
-        "url": "https://www.bestdenki.com.sg/promotions.html"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-10",
-      "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
     },
     {
       "id": "michael-kors-sale",
