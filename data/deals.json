@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11",
+  "updated": "2026-07-12",
   "categories": [
     {
       "id": "all",
@@ -146,7 +146,6 @@
     "Popeyes",
     "Punggol GRC",
     "Qatar Airways",
-    "REFASH",
     "Razer",
     "SUKIYA",
     "SUSHIRO",
@@ -2087,39 +2086,6 @@
       "expires_at": "2026-07-15",
       "upcoming": false,
       "starts_at": ""
-    },
-    {
-      "id": "refash-go-green-market",
-      "title": "Turn preloved fashion into eVouchers",
-      "store": "REFASH · West Mall",
-      "brand": "REFASH",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "♻️",
-      "badges": [
-        {
-          "type": "free",
-          "label": "EARN eVOUCHERS"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Walk-in — no appointment"
-      },
-      "desc": "Declutter your wardrobe at the REFASH Go Green Market — bring eligible preloved clothing, bags and wallets and receive West Mall eVouchers in return. Walk-in, no appointment needed, sustainable fashion for the win.",
-      "expiry": "10–11 Jul",
-      "expires_at": "2026-07-11",
-      "starts_at": "2026-07-10",
-      "heat": 210,
-      "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/"
-      },
-      "image": "images/up-refash.jpg",
-      "first_seen": "2026-07-05",
-      "upcoming": true
     },
     {
       "id": "toysrus-football-sale",
