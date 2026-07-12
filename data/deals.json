@@ -1335,7 +1335,8 @@
       "expires_at": "2026-07-12",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/courts-get7.jpg"
+      "image": "images/deals/courts-get7.jpg",
+      "status": "claimed"
     },
     {
       "id": "breadtalk-26th-anniversary",
