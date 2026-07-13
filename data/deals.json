@@ -195,7 +195,8 @@
       "starts_at": "2026-07-14",
       "first_seen": "2026-07-13",
       "spotlight": true,
-      "image": "images/deals/singapore-airlines-promo-offers-fares-fr-s-208-to-over-60-de.jpg"
+      "image": "images/deals/singapore-airlines-promo-offers-fares-fr-s-208-to-over-60-de.jpg",
+      "status": "claimed"
     },
     {
       "id": "mcdonald-s-singapore-20-off-chicken-mccrispy-6pc-deal-till-2",
@@ -265,7 +266,8 @@
       "upcoming": true,
       "starts_at": "2026-07-14",
       "first_seen": "2026-07-13",
-      "image": "images/deals/dbs-posb-cardholders-enjoy-s-50-off-singapore-airlines-retur.jpg"
+      "image": "images/deals/dbs-posb-cardholders-enjoy-s-50-off-singapore-airlines-retur.jpg",
+      "status": "claimed"
     },
     {
       "id": "bank-of-china-s-pore-up-to-1-50-p-a-time-deposit-promotion-f",
@@ -466,7 +468,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-13",
-      "image": "images/deals/singapore-airlines-launches-global-fare-sale-to-63-destinati.jpg"
+      "image": "images/deals/singapore-airlines-launches-global-fare-sale-to-63-destinati.jpg",
+      "status": "claimed"
     },
     {
       "id": "starbucks-singapore-two-tall-drinks-for-s-9-90-promotion-14-",
