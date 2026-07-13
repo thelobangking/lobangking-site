@@ -8,14 +8,16 @@ Content-Signal: search=yes, ai-input=no, ai-train=no
 Allow: /
 Disallow: /privacy.html
 
-# --- AI / scraper crawlers (162): full block ---
+# --- AI / scraper crawlers (167): full block ---
 User-agent: AddSearchBot
 User-agent: AgentTimes
 User-agent: AI2Bot
 User-agent: AI2Bot-DeepResearchEval
 User-agent: Ai2Bot-Dolma
 User-agent: aiHitBot
+User-agent: AIWebIndex
 User-agent: amazon-kendra
+User-agent: amazon-QBusiness
 User-agent: Amazonbot
 User-agent: AmazonBuyForMe
 User-agent: Amzn-SearchBot
@@ -111,11 +113,12 @@ User-agent: magpie-crawler
 User-agent: Manus-User
 User-agent: meta-externalagent
 User-agent: Meta-ExternalAgent
-User-agent: Meta-ExternalFetcher
 User-agent: meta-externalfetcher
+User-agent: Meta-ExternalFetcher
 User-agent: meta-webindexer
 User-agent: MistralAI-User
 User-agent: MistralAI-User/1.0
+User-agent: Mozilla-Tabstack
 User-agent: MyCentralAIScraperBot
 User-agent: NagetBot
 User-agent: netEstate Imprint Crawler
@@ -156,6 +159,7 @@ User-agent: TerraCotta
 User-agent: Thinkbot
 User-agent: TikTokSpider
 User-agent: Timpibot
+User-agent: TongyiBot
 User-agent: Trae
 User-agent: TurnitinBot
 User-agent: TwinAgent
@@ -169,6 +173,7 @@ User-agent: WRTNBot
 User-agent: YaK
 User-agent: YandexAdditional
 User-agent: YandexAdditionalBot
+User-agent: YiyanBot
 User-agent: YouBot
 User-agent: ZanistaBot
 Disallow: /

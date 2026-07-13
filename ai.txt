@@ -14,7 +14,9 @@ Disallow: /
 # - AI2Bot-DeepResearchEval
 # - Ai2Bot-Dolma
 # - aiHitBot
+# - AIWebIndex
 # - amazon-kendra
+# - amazon-QBusiness
 # - Amazonbot
 # - AmazonBuyForMe
 # - Amzn-SearchBot
@@ -110,11 +112,12 @@ Disallow: /
 # - Manus-User
 # - meta-externalagent
 # - Meta-ExternalAgent
-# - Meta-ExternalFetcher
 # - meta-externalfetcher
+# - Meta-ExternalFetcher
 # - meta-webindexer
 # - MistralAI-User
 # - MistralAI-User/1.0
+# - Mozilla-Tabstack
 # - MyCentralAIScraperBot
 # - NagetBot
 # - netEstate Imprint Crawler
@@ -155,6 +158,7 @@ Disallow: /
 # - Thinkbot
 # - TikTokSpider
 # - Timpibot
+# - TongyiBot
 # - Trae
 # - TurnitinBot
 # - TwinAgent
@@ -168,5 +172,6 @@ Disallow: /
 # - YaK
 # - YandexAdditional
 # - YandexAdditionalBot
+# - YiyanBot
 # - YouBot
 # - ZanistaBot

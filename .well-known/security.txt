@@ -1,7 +1,7 @@
 # LobangKing.sg — responsible disclosure (RFC 9116)
 # Replace the contact below with a real inbox you monitor.
 Contact: mailto:security@lobangking.sg
-Expires: 2027-07-06T23:59:59.000Z
+Expires: 2027-07-13T23:59:59.000Z
 Preferred-Languages: en
 Canonical: https://lobangking.sg/.well-known/security.txt
 Policy: https://lobangking.sg/privacy.html
