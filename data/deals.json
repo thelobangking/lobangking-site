@@ -194,9 +194,9 @@
       "upcoming": true,
       "starts_at": "2026-07-14",
       "first_seen": "2026-07-13",
-      "spotlight": true,
       "image": "images/deals/singapore-airlines-promo-offers-fares-fr-s-208-to-over-60-de.jpg",
-      "status": "claimed"
+      "status": "claimed",
+      "spotlight": true
     },
     {
       "id": "mcdonald-s-singapore-20-off-chicken-mccrispy-6pc-deal-till-2",
