@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12",
+  "updated": "2026-07-13",
   "categories": [
     {
       "id": "all",
@@ -158,11 +158,9 @@
     "Swensen's",
     "TANGS",
     "Takagi Ramen",
-    "Toys“R”Us",
     "Uniqlo",
     "Welcia",
-    "Yellow Ribbon",
-    "Zenyum"
+    "Yellow Ribbon"
   ],
   "deals": [
     {
@@ -198,38 +196,6 @@
       "first_seen": "2026-07-12",
       "image": "images/deals/starbucks-singapore-two-tall-drinks-for-s-9-90-promotion-14-.jpg",
       "spotlight": true
-    },
-    {
-      "id": "dunkin-sg-dozen-day-buy-9-donuts-get-3-free-on-12-jul-2026",
-      "title": "Dunkin’ SG Dozen Day Buy 9 Donuts, Get 3 Free on 12 Jul 2026",
-      "store": "Dunkin’",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy more donut value",
-      "expiry": "Ends 12 Jul",
-      "heat": 125,
-      "url": "https://singpromos.com/dining-restaurants-food/dunkin-sg-dozen-day-buy-9-donuts-get-3-free-on-12-jul-2026-304211/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/dunkin-sg-dozen-day-buy-9-donuts-get-3-free-on-12-jul-2026-304211/"
-      },
-      "expires_at": "2026-07-12",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-12",
-      "image": "images/deals/dunkin-sg-dozen-day-buy-9-donuts-get-3-free-on-12-jul-2026.jpg"
     },
     {
       "id": "breadtalk-singapore-6-flosss-buns-for-10-80-promotion-until-",
@@ -1303,42 +1269,6 @@
       "image": "images/deals/challenger-ms365.jpg"
     },
     {
-      "id": "courts-get7",
-      "title": "7% + 7% off sitewide with code GET7",
-      "store": "Courts · Online",
-      "brand": "Courts",
-      "categories": [
-        "home",
-        "online"
-      ],
-      "icon": "🛋️",
-      "badges": [
-        {
-          "type": "code",
-          "label": "GET7"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — apply code at checkout"
-      },
-      "code": "GET7",
-      "desc": "Pre-07.07 Sale: stack 7% + 7% off sitewide with no minimum spend (capped at $99). Some brands excluded (Apple, Dyson, Sony and more). Online only.",
-      "expiry": "Ends 12 Jul",
-      "heat": 340,
-      "url": "https://www.courts.com.sg/promotions-terms-conditions",
-      "source": {
-        "name": "Courts",
-        "url": "https://www.courts.com.sg/promotions-terms-conditions"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-12",
-      "upcoming": false,
-      "starts_at": "",
-      "image": "images/deals/courts-get7.jpg",
-      "status": "claimed"
-    },
-    {
       "id": "breadtalk-26th-anniversary",
       "title": "26th Anniversary: 1-for-1 pastries & bundle deals all July",
       "store": "BreadTalk · Islandwide",
@@ -1922,38 +1852,6 @@
       "starts_at": ""
     },
     {
-      "id": "zenyum-sonic2-50off",
-      "title": "50% off ZenyumSonic 2.0 (now $59.90)",
-      "store": "Zenyum Singapore",
-      "brand": "Zenyum",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "🪥",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online at Zenyum SG"
-      },
-      "desc": "Half price on the ZenyumSonic 2.0 smart sonic toothbrush — smarter oral care for just $59.90.",
-      "expiry": "Ends 12 Jul",
-      "heat": 235,
-      "url": "https://sg.everydayonsales.com/promotions-freebies/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/promotions-freebies/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-12",
-      "upcoming": false,
-      "starts_at": ""
-    },
-    {
       "id": "sushiro-myvillage-opening",
       "title": "1-for-1 sushi + grand-opening gifts",
       "store": "SUSHIRO · myVillage @ Serangoon Garden",
@@ -2083,39 +1981,6 @@
       "expires_at": "2026-07-15",
       "upcoming": false,
       "starts_at": ""
-    },
-    {
-      "id": "toysrus-football-sale",
-      "title": "Up to 80% off toys + Panini trading",
-      "store": "Toys“R”Us · Islandwide",
-      "brand": "Toys“R”Us",
-      "categories": [
-        "entertainment"
-      ],
-      "icon": "⚽",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "UP TO 80% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "In-store & online"
-      },
-      "desc": "The Toys“R”Us Football Sale brings up to 80% off selected toys plus a live Panini sticker trading event — a goal for parents, kids and collectors alike.",
-      "expiry": "6–12 Jul",
-      "expires_at": "2026-07-12",
-      "starts_at": "2026-07-06",
-      "heat": 205,
-      "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/"
-      },
-      "image": "images/up-toysrus.jpg",
-      "first_seen": "2026-07-05",
-      "upcoming": true
     },
     {
       "id": "punggol-harmony-carnival",
