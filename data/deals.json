@@ -204,7 +204,8 @@
       "starts_at": "",
       "first_seen": "2026-07-14",
       "image": "images/deals/liho-tea-s-pore-buy-1-get-1-free-on-almost-all-drinks-till-1.jpg",
-      "spotlight": true
+      "spotlight": true,
+      "status": "claimed"
     },
     {
       "id": "starbucks-new-s-pore-exclusive-beverage-creations-locally-in",
@@ -237,7 +238,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-14",
-      "image": "images/deals/starbucks-new-s-pore-exclusive-beverage-creations-locally-in.jpg"
+      "image": "images/deals/starbucks-new-s-pore-exclusive-beverage-creations-locally-in.jpg",
+      "status": "claimed"
     },
     {
       "id": "dunkin-donuts-s-pore-20-40-dozen-box-1-70-per-donut-from-15-",
@@ -269,7 +271,8 @@
       "upcoming": true,
       "starts_at": "2026-07-15",
       "first_seen": "2026-07-14",
-      "image": "images/deals/dunkin-donuts-s-pore-20-40-dozen-box-1-70-per-donut-from-15-.jpg"
+      "image": "images/deals/dunkin-donuts-s-pore-20-40-dozen-box-1-70-per-donut-from-15-.jpg",
+      "status": "claimed"
     },
     {
       "id": "singapore-airlines-promo-offers-fares-fr-s-208-to-over-60-de",
@@ -302,7 +305,8 @@
       "upcoming": false,
       "starts_at": "2026-07-14",
       "first_seen": "2026-07-13",
-      "image": "images/deals/singapore-airlines-promo-offers-fares-fr-s-208-to-over-60-de.jpg"
+      "image": "images/deals/singapore-airlines-promo-offers-fares-fr-s-208-to-over-60-de.jpg",
+      "status": "claimed"
     },
     {
       "id": "mcdonald-s-singapore-20-off-chicken-mccrispy-6pc-deal-till-2",
@@ -339,7 +343,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-13",
-      "image": "images/deals/mcdonald-s-singapore-20-off-chicken-mccrispy-6pc-deal-till-2.jpg"
+      "image": "images/deals/mcdonald-s-singapore-20-off-chicken-mccrispy-6pc-deal-till-2.jpg",
+      "status": "claimed"
     },
     {
       "id": "dbs-posb-cardholders-enjoy-s-50-off-singapore-airlines-retur",
@@ -372,7 +377,8 @@
       "upcoming": false,
       "starts_at": "2026-07-14",
       "first_seen": "2026-07-13",
-      "image": "images/deals/dbs-posb-cardholders-enjoy-s-50-off-singapore-airlines-retur.jpg"
+      "image": "images/deals/dbs-posb-cardholders-enjoy-s-50-off-singapore-airlines-retur.jpg",
+      "status": "claimed"
     },
     {
       "id": "bank-of-china-s-pore-up-to-1-50-p-a-time-deposit-promotion-f",
@@ -404,7 +410,8 @@
       "upcoming": false,
       "starts_at": "2026-07-13",
       "first_seen": "2026-07-13",
-      "image": "images/deals/bank-of-china-s-pore-up-to-1-50-p-a-time-deposit-promotion-f.jpg"
+      "image": "images/deals/bank-of-china-s-pore-up-to-1-50-p-a-time-deposit-promotion-f.jpg",
+      "status": "claimed"
     },
     {
       "id": "hech-1-for-1-selected-drinks-every-mon-tue-until-28-jul-2026",
@@ -436,7 +443,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-13",
-      "image": "images/deals/hech-1-for-1-selected-drinks-every-mon-tue-until-28-jul-2026.jpg"
+      "image": "images/deals/hech-1-for-1-selected-drinks-every-mon-tue-until-28-jul-2026.jpg",
+      "status": "claimed"
     },
     {
       "id": "d-lifrance-singapore-6-pies-on-tuesdays-until-29-dec-2026",
@@ -468,7 +476,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-13",
-      "image": "images/deals/d-lifrance-singapore-6-pies-on-tuesdays-until-29-dec-2026.jpg"
+      "image": "images/deals/d-lifrance-singapore-6-pies-on-tuesdays-until-29-dec-2026.jpg",
+      "status": "claimed"
     },
     {
       "id": "chagee-orchard-gateway-offering-1-for-1-fresh-milk-tea-and-p",
@@ -573,7 +582,8 @@
       "upcoming": false,
       "starts_at": "2026-07-14",
       "first_seen": "2026-07-12",
-      "image": "images/deals/starbucks-singapore-two-tall-drinks-for-s-9-90-promotion-14-.jpg"
+      "image": "images/deals/starbucks-singapore-two-tall-drinks-for-s-9-90-promotion-14-.jpg",
+      "status": "claimed"
     },
     {
       "id": "starbucks-s-pore-pink-bearista-glass-cold-cup-available-from",
@@ -606,7 +616,8 @@
       "upcoming": false,
       "starts_at": "2026-07-13",
       "first_seen": "2026-07-11",
-      "image": "images/deals/starbucks-s-pore-pink-bearista-glass-cold-cup-available-from.jpg"
+      "image": "images/deals/starbucks-s-pore-pink-bearista-glass-cold-cup-available-from.jpg",
+      "status": "claimed"
     },
     {
       "id": "popeyes-s-pore-1-for-1-2pc-love-that-chicken-meal-midnight-c",
@@ -638,7 +649,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-11",
-      "image": "images/deals/popeyes-s-pore-1-for-1-2pc-love-that-chicken-meal-midnight-c.jpg"
+      "image": "images/deals/popeyes-s-pore-1-for-1-2pc-love-that-chicken-meal-midnight-c.jpg",
+      "status": "claimed"
     },
     {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
@@ -1439,7 +1451,8 @@
       "expires_at": "2026-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/burgerking-app-coupons.jpg"
+      "image": "images/deals/burgerking-app-coupons.jpg",
+      "status": "claimed"
     },
     {
       "id": "bestdenki-oppo-x9s",
@@ -1537,7 +1550,8 @@
       "expires_at": "2026-12-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/expedia-uob-hotels.jpg"
+      "image": "images/deals/expedia-uob-hotels.jpg",
+      "status": "claimed"
     },
     {
       "id": "qatar-mastercard-flights",
@@ -1570,7 +1584,8 @@
       "expires_at": "2026-12-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/qatar-mastercard-flights.jpg"
+      "image": "images/deals/qatar-mastercard-flights.jpg",
+      "status": "claimed"
     },
     {
       "id": "cimb-fixed-deposit",
@@ -1603,7 +1618,8 @@
       "expires_at": "",
       "upcoming": false,
       "starts_at": "2026-07-01",
-      "image": "images/deals/cimb-fixed-deposit.jpg"
+      "image": "images/deals/cimb-fixed-deposit.jpg",
+      "status": "claimed"
     },
     {
       "id": "sukiya-shrimp-miso",
