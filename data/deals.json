@@ -298,7 +298,8 @@
       "upcoming": false,
       "starts_at": "2026-07-14",
       "first_seen": "2026-07-15",
-      "image": "images/deals/expired-fully-redeemed-dbs-posb-cardholders-enjoy-s-50-off-s.jpg"
+      "image": "images/deals/expired-fully-redeemed-dbs-posb-cardholders-enjoy-s-50-off-s.jpg",
+      "status": "claimed"
     },
     {
       "id": "starbucks-singapore-has-buy-1-get-1-free-venti-drinks-includ",
@@ -513,7 +514,8 @@
       "upcoming": false,
       "starts_at": "2026-07-14",
       "first_seen": "2026-07-13",
-      "image": "images/deals/singapore-airlines-promo-offers-fares-fr-s-208-to-over-60-de.jpg"
+      "image": "images/deals/singapore-airlines-promo-offers-fares-fr-s-208-to-over-60-de.jpg",
+      "status": "claimed"
     },
     {
       "id": "mcdonald-s-singapore-20-off-chicken-mccrispy-6pc-deal-till-2",
