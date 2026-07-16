@@ -263,7 +263,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-16",
-      "image": "images/deals/7-eleven-s-pore-new-1-snacks-drinks-deals-till-28-july-2026-.jpg"
+      "image": "images/deals/7-eleven-s-pore-new-1-snacks-drinks-deals-till-28-july-2026-.jpg",
+      "status": "claimed"
     },
     {
       "id": "7-eleven-s-pore-ice-cream-deals-cornetto-4-for-9-h-agen-dazs",
@@ -428,7 +429,8 @@
       "upcoming": false,
       "starts_at": "2026-07-14",
       "first_seen": "2026-07-15",
-      "image": "images/deals/expired-fully-redeemed-dbs-posb-cardholders-enjoy-s-50-off-s.jpg"
+      "image": "images/deals/expired-fully-redeemed-dbs-posb-cardholders-enjoy-s-50-off-s.jpg",
+      "status": "claimed"
     },
     {
       "id": "starbucks-singapore-has-buy-1-get-1-free-venti-drinks-includ",
@@ -607,7 +609,8 @@
       "upcoming": false,
       "starts_at": "2026-07-14",
       "first_seen": "2026-07-13",
-      "image": "images/deals/singapore-airlines-promo-offers-fares-fr-s-208-to-over-60-de.jpg"
+      "image": "images/deals/singapore-airlines-promo-offers-fares-fr-s-208-to-over-60-de.jpg",
+      "status": "claimed"
     },
     {
       "id": "chagee-orchard-gateway-offering-1-for-1-fresh-milk-tea-and-p",
