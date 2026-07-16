@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15",
+  "updated": "2026-07-16",
   "categories": [
     {
       "id": "all",
@@ -144,7 +144,6 @@
     "Muji",
     "Nike",
     "Orchard Hotel",
-    "Panasonic",
     "Popeyes",
     "Punggol GRC",
     "Qatar Airways",
@@ -2043,38 +2042,6 @@
       "image": "images/up-tangs-sulwhasoo.jpg",
       "first_seen": "2026-07-05",
       "upcoming": true
-    },
-    {
-      "id": "panasonic-grooming-10off",
-      "title": "10% off shavers & hair dryers + extra 5%",
-      "store": "Panasonic Singapore · Online",
-      "brand": "Panasonic",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "🪒",
-      "badges": [
-        {
-          "type": "code",
-          "label": "CODE: PANASAF26"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — apply code PANASAF26"
-      },
-      "desc": "10% off selected Panasonic shavers and hair dryers, with an extra 5% off when you buy more than one. Apply promo code PANASAF26 at checkout.",
-      "expiry": "Ends 15 Jul",
-      "heat": 210,
-      "url": "https://sg.everydayonsales.com/promotions-freebies/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/promotions-freebies/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-15",
-      "upcoming": false,
-      "starts_at": ""
     },
     {
       "id": "punggol-harmony-carnival",
