@@ -472,7 +472,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-16",
-      "image": "images/deals/7-eleven-s-pore-new-1-snacks-drinks-deals-till-28-july-2026-.jpg"
+      "image": "images/deals/7-eleven-s-pore-new-1-snacks-drinks-deals-till-28-july-2026-.jpg",
+      "status": "claimed"
     },
     {
       "id": "krispy-kreme-s-pore-buy-6-assorted-doughnuts-get-3-glazed-fr",
