@@ -158,8 +158,8 @@ _ci_ — Scheduled jobs: daily deals build, hourly validate+GC, 30-min uptime pi
 
 ## Live inventory (auto-scanned)
 - **Total files:** 228
-- **Generated:** 53 per-deal pages, 8 category pages, 11 history snapshots
-- **By directory:** (root) (90), .git (30), .github (9), .well-known (1), css (4), data (2), fonts (1), history (12), images (46), js (11), scripts (22)
+- **Generated:** 53 per-deal pages, 8 category pages, 12 history snapshots
+- **By directory:** (root) (90), .git (30), .github (9), .well-known (1), css (4), data (2), fonts (1), history (13), images (45), js (11), scripts (22)
 
 ---
 _Regenerate with `python3 scripts/motherlode.py` (also runs in the daily build). Edit the `BLUEPRINT` in `scripts/motherlode.py` to document new features or roadmap items._
