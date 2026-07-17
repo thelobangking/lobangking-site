@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16",
+  "updated": "2026-07-17",
   "categories": [
     {
       "id": "all",
@@ -136,7 +136,6 @@
     "KFC",
     "Kei Kaisendon",
     "Kenny Rogers Roasters",
-    "LiHO",
     "Michael Kors",
     "Moley Apparels",
     "Muji",
@@ -471,47 +470,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-15"
-    },
-    {
-      "id": "liho-tea-s-pore-buy-1-get-1-free-on-almost-all-drinks-till-1",
-      "title": "LiHO TEA S’pore Buy 1 Get 1 FREE on Almost All Drinks Till 16 July 2026",
-      "store": "LiHO",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "LIHO"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Twice the bubble tea for the price of one",
-      "expiry": "Ends 16 Jul",
-      "heat": 140,
-      "url": "https://singpromos.com/dining-restaurants-food/liho-tea-spore-buy-1-get-1-free-on-almost-all-drinks-till-16-july-2026-304367/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/liho-tea-spore-buy-1-get-1-free-on-almost-all-drinks-till-16-july-2026-304367/"
-      },
-      "brand": "LiHO",
-      "expires_at": "2026-07-16",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-14",
-      "image": "images/deals/liho-tea-s-pore-buy-1-get-1-free-on-almost-all-drinks-till-1.jpg"
     },
     {
       "id": "starbucks-new-s-pore-exclusive-beverage-creations-locally-in",
