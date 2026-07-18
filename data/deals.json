@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17",
+  "updated": "2026-07-18",
   "categories": [
     {
       "id": "all",
@@ -474,38 +474,6 @@
       "first_seen": "2026-07-16",
       "image": "images/deals/7-eleven-s-pore-new-1-snacks-drinks-deals-till-28-july-2026-.jpg",
       "status": "claimed"
-    },
-    {
-      "id": "krispy-kreme-s-pore-buy-6-assorted-doughnuts-get-3-glazed-fr",
-      "title": "Krispy Kreme S’pore Buy 6 Assorted Doughnuts, Get 3 Glazed Free on 17 July 2026",
-      "store": "Krispy Kreme",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Celebrating 89 sweet years",
-      "expiry": "Ends 17 Jul",
-      "heat": 90,
-      "url": "https://singpromos.com/dining-restaurants-food/krispy-kreme-spore-buy-6-assorted-doughnuts-get-3-glazed-free-on-17-july-2026-304382/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/krispy-kreme-spore-buy-6-assorted-doughnuts-get-3-glazed-free-on-17-july-2026-304382/"
-      },
-      "expires_at": "2026-07-17",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-15",
-      "image": "images/deals/krispy-kreme-s-pore-buy-6-assorted-doughnuts-get-3-glazed-fr.jpg"
     },
     {
       "id": "acronis-true-image-30-off-coupon-code-till-15-aug-2026",
