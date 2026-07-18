@@ -191,8 +191,8 @@
       "upcoming": true,
       "starts_at": "2026-07-20",
       "first_seen": "2026-07-18",
-      "spotlight": true,
-      "image": "images/deals/popeyes-s-pore-midnight-crunch-1-for-1-combo-from-20-24-july.jpg"
+      "image": "images/deals/popeyes-s-pore-midnight-crunch-1-for-1-combo-from-20-24-july.jpg",
+      "spotlight": true
     },
     {
       "id": "coffee-bean-s-pore-2-for-12-organic-matcha-latte-until-26-ju",
