@@ -187,20 +187,20 @@ rebuild_for_new_site:
   - "7. Deploy: push to GitHub, enable Pages (deploy from branch / root), enable Actions, optionally put Cloudflare in front."
   - "8. Verify: run scripts/test_aggregate.py, scripts/build_pages.py and scripts/validate.py; then let the daily/hourly workflows take over."
 inventory:
-  total_files: 229
+  total_files: 233
   by_directory:
-    (root): 89
+    (root): 90
     .git: 30
     .github: 9
     .well-known: 1
     css: 4
     data: 2
     fonts: 1
-    history: 14
-    images: 46
+    history: 15
+    images: 48
     js: 11
     scripts: 22
   generated:
-    per_deal_pages: 52
+    per_deal_pages: 53
     category_pages: 8
-    history_snapshots: 13
+    history_snapshots: 14
