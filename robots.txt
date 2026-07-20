@@ -166,8 +166,8 @@ User-agent: TwinAgent
 User-agent: UseAI
 User-agent: VelenPublicWebCrawler
 User-agent: WARDBot
-User-agent: webzio-extended
 User-agent: Webzio-Extended
+User-agent: webzio-extended
 User-agent: wpbot
 User-agent: WRTNBot
 User-agent: YaK

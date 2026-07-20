@@ -165,8 +165,8 @@ Disallow: /
 # - UseAI
 # - VelenPublicWebCrawler
 # - WARDBot
-# - webzio-extended
 # - Webzio-Extended
+# - webzio-extended
 # - wpbot
 # - WRTNBot
 # - YaK
