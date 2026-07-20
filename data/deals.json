@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "categories": [
     {
       "id": "all",
@@ -124,13 +124,11 @@
     "Cotton On",
     "Courts",
     "Decathlon",
-    "Don Don Donki",
     "Expedia",
     "FairPrice",
     "GOLDLION",
     "Gain City",
     "GetGo",
-    "Giant",
     "HP",
     "HarbourFront Centre",
     "KFC",
@@ -143,7 +141,6 @@
     "Nike",
     "Orchard Hotel",
     "Popeyes",
-    "Punggol GRC",
     "Qatar Airways",
     "Razer",
     "SUKIYA",
@@ -162,39 +159,6 @@
     "Yellow Ribbon"
   ],
   "deals": [
-    {
-      "id": "mr-bean-1-for-1-soy-drinks-on-sunday-19-july-2026",
-      "title": "Mr Bean 1-for-1 Soy Drinks on Sunday, 19 July 2026",
-      "store": "Mr Bean 1-for-1 Soy",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Cool off with a 1-for-1 soy drink deal",
-      "expiry": "Ends 19 Jul",
-      "heat": 135,
-      "url": "https://singpromos.com/dining-restaurants-food/mr-bean-1-for-1-soy-drinks-on-sunday-19-july-2026-304506/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mr-bean-1-for-1-soy-drinks-on-sunday-19-july-2026-304506/"
-      },
-      "expires_at": "2026-07-19",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-19",
-      "image": "images/deals/mr-bean-1-for-1-soy-drinks-on-sunday-19-july-2026.jpg",
-      "spotlight": true
-    },
     {
       "id": "cotton-on-giving-away-free-matcha-at-5-singapore-outlets-thi",
       "title": "Cotton On giving away free matcha at 5 Singapore outlets this weekend, Lifestyle News - AsiaOne",
@@ -229,7 +193,8 @@
       "expires_at": "",
       "upcoming": false,
       "starts_at": "",
-      "first_seen": "2026-07-19"
+      "first_seen": "2026-07-19",
+      "spotlight": true
     },
     {
       "id": "popeyes-s-pore-midnight-crunch-1-for-1-combo-from-20-24-july",
@@ -849,42 +814,6 @@
       "starts_at": "",
       "first_seen": "2026-07-08",
       "image": "images/deals/scoot-s-everywhere-sale-returns-with-fares-from-79-to-destin.jpg"
-    },
-    {
-      "id": "up-to-70-off-selected-items-at-don-don-donki-till-19-jul-set",
-      "title": "Up to 70% off selected items at Don Don Donki till 19 Jul - SETHLUI.com",
-      "store": "Don Don Donki",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "DON DON DONKI"
-        },
-        {
-          "type": "discount",
-          "label": "70% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Up to 70% off selected items at Don Don Donki till 19 Jul SETHLUI.com",
-      "expiry": "Ends 19 Jul",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5",
-      "source": {
-        "name": "SETHLUI.com",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5"
-      },
-      "brand": "Don Don Donki",
-      "expires_at": "2026-07-19",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-06"
     },
     {
       "id": "muji-jewel-changi-airport-has-an-ongoing-clearance-sale-of-u",
@@ -1827,39 +1756,6 @@
       "starts_at": ""
     },
     {
-      "id": "giant-durian-buffet",
-      "title": "Unlimited durian buffet at Giant Tampines",
-      "store": "Giant · Tampines Hypermarket",
-      "brand": "Giant",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍈",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "EARLY-BIRD DEAL"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Book ahead for early-bird pricing"
-      },
-      "desc": "Giant's popular Durian Buffet Party returns to Giant Tampines Hypermarket — unlimited fresh durians with complimentary fresh coconut and tropical fruits. Book ahead to lock in early-bird pricing.",
-      "expiry": "18–19 Jul",
-      "heat": 255,
-      "url": "https://sg.everydayonsales.com/promotions-freebies/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/promotions-freebies/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-19",
-      "upcoming": true,
-      "starts_at": "2026-07-18",
-      "image": "images/up-giant-durian.jpg"
-    },
-    {
       "id": "sothys-july-skincare",
       "title": "10% off + gifts worth up to $106",
       "store": "Sothys Singapore",
@@ -2051,39 +1947,6 @@
         "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/"
       },
       "image": "images/up-tangs-sulwhasoo.jpg",
-      "first_seen": "2026-07-05",
-      "upcoming": true
-    },
-    {
-      "id": "punggol-harmony-carnival",
-      "title": "Free open-top bus tour + carnival fun",
-      "store": "Punggol GRC · Punggol 21 CC",
-      "brand": "Punggol GRC",
-      "categories": [
-        "entertainment"
-      ],
-      "icon": "🎪",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE ADMISSION"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Free entry — one day only"
-      },
-      "desc": "The Inter-Racial & Religious Harmony Carnival brings a FREE open-top bus Punggol tour, multicultural performances, kampong games, snacks and getai — a full, free family day out on 19 July.",
-      "expiry": "19 Jul only",
-      "expires_at": "2026-07-19",
-      "starts_at": "2026-07-19",
-      "heat": 200,
-      "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/"
-      },
-      "image": "images/up-punggol-carnival.jpg",
       "first_seen": "2026-07-05",
       "upcoming": true
     },
