@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20",
+  "updated": "2026-07-21",
   "categories": [
     {
       "id": "all",
@@ -145,7 +145,6 @@
     "Qatar Airways",
     "Razer",
     "SUKIYA",
-    "SUSHIRO",
     "Samsung",
     "Sephora",
     "Singapore Airlines",
@@ -1921,39 +1920,6 @@
       "expires_at": "",
       "upcoming": false,
       "starts_at": ""
-    },
-    {
-      "id": "sushiro-myvillage-opening",
-      "title": "1-for-1 sushi + grand-opening gifts",
-      "store": "SUSHIRO · myVillage @ Serangoon Garden",
-      "brand": "SUSHIRO",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍣",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1 SUSHI"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Dine-in — new outlet launch"
-      },
-      "desc": "SUSHIRO's newest outlet opens at myVillage @ Serangoon Garden with two weeks of 1-for-1 sushi — Bluefin Fatty Tuna, Fresh Salmon and Medium Fatty Tuna included — plus opening-day gifts and launch rewards.",
-      "expiry": "7–20 Jul",
-      "expires_at": "2026-07-20",
-      "starts_at": "2026-07-07",
-      "heat": 225,
-      "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/"
-      },
-      "image": "images/up-sushiro.jpg",
-      "first_seen": "2026-07-05",
-      "upcoming": true
     },
     {
       "id": "popeyes-heartbeat-bucket",
