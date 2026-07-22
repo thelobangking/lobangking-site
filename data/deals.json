@@ -740,7 +740,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-13",
-      "image": "images/deals/singapore-airlines-launches-global-fare-sale-to-63-destinati.jpg"
+      "image": "images/deals/singapore-airlines-launches-global-fare-sale-to-63-destinati.jpg",
+      "status": "claimed"
     },
     {
       "id": "razer-gaming-headphones-now-31-off-hardwarezone-singapore",
