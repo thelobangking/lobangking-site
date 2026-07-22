@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21",
+  "updated": "2026-07-22",
   "categories": [
     {
       "id": "all",
@@ -146,7 +146,6 @@
     "Razer",
     "SUKIYA",
     "Samsung",
-    "Scoot",
     "Sephora",
     "Singapore Airlines",
     "Sothys",
@@ -201,39 +200,6 @@
       "first_seen": "2026-07-21",
       "image": "images/deals/liho-tea-s-pore-buy-1-get-1-free-selected-cheese-cloud-teas-.jpg",
       "spotlight": true
-    },
-    {
-      "id": "scoot-one-day-sale-fares-from-s-80-to-17-destinations-on-21-",
-      "title": "Scoot One-Day Sale Fares from S$80 to 17 Destinations on 21 Jul 2026",
-      "store": "Scoot",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SCOOT"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Discover one-way fares from S$80 to 17 destinations",
-      "expiry": "Ends 21 Jul",
-      "heat": 145,
-      "url": "https://singpromos.com/airlines-flights/scoot-one-day-sale-fares-from-s80-to-17-destinations-on-21-jul-2026-304575/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/airlines-flights/scoot-one-day-sale-fares-from-s80-to-17-destinations-on-21-jul-2026-304575/"
-      },
-      "brand": "Scoot",
-      "expires_at": "2026-07-21",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-21",
-      "image": "images/deals/scoot-one-day-sale-fares-from-s-80-to-17-destinations-on-21-.jpg"
     },
     {
       "id": "3m-summer-sale-with-up-to-97-off-on-scotch-brite-command-mor",
