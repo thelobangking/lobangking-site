@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22",
+  "updated": "2026-07-23",
   "categories": [
     {
       "id": "all",
@@ -225,38 +225,6 @@
       "image": "images/deals/namecheap-up-to-97-off-domains-web-hosting-summer-sale-till-.jpg"
     },
     {
-      "id": "coe-premiums-fall-in-categories-a-b-and-c-after-22-jul-2026-",
-      "title": "COE premiums fall in Categories A, B and C after 22 Jul 2026 bidding",
-      "store": "COE premiums fall in",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "See which COE categories fell, which edged up, and how the latest premiums compare.",
-      "expiry": "Ends 22 Jul",
-      "heat": 115,
-      "url": "https://singpromos.com/news/coe-premiums-fall-in-categories-a-b-and-c-after-22-jul-2026-bidding-304626/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/news/coe-premiums-fall-in-categories-a-b-and-c-after-22-jul-2026-bidding-304626/"
-      },
-      "expires_at": "2026-07-22",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-22",
-      "image": "images/deals/coe-premiums-fall-in-categories-a-b-and-c-after-22-jul-2026-.jpg"
-    },
-    {
       "id": "kenangan-coffee-s-pore-buy-1-get-1-free-coffee-payday-promo-",
       "title": "Kenangan Coffee S’pore Buy 1 Get 1 Free Coffee Payday Promo from 22-24 July 2026",
       "store": "Kenangan Coffee",
@@ -396,39 +364,6 @@
       "starts_at": "",
       "first_seen": "2026-07-21",
       "image": "images/deals/liho-tea-s-pore-buy-1-get-1-free-selected-cheese-cloud-teas-.jpg"
-    },
-    {
-      "id": "singapore-airlines-limited-time-australia-promo-fares-from-s",
-      "title": "Singapore Airlines Limited Time Australia Promo Fares from S$498 till 22 July 2026",
-      "store": "Singapore Airlines",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SINGAPORE AIRLINES"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Limited-time deals to Australia",
-      "expiry": "Ends 22 Jul",
-      "heat": 110,
-      "url": "https://singpromos.com/airlines-flights/singapore-airlines-limited-time-australia-promo-fares-from-s498-till-22-july-2026-304561/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/airlines-flights/singapore-airlines-limited-time-australia-promo-fares-from-s498-till-22-july-2026-304561/"
-      },
-      "brand": "Singapore Airlines",
-      "expires_at": "2026-07-22",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-21",
-      "image": "images/deals/singapore-airlines-limited-time-australia-promo-fares-from-s.jpg"
     },
     {
       "id": "3m-summer-sale-with-up-to-97-off-on-scotch-brite-command-mor",
