@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23",
+  "updated": "2026-07-24",
   "categories": [
     {
       "id": "all",
@@ -135,7 +135,6 @@
     "KFC",
     "Kei Kaisendon",
     "Kenny Rogers Roasters",
-    "LiHO",
     "McDonald's",
     "Michael Kors",
     "Moley Apparels",
@@ -528,47 +527,6 @@
       "image": "images/deals/maybank-s-pore-sgd-time-deposit-promotion-offers-up-to-1-45-.jpg"
     },
     {
-      "id": "liho-tea-s-pore-buy-1-get-1-free-selected-cheese-cloud-teas-",
-      "title": "LiHO Tea S’pore Buy 1 Get 1 Free Selected Cheese Cloud Teas until 23 July 2026",
-      "store": "LiHO",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "LIHO"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Double up on two selected Cheese Cloud teas",
-      "expiry": "Ends 23 Jul",
-      "heat": 110,
-      "url": "https://singpromos.com/dining-restaurants-food/liho-tea-spore-buy-1-get-1-free-selected-cheese-cloud-teas-until-23-july-2026-304579/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/liho-tea-spore-buy-1-get-1-free-selected-cheese-cloud-teas-until-23-july-2026-304579/"
-      },
-      "brand": "LiHO",
-      "expires_at": "2026-07-23",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-21",
-      "image": "images/deals/liho-tea-s-pore-buy-1-get-1-free-selected-cheese-cloud-teas-.jpg"
-    },
-    {
       "id": "apple-s-back-to-school-2026-promotion-offers-a-free-pack-of-",
       "title": "Apple’s Back to School 2026 promotion offers a free pack of AirTags with eligible Macs and iPads - HardwareZone",
       "store": "Apple",
@@ -603,38 +561,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-21"
-    },
-    {
-      "id": "3m-summer-sale-with-up-to-97-off-on-scotch-brite-command-mor",
-      "title": "3M Summer Sale with Up to 97% Off on Scotch-Brite, Command & more from 21 – 23 Jul 2026",
-      "store": "3M Summer Sale with",
-      "categories": [
-        "home"
-      ],
-      "icon": "🏠",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "97% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Discounts on popular 3M household essentials",
-      "expiry": "Ends 23 Jul",
-      "heat": 75,
-      "url": "https://singpromos.com/warehouse-sales/3m-summer-sale-with-up-to-97-off-on-scotch-brite-command-more-from-21-23-jul-2026-304584/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/warehouse-sales/3m-summer-sale-with-up-to-97-off-on-scotch-brite-command-more-from-21-23-jul-2026-304584/"
-      },
-      "expires_at": "2026-07-23",
-      "upcoming": false,
-      "starts_at": "2026-07-21",
-      "first_seen": "2026-07-21",
-      "image": "images/deals/3m-summer-sale-with-up-to-97-off-on-scotch-brite-command-mor.jpg"
     },
     {
       "id": "mcdonald-s-singapore-launches-kids-eat-free-deal-with-free-h",
