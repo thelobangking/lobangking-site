@@ -196,11 +196,11 @@ inventory:
     css: 4
     data: 2
     fonts: 1
-    history: 19
-    images: 48
+    history: 20
+    images: 47
     js: 11
     scripts: 22
   generated:
     per_deal_pages: 55
     category_pages: 8
-    history_snapshots: 18
+    history_snapshots: 19
