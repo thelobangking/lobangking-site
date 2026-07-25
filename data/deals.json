@@ -192,8 +192,8 @@
       "upcoming": true,
       "starts_at": "2026-07-27",
       "first_seen": "2026-07-25",
-      "spotlight": true,
-      "image": "images/deals/popeyes-s-pore-1-for-1-2pc-love-that-chicken-meal-at-9-90-fr.jpg"
+      "image": "images/deals/popeyes-s-pore-1-for-1-2pc-love-that-chicken-meal-at-9-90-fr.jpg",
+      "spotlight": true
     },
     {
       "id": "luckin-coffee-s-pore-1-for-1-coffee-promotion-until-31-jul-2",
