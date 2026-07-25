@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24",
+  "updated": "2026-07-25",
   "categories": [
     {
       "id": "all",
@@ -300,38 +300,6 @@
       "image": "images/deals/scoot-x-dbs-posb-enjoy-20-off-flights-to-over-40-destination.jpg"
     },
     {
-      "id": "sm-oy-singapore-1-for-1-classic-cup-on-24-july-2026",
-      "title": "Smöoy Singapore 1-for-1 Classic Cup on 24 July 2026",
-      "store": "Smöoy",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Celebrate with a refreshing 1-for-1 Classic Cup deal",
-      "expiry": "Ends 24 Jul",
-      "heat": 125,
-      "url": "https://singpromos.com/dining-restaurants-food/smooy-singapore-1-for-1-classic-cup-on-24-july-2026-304671/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/smooy-singapore-1-for-1-classic-cup-on-24-july-2026-304671/"
-      },
-      "expires_at": "2026-07-24",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-23",
-      "image": "images/deals/sm-oy-singapore-1-for-1-classic-cup-on-24-july-2026.jpg"
-    },
-    {
       "id": "giant-s-pore-3-for-25-ben-jerry-s-38-off-ka-and-more-weekly-",
       "title": "Giant S’pore 3-for-$25 Ben & Jerry’s, 38% off KA And More Weekly Deals Till 29 Jul 2026",
       "store": "Giant",
@@ -522,42 +490,6 @@
       "starts_at": "",
       "first_seen": "2026-07-22",
       "image": "images/deals/namecheap-up-to-97-off-domains-web-hosting-summer-sale-till-.jpg"
-    },
-    {
-      "id": "kenangan-coffee-s-pore-buy-1-get-1-free-coffee-payday-promo-",
-      "title": "Kenangan Coffee S’pore Buy 1 Get 1 Free Coffee Payday Promo from 22-24 July 2026",
-      "store": "Kenangan Coffee",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Buy one Regular coffee via the app and receive another of the same flavour free",
-      "expiry": "Ends 24 Jul",
-      "heat": 75,
-      "url": "https://singpromos.com/dining-restaurants-food/kenangan-coffee-spore-buy-1-get-1-free-coffee-payday-promo-from-22-24-july-2026-304596/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/kenangan-coffee-spore-buy-1-get-1-free-coffee-payday-promo-from-22-24-july-2026-304596/"
-      },
-      "expires_at": "2026-07-24",
-      "upcoming": false,
-      "starts_at": "2026-07-22",
-      "first_seen": "2026-07-22",
-      "image": "images/deals/kenangan-coffee-s-pore-buy-1-get-1-free-coffee-payday-promo-.jpg"
     },
     {
       "id": "apple-s-back-to-school-2026-promotion-offers-a-free-pack-of-",
