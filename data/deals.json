@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26",
+  "updated": "2026-07-27",
   "categories": [
     {
       "id": "all",
@@ -128,16 +128,13 @@
     "Expedia",
     "FairPrice",
     "GOLDLION",
-    "Gain City",
     "GetGo",
     "HP",
-    "HarbourFront Centre",
     "KFC",
     "Kei Kaisendon",
     "Kenny Rogers Roasters",
     "McDonald's",
     "Michael Kors",
-    "Moley Apparels",
     "Muji",
     "Nike",
     "Orchard Hotel",
@@ -153,7 +150,6 @@
     "Starbucks",
     "Subway",
     "Swensen's",
-    "TANGS",
     "Takagi Ramen",
     "Uniqlo",
     "Welcia",
@@ -224,38 +220,6 @@
       "starts_at": "",
       "first_seen": "2026-07-25",
       "image": "images/deals/luckin-coffee-s-pore-1-for-1-coffee-promotion-until-31-jul-2.jpg"
-    },
-    {
-      "id": "godiva-s-pore-offering-1-for-1-chocolate-twist-soft-serve-on",
-      "title": "Godiva S’pore offering 1-for-1 Chocolate Twist Soft Serve on 25 and 26 July 2026",
-      "store": "Godiva",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Two Chocolate Twist Soft Serves for the price of one",
-      "expiry": "Ends 26 Jul",
-      "heat": 125,
-      "url": "https://singpromos.com/dining-restaurants-food/godiva-spore-offering-1-for-1-chocolate-twist-soft-serve-from-25-and-26-july-2026-304687/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/godiva-spore-offering-1-for-1-chocolate-twist-soft-serve-from-25-and-26-july-2026-304687/"
-      },
-      "expires_at": "2026-07-26",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-24",
-      "image": "images/deals/godiva-s-pore-offering-1-for-1-chocolate-twist-soft-serve-on.jpg"
     },
     {
       "id": "kleenex-s-pore-spend-s-25-get-free-plushie-keychain-blind-bo",
@@ -394,70 +358,6 @@
       "starts_at": "",
       "first_seen": "2026-07-23",
       "image": "images/deals/giant-s-pore-3-for-25-ben-jerry-s-38-off-ka-and-more-weekly-.jpg"
-    },
-    {
-      "id": "istana-open-house-on-sunday-26-jul-2026",
-      "title": "Istana Open House on Sunday, 26 Jul 2026",
-      "store": "Istana Open House on Sunday, 26 Jul 2026",
-      "categories": [
-        "entertainment"
-      ],
-      "icon": "🎮",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "For the first time, an evening outdoor concert will be held",
-      "expiry": "Ends 26 Jul",
-      "heat": 80,
-      "url": "https://singpromos.com/places-of-interest/istana-open-house-on-sunday-26-jul-2026-304646/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/places-of-interest/istana-open-house-on-sunday-26-jul-2026-304646/"
-      },
-      "expires_at": "2026-07-26",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-23",
-      "image": "images/deals/istana-open-house-on-sunday-26-jul-2026.jpg"
-    },
-    {
-      "id": "breadtalk-s-pore-6-buns-for-10-80-promotion-until-26-july-20",
-      "title": "BreadTalk S’pore 6 Buns for $10.80 Promotion Until 26 July 2026",
-      "store": "BreadTalk",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy six favourite buns for one great value price",
-      "expiry": "Ends 26 Jul",
-      "heat": 75,
-      "url": "https://singpromos.com/dining-restaurants-food/breadtalk-spore-6-buns-for-10-80-promotion-until-26-july-2026-304637/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/breadtalk-spore-6-buns-for-10-80-promotion-until-26-july-2026-304637/"
-      },
-      "expires_at": "2026-07-26",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-23",
-      "image": "images/deals/breadtalk-s-pore-6-buns-for-10-80-promotion-until-26-july-20.jpg"
     },
     {
       "id": "ocbc-s-pore-fixed-deposit-promo-rates-up-to-1-3-p-a-from-22-",
@@ -1303,39 +1203,6 @@
       "upcoming": false
     },
     {
-      "id": "gaincity-jul-voucher",
-      "title": "Limited-time voucher on selected tech & appliances",
-      "store": "Gain City · Online",
-      "brand": "Gain City",
-      "categories": [
-        "electronics",
-        "home"
-      ],
-      "icon": "🔌",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "VOUCHER"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — voucher applied on selected products"
-      },
-      "desc": "Limited-time online voucher on selected products (valid 22 Jun to 26 Jul), running alongside the in-store Monster-Sized Sale of 8% off your 1st item and 10% off your 2nd.",
-      "expiry": "Ends 26 Jul",
-      "heat": 355,
-      "url": "https://www.gaincity.com/",
-      "source": {
-        "name": "Gain City",
-        "url": "https://www.gaincity.com/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-26",
-      "upcoming": false,
-      "starts_at": ""
-    },
-    {
       "id": "challenger-ms365",
       "title": "Microsoft 365 at $145 + 5% off notebooks",
       "store": "Challenger · In-store & online",
@@ -1854,38 +1721,6 @@
       "starts_at": ""
     },
     {
-      "id": "harbourfront-summer-popup",
-      "title": "Free selfie-mirror pop-up experience",
-      "store": "HarbourFront Centre · Pop-up",
-      "brand": "HarbourFront Centre",
-      "categories": [
-        "entertainment"
-      ],
-      "icon": "🎡",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE ACTIVITY"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Drop by the mall pop-up"
-      },
-      "desc": "A creative summer pop-up with a fun selfie-mirror personalisation activity — a simple, free, hands-on mall experience for families, shoppers and commuters.",
-      "expiry": "Ends 26 Jul",
-      "heat": 245,
-      "url": "https://sg.everydayonsales.com/promotions-freebies/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/promotions-freebies/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-26",
-      "upcoming": false,
-      "starts_at": ""
-    },
-    {
       "id": "kfc-drivethru-voucher",
       "title": "Free decal + $5 voucher, no min spend",
       "store": "KFC · Drive-Thru outlets",
@@ -1951,39 +1786,6 @@
       "upcoming": true
     },
     {
-      "id": "tangs-sulwhasoo-candle",
-      "title": "Sulwhasoo candle workshop + $100 voucher",
-      "store": "TANGS × Sulwhasoo · Tang Plaza",
-      "brand": "TANGS",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "🕯️",
-      "badges": [
-        {
-          "type": "free",
-          "label": "$152 IN GIFTS"
-        }
-      ],
-      "access": {
-        "type": "signup",
-        "label": "Book a workshop slot"
-      },
-      "desc": "Craft a bespoke scented candle at the Sulwhasoo Candle Making Workshop (10–12 & 24–26 Jul) at TANGS Tang Plaza, and walk away with a $100 Sulwhasoo voucher plus a complimentary 3-piece gift worth $52.",
-      "expiry": "10–26 Jul",
-      "expires_at": "2026-07-26",
-      "starts_at": "2026-07-10",
-      "heat": 215,
-      "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/"
-      },
-      "image": "images/up-tangs-sulwhasoo.jpg",
-      "first_seen": "2026-07-05",
-      "upcoming": true
-    },
-    {
       "id": "orchard-hotel-nationalday-drinks",
       "title": "Local-inspired drinks from $6.10",
       "store": "Orchard Hotel Singapore",
@@ -2040,38 +1842,6 @@
       "expires_at": "2026-07-31",
       "starts_at": "",
       "heat": 190,
-      "url": "https://sg.everydayonsales.com/warehouse-sale/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/warehouse-sale/"
-      },
-      "first_seen": "2026-07-05",
-      "upcoming": false
-    },
-    {
-      "id": "moley-apparels-closing",
-      "title": "30% off storewide — closing after 15 years",
-      "store": "Moley Apparels · HarbourFront Centre",
-      "brand": "Moley Apparels",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "🏷️",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "30% OFF ALL"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "In-store while it lasts"
-      },
-      "desc": "Moley Apparels bids farewell to its very first HarbourFront Centre store after 15 years — 30% off storewide during the moving-out sale before the doors close for good.",
-      "expiry": "Ends 26 Jul",
-      "expires_at": "2026-07-26",
-      "starts_at": "",
-      "heat": 185,
       "url": "https://sg.everydayonsales.com/warehouse-sale/",
       "source": {
         "name": "EverydayOnSales",
