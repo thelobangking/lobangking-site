@@ -110,8 +110,8 @@ Disallow: /
 # - LinkupBot
 # - magpie-crawler
 # - Manus-User
-# - meta-externalagent
 # - Meta-ExternalAgent
+# - meta-externalagent
 # - meta-externalfetcher
 # - Meta-ExternalFetcher
 # - meta-webindexer
