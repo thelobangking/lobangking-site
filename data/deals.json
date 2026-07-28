@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "categories": [
     {
       "id": "all",
@@ -143,7 +143,6 @@
     "Razer",
     "SUKIYA",
     "Samsung",
-    "Scoot",
     "Sephora",
     "Sothys",
     "Starbucks",
@@ -527,43 +526,6 @@
       "starts_at": "",
       "first_seen": "2026-07-23",
       "image": "images/deals/fairprice-50-off-andersen-s-of-denmark-ice-cream-more-for-li.jpg"
-    },
-    {
-      "id": "scoot-x-dbs-posb-enjoy-20-off-flights-to-over-40-destination",
-      "title": "Scoot x DBS/POSB Enjoy 20% Off Flights to Over 40 Destinations, Book by 27 Jul 2026",
-      "store": "Scoot",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SCOOT"
-        },
-        {
-          "type": "discount",
-          "label": "20% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Save 20% on selected Scoot fares",
-      "expiry": "Ends 27 Jul",
-      "heat": 130,
-      "url": "https://singpromos.com/airlines-flights/scoot-x-dbs-posb-enjoy-20-off-flights-to-over-40-destinations-book-by-27-jul-2026-304651/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/airlines-flights/scoot-x-dbs-posb-enjoy-20-off-flights-to-over-40-destinations-book-by-27-jul-2026-304651/"
-      },
-      "brand": "Scoot",
-      "expires_at": "2026-07-27",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-23",
-      "image": "images/deals/scoot-x-dbs-posb-enjoy-20-off-flights-to-over-40-destination.jpg"
     },
     {
       "id": "giant-s-pore-3-for-25-ben-jerry-s-38-off-ka-and-more-weekly-",
