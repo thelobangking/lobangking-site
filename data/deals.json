@@ -1329,7 +1329,8 @@
       "expires_at": "2026-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg"
+      "image": "images/deals/challenger-ms365.jpg",
+      "status": "claimed"
     },
     {
       "id": "breadtalk-26th-anniversary",
