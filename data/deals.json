@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29",
+  "updated": "2026-07-30",
   "categories": [
     {
       "id": "all",
@@ -313,38 +313,6 @@
       "starts_at": "",
       "first_seen": "2026-07-29",
       "image": "images/deals/breadtalk-6-flosss-buns-for-10-80-promotion-until-30-jul-202.jpg"
-    },
-    {
-      "id": "sushi-express-s-pore-1-50-selected-colour-plates-15th-annive",
-      "title": "Sushi Express S’pore $1.50++ Selected Colour Plates 15th Anniversary Promotion on 29 Jul 2026",
-      "store": "Sushi Express",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy more for less",
-      "expiry": "Ends 29 Jul",
-      "heat": 90,
-      "url": "https://singpromos.com/dining-restaurants-food/sushi-express-spore-1-50-selected-colour-plates-15th-anniversary-promotion-on-29-jul-2026-304791/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/sushi-express-spore-1-50-selected-colour-plates-15th-anniversary-promotion-on-29-jul-2026-304791/"
-      },
-      "expires_at": "2026-07-29",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-29",
-      "image": "images/deals/sushi-express-s-pore-1-50-selected-colour-plates-15th-annive.jpg"
     },
     {
       "id": "bukit-batok-gets-a-new-mcdonald-s-on-july-30-with-free-colle",
