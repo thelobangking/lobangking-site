@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30",
+  "updated": "2026-07-31",
   "categories": [
     {
       "id": "all",
@@ -454,38 +454,6 @@
       "starts_at": "",
       "first_seen": "2026-07-29",
       "image": "images/deals/paris-baguette-s-pore-2-for-20-roll-cakes-5-for-10-madeleine.jpg"
-    },
-    {
-      "id": "breadtalk-6-flosss-buns-for-10-80-promotion-until-30-jul-202",
-      "title": "BreadTalk 6 Flosss Buns for $10.80 Promotion Until 30 Jul 2026",
-      "store": "BreadTalk 6 Flosss Buns",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Six favourite Flosss buns for one great price",
-      "expiry": "Ends 30 Jul",
-      "heat": 75,
-      "url": "https://singpromos.com/dining-restaurants-food/breadtalk-6-flosss-buns-for-10-80-promotion-until-30-jul-2026-304805/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/breadtalk-6-flosss-buns-for-10-80-promotion-until-30-jul-2026-304805/"
-      },
-      "expires_at": "2026-07-30",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-29",
-      "image": "images/deals/breadtalk-6-flosss-buns-for-10-80-promotion-until-30-jul-202.jpg"
     },
     {
       "id": "texas-chicken-s-pore-9-90-4pc-chicken-deal-on-mondays-tuesda",
