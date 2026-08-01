@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31",
+  "updated": "2026-08-01",
   "categories": [
     {
       "id": "all",
@@ -115,21 +115,13 @@
   "brands_today": [
     "Amazon",
     "Apple",
-    "BEST Denki",
-    "BreadTalk",
-    "Burger King",
-    "CIMB",
     "Chagee",
-    "Challenger",
     "Coach",
     "Cold Storage",
     "Cotton On",
     "Courts",
     "Decathlon",
-    "Expedia",
     "FairPrice",
-    "GOLDLION",
-    "GetGo",
     "HP",
     "KFC",
     "Kei Kaisendon",
@@ -140,19 +132,15 @@
     "Nike",
     "Orchard Hotel",
     "Popeyes",
-    "Qatar Airways",
     "Razer",
     "SUKIYA",
     "Sephora",
     "Shopee",
-    "Sothys",
     "Starbucks",
     "Subway",
-    "Swensen's",
     "Takagi Ramen",
     "Uniqlo",
-    "Welcia",
-    "Yellow Ribbon"
+    "Welcia"
   ],
   "deals": [
     {
@@ -257,107 +245,6 @@
       "starts_at": "",
       "first_seen": "2026-07-30",
       "image": "images/deals/cold-storage-h-agen-dazs-tubs-3-for-25-more-deals-till-5-aug.jpg"
-    },
-    {
-      "id": "baskin-robbins-s-pore-31-off-handpacked-ice-cream-on-31-jul-",
-      "title": "Baskin-Robbins S’pore 31% OFF Handpacked Ice Cream on 31 Jul 2026",
-      "store": "Baskin-Robbins",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "31% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Bigger savings on handpacked tubs with mix-and-match options",
-      "expiry": "Ends 31 Jul",
-      "heat": 130,
-      "url": "https://singpromos.com/dining-restaurants-food/baskin-robbins-spore-31-off-handpacked-ice-cream-on-31-jul-2026-304867/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/baskin-robbins-spore-31-off-handpacked-ice-cream-on-31-jul-2026-304867/"
-      },
-      "expires_at": "2026-07-31",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-30",
-      "image": "images/deals/baskin-robbins-s-pore-31-off-handpacked-ice-cream-on-31-jul-.jpg"
-    },
-    {
-      "id": "icbc-singapore-fresh-funds-fd-offers-up-to-1-50-p-a-from-29-",
-      "title": "ICBC Singapore Fresh Funds FD offers up to 1.50% p.a. from 29 Jul 2026",
-      "store": "ICBC",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Compare counter and e-banking rates, minimum deposits and key maturity considerations.",
-      "expiry": "Ongoing",
-      "heat": 95,
-      "url": "https://singpromos.com/banks-credit-cards/icbc-singapore-fresh-funds-fd-offers-up-to-1-50-p-a-from-29-jul-2026-304837/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/icbc-singapore-fresh-funds-fd-offers-up-to-1-50-p-a-from-29-jul-2026-304837/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-07-29",
-      "first_seen": "2026-07-30",
-      "image": "images/deals/icbc-singapore-fresh-funds-fd-offers-up-to-1-50-p-a-from-29-.jpg"
-    },
-    {
-      "id": "bukit-batok-gets-a-new-mcdonald-s-on-july-30-with-free-colle",
-      "title": "Bukit Batok Gets a New McDonald’s on July 30 with FREE Collectible Lunch Boxes and Treats",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Free Vintage Lunch Boxes await the first 1,000 eligible customers.",
-      "expiry": "Check link for dates",
-      "heat": 95,
-      "url": "https://www.greatdeals.com.sg/2026/07/29/mcdonalds-bukit-batok-east-cc-free-lunchbox-treats-opening-promo",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://www.greatdeals.com.sg/2026/07/29/mcdonalds-bukit-batok-east-cc-free-lunchbox-treats-opening-promo"
-      },
-      "brand": "McDonald's",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-29",
-      "image": "images/deals/bukit-batok-gets-a-new-mcdonald-s-on-july-30-with-free-colle.jpg"
     },
     {
       "id": "mister-donut-s-pore-reunites-with-milo-for-a-limited-time-sg",
@@ -486,38 +373,6 @@
       "starts_at": "",
       "first_seen": "2026-07-29",
       "image": "images/deals/paris-baguette-s-pore-2-for-20-roll-cakes-5-for-10-madeleine.jpg"
-    },
-    {
-      "id": "texas-chicken-s-pore-9-90-4pc-chicken-deal-on-mondays-tuesda",
-      "title": "Texas Chicken S’pore $9.90 4pc Chicken Deal on Mondays & Tuesdays from 28 Jul 2026",
-      "store": "Texas Chicken",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "49% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Four pieces of crispy chicken at 49% off",
-      "expiry": "Ongoing",
-      "heat": 85,
-      "url": "https://singpromos.com/dining-restaurants-food/texas-chicken-spore-9-90-4pc-chicken-deal-on-mondays-tuesdays-from-28-jul-2026-304769/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/texas-chicken-spore-9-90-4pc-chicken-deal-on-mondays-tuesdays-from-28-jul-2026-304769/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-07-28",
-      "first_seen": "2026-07-28",
-      "image": "images/deals/texas-chicken-s-pore-9-90-4pc-chicken-deal-on-mondays-tuesda.jpg"
     },
     {
       "id": "tsujiri-singapore-1-for-1-float-promotion-until-9-aug-2026",
@@ -1301,302 +1156,6 @@
       "upcoming": false
     },
     {
-      "id": "challenger-ms365",
-      "title": "Microsoft 365 at $145 + 5% off notebooks",
-      "store": "Challenger · In-store & online",
-      "brand": "Challenger",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "💻",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "5% OFF + M365"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "ValueClub members — in-store & online"
-      },
-      "desc": "July notebook bundle: get Microsoft 365 for $145 with a selected notebook, plus a 5% off notebook coupon. Brands include Acer, ASUS, Lenovo and MSI.",
-      "expiry": "Ends 31 Jul",
-      "heat": 350,
-      "url": "https://online.challenger.sg/pages/promotions",
-      "source": {
-        "name": "Challenger",
-        "url": "https://online.challenger.sg/pages/promotions"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-31",
-      "upcoming": false,
-      "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
-    },
-    {
-      "id": "breadtalk-26th-anniversary",
-      "title": "26th Anniversary: 1-for-1 pastries & bundle deals all July",
-      "store": "BreadTalk · Islandwide",
-      "brand": "BreadTalk",
-      "categories": [
-        "food"
-      ],
-      "icon": "🥐",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "ANNIVERSARY"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "In-store — deals rotate weekly"
-      },
-      "desc": "Anniversary deals all month: buy-1-get-1 French Palmier, Buy-3-Get-1 Shio Pan, discounted Swiss rolls and multi-buy bun bundles. A free Flosss bun at VivoCity on 11 July.",
-      "expiry": "Ends 31 Jul",
-      "heat": 330,
-      "url": "https://thesmartlocal.com/read/deals-this-week-singapore/",
-      "source": {
-        "name": "TheSmartLocal",
-        "url": "https://thesmartlocal.com/read/deals-this-week-singapore/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-31",
-      "upcoming": false,
-      "starts_at": "",
-      "image": "images/deals/breadtalk-26th-anniversary.jpg"
-    },
-    {
-      "id": "swensens-saf-sundae",
-      "title": "Sticky Chewy Chocolate Sundae for $6.10 with any main",
-      "store": "Swensen's · Islandwide",
-      "brand": "Swensen's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍨",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "SAF DAY"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "NSF & NSmen PAssion members"
-      },
-      "desc": "SAF Day treat for NSF and NSmen PAssion members: add the popular Sticky Chewy Chocolate sundae for $6.10 with any main dish, all through July.",
-      "expiry": "Ends 31 Jul",
-      "heat": 325,
-      "url": "https://sg.everydayonsales.com/promotions-freebies/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/promotions-freebies/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-31",
-      "upcoming": false,
-      "starts_at": ""
-    },
-    {
-      "id": "burgerking-app-coupons",
-      "title": "App coupons: value meals & deals from $1",
-      "store": "Burger King · Islandwide",
-      "brand": "Burger King",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍔",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "FROM $1"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "Burger King app — show at counter"
-      },
-      "desc": "The Burger King app is loaded with coupons from $1, value meals and combo deals through to end-July. Redeem in-store or via the app.",
-      "expiry": "Ends 31 Jul",
-      "heat": 320,
-      "url": "https://singpromos.com/date/2026/07/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/date/2026/07/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-31",
-      "upcoming": false,
-      "starts_at": "",
-      "image": "images/deals/burgerking-app-coupons.jpg"
-    },
-    {
-      "id": "bestdenki-oppo-x9s",
-      "title": "OPPO Find X9s launch: $100 cashback + $400 in offers",
-      "store": "BEST Denki · In-store & online",
-      "brand": "BEST Denki",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "📱",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "$100 CASHBACK"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "In-store & online — on selected OPPO"
-      },
-      "desc": "Launch offer on the new OPPO Find X9s: $100 instant cashback, over $400 worth of launch gifts, and 20% off selected OPPO IoT accessories through July.",
-      "expiry": "Ends 31 Jul",
-      "heat": 310,
-      "url": "https://sg.everydayonsales.com/promotions-freebies/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/promotions-freebies/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-31",
-      "upcoming": false,
-      "starts_at": ""
-    },
-    {
-      "id": "getgo-weekday-drives",
-      "title": "10% off weekday drives",
-      "store": "GetGo · Islandwide",
-      "brand": "GetGo",
-      "categories": [
-        "travel"
-      ],
-      "icon": "🚗",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "10% OFF"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "GetGo app — weekday bookings"
-      },
-      "desc": "Car-sharing on the cheap: 10% off weekday drives all July. Handy for ferrying home your sale hauls without paying peak rates.",
-      "expiry": "Ends 31 Jul",
-      "heat": 305,
-      "url": "https://www.getgo.sg/blog/best-promos-and-deals-singapore-july-2026",
-      "source": {
-        "name": "GetGo",
-        "url": "https://www.getgo.sg/blog/best-promos-and-deals-singapore-july-2026"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-31",
-      "upcoming": false,
-      "starts_at": "",
-      "image": "images/deals/getgo-weekday-drives.jpg"
-    },
-    {
-      "id": "expedia-uob-hotels",
-      "title": "8% off selected hotels with UOB cards",
-      "store": "Expedia · Online",
-      "brand": "Expedia",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "8% OFF HOTELS"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — pay with a UOB card"
-      },
-      "desc": "Save 8% on selected hotel stays worldwide when you book on Expedia and pay with a UOB card. Long-running offer valid until the end of the year.",
-      "expiry": "Ends 31 Dec",
-      "heat": 300,
-      "url": "https://singpromos.com/date/2026/07/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/date/2026/07/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-12-31",
-      "upcoming": false,
-      "starts_at": "",
-      "image": "images/deals/expedia-uob-hotels.jpg"
-    },
-    {
-      "id": "qatar-mastercard-flights",
-      "title": "Up to 10% off flights with Mastercard",
-      "store": "Qatar Airways · Online",
-      "brand": "Qatar Airways",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "UP TO 10% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — pay with a Mastercard"
-      },
-      "desc": "Qatar Airways is giving Mastercard holders up to 10% off flights when booking through the promo page. Valid until the end of December.",
-      "expiry": "Ends 31 Dec",
-      "heat": 295,
-      "url": "https://singpromos.com/date/2026/07/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/date/2026/07/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-12-31",
-      "upcoming": false,
-      "starts_at": "",
-      "image": "images/deals/qatar-mastercard-flights.jpg"
-    },
-    {
-      "id": "cimb-fixed-deposit",
-      "title": "SGD fixed deposit up to 1.50% p.a.",
-      "store": "CIMB Singapore · Online & branch",
-      "brand": "CIMB",
-      "categories": [
-        "finance"
-      ],
-      "icon": "🏦",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1.50% P.A."
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online & at branches"
-      },
-      "desc": "CIMB's promotional SGD fixed deposit pays up to 1.50% p.a., with the 6-month rate nudged up from 1 July. Worth comparing if you're parking cash.",
-      "expiry": "Ongoing",
-      "heat": 290,
-      "url": "https://singpromos.com/date/2026/07/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/date/2026/07/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-07-01",
-      "image": "images/deals/cimb-fixed-deposit.jpg"
-    },
-    {
       "id": "sukiya-shrimp-miso",
       "title": "Shrimp Ball Miso Soup from $2.90",
       "store": "SUKIYA · All 30 halal outlets",
@@ -1657,38 +1216,6 @@
       },
       "first_seen": "2026-07-05",
       "expires_at": "",
-      "upcoming": false,
-      "starts_at": ""
-    },
-    {
-      "id": "yellowribbon-hellokitty-plush",
-      "title": "Win a Hello Kitty x Yellow Ribbon 50th plush",
-      "store": "Yellow Ribbon Singapore · Giveaway",
-      "brand": "Yellow Ribbon",
-      "categories": [
-        "entertainment"
-      ],
-      "icon": "🎁",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE GIVEAWAY"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Share your story to enter"
-      },
-      "desc": "For its 50th Anniversary, Yellow Ribbon Singapore is giving away an exclusive Hello Kitty collectible plush. Share a thank-you story to someone who believed in you for a chance to win.",
-      "expiry": "Ends 31 Jul",
-      "heat": 275,
-      "url": "https://sg.everydayonsales.com/promotions-freebies/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/promotions-freebies/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "2026-07-31",
       "upcoming": false,
       "starts_at": ""
     },
@@ -1778,38 +1305,6 @@
       "desc": "HP's Double 7 sale: sitewide vouchers worth up to $120 off selected HP AI laptops, workstations, printers and accessories. Upgrade your tech for less while the offer lasts.",
       "expiry": "While stocks last",
       "heat": 260,
-      "url": "https://sg.everydayonsales.com/promotions-freebies/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/promotions-freebies/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": ""
-    },
-    {
-      "id": "sothys-july-skincare",
-      "title": "10% off + gifts worth up to $106",
-      "store": "Sothys Singapore",
-      "brand": "Sothys",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "🧴",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "10% OFF + GIFTS"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "In-store & online while stocks last"
-      },
-      "desc": "Sothys July skincare offers: the new MultiVit range, complimentary gifts worth up to $106, limited-edition cleansing sets, anti-ageing offers and 10% off selected favourites.",
-      "expiry": "While stocks last",
-      "heat": 250,
       "url": "https://sg.everydayonsales.com/promotions-freebies/",
       "source": {
         "name": "EverydayOnSales",
@@ -1917,38 +1412,6 @@
       "image": "images/up-orchard-hotel.jpg",
       "first_seen": "2026-07-05",
       "upcoming": true
-    },
-    {
-      "id": "goldlion-moving-out",
-      "title": "Moving-out sale + free $10 voucher",
-      "store": "GOLDLION · Moving-out sale",
-      "brand": "GOLDLION",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👔",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE $10 VOUCHER"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "In-store · no min spend voucher"
-      },
-      "desc": "GOLDLION's moving-out sale pairs a Spend-More-Save-More deal with a $10 cash voucher (no minimum spend) — quality menswear, leather goods and accessories before the store closes.",
-      "expiry": "Ends 31 Jul",
-      "expires_at": "2026-07-31",
-      "starts_at": "",
-      "heat": 190,
-      "url": "https://sg.everydayonsales.com/warehouse-sale/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/warehouse-sale/"
-      },
-      "first_seen": "2026-07-05",
-      "upcoming": false
     },
     {
       "id": "kei-kaisendon-premium-set",
