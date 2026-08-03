@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02",
+  "updated": "2026-08-03",
   "categories": [
     {
       "id": "all",
@@ -320,38 +320,6 @@
       "image": "images/deals/four-star-x-mayer-ndp-warehouse-sale-brings-61-off-on-over-5.jpg"
     },
     {
-      "id": "milo-van-to-visit-siglap-community-club-and-jurong-on-2-aug-",
-      "title": "MILO Van to visit Siglap Community Club and Jurong on 2 Aug 2026",
-      "store": "MILO Van to visit",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy a complimentary cup of MILO",
-      "expiry": "Ends 2 Aug",
-      "heat": 95,
-      "url": "https://singpromos.com/dining-restaurants-food/milo-van-to-visit-siglap-community-club-on-2-aug-2026-304933/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/milo-van-to-visit-siglap-community-club-on-2-aug-2026-304933/"
-      },
-      "expires_at": "2026-08-02",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-01",
-      "image": "images/deals/milo-van-to-visit-siglap-community-club-and-jurong-on-2-aug-.jpg"
-    },
-    {
       "id": "snap-up-sg-domains-from-s-18-in-national-day-promotion-till-",
       "title": "Snap Up .SG Domains from S$18 in National Day Promotion till 31 Aug 2026",
       "store": "Snap Up .",
@@ -479,38 +447,6 @@
       "starts_at": "2026-08-01",
       "first_seen": "2026-08-01",
       "image": "images/deals/rhb-bank-s-pore-up-to-1-75-p-a-fixed-deposit-promo-rates-fro.jpg"
-    },
-    {
-      "id": "unity-pharmacy-buy-1-get-1-free-offers-till-2-aug-2026",
-      "title": "Unity Pharmacy Buy-1-Get-1-Free Offers Till 2 Aug 2026",
-      "store": "Unity Pharmacy Buy-1-Get-1-Free Offers",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Great prices on wellness and personal care favourites",
-      "expiry": "Ends 2 Aug",
-      "heat": 90,
-      "url": "https://singpromos.com/health/unity-pharmacy-buy-1-get-1-free-offers-till-2-aug-2026-304872/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/health/unity-pharmacy-buy-1-get-1-free-offers-till-2-aug-2026-304872/"
-      },
-      "expires_at": "2026-08-02",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-31",
-      "image": "images/deals/unity-pharmacy-buy-1-get-1-free-offers-till-2-aug-2026.jpg"
     },
     {
       "id": "fairprice-ice-cream-snack-deals-save-up-to-50-until-5-aug-20",
