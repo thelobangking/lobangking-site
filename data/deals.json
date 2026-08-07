@@ -182,8 +182,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-08-07",
-      "spotlight": true,
-      "image": "images/deals/fairprice-3-for-25-haagen-dazs-1-for-1-m-m-s-33-off-magnum-m.jpg"
+      "image": "images/deals/fairprice-3-for-25-haagen-dazs-1-for-1-m-m-s-33-off-magnum-m.jpg",
+      "spotlight": true
     },
     {
       "id": "fairprice-ice-cream-price-drop-cool-treats-from-2-75-until-1",
