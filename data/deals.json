@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07",
+  "updated": "2026-08-08",
   "categories": [
     {
       "id": "all",
@@ -139,7 +139,6 @@
     "Subway",
     "Takagi Ramen",
     "Uniqlo",
-    "Universal Studios Singapore",
     "Welcia"
   ],
   "deals": [
@@ -281,42 +280,6 @@
       "starts_at": "2026-08-07",
       "first_seen": "2026-08-07",
       "image": "images/deals/cimb-singapore-sgd-fixed-deposit-offers-up-to-1-75-p-a-from-.jpg"
-    },
-    {
-      "id": "klook-is-dropping-1-for-1-universal-studios-singapore-and-si",
-      "title": "Klook Is Dropping 1-For-1 Universal Studios Singapore And Singapore Oceanarium Tickets On 7 Aug 2026 - MoneyDigest",
-      "store": "Universal Studios Singapore",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "new",
-          "label": "UNIVERSAL STUDIOS SINGAPORE"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Klook Is Dropping 1-For-1 Universal Studios Singapore And Singapore Oceanarium Tickets On 7 Aug 2026 MoneyDigest",
-      "expiry": "Ends 7 Aug",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZm9vX0JfRmRhVVVVLWRKQ0FFa0RqV3hxd0NNV21PUS1iZllvYWdWMkFYanA4YmR2NS1GYi1VNk5jTmZqSVFYR2hEMXVRUDNkazNoTTJOOFEwdTRWNm0tTkpxTXZJS0pfU1FGSVRqUmFXY1pHbl9IQnlYT1ROSHF0N2MzQUlOaGpFU1NwTjdmaG92S3RRYWJOeW9QSWcyREtXTkxNSzdNZDJoeGYxMFNXeE5CaFZFbHZldTVrTktmNDdvQnc5QnBz?oc=5",
-      "source": {
-        "name": "MoneyDigest",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZm9vX0JfRmRhVVVVLWRKQ0FFa0RqV3hxd0NNV21PUS1iZllvYWdWMkFYanA4YmR2NS1GYi1VNk5jTmZqSVFYR2hEMXVRUDNkazNoTTJOOFEwdTRWNm0tTkpxTXZJS0pfU1FGSVRqUmFXY1pHbl9IQnlYT1ROSHF0N2MzQUlOaGpFU1NwTjdmaG92S3RRYWJOeW9QSWcyREtXTkxNSzdNZDJoeGYxMFNXeE5CaFZFbHZldTVrTktmNDdvQnc5QnBz?oc=5"
-      },
-      "brand": "Universal Studios Singapore",
-      "expires_at": "2026-08-07",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-07"
     },
     {
       "id": "ntuc-link-members-to-get-50-off-essentials-at-fairprice-the-",
