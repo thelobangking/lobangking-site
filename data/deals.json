@@ -1323,7 +1323,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "takagi-ramen-1for1-ndp",
@@ -1355,7 +1356,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "kennyrogers-670-meals",
@@ -1387,7 +1389,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "welcia-kose-beauty",
@@ -1419,7 +1422,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "hp-double7-savings",
@@ -1451,7 +1455,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "kfc-drivethru-voucher",
@@ -1483,7 +1488,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "popeyes-heartbeat-bucket",
@@ -1581,7 +1587,8 @@
         "url": "https://sg.everydayonsales.com/promotions-freebies/"
       },
       "first_seen": "2026-07-05",
-      "upcoming": false
+      "upcoming": false,
+      "status": "claimed"
     }
   ]
 }
