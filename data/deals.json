@@ -173,8 +173,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-08-08",
-      "spotlight": true,
-      "image": "images/deals/burger-king-s-pore-s-6-10-for-2-chicken-fries-and-smoky-mapl.jpg"
+      "image": "images/deals/burger-king-s-pore-s-6-10-for-2-chicken-fries-and-smoky-mapl.jpg",
+      "spotlight": true
     },
     {
       "id": "luckin-coffee-s-pore-1-for-1-all-coffee-promotion-till-10-au",
