@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08",
+  "updated": "2026-08-09",
   "categories": [
     {
       "id": "all",
@@ -271,38 +271,6 @@
       "starts_at": "2026-08-08",
       "first_seen": "2026-08-08",
       "image": "images/deals/my-home-grand-furniture-reno-expo-2026-from-8-16-aug-2026.jpg"
-    },
-    {
-      "id": "milo-van-visiting-woodlands-galaxy-cc-keat-hong-plaza-on-8-a",
-      "title": "MILO Van visiting Woodlands Galaxy CC & Keat Hong Plaza on 8 Aug 2026",
-      "store": "MILO Van visiting Woodlands",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy a complimentary cup of MILO and join the National Day festivities.",
-      "expiry": "Ends 8 Aug",
-      "heat": 105,
-      "url": "https://singpromos.com/dining-restaurants-food/milo-van-visiting-woodlands-galaxy-cc-keat-hong-plaza-on-8-aug-2026-304940/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/milo-van-visiting-woodlands-galaxy-cc-keat-hong-plaza-on-8-aug-2026-304940/"
-      },
-      "expires_at": "2026-08-08",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-08",
-      "image": "images/deals/milo-van-visiting-woodlands-galaxy-cc-keat-hong-plaza-on-8-a.jpg"
     },
     {
       "id": "amazon-singapore-prime-day-offers-up-to-40-off-sethlui-com",
