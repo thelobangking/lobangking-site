@@ -112,8 +112,8 @@ User-agent: magpie-crawler
 User-agent: Manus-User
 User-agent: meta-externalagent
 User-agent: Meta-ExternalAgent
-User-agent: meta-externalfetcher
 User-agent: Meta-ExternalFetcher
+User-agent: meta-externalfetcher
 User-agent: meta-webindexer
 User-agent: MistralAI-User
 User-agent: MistralAI-User/1.0
@@ -165,8 +165,8 @@ User-agent: TwinAgent
 User-agent: UseAI
 User-agent: VelenPublicWebCrawler
 User-agent: WARDBot
-User-agent: Webzio-Extended
 User-agent: webzio-extended
+User-agent: Webzio-Extended
 User-agent: wpbot
 User-agent: WRTNBot
 User-agent: YaK
