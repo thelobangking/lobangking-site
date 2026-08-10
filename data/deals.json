@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09",
+  "updated": "2026-08-10",
   "categories": [
     {
       "id": "all",
@@ -209,70 +209,6 @@
       "starts_at": "2026-08-09",
       "first_seen": "2026-08-09",
       "image": "images/deals/sea-horse-s-pore-national-day-specials-up-to-60-off-from-9-a.jpg"
-    },
-    {
-      "id": "mr-bean-1-for-1-soy-drinks-national-day-treat-on-9-aug-2026",
-      "title": "Mr Bean 1-for-1 Soy Drinks National Day Treat on 9 Aug 2026",
-      "store": "Mr Bean 1-for-1 Soy",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Two soy drinks for the price of one",
-      "expiry": "Ends 9 Aug",
-      "heat": 130,
-      "url": "https://singpromos.com/dining-restaurants-food/mr-bean-1-for-1-soy-drinks-national-day-treat-on-9-aug-2026-305220/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mr-bean-1-for-1-soy-drinks-national-day-treat-on-9-aug-2026-305220/"
-      },
-      "expires_at": "2026-08-09",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-09",
-      "image": "images/deals/mr-bean-1-for-1-soy-drinks-national-day-treat-on-9-aug-2026.jpg"
-    },
-    {
-      "id": "milo-singapore-van-to-visit-marina-barrage-bukit-batok-on-9-",
-      "title": "MILO Singapore Van to visit Marina Barrage & Bukit Batok on 9 Aug 2026",
-      "store": "MILO",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Catch the iconic MILO Van for a complimentary cup at two National Day celebration stops.",
-      "expiry": "Ends 9 Aug",
-      "heat": 105,
-      "url": "https://singpromos.com/dining-restaurants-food/milo-singapore-van-to-visit-marina-barrage-bukit-batok-on-9-aug-2026-304939/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/milo-singapore-van-to-visit-marina-barrage-bukit-batok-on-9-aug-2026-304939/"
-      },
-      "expires_at": "2026-08-09",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-09",
-      "image": "images/deals/milo-singapore-van-to-visit-marina-barrage-bukit-batok-on-9-.jpg"
     },
     {
       "id": "thinking-of-what-to-do-this-ndp-weekend-here-s-how-you-can-b",
