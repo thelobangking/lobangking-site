@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10",
+  "updated": "2026-08-11",
   "categories": [
     {
       "id": "all",
@@ -134,7 +134,6 @@
     "Popeyes",
     "SUKIYA",
     "Sephora",
-    "Sheng Siong",
     "Shopee",
     "Singapore Zoo",
     "Starbucks",
@@ -144,39 +143,6 @@
     "Welcia"
   ],
   "deals": [
-    {
-      "id": "milo-van-to-visit-kaki-bukit-on-10-aug-2026",
-      "title": "MILO Van to visit Kaki Bukit on 10 Aug 2026",
-      "store": "MILO Van to visit",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy a free cup of iconic MILO",
-      "expiry": "Ends 10 Aug",
-      "heat": 135,
-      "url": "https://singpromos.com/dining-restaurants-food/milo-van-to-visit-kaki-bukit-on-10-aug-2026-304941/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/milo-van-to-visit-kaki-bukit-on-10-aug-2026-304941/"
-      },
-      "expires_at": "2026-08-10",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-10",
-      "image": "images/deals/milo-van-to-visit-kaki-bukit-on-10-aug-2026.jpg",
-      "spotlight": true
-    },
     {
       "id": "popeyes-singapore-midnight-crunch-1-for-1-9-90-chicken-meal-",
       "title": "Popeyes Singapore Midnight Crunch 1-for-1 $9.90 Chicken Meal from 10 to 14 Aug 2026, 10pm – 2am",
@@ -207,7 +173,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-08-10",
-      "image": "images/deals/popeyes-singapore-midnight-crunch-1-for-1-9-90-chicken-meal-.jpg"
+      "image": "images/deals/popeyes-singapore-midnight-crunch-1-for-1-9-90-chicken-meal-.jpg",
+      "spotlight": true
     },
     {
       "id": "kfc-singapore-extends-the-national-day-spirit-with-s-6-50-cu",
@@ -241,39 +208,6 @@
       "starts_at": "",
       "first_seen": "2026-08-10",
       "image": "images/deals/kfc-singapore-extends-the-national-day-spirit-with-s-6-50-cu.jpg"
-    },
-    {
-      "id": "sheng-siong-1-heritage-farm-eggs-deal-at-selected-stores-unt",
-      "title": "Sheng Siong $1 Heritage Farm Eggs deal at selected stores until 10 Aug 2026",
-      "store": "Sheng Siong",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SHENG SIONG"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Heritage Farm Fresh Eggs 12s 660g drops to $1 per pack at 15 stores",
-      "expiry": "Ends 10 Aug",
-      "heat": 140,
-      "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-1-heritage-farm-eggs-deal-at-selected-stores-until-10-aug-2026-305213/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-1-heritage-farm-eggs-deal-at-selected-stores-until-10-aug-2026-305213/"
-      },
-      "brand": "Sheng Siong",
-      "expires_at": "2026-08-10",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-09",
-      "image": "images/deals/sheng-siong-1-heritage-farm-eggs-deal-at-selected-stores-unt.jpg"
     },
     {
       "id": "sea-horse-s-pore-national-day-specials-up-to-60-off-from-9-a",
@@ -375,70 +309,6 @@
       "starts_at": "",
       "first_seen": "2026-08-08",
       "image": "images/deals/burger-king-s-pore-s-6-10-for-2-chicken-fries-and-smoky-mapl.jpg"
-    },
-    {
-      "id": "luckin-coffee-s-pore-1-for-1-all-coffee-promotion-till-10-au",
-      "title": "Luckin Coffee S’pore 1-for-1 All Coffee Promotion till 10 Aug 2026",
-      "store": "Luckin Coffee",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Celebrate National Day with a coffee buddy and enjoy 1-for-1 on every coffee via the app.",
-      "expiry": "Ends 10 Aug",
-      "heat": 105,
-      "url": "https://singpromos.com/dining-restaurants-food/luckin-coffee-spore-1-for-1-all-coffee-promotion-till-10-aug-2026-305176/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/luckin-coffee-spore-1-for-1-all-coffee-promotion-till-10-aug-2026-305176/"
-      },
-      "expires_at": "2026-08-10",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-08",
-      "image": "images/deals/luckin-coffee-s-pore-1-for-1-all-coffee-promotion-till-10-au.jpg"
-    },
-    {
-      "id": "jinjja-chicken-s-pore-61-wings-at-10-for-6-10-from-8-10-aug-",
-      "title": "JINJJA Chicken S’pore 61¢ Wings at 10 for $6.10 from 8-10 Aug 2026",
-      "store": "JINJJA Chicken",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Celebrate National Day with 10 Korean-style wings for only $6.10",
-      "expiry": "Ends 10 Aug",
-      "heat": 95,
-      "url": "https://singpromos.com/dining-restaurants-food/jinjja-chicken-spore-61c-wings-10-for-6-10-from-8-10-aug-2026-305192/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/jinjja-chicken-spore-61c-wings-10-for-6-10-from-8-10-aug-2026-305192/"
-      },
-      "expires_at": "2026-08-10",
-      "upcoming": false,
-      "starts_at": "2026-08-08",
-      "first_seen": "2026-08-08",
-      "image": "images/deals/jinjja-chicken-s-pore-61-wings-at-10-for-6-10-from-8-10-aug-.jpg"
     },
     {
       "id": "my-home-grand-furniture-reno-expo-2026-from-8-16-aug-2026",
@@ -581,38 +451,6 @@
       "starts_at": "",
       "first_seen": "2026-08-07",
       "image": "images/deals/fairprice-ice-cream-price-drop-cool-treats-from-2-75-until-1.jpg"
-    },
-    {
-      "id": "famous-amos-s-pore-buy-any-200g-bag-add-choc-chip-pecan-200g",
-      "title": "Famous Amos S’pore Buy Any 200g Bag, Add Choc Chip & Pecan 200g for $6.10 till 10 Aug 2026",
-      "store": "Famous Amos",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Get a 200g Chocolate Chip & Pecan bag for S$6.10 with any 200g bag purchase",
-      "expiry": "Ends 10 Aug",
-      "heat": 70,
-      "url": "https://singpromos.com/dining-restaurants-food/famous-amos-spore-buy-any-200g-bag-add-choc-chip-pecan-200g-for-6-10-till-10-aug-2026-305151/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/famous-amos-spore-buy-any-200g-bag-add-choc-chip-pecan-200g-for-6-10-till-10-aug-2026-305151/"
-      },
-      "expires_at": "2026-08-10",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-07",
-      "image": "images/deals/famous-amos-s-pore-buy-any-200g-bag-add-choc-chip-pecan-200g.jpg"
     },
     {
       "id": "starbucks-singapore-brings-back-buy-one-get-one-free-venti-d",
