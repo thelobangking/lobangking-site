@@ -178,8 +178,8 @@
       "starts_at": "2026-08-11",
       "first_seen": "2026-08-11",
       "image": "images/deals/starbucks-s-pore-tall-drinks-at-s-4-90-each-min-2-from-11-14.jpg",
-      "spotlight": true,
-      "status": "claimed"
+      "status": "claimed",
+      "spotlight": true
     },
     {
       "id": "dbs-posb-cardholders-get-s-50-off-singapore-airlines-return-",
