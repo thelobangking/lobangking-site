@@ -212,7 +212,8 @@
       "upcoming": false,
       "starts_at": "2026-08-11",
       "first_seen": "2026-08-13",
-      "image": "images/deals/expired-fully-redeemed-dbs-posb-cardholders-get-s-50-off-sin.jpg"
+      "image": "images/deals/expired-fully-redeemed-dbs-posb-cardholders-get-s-50-off-sin.jpg",
+      "status": "claimed"
     },
     {
       "id": "uob-s-pore-sgd-fixed-deposit-rates-hit-1-45-p-a-from-12-aug-",
