@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14",
+  "updated": "2026-08-15",
   "categories": [
     {
       "id": "all",
@@ -683,75 +683,6 @@
       "starts_at": "",
       "first_seen": "2026-08-12",
       "image": "images/deals/royal-brunei-airlines-launches-two-to-go-promotion-with-melb.jpg"
-    },
-    {
-      "id": "starbucks-s-pore-tall-drinks-at-s-4-90-each-min-2-from-11-14",
-      "title": "Starbucks S’pore Tall Drinks at S$4.90 Each (min 2) from 11-14 Aug 2026",
-      "store": "Starbucks",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "STARBUCKS"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Limited-time in-store treat",
-      "expiry": "Ends 14 Aug",
-      "heat": 115,
-      "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-tall-drinks-at-s4-90-each-min-2-from-11-14-aug-2026-305272/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-tall-drinks-at-s4-90-each-min-2-from-11-14-aug-2026-305272/"
-      },
-      "brand": "Starbucks",
-      "expires_at": "2026-08-14",
-      "upcoming": false,
-      "starts_at": "2026-08-11",
-      "first_seen": "2026-08-11",
-      "image": "images/deals/starbucks-s-pore-tall-drinks-at-s-4-90-each-min-2-from-11-14.jpg"
-    },
-    {
-      "id": "coffee-bean-s-pore-has-2-for-10-choc-cookie-crumble-ice-blen",
-      "title": "Coffee Bean S’pore has 2-for-$10 Choc Cookie Crumble Ice Blended® drinks from 11-14 Aug 2026",
-      "store": "Coffee Bean",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Beat the post-holiday blues",
-      "expiry": "Ends 14 Aug",
-      "heat": 80,
-      "url": "https://singpromos.com/dining-restaurants-food/coffee-bean-spore-has-2-for-10-choc-cookie-crumble-ice-blended-drinks-from-11-14-aug-2026-305280/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/coffee-bean-spore-has-2-for-10-choc-cookie-crumble-ice-blended-drinks-from-11-14-aug-2026-305280/"
-      },
-      "expires_at": "2026-08-14",
-      "upcoming": false,
-      "starts_at": "2026-08-11",
-      "first_seen": "2026-08-11",
-      "image": "images/deals/coffee-bean-s-pore-has-2-for-10-choc-cookie-crumble-ice-blen.jpg"
     },
     {
       "id": "bank-of-china-singapore-promo-time-deposit-rates-up-to-1-65-",
