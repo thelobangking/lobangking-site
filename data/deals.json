@@ -172,8 +172,8 @@
       "upcoming": true,
       "starts_at": "2026-08-20",
       "first_seen": "2026-08-14",
-      "spotlight": true,
-      "image": "images/deals/mcdonald-s-s-pore-samurai-burger-returns-with-new-side-kicks.jpg"
+      "image": "images/deals/mcdonald-s-s-pore-samurai-burger-returns-with-new-side-kicks.jpg",
+      "spotlight": true
     },
     {
       "id": "mcdonald-s-s-pore-new-chiikawa-happy-meal-toys-till-10-sep-2",
