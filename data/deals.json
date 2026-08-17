@@ -340,7 +340,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-08-16",
-      "image": "images/deals/agoda-extra-20-off-hotels-with-dbs-posb-cards-until-31-aug-2.jpg"
+      "image": "images/deals/agoda-extra-20-off-hotels-with-dbs-posb-cards-until-31-aug-2.jpg",
+      "status": "claimed"
     },
     {
       "id": "popeyes-s-pore-5pc-chicken-mania-bucket-at-10-90-from-17-30-",
