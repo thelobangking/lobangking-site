@@ -104,15 +104,16 @@ Disallow: /
 # - laion-huggingface-processor
 # - LAIONDownloader
 # - LCC
+# - Lightpanda
 # - LinerBot
 # - Linguee Bot
 # - LinkupBot
 # - magpie-crawler
 # - Manus-User
-# - meta-externalagent
 # - Meta-ExternalAgent
-# - Meta-ExternalFetcher
+# - meta-externalagent
 # - meta-externalfetcher
+# - Meta-ExternalFetcher
 # - meta-webindexer
 # - MistralAI-User
 # - MistralAI-User/1.0
