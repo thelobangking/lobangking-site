@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16",
+  "updated": "2026-08-17",
   "categories": [
     {
       "id": "all",
@@ -278,74 +278,6 @@
       "starts_at": "",
       "first_seen": "2026-08-14",
       "image": "images/deals/mcdonald-s-s-pore-new-chiikawa-happy-meal-toys-till-10-sep-2.jpg"
-    },
-    {
-      "id": "more-yogurt-1-for-1-selected-shakes-at-jewel-14-16-aug-and-w",
-      "title": "More Yogurt 1 FOR 1 Selected Shakes at Jewel (14-16 Aug) and Waterway Point (17-19 Aug)",
-      "store": "More Yogurt 1 FOR",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Get ready to discover a fresh new way to enjoy yogurt",
-      "expiry": "Ends 16 Aug",
-      "heat": 120,
-      "url": "https://singpromos.com/dining-restaurants-food/more-yogurt-1-for-1-selected-shakes-at-jewel-14-16-aug-and-waterway-point-17-19-aug-305394/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/more-yogurt-1-for-1-selected-shakes-at-jewel-14-16-aug-and-waterway-point-17-19-aug-305394/"
-      },
-      "expires_at": "2026-08-16",
-      "upcoming": false,
-      "starts_at": "2026-08-14",
-      "first_seen": "2026-08-14",
-      "image": "images/deals/more-yogurt-1-for-1-selected-shakes-at-jewel-14-16-aug-and-w.jpg"
-    },
-    {
-      "id": "7-eleven-s-pore-buy-1-get-1-free-cornetto-royale-4-day-speci",
-      "title": "7-Eleven S’pore Buy 1 Get 1 FREE Cornetto Royale 4-Day Specials & More Till 16 Aug 2026",
-      "store": "7-Eleven",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Save up to 60% on abalone, snacks, ice cream, drinks and more in this four-day sale.",
-      "expiry": "Ends 16 Aug",
-      "heat": 115,
-      "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-buy-1-get-1-free-cornetto-royale-4-day-specials-more-till-16-aug-2026-305376/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-buy-1-get-1-free-cornetto-royale-4-day-specials-more-till-16-aug-2026-305376/"
-      },
-      "expires_at": "2026-08-16",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-14",
-      "image": "images/deals/7-eleven-s-pore-buy-1-get-1-free-cornetto-royale-4-day-speci.jpg"
     },
     {
       "id": "mcdonald-s-samurai-burgers-return-with-seaweed-fries-katsu-c",
