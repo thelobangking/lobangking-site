@@ -204,7 +204,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-08-18",
-      "image": "images/deals/qatar-airways-natas-special-fares-from-s-818-till-26-aug-202.jpg"
+      "image": "images/deals/qatar-airways-natas-special-fares-from-s-818-till-26-aug-202.jpg",
+      "status": "claimed"
     },
     {
       "id": "natas-holidays-2026-travel-fair-at-singapore-expo-from-21-23",
@@ -535,7 +536,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-08-16",
-      "image": "images/deals/agoda-extra-20-off-hotels-with-dbs-posb-cards-until-31-aug-2.jpg"
+      "image": "images/deals/agoda-extra-20-off-hotels-with-dbs-posb-cards-until-31-aug-2.jpg",
+      "status": "claimed"
     },
     {
       "id": "mcdonald-s-s-pore-samurai-burger-returns-with-new-side-kicks",
