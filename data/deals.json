@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19",
+  "updated": "2026-08-20",
   "categories": [
     {
       "id": "all",
@@ -117,29 +117,21 @@
     "Apple",
     "Best Denki",
     "Burger King",
-    "Coach",
     "Cotton On",
     "Courts",
     "Decathlon",
     "FairPrice",
-    "HP",
     "KFC",
-    "Kei Kaisendon",
-    "Kenny Rogers Roasters",
     "McDonald's",
-    "Michael Kors",
     "Muji",
     "Nike",
     "Orchard Hotel",
     "Popeyes",
-    "SUKIYA",
     "Sephora",
     "Singapore Zoo",
     "Starbucks",
     "Subway",
-    "Takagi Ramen",
-    "Uniqlo",
-    "Welcia"
+    "Uniqlo"
   ],
   "deals": [
     {
@@ -1127,70 +1119,6 @@
       "first_seen": "2026-07-06"
     },
     {
-      "id": "michael-kors-sale",
-      "title": "Up to 55% off designer handbags, shoes & watches",
-      "store": "Michael Kors · Online & boutiques",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "UP TO 55% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online & in-boutique — prices as marked"
-      },
-      "desc": "Official Michael Kors sale with further reductions across designer handbags, shoes, watches and clothing — over 1,000 styles. Example: the Ava extra-small Saffiano crossbody is down from $430 to $189.",
-      "expiry": "While stocks last",
-      "expires_at": "",
-      "url": "https://www.michaelkors.global/sg/en/sale/",
-      "source": {
-        "name": "Michael Kors",
-        "url": "https://www.michaelkors.global/sg/en/sale/"
-      },
-      "brand": "Michael Kors",
-      "heat": 375,
-      "first_seen": "2026-07-05",
-      "starts_at": "",
-      "upcoming": false
-    },
-    {
-      "id": "coach-bags-sale",
-      "title": "Designer leather bags on sale + free shipping",
-      "store": "Coach · Official online store",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "SALE + FREE SHIP"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — free shipping for a limited time"
-      },
-      "desc": "Coach Singapore's official leather bag sale — exclusive deals on handbags and signature styles, with free shipping for a limited time. New customers get 10% off their first order with code HELLO10.",
-      "expiry": "While stocks last",
-      "expires_at": "",
-      "url": "https://singapore.coach.com/sales/bags.html",
-      "source": {
-        "name": "Coach Singapore",
-        "url": "https://singapore.coach.com/sales/bags.html"
-      },
-      "brand": "Coach",
-      "heat": 370,
-      "first_seen": "2026-07-05",
-      "starts_at": "",
-      "upcoming": false
-    },
-    {
       "id": "sephora-sale-50",
       "title": "Up to 50% off makeup, skincare & fragrance",
       "store": "Sephora · Online & stores",
@@ -1222,166 +1150,6 @@
       "first_seen": "2026-07-05",
       "starts_at": "",
       "upcoming": false
-    },
-    {
-      "id": "sukiya-shrimp-miso",
-      "title": "Shrimp Ball Miso Soup from $2.90",
-      "store": "SUKIYA · All 30 halal outlets",
-      "brand": "SUKIYA",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍲",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "FROM $2.90"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Dine-in at all outlets islandwide"
-      },
-      "desc": "New Shrimp Ball Miso Soup for a limited time — order it on its own or upgrade any regular miso soup for just $2.90. Available at all 30 Halal-certified SUKIYA outlets.",
-      "expiry": "While stocks last",
-      "heat": 285,
-      "url": "https://sg.everydayonsales.com/promotions-freebies/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/promotions-freebies/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": ""
-    },
-    {
-      "id": "takagi-ramen-1for1-ndp",
-      "title": "Ultimate 1-for-1 ramen & rice bowls",
-      "store": "Takagi Ramen · Delivery & outlets",
-      "brand": "Takagi Ramen",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "GrabFood, Foodpanda or order direct"
-      },
-      "desc": "NDP-season Ultimate 1-for-1 on selected ramen and rice bowls — great-value Japanese comfort food via GrabFood, Foodpanda or direct ordering.",
-      "expiry": "While stocks last",
-      "heat": 280,
-      "url": "https://sg.everydayonsales.com/promotions-freebies/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/promotions-freebies/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": ""
-    },
-    {
-      "id": "kennyrogers-670-meals",
-      "title": "$6.70 rice or pasta meals islandwide",
-      "store": "Kenny Rogers Roasters · Islandwide",
-      "brand": "Kenny Rogers Roasters",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍗",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "$6.70 MEALS"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Selected outlets & online ordering"
-      },
-      "desc": "Rice or pasta meals for just $6.70 each — an easy, wallet-friendly lunch or dinner at selected Kenny Rogers Roasters outlets islandwide and via online ordering.",
-      "expiry": "While stocks last",
-      "heat": 270,
-      "url": "https://sg.everydayonsales.com/promotions-freebies/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/promotions-freebies/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": ""
-    },
-    {
-      "id": "welcia-kose-beauty",
-      "title": "Up to 50% off KOSE beauty + free gifts",
-      "store": "Welcia · KOSE brands",
-      "brand": "Welcia",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "💄",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "UP TO 50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "In-store at Welcia outlets"
-      },
-      "desc": "Up to 50% off selected KOSE beauty brands including SEKKISEI, ONE BY KOSÉ and FASIO, plus exclusive SEKKISEI x Monchhichi gifts, foldable bags and deluxe samples with qualifying purchases.",
-      "expiry": "While stocks last",
-      "heat": 265,
-      "url": "https://sg.everydayonsales.com/promotions-freebies/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/promotions-freebies/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": ""
-    },
-    {
-      "id": "hp-double7-savings",
-      "title": "Double 7: up to $120 off HP laptops & printers",
-      "store": "HP Singapore Online Store",
-      "brand": "HP",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "💻",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "UP TO $120 OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Sitewide vouchers at HP online store"
-      },
-      "desc": "HP's Double 7 sale: sitewide vouchers worth up to $120 off selected HP AI laptops, workstations, printers and accessories. Upgrade your tech for less while the offer lasts.",
-      "expiry": "While stocks last",
-      "heat": 260,
-      "url": "https://sg.everydayonsales.com/promotions-freebies/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/promotions-freebies/"
-      },
-      "first_seen": "2026-07-05",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": ""
     },
     {
       "id": "kfc-drivethru-voucher",
@@ -1480,38 +1248,6 @@
       "image": "images/up-orchard-hotel.jpg",
       "first_seen": "2026-07-05",
       "upcoming": true
-    },
-    {
-      "id": "kei-kaisendon-premium-set",
-      "title": "Premium Kaisendon set from $22.95++",
-      "store": "Kei Kaisendon",
-      "brand": "Kei Kaisendon",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍥",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "FROM $22.95++"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Dine-in"
-      },
-      "desc": "Kei Kaisendon's Premium Set Meal: an authentic Japanese kaisendon served with side dishes and a drink for $22.95++ (usual $24.95++) — a worthwhile treat for seafood lovers.",
-      "expiry": "While stocks last",
-      "expires_at": "",
-      "starts_at": "",
-      "heat": 180,
-      "url": "https://sg.everydayonsales.com/promotions-freebies/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/promotions-freebies/"
-      },
-      "first_seen": "2026-07-05",
-      "upcoming": false
     }
   ]
 }
