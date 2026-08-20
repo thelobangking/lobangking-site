@@ -431,7 +431,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-08-18",
-      "image": "images/deals/qatar-airways-natas-special-fares-from-s-818-till-26-aug-202.jpg"
+      "image": "images/deals/qatar-airways-natas-special-fares-from-s-818-till-26-aug-202.jpg",
+      "status": "claimed"
     },
     {
       "id": "massive-muji-clearance-sale-with-up-to-70-off-clothes-homewa",
