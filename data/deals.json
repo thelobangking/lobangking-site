@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "categories": [
     {
       "id": "all",
@@ -113,7 +113,6 @@
     "Trip.com"
   ],
   "brands_today": [
-    "Apple",
     "Best Denki",
     "Burger King",
     "Cotton On",
@@ -129,8 +128,7 @@
     "Sephora",
     "Singapore Zoo",
     "Starbucks",
-    "Subway",
-    "Uniqlo"
+    "Subway"
   ],
   "deals": [
     {
@@ -568,39 +566,6 @@
       "image": "images/deals/mcdonald-s-s-pore-pre-payday-deals-has-meals-from-5-90-till-.jpg"
     },
     {
-      "id": "starbucks-s-pore-2nd-venti-at-just-1-from-18-20-aug-2026-tue",
-      "title": "Starbucks S’pore 2nd Venti at Just $1 from 18-20 Aug 2026 (Tue-Thu), 2-8pm",
-      "store": "Starbucks",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "STARBUCKS"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy a second Venti drink for just $1 during this limited offer.",
-      "expiry": "Ends 20 Aug",
-      "heat": 90,
-      "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-2nd-venti-at-just-1-from-18-20-aug-2026-tue-thu-2-8pm-305452/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-2nd-venti-at-just-1-from-18-20-aug-2026-tue-thu-2-8pm-305452/"
-      },
-      "brand": "Starbucks",
-      "expires_at": "2026-08-20",
-      "upcoming": false,
-      "starts_at": "2026-08-18",
-      "first_seen": "2026-08-17",
-      "image": "images/deals/starbucks-s-pore-2nd-venti-at-just-1-from-18-20-aug-2026-tue.jpg"
-    },
-    {
       "id": "best-denki-warehouse-stock-clearance-has-up-to-90-off-tvs-la",
       "title": "BEST Denki Warehouse Stock Clearance Has Up to 90% Off TVs, Laptops, Smartphones, Headphones & More - MoneyDigest",
       "store": "Best Denki",
@@ -785,42 +750,6 @@
       "first_seen": "2026-07-10"
     },
     {
-      "id": "muji-jewel-changi-airport-has-an-ongoing-clearance-sale-of-u",
-      "title": "MUJI Jewel Changi Airport Has An Ongoing Clearance Sale of Up To 70% Off Homeware & Clothing - Uchify",
-      "store": "Muji",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MUJI"
-        },
-        {
-          "type": "discount",
-          "label": "70% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "MUJI Jewel Changi Airport Has An Ongoing Clearance Sale of Up To 70% Off Homeware & Clothing Uchify",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HLURCYlZFbGdZcTk3X2xyUVkyem9IeDVvMXJCU2lxTzRUSExWWW9wS3JOUVFuazN5VkRJYmdNMHdaR0cybnJnX2dnaU5icXgtZWd0SV9Bdzk?oc=5",
-      "source": {
-        "name": "Uchify",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HLURCYlZFbGdZcTk3X2xyUVkyem9IeDVvMXJCU2lxTzRUSExWWW9wS3JOUVFuazN5VkRJYmdNMHdaR0cybnJnX2dnaU5icXgtZWd0SV9Bdzk?oc=5"
-      },
-      "brand": "Muji",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-06"
-    },
-    {
       "id": "muji-online-exclusive-sale-just-dropped-with-up-to-40-off-ho",
       "title": "MUJI Online Exclusive Sale Just Dropped with Up to 40% OFF Home and Living Picks Till April 30 - Great Deals Singapore",
       "store": "Muji",
@@ -857,42 +786,6 @@
       "first_seen": "2026-07-06"
     },
     {
-      "id": "uniqlo-singapore-giving-away-free-lunch-bags-during-thank-yo",
-      "title": "UNIQLO Singapore Giving Away FREE Lunch Bags During Thank You Festival From May 22 to 28 - Great Deals Singapore",
-      "store": "Uniqlo",
-      "categories": [
-        "entertainment"
-      ],
-      "icon": "🎮",
-      "badges": [
-        {
-          "type": "new",
-          "label": "UNIQLO"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "UNIQLO Singapore Giving Away FREE Lunch Bags During Thank You Festival From May 22 to 28 Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkpXWDN1NEVRbjFVZk9ya2Z3QzdYVS11MWlPanhDV0xKcGVWbG5BTU9aNktyaktxVFEyR010QXdQTTcybDlJZXh3YTZvVWNVc0pLWjR5WHpoVUE3Q0pOYzYtbzExSnlERVdPV3dFc09IWUZweE5YelJTeGRvVVJDVVJjZzgzbXd1NHJuNi1vNkRfMXYtaWs3cjd6NDhHQWpq?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkpXWDN1NEVRbjFVZk9ya2Z3QzdYVS11MWlPanhDV0xKcGVWbG5BTU9aNktyaktxVFEyR010QXdQTTcybDlJZXh3YTZvVWNVc0pLWjR5WHpoVUE3Q0pOYzYtbzExSnlERVdPV3dFc09IWUZweE5YelJTeGRvVVJDVVJjZzgzbXd1NHJuNi1vNkRfMXYtaWs3cjd6NDhHQWpq?oc=5"
-      },
-      "brand": "Uniqlo",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-06"
-    },
-    {
       "id": "nike-singapore-end-of-season-sale-adds-further-markdowns-wit",
       "title": "Nike Singapore End of Season Sale Adds Further Markdowns with Extra 30% OFF Till April 26 - Great Deals Singapore",
       "store": "Nike",
@@ -923,78 +816,6 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbWY1UDZQaUdLdkhIZkJLZ2pKa2N0VHdMOEVGa0ZJRlZqWUwzZFFNLWhIcDB3LUNvcmdMcEQ3RDlYbjQ4SXdKSFRueGRUbzJlVGlydkE3bkd4RG5FX04zbnp6bUJPMWRSM2g0bnREZjRsX0hhY0lIZVVkSlVYXzBqdHUxblVKZ1JvMGNNa2RJdm5ScGZL?oc=5"
       },
       "brand": "Nike",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-06"
-    },
-    {
-      "id": "moomoo-free-apple-stock-is-it-still-offered-in-singapore-moo",
-      "title": "Moomoo Free Apple Stock: Is It Still Offered in Singapore? - Moomoo",
-      "store": "Apple",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "💻",
-      "badges": [
-        {
-          "type": "new",
-          "label": "APPLE"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Moomoo Free Apple Stock: Is It Still Offered in Singapore? Moomoo",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaUFTZlRZUGJ5Tzh0Q2NlbHlzakFnT285R25oanJJNFdhcEpXQnpXb3Jma2FzUDlKbXA4MXJyeHVXYXZOVlhSa1o1Zlg1VTFkOWtxN3VPdWNycFByeTFNMGVmQmtYYlROeWRKTFhBb2xJQmNiZTYzN2tFaTQ0Z2lPWFN6R2JfZEJ4dmQtTXhkZV9seWZLX0F0RUJINnk?oc=5",
-      "source": {
-        "name": "Moomoo",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaUFTZlRZUGJ5Tzh0Q2NlbHlzakFnT285R25oanJJNFdhcEpXQnpXb3Jma2FzUDlKbXA4MXJyeHVXYXZOVlhSa1o1Zlg1VTFkOWtxN3VPdWNycFByeTFNMGVmQmtYYlROeWRKTFhBb2xJQmNiZTYzN2tFaTQ0Z2lPWFN6R2JfZEJ4dmQtTXhkZV9seWZLX0F0RUJINnk?oc=5"
-      },
-      "brand": "Apple",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-06"
-    },
-    {
-      "id": "cotton-on-isn-t-leaving-sg-anytime-soon-you-can-swing-by-thi",
-      "title": "Cotton On Isn’t Leaving SG Anytime Soon & You Can Swing By This Weekend For Free Matcha To Celebrate - TheSmartLocal",
-      "store": "Cotton On",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "COTTON ON"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Cotton On Isn’t Leaving SG Anytime Soon & You Can Swing By This Weekend For Free Matcha To Celebrate TheSmartLocal",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YWEsyejk0dlJiTF9jNjJkX3o4RThhXy1zSWlBLXUtc3UyU0ZCMGlBNTRMSEd1QWw4aFZ0YUI2NTRjeXlQbENkZGprZUtOTmJKSFVyOWJuSGxudm9uc1N1ZmxWbndPaTExLTI3WU5IVUzSAXZBVV95cUxOblM4S3NweGJMVnBTNktLSl8tanpYWFlMc3RhNHVBU2k2clBFUmFoNk5hbmZhZC14NmlwNEtJTFdOODdxSl8xSDJ0MVJoMmlKcFMtVTNlY1N5T0ROQ3d4cG5oZ296U0lWNmtBaW96QWdlVGZZc2xB?oc=5",
-      "source": {
-        "name": "TheSmartLocal",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YWEsyejk0dlJiTF9jNjJkX3o4RThhXy1zSWlBLXUtc3UyU0ZCMGlBNTRMSEd1QWw4aFZ0YUI2NTRjeXlQbENkZGprZUtOTmJKSFVyOWJuSGxudm9uc1N1ZmxWbndPaTExLTI3WU5IVUzSAXZBVV95cUxOblM4S3NweGJMVnBTNktLSl8tanpYWFlMc3RhNHVBU2k2clBFUmFoNk5hbmZhZC14NmlwNEtJTFdOODdxSl8xSDJ0MVJoMmlKcFMtVTNlY1N5T0ROQ3d4cG5oZ296U0lWNmtBaW96QWdlVGZZc2xB?oc=5"
-      },
-      "brand": "Cotton On",
       "expires_at": "",
       "upcoming": false,
       "starts_at": "",
