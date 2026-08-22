@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21",
+  "updated": "2026-08-22",
   "categories": [
     {
       "id": "all",
@@ -364,38 +364,6 @@
       "starts_at": "",
       "first_seen": "2026-08-20",
       "image": "images/deals/pcloud-up-to-59-off-lifetime-cloud-storage-deals-till-31-aug.jpg"
-    },
-    {
-      "id": "secret-recipe-s-pore-50-off-selected-whole-cakes-at-toa-payo",
-      "title": "Secret Recipe S’pore 50% OFF Selected Whole Cakes at Toa Payoh outlet on 21 Aug 2026",
-      "store": "Secret Recipe",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Half-price selected whole cakes",
-      "expiry": "Ends 21 Aug",
-      "heat": 100,
-      "url": "https://singpromos.com/dining-restaurants-food/secret-recipe-spore-50-off-selected-whole-cakes-at-toa-payoh-outlet-on-21-aug-2026-305417/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/secret-recipe-spore-50-off-selected-whole-cakes-at-toa-payoh-outlet-on-21-aug-2026-305417/"
-      },
-      "expires_at": "2026-08-21",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-20",
-      "image": "images/deals/secret-recipe-s-pore-50-off-selected-whole-cakes-at-toa-payo.jpg"
     },
     {
       "id": "coe-aug-2026-second-exercise-results-4-categories-rise-cat-d",
