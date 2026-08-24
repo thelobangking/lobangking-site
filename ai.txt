@@ -68,6 +68,7 @@ Disallow: /
 # - Echobot Bot
 # - EchoboxBot
 # - ExaBot
+# - ExaSearchBot
 # - FacebookBot
 # - facebookexternalhit
 # - Factset_spyderbot
@@ -112,8 +113,8 @@ Disallow: /
 # - Manus-User
 # - Meta-ExternalAgent
 # - meta-externalagent
-# - meta-externalfetcher
 # - Meta-ExternalFetcher
+# - meta-externalfetcher
 # - meta-webindexer
 # - MistralAI-User
 # - MistralAI-User/1.0
@@ -144,6 +145,7 @@ Disallow: /
 # - QueritBot
 # - QuillBot
 # - quillbot.com
+# - Reflectionbot
 # - SBIntuitionsBot
 # - Scrapy
 # - SemrushBot-OCOB
@@ -165,8 +167,8 @@ Disallow: /
 # - UseAI
 # - VelenPublicWebCrawler
 # - WARDBot
-# - webzio-extended
 # - Webzio-Extended
+# - webzio-extended
 # - wpbot
 # - WRTNBot
 # - YaK
