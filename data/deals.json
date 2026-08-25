@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24",
+  "updated": "2026-08-25",
   "categories": [
     {
       "id": "all",
@@ -126,7 +126,6 @@
     "Orchard Hotel",
     "Popeyes",
     "Sephora",
-    "Sheng Siong",
     "Singapore Airlines",
     "Singapore Zoo",
     "Starbucks",
@@ -166,47 +165,6 @@
       "first_seen": "2026-08-24",
       "image": "images/deals/chagee-singapore-opens-2-new-stores-including-family-concept.jpg",
       "spotlight": true
-    },
-    {
-      "id": "sheng-siong-up-to-52-off-1-for-1-deals-mao-shang-king-ice-cr",
-      "title": "Sheng Siong Up to 52% Off & 1-for-1 Deals, Mao Shang King Ice Cream Till 24 Aug 2026",
-      "store": "Sheng Siong",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SHENG SIONG"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "discount",
-          "label": "52% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Score frozen picks, half-price ice cream and grocery deals at up to 52% off",
-      "expiry": "Ends 24 Aug",
-      "heat": 170,
-      "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-up-to-52-off-1-for-1-deals-mao-shang-king-ice-cream-till-24-aug-2026-305651/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-up-to-52-off-1-for-1-deals-mao-shang-king-ice-cream-till-24-aug-2026-305651/"
-      },
-      "brand": "Sheng Siong",
-      "expires_at": "2026-08-24",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-22",
-      "image": "images/deals/sheng-siong-up-to-52-off-1-for-1-deals-mao-shang-king-ice-cr.jpg"
     },
     {
       "id": "morganfield-s-1-for-1-angus-ribeye-at-suntec-till-30-aug-202",
