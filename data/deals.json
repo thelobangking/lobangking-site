@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25",
+  "updated": "2026-08-26",
   "categories": [
     {
       "id": "all",
@@ -123,7 +123,6 @@
     "Muji",
     "Nike",
     "Orchard Hotel",
-    "Popeyes",
     "Sephora",
     "Singapore Airlines",
     "Singapore Zoo",
@@ -966,39 +965,6 @@
       "expires_at": "",
       "upcoming": false,
       "starts_at": ""
-    },
-    {
-      "id": "popeyes-heartbeat-bucket",
-      "title": "$11.50 4pc chicken + drink, every Tuesday",
-      "store": "Popeyes · Islandwide",
-      "brand": "Popeyes",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍗",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "$11.50 TUESDAYS"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Selected Tuesdays · 11am–10pm"
-      },
-      "desc": "Popeyes' Singapore Heartbeat Bucket Set: 4 pieces of Signature Chicken with a Large Drink for only $11.50 every selected Tuesday — a National-Day-season treat that runs all the way to 25 August.",
-      "expiry": "Tuesdays till 25 Aug",
-      "expires_at": "2026-08-25",
-      "starts_at": "2026-07-07",
-      "heat": 220,
-      "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/"
-      },
-      "image": "images/up-popeyes-heartbeat.jpg",
-      "first_seen": "2026-07-05",
-      "upcoming": true
     },
     {
       "id": "orchard-hotel-nationalday-drinks",
