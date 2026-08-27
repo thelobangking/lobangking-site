@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26",
+  "updated": "2026-08-27",
   "categories": [
     {
       "id": "all",
@@ -395,43 +395,6 @@
       "starts_at": "",
       "first_seen": "2026-08-22",
       "image": "images/deals/morganfield-s-1-for-1-angus-ribeye-at-suntec-till-30-aug-202.jpg"
-    },
-    {
-      "id": "fairprice-ice-cream-deals-50-off-nz-natural-41-off-h-agen-da",
-      "title": "FairPrice Ice Cream Deals 50% Off NZ Natural & 41% Off Häagen-Dazs Until 26 Aug 2026",
-      "store": "FairPrice",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "FAIRPRICE"
-        },
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Cool down with ice cream bargains",
-      "expiry": "Ends 26 Aug",
-      "heat": 125,
-      "url": "https://singpromos.com/dining-restaurants-food/fairprice-ice-cream-deals-50-off-nz-natural-41-off-haagen-dazs-until-26-aug-2026-305618/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/fairprice-ice-cream-deals-50-off-nz-natural-41-off-haagen-dazs-until-26-aug-2026-305618/"
-      },
-      "brand": "FairPrice",
-      "expires_at": "2026-08-26",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-21",
-      "image": "images/deals/fairprice-ice-cream-deals-50-off-nz-natural-41-off-h-agen-da.jpg"
     },
     {
       "id": "starbucks-s-pore-is-bringing-back-the-mofusand-starbucks-col",
