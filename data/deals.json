@@ -272,7 +272,8 @@
       "upcoming": true,
       "starts_at": "2026-08-29",
       "first_seen": "2026-08-27",
-      "image": "images/deals/dbs-paylah-3-cashback-promotion-returns-every-saturday-from-.jpg"
+      "image": "images/deals/dbs-paylah-3-cashback-promotion-returns-every-saturday-from-.jpg",
+      "status": "claimed"
     },
     {
       "id": "icbc-singapore-fresh-funds-promo-fd-offers-up-to-1-60-p-a-fr",
