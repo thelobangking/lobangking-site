@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29",
+  "updated": "2026-08-30",
   "categories": [
     {
       "id": "all",
@@ -683,82 +683,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-27"
-    },
-    {
-      "id": "kenangan-coffee-s-pore-buy-1-get-1-free-coffee-payday-promo-",
-      "title": "Kenangan Coffee S’pore Buy 1 Get 1 FREE Coffee Payday Promo from 27-29 Aug 2026",
-      "store": "Kenangan Coffee",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "An easy way to stretch the coffee budget",
-      "expiry": "Ends 29 Aug",
-      "heat": 90,
-      "url": "https://singpromos.com/dining-restaurants-food/kenangan-coffee-spore-buy-1-get-1-free-coffee-payday-promo-from-27-29-aug-2026-305796/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/kenangan-coffee-spore-buy-1-get-1-free-coffee-payday-promo-from-27-29-aug-2026-305796/"
-      },
-      "expires_at": "2026-08-29",
-      "upcoming": false,
-      "starts_at": "2026-08-27",
-      "first_seen": "2026-07-22",
-      "image": "images/deals/kenangan-coffee-s-pore-buy-1-get-1-free-coffee-payday-promo-.jpg"
-    },
-    {
-      "id": "starbucks-singapore-has-buy-1-get-1-free-venti-drinks-includ",
-      "title": "Starbucks Singapore Has Buy 1 Get 1 FREE Venti Drinks Including Matcha Beverages from June 8 to 11 - Great Deals Singapo",
-      "store": "Starbucks",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "STARBUCKS"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Starbucks Singapore Has Buy 1 Get 1 FREE Venti Drinks Including Matcha Beverages from June 8 to 11 Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR01zYzM3NDdGQUxjdV8wWmF4QnJONmk0eDZkMnRQQ0hZLTJmd1JJVTVwWEd5cnZaRFlRQkRWeVV4LUVnNjJIamZVN3E3cURNdUhUTklVR3ZpZm4tUXdvNEljOE5iUUJBOHVLVHk3ZTFVTzNpTXZFUWhKX1o4SDMtMjNmY2p2dF9I?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR01zYzM3NDdGQUxjdV8wWmF4QnJONmk0eDZkMnRQQ0hZLTJmd1JJVTVwWEd5cnZaRFlRQkRWeVV4LUVnNjJIamZVN3E3cURNdUhUTklVR3ZpZm4tUXdvNEljOE5iUUJBOHVLVHk3ZTFVTzNpTXZFUWhKX1o4SDMtMjNmY2p2dF9I?oc=5"
-      },
-      "brand": "Starbucks",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-15"
     },
     {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
