@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30",
+  "updated": "2026-08-31",
   "categories": [
     {
       "id": "all",
@@ -115,7 +115,6 @@
   "brands_today": [
     "Best Denki",
     "Burger King",
-    "Cold Storage",
     "Cotton On",
     "Courts",
     "Decathlon",
@@ -131,39 +130,6 @@
     "Subway"
   ],
   "deals": [
-    {
-      "id": "mr-bean-1-for-1-soy-drinks-one-day-treat-on-30-aug-2026",
-      "title": "Mr Bean 1-for-1 Soy Drinks One-Day Treat on 30 Aug 2026",
-      "store": "Mr Bean 1-for-1 Soy",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Pair up for a one-day Mr Bean soy drink treat",
-      "expiry": "Ends 30 Aug",
-      "heat": 135,
-      "url": "https://singpromos.com/dining-restaurants-food/mr-bean-1-for-1-soy-drinks-one-day-treat-on-30-aug-2026-305887/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mr-bean-1-for-1-soy-drinks-one-day-treat-on-30-aug-2026-305887/"
-      },
-      "expires_at": "2026-08-30",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-30",
-      "image": "images/deals/mr-bean-1-for-1-soy-drinks-one-day-treat-on-30-aug-2026.jpg",
-      "spotlight": true
-    },
     {
       "id": "burger-king-singapore-offering-1-for-1-grogu-s-bounty-crispy",
       "title": "Burger King Singapore Offering 1-FOR-1 Grogu’s Bounty Crispy Chicken Burgers at $6.50 Till June 7 - Great Deals Singapor",
@@ -198,7 +164,8 @@
       "expires_at": "",
       "upcoming": false,
       "starts_at": "",
-      "first_seen": "2026-08-30"
+      "first_seen": "2026-08-30",
+      "spotlight": true
     },
     {
       "id": "sheng-siong-housebrand-super-sale-frozen-deals-until-31-aug-",
@@ -298,70 +265,6 @@
       "image": "images/deals/seoul-garden-s-pore-two-gentlemen-dine-free-with-two-paying-.jpg"
     },
     {
-      "id": "7-eleven-s-pore-47-off-magnum-stickbar-more-4-day-specials-t",
-      "title": "7-Eleven S’pore 47% OFF Magnum Stickbar & More 4-Day Specials Till 30 Aug 2026",
-      "store": "7-Eleven",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "47% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Magnum ice cream, Ferrero Rocher, noodles and more",
-      "expiry": "Ends 30 Aug",
-      "heat": 105,
-      "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-47-off-magnum-stickbar-more-4-day-specials-till-30-aug-2026-305822/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-47-off-magnum-stickbar-more-4-day-specials-till-30-aug-2026-305822/"
-      },
-      "expires_at": "2026-08-30",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-28",
-      "image": "images/deals/7-eleven-s-pore-47-off-magnum-stickbar-more-4-day-specials-t.jpg"
-    },
-    {
-      "id": "key-power-sports-fitness-warehouse-sale-until-30-august-2026",
-      "title": "Key Power Sports & Fitness Warehouse Sale until 30 August 2026",
-      "store": "Key Power Sports &",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Score deals on running, yoga, swim, fitness and compression gear",
-      "expiry": "Ends 30 Aug",
-      "heat": 90,
-      "url": "https://singpromos.com/warehouse-sales/key-power-sports-fitness-warehouse-sale-until-30-august-2026-305842/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/warehouse-sales/key-power-sports-fitness-warehouse-sale-until-30-august-2026-305842/"
-      },
-      "expires_at": "2026-08-30",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-28",
-      "image": "images/deals/key-power-sports-fitness-warehouse-sale-until-30-august-2026.jpg"
-    },
-    {
       "id": "up-to-70-off-with-sheng-siong-s-cdc-voucher-promo-till-22-ju",
       "title": "Up to 70% off with Sheng Siong’s CDC Voucher Promo till 22 Jun - SETHLUI.com",
       "store": "Sheng Siong",
@@ -433,47 +336,6 @@
       "starts_at": "",
       "first_seen": "2026-08-27",
       "image": "images/deals/fairprice-50-off-bulla-crunch-stickbars-ice-cream-link-membe.jpg"
-    },
-    {
-      "id": "cold-storage-1-for-1-kinder-ice-cream-stick-cone-more-yuu-me",
-      "title": "Cold Storage 1-for-1 Kinder Ice Cream Stick / Cone & More yuu Members Specials till 30 Aug 2026",
-      "store": "Cold Storage",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "COLD STORAGE"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Buy one get one free Kinder ice cream and more yuu member savings",
-      "expiry": "Ends 30 Aug",
-      "heat": 130,
-      "url": "https://singpromos.com/dining-restaurants-food/cold-storage-1-for-1-kinder-ice-cream-stick-cone-more-yuu-members-specials-till-30-aug-2026-305787/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/cold-storage-1-for-1-kinder-ice-cream-stick-cone-more-yuu-members-specials-till-30-aug-2026-305787/"
-      },
-      "brand": "Cold Storage",
-      "expires_at": "2026-08-30",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-27",
-      "image": "images/deals/cold-storage-1-for-1-kinder-ice-cream-stick-cone-more-yuu-me.jpg"
     },
     {
       "id": "unity-pharmacy-buy-1-get-1-deals-till-2-sep-2026",
