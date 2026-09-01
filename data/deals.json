@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31",
+  "updated": "2026-09-01",
   "categories": [
     {
       "id": "all",
@@ -123,7 +123,6 @@
     "KFC",
     "Muji",
     "Nike",
-    "Orchard Hotel",
     "Sephora",
     "Sheng Siong",
     "Singapore Zoo",
@@ -168,71 +167,6 @@
       "starts_at": "",
       "first_seen": "2026-08-31",
       "spotlight": true
-    },
-    {
-      "id": "sheng-siong-housebrand-super-sale-frozen-deals-until-31-aug-",
-      "title": "Sheng Siong Housebrand Super Sale & Frozen Deals Until 31 Aug 2026",
-      "store": "Sheng Siong",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SHENG SIONG"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Save up to 54% on housebrand groceries, frozen favourites and household essentials while stocks last.",
-      "expiry": "Ends 31 Aug",
-      "heat": 145,
-      "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-housebrand-super-sale-frozen-deals-until-31-aug-2026-305864/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-housebrand-super-sale-frozen-deals-until-31-aug-2026-305864/"
-      },
-      "brand": "Sheng Siong",
-      "expires_at": "2026-08-31",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-28",
-      "image": "images/deals/sheng-siong-housebrand-super-sale-frozen-deals-until-31-aug-.jpg"
-    },
-    {
-      "id": "baskin-robbins-s-pore-31-off-handpacked-ice-cream-from-29-31",
-      "title": "Baskin-Robbins S’pore 31% OFF Handpacked Ice Cream from 29 – 31 Aug 2026",
-      "store": "Baskin-Robbins",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "31% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Scoop up savings on handpacked tubs, with mix-and-match flavours for extra variety",
-      "expiry": "Ends 31 Aug",
-      "heat": 130,
-      "url": "https://singpromos.com/dining-restaurants-food/baskin-robbins-spore-31-off-handpacked-ice-cream-from-29-31-aug-2026-305774/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/baskin-robbins-spore-31-off-handpacked-ice-cream-from-29-31-aug-2026-305774/"
-      },
-      "expires_at": "2026-08-31",
-      "upcoming": false,
-      "starts_at": "2026-08-29",
-      "first_seen": "2026-08-28",
-      "image": "images/deals/baskin-robbins-s-pore-31-off-handpacked-ice-cream-from-29-31.jpg"
     },
     {
       "id": "seoul-garden-s-pore-two-gentlemen-dine-free-with-two-paying-",
@@ -441,38 +375,6 @@
       "first_seen": "2026-08-27"
     },
     {
-      "id": "icbc-singapore-fresh-funds-promo-fd-offers-up-to-1-60-p-a-fr",
-      "title": "ICBC Singapore Fresh Funds Promo FD offers up to 1.60% p.a. from 26 Aug 2026",
-      "store": "ICBC",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Fresh funds can earn up to 1.60% p.a., with e-banking placements starting from S$500.",
-      "expiry": "Ongoing",
-      "heat": 85,
-      "url": "https://singpromos.com/banks-credit-cards/icbc-singapore-fresh-funds-promo-fd-offers-up-to-1-60-p-a-from-26-aug-2026-305781/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/icbc-singapore-fresh-funds-promo-fd-offers-up-to-1-60-p-a-from-26-aug-2026-305781/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-08-26",
-      "first_seen": "2026-08-27",
-      "image": "images/deals/icbc-singapore-fresh-funds-promo-fd-offers-up-to-1-60-p-a-fr.jpg"
-    },
-    {
       "id": "31-best-pickleball-courts-in-singapore-free-courts-places-fr",
       "title": "31 Best Pickleball Courts In Singapore (+ Free Courts & Places From $3.30/Hour!) - Sassy Mama Singapore",
       "store": "Courts",
@@ -615,38 +517,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-08-09"
-    },
-    {
-      "id": "standard-chartered-s-pore-6-month-sgd-time-deposit-offers-up",
-      "title": "Standard Chartered S’pore 6-Month SGD Time Deposit Offers Up To 2% p.a. from 28 Aug 2026",
-      "store": "Standard Chartered",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Earn up to 2% p.a. on fresh SGD funds with a six-month placement from S$25,000.",
-      "expiry": "Ongoing",
-      "heat": 115,
-      "url": "https://singpromos.com/banks-credit-cards/standard-chartered-spore-6-month-sgd-time-deposit-offers-up-to-2-p-a-from-28-aug-2026-305876/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/standard-chartered-spore-6-month-sgd-time-deposit-offers-up-to-2-p-a-from-28-aug-2026-305876/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-08-28",
-      "first_seen": "2026-08-05",
-      "image": "images/deals/standard-chartered-s-pore-6-month-sgd-time-deposit-offers-up.jpg"
     },
     {
       "id": "starbucks-singapore-brings-back-buy-one-get-one-free-venti-d",
@@ -964,39 +834,6 @@
       "expires_at": "",
       "upcoming": false,
       "starts_at": ""
-    },
-    {
-      "id": "orchard-hotel-nationalday-drinks",
-      "title": "Local-inspired drinks from $6.10",
-      "store": "Orchard Hotel Singapore",
-      "brand": "Orchard Hotel",
-      "categories": [
-        "food"
-      ],
-      "icon": "🥂",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "FROM $6.10"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Available through August"
-      },
-      "desc": "Celebrate National Day at Orchard Hotel Singapore with a series of local-inspired drinks priced from $6.10 all through August — a nostalgic, wallet-friendly way to toast SG61.",
-      "expiry": "Aug 2026",
-      "expires_at": "",
-      "starts_at": "2026-08-01",
-      "heat": 195,
-      "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/",
-      "source": {
-        "name": "EverydayOnSales",
-        "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/"
-      },
-      "image": "images/up-orchard-hotel.jpg",
-      "first_seen": "2026-07-05",
-      "upcoming": true
     }
   ]
 }
