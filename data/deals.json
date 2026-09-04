@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03",
+  "updated": "2026-09-04",
   "categories": [
     {
       "id": "all",
@@ -295,38 +295,6 @@
       "image": "images/deals/ihg-hotels-resorts-stay-3-pay-2-premium-room-suite-promo-til.jpg"
     },
     {
-      "id": "guzman-y-gomez-gyg-s-pore-3-u-p-7-brekkie-burrito-deal-on-3-",
-      "title": "Guzman y Gomez (GYG) S’pore $3 (U.P. $7) Brekkie Burrito Deal on 3 Sep 2026",
-      "store": "Guzman y Gomez (GYG)",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Grab a hearty GYG breakfast burrito for just $3",
-      "expiry": "Ends 3 Sep",
-      "heat": 95,
-      "url": "https://singpromos.com/dining-restaurants-food/guzman-y-gomez-gyg-spore-3-u-p-7-brekkie-burrito-deal-on-3-sep-2026-305901/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/guzman-y-gomez-gyg-spore-3-u-p-7-brekkie-burrito-deal-on-3-sep-2026-305901/"
-      },
-      "expires_at": "2026-09-03",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-03",
-      "image": "images/deals/guzman-y-gomez-gyg-s-pore-3-u-p-7-brekkie-burrito-deal-on-3-.jpg"
-    },
-    {
       "id": "sheng-siong-giving-free-tubs-of-h-agen-dazs-ice-cream-at-som",
       "title": "Sheng Siong giving free tubs of Häagen-Dazs ice-cream at some outlets - Mothership",
       "store": "Sheng Siong",
@@ -567,38 +535,6 @@
       "starts_at": "",
       "first_seen": "2026-09-02",
       "image": "images/deals/cimb-s-pore-earn-up-to-2-58-p-a-on-fresh-funds-till-30-sep-2.jpg"
-    },
-    {
-      "id": "hokkaido-baked-cheese-tart-1-for-1-original-cheese-tarts-on-",
-      "title": "Hokkaido Baked Cheese Tart 1-for-1 Original Cheese Tarts on 2 & 3 Sep 2026",
-      "store": "Hokkaido Baked Cheese Tart",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Score two Original Cheese Tarts for the price of one",
-      "expiry": "Ends 3 Sep",
-      "heat": 75,
-      "url": "https://singpromos.com/dining-restaurants-food/hokkaido-baked-cheese-tart-1-for-1-original-cheese-tarts-on-2-3-sep-2026-305809/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/hokkaido-baked-cheese-tart-1-for-1-original-cheese-tarts-on-2-3-sep-2026-305809/"
-      },
-      "expires_at": "2026-09-03",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-02",
-      "image": "images/deals/hokkaido-baked-cheese-tart-1-for-1-original-cheese-tarts-on-.jpg"
     },
     {
       "id": "chagee-singapore-unveils-4-new-matcha-drinks-in-le-petit-pri",
