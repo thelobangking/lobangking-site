@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "categories": [
     {
       "id": "all",
@@ -113,7 +113,6 @@
     "Trip.com"
   ],
   "brands_today": [
-    "Apple",
     "Chagee",
     "Cold Storage",
     "Cotton On",
@@ -235,38 +234,6 @@
       "starts_at": "2026-09-02",
       "first_seen": "2026-09-04",
       "image": "images/deals/subway-s-pore-new-breakfast-wraps-from-just-3-90-from-2-sep-.jpg"
-    },
-    {
-      "id": "4fingers-s-pore-s-4-wingettes-drumettes-promo-on-4-sep-2026",
-      "title": "4Fingers S’pore S$4 Wingettes & Drumettes Promo on 4 Sep 2026",
-      "store": "4Fingers",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Score four crispy Korean-style chicken pieces for only S$4",
-      "expiry": "Ends 4 Sep",
-      "heat": 110,
-      "url": "https://singpromos.com/dining-restaurants-food/4fingers-spore-s4-wingettes-drumettes-promo-on-4-sep-2026-306120/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/4fingers-spore-s4-wingettes-drumettes-promo-on-4-sep-2026-306120/"
-      },
-      "expires_at": "2026-09-04",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-04",
-      "image": "images/deals/4fingers-s-pore-s-4-wingettes-drumettes-promo-on-4-sep-2026.jpg"
     },
     {
       "id": "starbucks-s-12-90-voucher-pack-includes-free-tall-drinks-1-f",
@@ -782,42 +749,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-27"
-    },
-    {
-      "id": "apple-s-back-to-school-2026-promotion-offers-a-free-pack-of-",
-      "title": "Apple’s Back to School 2026 promotion offers a free pack of AirTags with eligible Macs and iPads - HardwareZone",
-      "store": "Apple",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "💻",
-      "badges": [
-        {
-          "type": "new",
-          "label": "APPLE"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Apple’s Back to School 2026 promotion offers a free pack of AirTags with eligible Macs and iPads HardwareZone",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQamJpWGFRUy1NNmdyZkJybzhZcmVDYmRFa0xfZExnR1hOMlBrVzNOSG9CYThhbHBSM2VLLUY4d2xYbzg2TUFJQTJmRkNWN2xWejhTc1lnYkhELWZheWdBX2RrZVpQUkthM2V2UmJFbGpwSmlqMHJoVVV6TVF1Wkt3YXFEcHllZjBsc0FxdjZjaG15X2ptTzRJ?oc=5",
-      "source": {
-        "name": "HardwareZone",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQamJpWGFRUy1NNmdyZkJybzhZcmVDYmRFa0xfZExnR1hOMlBrVzNOSG9CYThhbHBSM2VLLUY4d2xYbzg2TUFJQTJmRkNWN2xWejhTc1lnYkhELWZheWdBX2RrZVpQUkthM2V2UmJFbGpwSmlqMHJoVVV6TVF1Wkt3YXFEcHllZjBsc0FxdjZjaG15X2ptTzRJ?oc=5"
-      },
-      "brand": "Apple",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-21"
     },
     {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
