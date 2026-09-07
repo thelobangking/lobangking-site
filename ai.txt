@@ -64,9 +64,12 @@ Disallow: /
 # - DeepSeekBot
 # - Devin
 # - Diffbot
+# - Diffbot-User
+# - DoubaoBot
 # - DuckAssistBot
 # - Echobot Bot
 # - EchoboxBot
+# - ERNIEBot
 # - ExaBot
 # - ExaSearchBot
 # - FacebookBot
@@ -99,7 +102,9 @@ Disallow: /
 # - ISSCyberRiskCrawler
 # - kagi-fetcher
 # - Kangaroo Bot
+# - Kimi-SearchBot
 # - Kimi-User
+# - KimiBot
 # - KlaviyoAIBot
 # - KunatoCrawler
 # - laion-huggingface-processor
@@ -111,11 +116,13 @@ Disallow: /
 # - LinkupBot
 # - magpie-crawler
 # - Manus-User
-# - Meta-ExternalAgent
 # - meta-externalagent
+# - Meta-ExternalAgent
 # - Meta-ExternalFetcher
 # - meta-externalfetcher
 # - meta-webindexer
+# - MistralAI-Index
+# - MistralAI-Training
 # - MistralAI-User
 # - MistralAI-User/1.0
 # - Mozilla-Tabstack
@@ -125,6 +132,7 @@ Disallow: /
 # - newsai
 # - NotebookLM
 # - NovaAct
+# - OAI-AdsBot
 # - OAI-SearchBot
 # - omgili
 # - omgilibot
@@ -145,6 +153,7 @@ Disallow: /
 # - QueritBot
 # - QuillBot
 # - quillbot.com
+# - QwenBot
 # - Reflectionbot
 # - SBIntuitionsBot
 # - Scrapy
