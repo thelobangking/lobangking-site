@@ -167,7 +167,8 @@
       "starts_at": "",
       "first_seen": "2026-09-08",
       "image": "images/deals/starbucks-s-pore-25-off-storewide-voucher-till-13-sep-2026.jpg",
-      "spotlight": true
+      "spotlight": true,
+      "status": "claimed"
     },
     {
       "id": "burger-king-s-pore-dragon-ball-super-king-jr-meal-toys-from-",
@@ -200,7 +201,8 @@
       "upcoming": false,
       "starts_at": "2026-09-07",
       "first_seen": "2026-09-08",
-      "image": "images/deals/burger-king-s-pore-dragon-ball-super-king-jr-meal-toys-from-.jpg"
+      "image": "images/deals/burger-king-s-pore-dragon-ball-super-king-jr-meal-toys-from-.jpg",
+      "status": "claimed"
     },
     {
       "id": "puma-singapore-9-9-sale-up-to-50-off-over-700-styles-until-1",
@@ -232,7 +234,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-08",
-      "image": "images/deals/puma-singapore-9-9-sale-up-to-50-off-over-700-styles-until-1.jpg"
+      "image": "images/deals/puma-singapore-9-9-sale-up-to-50-off-over-700-styles-until-1.jpg",
+      "status": "claimed"
     },
     {
       "id": "dbs-posb-cardholders-get-s-50-off-sia-return-flights-from-8-",
@@ -264,7 +267,8 @@
       "upcoming": false,
       "starts_at": "2026-09-08",
       "first_seen": "2026-09-08",
-      "image": "images/deals/dbs-posb-cardholders-get-s-50-off-sia-return-flights-from-8-.jpg"
+      "image": "images/deals/dbs-posb-cardholders-get-s-50-off-sia-return-flights-from-8-.jpg",
+      "status": "claimed"
     },
     {
       "id": "pizza-hut-sg-all-you-can-eat-buffet-returns-with-unlimited-p",
@@ -296,7 +300,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-08",
-      "image": "images/deals/pizza-hut-sg-all-you-can-eat-buffet-returns-with-unlimited-p.jpg"
+      "image": "images/deals/pizza-hut-sg-all-you-can-eat-buffet-returns-with-unlimited-p.jpg",
+      "status": "claimed"
     },
     {
       "id": "burger-king-singapore-launches-dragon-ball-super-toys-with-k",
@@ -431,7 +436,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-07",
-      "image": "images/deals/kfc-s-pore-curry-twister-value-meal-at-just-5-50-usual-6-80-.jpg"
+      "image": "images/deals/kfc-s-pore-curry-twister-value-meal-at-just-5-50-usual-6-80-.jpg",
+      "status": "claimed"
     },
     {
       "id": "hostinger-ai-builder-idea-to-live-website-in-minutes-start-f",
@@ -463,7 +469,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-07",
-      "image": "images/deals/hostinger-ai-builder-idea-to-live-website-in-minutes-start-f.jpg"
+      "image": "images/deals/hostinger-ai-builder-idea-to-live-website-in-minutes-start-f.jpg",
+      "status": "claimed"
     },
     {
       "id": "crocs-singapore-9-9-flash-sale-30-off-almost-everything-till",
@@ -495,7 +502,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-07",
-      "image": "images/deals/crocs-singapore-9-9-flash-sale-30-off-almost-everything-till.jpg"
+      "image": "images/deals/crocs-singapore-9-9-flash-sale-30-off-almost-everything-till.jpg",
+      "status": "claimed"
     },
     {
       "id": "mcdonald-s-free-mini-cones-are-back-for-the-school-holidays-",
@@ -568,7 +576,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-06",
-      "image": "images/deals/mcdonald-s-s-pore-free-mini-cones-for-kids-till-13-sep-2026.jpg"
+      "image": "images/deals/mcdonald-s-s-pore-free-mini-cones-for-kids-till-13-sep-2026.jpg",
+      "status": "claimed"
     },
     {
       "id": "mcdonald-s-singapore-is-giving-kids-free-mini-cones-during-t",
