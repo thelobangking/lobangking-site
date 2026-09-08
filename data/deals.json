@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07",
+  "updated": "2026-09-08",
   "categories": [
     {
       "id": "all",
@@ -434,47 +434,6 @@
       "starts_at": "2026-09-04",
       "first_seen": "2026-09-06",
       "image": "images/deals/hl-bank-s-pore-up-to-2-p-a-fixed-deposit-promo-rates-from-4-.jpg"
-    },
-    {
-      "id": "subway-singapore-buy-1-breakfast-wrap-coffee-set-get-1-wrap-",
-      "title": "Subway Singapore Buy 1 Breakfast Wrap & Coffee Set, Get 1 Wrap FREE on 7 Sep 2026",
-      "store": "Subway",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SUBWAY"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Wake up to a tasty breakfast deal",
-      "expiry": "Ends 7 Sep",
-      "heat": 135,
-      "url": "https://singpromos.com/dining-restaurants-food/subway-singapore-buy-1-breakfast-wrap-coffee-set-get-1-wrap-free-on-7-sep-2026-306136/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/subway-singapore-buy-1-breakfast-wrap-coffee-set-get-1-wrap-free-on-7-sep-2026-306136/"
-      },
-      "brand": "Subway",
-      "expires_at": "2026-09-07",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-05",
-      "image": "images/deals/subway-singapore-buy-1-breakfast-wrap-coffee-set-get-1-wrap-.jpg"
     },
     {
       "id": "subway-singapore-offers-1-for-1-breakfast-wraps-with-any-cof",
