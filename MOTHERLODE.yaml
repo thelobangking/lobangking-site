@@ -201,6 +201,6 @@ inventory:
     js: 11
     scripts: 22
   generated:
-    per_deal_pages: 30
-    category_pages: 8
+    per_deal_pages: 31
+    category_pages: 7
     history_snapshots: 60
