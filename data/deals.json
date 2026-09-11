@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10",
+  "updated": "2026-09-11",
   "categories": [
     {
       "id": "all",
@@ -114,7 +114,6 @@
   ],
   "brands_today": [
     "4Fingers",
-    "Adidas",
     "BEST Denki",
     "Best Denki",
     "Cold Storage",
@@ -368,42 +367,6 @@
       "image": "images/deals/kaws-universe-arrives-at-uniqlo-singapore-with-t-shirts-swea.jpg"
     },
     {
-      "id": "decathlon-s-9-9-smashing-sale-ends-10-sep-up-to-70-off-but-t",
-      "title": "Decathlon's 9.9 Smashing Sale Ends 10 Sep: Up to 70% Off, But the Free Delivery in the Banner Is Worth $2.90 - missloban",
-      "store": "Decathlon",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "DECATHLON"
-        },
-        {
-          "type": "discount",
-          "label": "70% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Decathlon's 9.9 Smashing Sale Ends 10 Sep: Up to 70% Off, But the Free Delivery in the Banner Is Worth $2.90 misslobang.com",
-      "expiry": "Ends 10 Sep",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwTEZVT3RYRW9GdmlMUmlhRThjQ2JHTUljeGJmcWpvY2x3UkdhM18xZ1dweXlFdWVaN2ZrUjVHcm5PYTVwcTExNTBvaVZjbEtQNG1sdWF4T01YdXNpcWQxcWx1S2ktaFcyM0N6ZF9ET281a3BDeE12RFVwSQ?oc=5",
-      "source": {
-        "name": "misslobang.com",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwTEZVT3RYRW9GdmlMUmlhRThjQ2JHTUljeGJmcWpvY2x3UkdhM18xZ1dweXlFdWVaN2ZrUjVHcm5PYTVwcTExNTBvaVZjbEtQNG1sdWF4T01YdXNpcWQxcWx1S2ktaFcyM0N6ZF9ET281a3BDeE12RFVwSQ?oc=5"
-      },
-      "brand": "Decathlon",
-      "expires_at": "2026-09-10",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-10"
-    },
-    {
       "id": "trip-com-s-pore-9-9-mega-sale-from-9-to-12-sep-2026",
       "title": "Trip.com S’pore 9.9 Mega Sale from 9 to 12 Sep 2026",
       "store": "Trip.com",
@@ -614,42 +577,6 @@
       "starts_at": "",
       "first_seen": "2026-09-05",
       "image": "images/deals/subway-singapore-offers-1-for-1-breakfast-wraps-with-any-cof.jpg"
-    },
-    {
-      "id": "adidas-9-9-sale-1-to-10-sep-2026-the-extra-30-comes-off-in-c",
-      "title": "adidas 9.9 Sale, 1 to 10 Sep 2026: The Extra 30% Comes Off In Cart, But Only On Stock That Is Already Marked Down, and 1",
-      "store": "Adidas",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "ADIDAS"
-        },
-        {
-          "type": "discount",
-          "label": "65% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "adidas 9.9 Sale, 1 to 10 Sep 2026: The Extra 30% Comes Off In Cart, But Only On Stock That Is Already Marked Down, and 152 Items Land at 65% Off misslobang.com",
-      "expiry": "Ends 10 Sep",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWU9oMmVjdmw3MDczTDdKdFNsR0k0UGt0dXZpZHRac2NjTExDM0JIX2VwalNEQU5CTkZpVU9YWThhbE9EVmdha3dKZEVaS1lvS052a2hnYjNzbVhzWUNGTEdOWWJOa2g0YVFjTFozV0JkMllwVndtVWFiRFo0eFhJQ0JPSXNZNTA?oc=5",
-      "source": {
-        "name": "misslobang.com",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWU9oMmVjdmw3MDczTDdKdFNsR0k0UGt0dXZpZHRac2NjTExDM0JIX2VwalNEQU5CTkZpVU9YWThhbE9EVmdha3dKZEVaS1lvS052a2hnYjNzbVhzWUNGTEdOWWJOa2g0YVFjTFozV0JkMllwVndtVWFiRFo0eFhJQ0JPSXNZNTA?oc=5"
-      },
-      "brand": "Adidas",
-      "expires_at": "2026-09-10",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-05"
     },
     {
       "id": "starbucks-s-12-90-voucher-pack-includes-free-tall-drinks-1-f",
