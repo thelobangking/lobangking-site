@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "categories": [
     {
       "id": "all",
@@ -206,38 +206,6 @@
       "starts_at": "",
       "first_seen": "2026-09-12",
       "image": "images/deals/lg-singapore-member-days-up-to-51-off-extra-3-off-till-30-se.jpg"
-    },
-    {
-      "id": "dunkin-sg-dozen-day-buy-9-donuts-get-3-free-on-12-sep-2026",
-      "title": "Dunkin’ SG Dozen Day Buy 9 Donuts, Get 3 Free on 12 Sep 2026",
-      "store": "Dunkin’",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Pick a dozen favourites while paying for just nine",
-      "expiry": "Ends 12 Sep",
-      "heat": 130,
-      "url": "https://singpromos.com/dining-restaurants-food/dunkin-sg-dozen-day-buy-9-donuts-get-3-free-on-12-sep-2026-306304/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/dunkin-sg-dozen-day-buy-9-donuts-get-3-free-on-12-sep-2026-306304/"
-      },
-      "expires_at": "2026-09-12",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-12",
-      "image": "images/deals/dunkin-sg-dozen-day-buy-9-donuts-get-3-free-on-12-sep-2026.jpg"
     },
     {
       "id": "burger-king-serves-up-a-spicy-duo-with-1-for-1-spicy-chicken",
