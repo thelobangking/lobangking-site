@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13",
+  "updated": "2026-09-14",
   "categories": [
     {
       "id": "all",
@@ -439,70 +439,6 @@
       "status": "claimed"
     },
     {
-      "id": "winter-time-winter-wear-luggage-expo-from-10-to-13-sep-2026",
-      "title": "Winter Time Winter Wear & Luggage Expo from 10 to 13 Sep 2026",
-      "store": "Winter Time Winter Wear",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "80% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Score up to 80% off winter wear, luggage and travel gear",
-      "expiry": "Ends 13 Sep",
-      "heat": 95,
-      "url": "https://singpromos.com/warehouse-sales/winter-time-winter-wear-luggage-expo-from-10-to-13-sep-2026-306402/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/warehouse-sales/winter-time-winter-wear-luggage-expo-from-10-to-13-sep-2026-306402/"
-      },
-      "expires_at": "2026-09-13",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-10",
-      "image": "images/deals/winter-time-winter-wear-luggage-expo-from-10-to-13-sep-2026.jpg"
-    },
-    {
-      "id": "the-famous-tai-seng-travel-goods-warehouse-sale-up-to-90-off",
-      "title": "The Famous Tai Seng Travel Goods Warehouse Sale Up to 90% Off from 10-13 Sep 2026",
-      "store": "The Famous Tai Seng",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "90% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Score luggage, backpacks and travel essentials",
-      "expiry": "Ends 13 Sep",
-      "heat": 90,
-      "url": "https://singpromos.com/warehouse-sales/the-famous-tai-seng-travel-goods-warehouse-sale-up-to-90-off-from-10-13-sep-2026-306383/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/warehouse-sales/the-famous-tai-seng-travel-goods-warehouse-sale-up-to-90-off-from-10-13-sep-2026-306383/"
-      },
-      "expires_at": "2026-09-13",
-      "upcoming": false,
-      "starts_at": "2026-09-10",
-      "first_seen": "2026-09-10",
-      "image": "images/deals/the-famous-tai-seng-travel-goods-warehouse-sale-up-to-90-off.jpg"
-    },
-    {
       "id": "muji-vivocity-reopens-with-refreshed-store-layout-featuring-",
       "title": "MUJI VivoCity reopens with refreshed store layout featuring expanded apparel areas for a fuss-free shopping experience -",
       "store": "Muji",
@@ -537,42 +473,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-08"
-    },
-    {
-      "id": "mcdonald-s-free-mini-cones-are-back-for-the-school-holidays-",
-      "title": "McDonald's Free Mini Cones Are Back for the School Holidays, at Every Outlet Until 13 September - 747live.bet",
-      "store": "McDonald's",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "McDonald's Free Mini Cones Are Back for the School Holidays, at Every Outlet Until 13 September 747live.bet",
-      "expiry": "Ends 13 Sep",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa093N1FKOFppT2dYc2tIaHJBdWxTbmNMcEEwakxjclAxOXdTRVd5R281WmdEenVTai15N3gybTh1WkNoOFdVak5BS19NVVUxSl9tal9DRUxOUHZvNW1uR0tvYUdjZ3V0dERlZkZuOGIyWm9iU3E2MUZjUkJtYWpwWXRJQ2ZUUERLcTBZ?oc=5",
-      "source": {
-        "name": "747live.bet",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa093N1FKOFppT2dYc2tIaHJBdWxTbmNMcEEwakxjclAxOXdTRVd5R281WmdEenVTai15N3gybTh1WkNoOFdVak5BS19NVVUxSl9tal9DRUxOUHZvNW1uR0tvYUdjZ3V0dERlZkZuOGIyWm9iU3E2MUZjUkJtYWpwWXRJQ2ZUUERLcTBZ?oc=5"
-      },
-      "brand": "McDonald's",
-      "expires_at": "2026-09-13",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-07"
     },
     {
       "id": "mcdonald-s-singapore-is-giving-kids-free-mini-cones-during-t",
