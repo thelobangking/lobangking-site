@@ -116,10 +116,10 @@ Disallow: /
 # - LinkupBot
 # - magpie-crawler
 # - Manus-User
-# - meta-externalagent
 # - Meta-ExternalAgent
-# - Meta-ExternalFetcher
+# - meta-externalagent
 # - meta-externalfetcher
+# - Meta-ExternalFetcher
 # - meta-webindexer
 # - MistralAI-Index
 # - MistralAI-Training
@@ -176,8 +176,8 @@ Disallow: /
 # - UseAI
 # - VelenPublicWebCrawler
 # - WARDBot
-# - Webzio-Extended
 # - webzio-extended
+# - Webzio-Extended
 # - wpbot
 # - WRTNBot
 # - YaK
