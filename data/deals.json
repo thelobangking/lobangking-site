@@ -176,8 +176,8 @@
       "upcoming": false,
       "starts_at": "2026-09-17",
       "first_seen": "2026-09-17",
-      "spotlight": true,
-      "image": "images/deals/mcdonald-s-s-pore-1-for-1-oreo-mcflurry-from-17-19-sep-2026.jpg"
+      "image": "images/deals/mcdonald-s-s-pore-1-for-1-oreo-mcflurry-from-17-19-sep-2026.jpg",
+      "spotlight": true
     },
     {
       "id": "kfc-s-pore-2-chicken-meals-for-10-returns-21-23-sep-2026",
