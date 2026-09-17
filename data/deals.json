@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "categories": [
     {
       "id": "all",
@@ -278,39 +278,6 @@
       "starts_at": "2026-09-21",
       "first_seen": "2026-09-15",
       "image": "images/deals/liho-s-pore-buy-2-get-1-free-matcha-muse-deal-from-14-17-and.jpg"
-    },
-    {
-      "id": "mcdonald-s-s-pore-6-mcspicy-meal-app-deal-until-16-sep-2026",
-      "title": "McDonald’s S’pore $6 McSpicy Meal App Deal until 16 Sep 2026",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Score a McSpicy meal with fries and a drink included in this limited app deal.",
-      "expiry": "Ends 16 Sep",
-      "heat": 130,
-      "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-6-mcspicy-meal-app-deal-until-16-sep-2026-306520/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-6-mcspicy-meal-app-deal-until-16-sep-2026-306520/"
-      },
-      "brand": "McDonald's",
-      "expires_at": "2026-09-16",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-15",
-      "image": "images/deals/mcdonald-s-s-pore-6-mcspicy-meal-app-deal-until-16-sep-2026.jpg"
     },
     {
       "id": "milo-s-pore-breaktime-plush-sling-bags-are-here-from-15-sep-",
