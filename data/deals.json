@@ -176,8 +176,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-19",
-      "spotlight": true,
-      "image": "images/deals/burger-king-s-pore-1-for-1-single-cheeseburgers-till-20-sep-.jpg"
+      "image": "images/deals/burger-king-s-pore-1-for-1-single-cheeseburgers-till-20-sep-.jpg",
+      "spotlight": true
     },
     {
       "id": "popeyes-s-pore-5pc-chicken-mania-bucket-at-10-90-from-21-sep",
