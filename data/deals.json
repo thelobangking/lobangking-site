@@ -175,8 +175,8 @@
       "upcoming": true,
       "starts_at": "2026-09-21",
       "first_seen": "2026-09-20",
-      "spotlight": true,
-      "image": "images/deals/starbucks-s-pore-1-for-1-venti-drinks-happy-hour-2-8pm-for-r.jpg"
+      "image": "images/deals/starbucks-s-pore-1-for-1-venti-drinks-happy-hour-2-8pm-for-r.jpg",
+      "spotlight": true
     },
     {
       "id": "mr-bean-buy-1-get-1-free-soy-drinks-one-day-treat-on-20-sep-",
