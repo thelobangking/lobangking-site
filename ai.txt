@@ -118,8 +118,8 @@ Disallow: /
 # - Manus-User
 # - Meta-ExternalAgent
 # - meta-externalagent
-# - meta-externalfetcher
 # - Meta-ExternalFetcher
+# - meta-externalfetcher
 # - meta-webindexer
 # - MistralAI-Index
 # - MistralAI-Training
@@ -176,8 +176,8 @@ Disallow: /
 # - UseAI
 # - VelenPublicWebCrawler
 # - WARDBot
-# - webzio-extended
 # - Webzio-Extended
+# - webzio-extended
 # - wpbot
 # - WRTNBot
 # - YaK
