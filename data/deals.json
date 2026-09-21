@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "categories": [
     {
       "id": "all",
@@ -116,7 +116,6 @@
     "4Fingers",
     "BEST Denki",
     "Best Denki",
-    "Burger King",
     "Cotton On",
     "Courts",
     "Decathlon",
@@ -179,38 +178,6 @@
       "spotlight": true
     },
     {
-      "id": "mr-bean-buy-1-get-1-free-soy-drinks-one-day-treat-on-20-sep-",
-      "title": "Mr Bean Buy-1-Get-1-FREE Soy Drinks One-Day Treat on 20 Sep 2026",
-      "store": "Mr Bean Buy-1-Get-1-FREE Soy",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Pair up for twice the soy drink goodness",
-      "expiry": "Ends 20 Sep",
-      "heat": 130,
-      "url": "https://singpromos.com/dining-restaurants-food/mr-bean-buy-1-get-1-free-soy-drinks-one-day-treat-on-20-sep-2026-306786/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mr-bean-buy-1-get-1-free-soy-drinks-one-day-treat-on-20-sep-2026-306786/"
-      },
-      "expires_at": "2026-09-20",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-20",
-      "image": "images/deals/mr-bean-buy-1-get-1-free-soy-drinks-one-day-treat-on-20-sep-.jpg"
-    },
-    {
       "id": "starbucks-singapore-is-offering-1-for-1-on-all-venti-sized-d",
       "title": "Starbucks Singapore Is Offering 1-FOR-1 On All Venti-Sized Drinks From September 21 to 24",
       "store": "Starbucks",
@@ -246,43 +213,6 @@
       "starts_at": "",
       "first_seen": "2026-09-20",
       "image": "images/deals/starbucks-singapore-is-offering-1-for-1-on-all-venti-sized-d.jpg"
-    },
-    {
-      "id": "burger-king-s-pore-1-for-1-single-cheeseburgers-till-20-sep-",
-      "title": "Burger King S’pore 1-for-1 Single Cheeseburgers Till 20 Sep 2026",
-      "store": "Burger King",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "BURGER KING"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Celebrate National Cheeseburger Day",
-      "expiry": "Ends 20 Sep",
-      "heat": 155,
-      "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-1-for-1-single-cheeseburgers-till-20-sep-2026-306749/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-1-for-1-single-cheeseburgers-till-20-sep-2026-306749/"
-      },
-      "brand": "Burger King",
-      "expires_at": "2026-09-20",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-19",
-      "image": "images/deals/burger-king-s-pore-1-for-1-single-cheeseburgers-till-20-sep-.jpg"
     },
     {
       "id": "popeyes-s-pore-5pc-chicken-mania-bucket-at-10-90-from-21-sep",
@@ -347,38 +277,6 @@
       "starts_at": "2026-09-19",
       "first_seen": "2026-09-19",
       "image": "images/deals/singfinance-fresh-fund-fixed-deposit-hits-1-8-p-a-from-19-se.jpg"
-    },
-    {
-      "id": "crocs-s-pore-30-off-almost-everything-flag-off-flash-sale-ti",
-      "title": "Crocs S’pore 30% Off Almost Everything Flag Off Flash Sale till 20 Sep 2026",
-      "store": "Crocs",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "30% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Wide range of Crocs favourites, from classic clogs to sandals and flips",
-      "expiry": "Ends 20 Sep",
-      "heat": 105,
-      "url": "https://singpromos.com/footwear/crocs-spore-30-off-almost-everything-flag-off-flash-sale-till-20-sep-2026-306737/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/footwear/crocs-spore-30-off-almost-everything-flag-off-flash-sale-till-20-sep-2026-306737/"
-      },
-      "expires_at": "2026-09-20",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-18",
-      "image": "images/deals/crocs-s-pore-30-off-almost-everything-flag-off-flash-sale-ti.jpg"
     },
     {
       "id": "fairprice-ice-cream-price-drop-save-up-to-33-until-30-sep-20",
@@ -479,38 +377,6 @@
       "image": "images/deals/sorella-lingerie-warehouse-sale-from-18-sep-2026.jpg"
     },
     {
-      "id": "7-eleven-s-pore-47-off-magnum-more-4-day-specials-till-20-se",
-      "title": "7-Eleven S’pore 47% Off Magnum & More 4-Day Specials Till 20 Sep 2026",
-      "store": "7-Eleven",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "47% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Save on snacks, treats, eggs, drinks and more",
-      "expiry": "Ends 20 Sep",
-      "heat": 90,
-      "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-47-off-magnum-more-4-day-specials-till-20-sep-2026-306696/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-47-off-magnum-more-4-day-specials-till-20-sep-2026-306696/"
-      },
-      "expires_at": "2026-09-20",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-18",
-      "image": "images/deals/7-eleven-s-pore-47-off-magnum-more-4-day-specials-till-20-se.jpg"
-    },
-    {
       "id": "fairprice-4-return-voucher-with-every-50-in-store-spend-retu",
       "title": "FairPrice $4 Return Voucher with every $50 in-store spend returns till 27 Sep 2026",
       "store": "FairPrice",
@@ -542,42 +408,6 @@
       "starts_at": "",
       "first_seen": "2026-09-18",
       "image": "images/deals/fairprice-4-return-voucher-with-every-50-in-store-spend-retu.jpg"
-    },
-    {
-      "id": "smeg-appliances-are-going-at-up-to-50-off-at-harvey-norman-s",
-      "title": "SMEG Appliances Are Going At Up To 50% Off At Harvey Norman’s Carpark Sale From 18–20 September - MoneyDigest",
-      "store": "Harvey Norman",
-      "categories": [
-        "home"
-      ],
-      "icon": "🏠",
-      "badges": [
-        {
-          "type": "new",
-          "label": "HARVEY NORMAN"
-        },
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "SMEG Appliances Are Going At Up To 50% Off At Harvey Norman’s Carpark Sale From 18–20 September MoneyDigest",
-      "expiry": "Ends 20 Sep",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMC1Oa3V6NFJndVdHRkxIQXdKdGRIMWNlQk4tOVBOY1RBOWpyazA2amxyZzk5WGw1bzNRbTc4UmRIQnd2OWJqRG93RDRoRUQ2Z1VTeGM0TUo0ZEkySjZyVUN3RE1GcEdVLVc5ajBsUU1FcUhnOXh6ZkYxR0dKNTZXWVo0VGlBZUl6alF0SEt3V21hek5vNzJlc1hMYXl2T0NHeEozZlY2OXoyMFA0MlJSOWs0aktyV0R6ZDBsa1hR?oc=5",
-      "source": {
-        "name": "MoneyDigest",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMC1Oa3V6NFJndVdHRkxIQXdKdGRIMWNlQk4tOVBOY1RBOWpyazA2amxyZzk5WGw1bzNRbTc4UmRIQnd2OWJqRG93RDRoRUQ2Z1VTeGM0TUo0ZEkySjZyVUN3RE1GcEdVLVc5ajBsUU1FcUhnOXh6ZkYxR0dKNTZXWVo0VGlBZUl6alF0SEt3V21hek5vNzJlc1hMYXl2T0NHeEozZlY2OXoyMFA0MlJSOWs0aktyV0R6ZDBsa1hR?oc=5"
-      },
-      "brand": "Harvey Norman",
-      "expires_at": "2026-09-20",
-      "upcoming": false,
-      "starts_at": "2026-09-18",
-      "first_seen": "2026-09-17"
     },
     {
       "id": "mcdonald-s-singapore-teams-up-with-foodpanda-for-1-for-1-dea",
