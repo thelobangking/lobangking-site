@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "categories": [
     {
       "id": "all",
@@ -448,43 +448,6 @@
       "starts_at": "2026-09-24",
       "first_seen": "2026-09-24",
       "image": "images/deals/mcdonald-s-s-pore-kids-free-vanilla-cone-be-our-guest-card-f.jpg"
-    },
-    {
-      "id": "mcdonald-s-s-pore-1-for-1-mcspicy-app-deal-until-25-sep-2026",
-      "title": "McDonald’s S’pore 1-for-1 McSpicy App Deal until 25 Sep 2026 (2pm-5pm daily)",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Grab two McSpicy burgers for the price of one",
-      "expiry": "Ends 25 Sep",
-      "heat": 125,
-      "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-1-for-1-mcspicy-app-deal-until-25-sep-2026-2pm-5pm-daily-306950/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-1-for-1-mcspicy-app-deal-until-25-sep-2026-2pm-5pm-daily-306950/"
-      },
-      "brand": "McDonald's",
-      "expires_at": "2026-09-25",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-24",
-      "image": "images/deals/mcdonald-s-s-pore-1-for-1-mcspicy-app-deal-until-25-sep-2026.jpg"
     },
     {
       "id": "mcdonald-s-sg-launching-new-bulgogi-burgers-bringing-back-he",
