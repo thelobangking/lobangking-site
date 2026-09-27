@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "categories": [
     {
       "id": "all",
@@ -207,39 +207,6 @@
       "starts_at": "",
       "first_seen": "2026-09-26",
       "image": "images/deals/luckin-coffee-s-pore-1-for-1-all-coffee-payday-deal-till-28-.jpg"
-    },
-    {
-      "id": "expired-mcdonald-s-singapore-12-chicken-mccrispy-6pc-app-dea",
-      "title": "(EXPIRED) McDonald’s Singapore $12 Chicken McCrispy® 6pc App Deal till 26 Sep 2026 3:45am",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Choose from Signature, Spicy or Mix flavours",
-      "expiry": "Ends 26 Sep",
-      "heat": 115,
-      "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-singapore-12-chicken-mccrispy-6pc-app-deal-till-26-sep-2026-345am-306977/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-singapore-12-chicken-mccrispy-6pc-app-deal-till-26-sep-2026-345am-306977/"
-      },
-      "brand": "McDonald's",
-      "expires_at": "2026-09-26",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-26",
-      "image": "images/deals/expired-mcdonald-s-singapore-12-chicken-mccrispy-6pc-app-dea.jpg"
     },
     {
       "id": "mcdonald-s-singapore-celebrates-children-s-day-with-free-van",
