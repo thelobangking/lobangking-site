@@ -189,7 +189,7 @@ rebuild_for_new_site:
 inventory:
   total_files: 257
   by_directory:
-    (root): 73
+    (root): 72
     .git: 30
     .github: 9
     .well-known: 1
@@ -197,10 +197,10 @@ inventory:
     data: 2
     fonts: 1
     history: 61
-    images: 43
+    images: 44
     js: 11
     scripts: 22
   generated:
-    per_deal_pages: 36
+    per_deal_pages: 35
     category_pages: 8
     history_snapshots: 60
