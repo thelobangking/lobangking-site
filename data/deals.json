@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "categories": [
     {
       "id": "all",
@@ -134,7 +134,6 @@
     "Punggol GRC",
     "REFASH",
     "SUSHIRO",
-    "Sasa",
     "Sephora",
     "Shihlin",
     "Starbucks",
@@ -583,42 +582,6 @@
       "starts_at": "",
       "first_seen": "2026-09-25",
       "image": "images/deals/giant-s-pore-selling-ben-jerry-s-at-3-for-25-more-weekly-dea.jpg"
-    },
-    {
-      "id": "sa-sa-skincare-suncare-sale-24-27-sep-2026-up-to-50-off-and-",
-      "title": "Sa Sa Skincare & Suncare Sale, 24-27 Sep 2026: Up to 50% Off, and the Best Sunscreen Buy Is Actually 67% Off - missloban",
-      "store": "Sasa",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SASA"
-        },
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Sa Sa Skincare & Suncare Sale, 24-27 Sep 2026: Up to 50% Off, and the Best Sunscreen Buy Is Actually 67% Off misslobang.com",
-      "expiry": "Ends 27 Sep",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNandHdEgxWE9qbW9xeHpwMGJrT01ZaDV5WVNTM3htUUVsd3NPUG1BU01ueWpDb1l6dGJGOVpwaktXOWtvZlNiSkplaDlXLU43LURWcjJFVGNJUkpEbUc1VUdqVHlFZUd2elFlN0xJV0V6Zm54RUtfSnpfUFRpd1dOZTFfMGM?oc=5",
-      "source": {
-        "name": "misslobang.com",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNandHdEgxWE9qbW9xeHpwMGJrT01ZaDV5WVNTM3htUUVsd3NPUG1BU01ueWpDb1l6dGJGOVpwaktXOWtvZlNiSkplaDlXLU43LURWcjJFVGNJUkpEbUc1VUdqVHlFZUd2elFlN0xJV0V6Zm54RUtfSnpfUFRpd1dOZTFfMGM?oc=5"
-      },
-      "brand": "Sasa",
-      "expires_at": "2026-09-27",
-      "upcoming": false,
-      "starts_at": "2026-09-24",
-      "first_seen": "2026-09-25"
     },
     {
       "id": "mcdonald-s-s-pore-kids-free-vanilla-cone-be-our-guest-card-f",
