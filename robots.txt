@@ -8,8 +8,9 @@ Content-Signal: search=yes, ai-input=no, ai-train=no
 Allow: /
 Disallow: /privacy.html
 
-# --- AI / scraper crawlers (178): full block ---
+# --- AI / scraper crawlers (183): full block ---
 User-agent: AddSearchBot
+User-agent: AgentDataBot
 User-agent: AgentTimes
 User-agent: AI2Bot
 User-agent: AI2Bot-DeepResearchEval
@@ -35,6 +36,7 @@ User-agent: Awario
 User-agent: AzureAI-SearchBot
 User-agent: bedrockbot
 User-agent: bigsur.ai
+User-agent: BixelBot
 User-agent: Bravebot
 User-agent: Brightbot
 User-agent: Brightbot 1.0
@@ -51,6 +53,7 @@ User-agent: Claude-User
 User-agent: Claude-Web
 User-agent: ClaudeBot
 User-agent: Cloudflare-AutoRAG
+User-agent: CloudflareBrowserRenderingCrawler
 User-agent: CloudVertexBot
 User-agent: Code
 User-agent: cohere-ai
@@ -103,6 +106,7 @@ User-agent: img2dataset
 User-agent: ISSCyberRiskCrawler
 User-agent: kagi-fetcher
 User-agent: Kangaroo Bot
+User-agent: Kimi-Agent
 User-agent: Kimi-SearchBot
 User-agent: Kimi-User
 User-agent: KimiBot
@@ -149,6 +153,7 @@ User-agent: PetalBot
 User-agent: PhindBot
 User-agent: Poggio-Citations
 User-agent: Poseidon Research Crawler
+User-agent: qodercli
 User-agent: QualifiedBot
 User-agent: Querit-SearchBot
 User-agent: QueritBot
@@ -177,8 +182,8 @@ User-agent: TwinAgent
 User-agent: UseAI
 User-agent: VelenPublicWebCrawler
 User-agent: WARDBot
-User-agent: Webzio-Extended
 User-agent: webzio-extended
+User-agent: Webzio-Extended
 User-agent: wpbot
 User-agent: WRTNBot
 User-agent: YaK

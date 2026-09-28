@@ -9,6 +9,7 @@ Disallow: /
 
 # Explicitly named AI crawlers (also blocked in robots.txt):
 # - AddSearchBot
+# - AgentDataBot
 # - AgentTimes
 # - AI2Bot
 # - AI2Bot-DeepResearchEval
@@ -34,6 +35,7 @@ Disallow: /
 # - AzureAI-SearchBot
 # - bedrockbot
 # - bigsur.ai
+# - BixelBot
 # - Bravebot
 # - Brightbot
 # - Brightbot 1.0
@@ -50,6 +52,7 @@ Disallow: /
 # - Claude-Web
 # - ClaudeBot
 # - Cloudflare-AutoRAG
+# - CloudflareBrowserRenderingCrawler
 # - CloudVertexBot
 # - Code
 # - cohere-ai
@@ -102,6 +105,7 @@ Disallow: /
 # - ISSCyberRiskCrawler
 # - kagi-fetcher
 # - Kangaroo Bot
+# - Kimi-Agent
 # - Kimi-SearchBot
 # - Kimi-User
 # - KimiBot
@@ -148,6 +152,7 @@ Disallow: /
 # - PhindBot
 # - Poggio-Citations
 # - Poseidon Research Crawler
+# - qodercli
 # - QualifiedBot
 # - Querit-SearchBot
 # - QueritBot
@@ -176,8 +181,8 @@ Disallow: /
 # - UseAI
 # - VelenPublicWebCrawler
 # - WARDBot
-# - Webzio-Extended
 # - webzio-extended
+# - Webzio-Extended
 # - wpbot
 # - WRTNBot
 # - YaK
