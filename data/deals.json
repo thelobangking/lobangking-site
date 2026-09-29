@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-09-29",
   "categories": [
     {
       "id": "all",
@@ -180,39 +180,6 @@
       "first_seen": "2026-09-28",
       "image": "images/deals/starbucks-s-pore-20-off-merchandise-member-exclusive-from-28.jpg",
       "spotlight": true
-    },
-    {
-      "id": "kfc-s-pore-6-50-zinger-meal-app-deal-on-28-sep-2026",
-      "title": "KFC S’pore $6.50 Zinger Meal App Deal on 28 Sep 2026",
-      "store": "KFC",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "KFC"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Monday gets tastier with a Zinger Meal at just $6.50",
-      "expiry": "Ends 28 Sep",
-      "heat": 140,
-      "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-zinger-meal-app-deal-on-28-sep-2026-307069/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-zinger-meal-app-deal-on-28-sep-2026-307069/"
-      },
-      "brand": "KFC",
-      "expires_at": "2026-09-28",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-28",
-      "image": "images/deals/kfc-s-pore-6-50-zinger-meal-app-deal-on-28-sep-2026.jpg"
     },
     {
       "id": "lovethatbag-branded-bag-sale-at-amk-hub-1-000-bags-from-s-50",
@@ -445,38 +412,6 @@
       "starts_at": "",
       "first_seen": "2026-09-26",
       "image": "images/deals/gog-com-autumn-sale-drm-free-game-deals-end-7-oct-2026.jpg"
-    },
-    {
-      "id": "luckin-coffee-s-pore-1-for-1-all-coffee-payday-deal-till-28-",
-      "title": "Luckin Coffee S’pore 1-for-1 All Coffee Payday Deal Till 28 Sep 2026",
-      "store": "Luckin Coffee",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Payday coffee treat",
-      "expiry": "Ends 28 Sep",
-      "heat": 95,
-      "url": "https://singpromos.com/dining-restaurants-food/luckin-coffee-spore-1-for-1-all-coffee-payday-deal-till-28-sep-2026-307026/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/luckin-coffee-spore-1-for-1-all-coffee-payday-deal-till-28-sep-2026-307026/"
-      },
-      "expires_at": "2026-09-28",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-26",
-      "image": "images/deals/luckin-coffee-s-pore-1-for-1-all-coffee-payday-deal-till-28-.jpg"
     },
     {
       "id": "mcdonald-s-singapore-celebrates-children-s-day-with-free-van",
