@@ -219,7 +219,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-30",
-      "image": "images/deals/singapore-airlines-flight-deals-fr-s-198-for-travel-up-to-ma.jpg"
+      "image": "images/deals/singapore-airlines-flight-deals-fr-s-198-for-travel-up-to-ma.jpg",
+      "status": "claimed"
     },
     {
       "id": "icbc-singapore-fresh-funds-promo-fd-offers-up-to-1-75-p-a-fr",
@@ -1088,7 +1089,8 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg"
+      "image": "images/deals/challenger-ms365.jpg",
+      "status": "claimed"
     },
     {
       "id": "courts-get7",
