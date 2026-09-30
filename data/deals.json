@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "categories": [
     {
       "id": "all",
@@ -132,7 +132,6 @@
     "Punggol GRC",
     "REFASH",
     "SUSHIRO",
-    "Scoot",
     "Sephora",
     "Shihlin",
     "Singapore Airlines",
@@ -144,40 +143,6 @@
     "Zenyum"
   ],
   "deals": [
-    {
-      "id": "scoot-s-pore-one-day-sale-fares-from-s-80-on-29-sep-2026-onl",
-      "title": "Scoot S’pore One-Day Sale: Fares from S$80 on 29 Sep 2026 only",
-      "store": "Scoot",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SCOOT"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Score one-way fares from S$80 to more than 20 destinations",
-      "expiry": "Ends 29 Sep",
-      "heat": 155,
-      "url": "https://singpromos.com/airlines-flights/scoot-spore-one-day-sale-fares-from-s80-on-29-sep-2026-only-307145/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/airlines-flights/scoot-spore-one-day-sale-fares-from-s80-on-29-sep-2026-only-307145/"
-      },
-      "brand": "Scoot",
-      "expires_at": "2026-09-29",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-29",
-      "image": "images/deals/scoot-s-pore-one-day-sale-fares-from-s-80-on-29-sep-2026-onl.jpg",
-      "spotlight": true
-    },
     {
       "id": "mcdonald-s-s-pore-8-double-mcspicy-meal-deal-until-30-sep-20",
       "title": "McDonald’s S’pore $8 Double McSpicy Meal Deal until 30 Sep 2026",
@@ -209,7 +174,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-29",
-      "image": "images/deals/mcdonald-s-s-pore-8-double-mcspicy-meal-deal-until-30-sep-20.jpg"
+      "image": "images/deals/mcdonald-s-s-pore-8-double-mcspicy-meal-deal-until-30-sep-20.jpg",
+      "spotlight": true
     },
     {
       "id": "shell-singapore-v-power-at-fuelsave-98-price-from-2-4-9-11-o",
@@ -347,43 +313,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-29"
-    },
-    {
-      "id": "starbucks-s-pore-20-off-merchandise-member-exclusive-from-28",
-      "title": "Starbucks S’pore 20% Off Merchandise Member Exclusive from 28-29 Sep 2026",
-      "store": "Starbucks",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "STARBUCKS"
-        },
-        {
-          "type": "discount",
-          "label": "20% OFF"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Valid across all stores for two days only",
-      "expiry": "Ends 29 Sep",
-      "heat": 145,
-      "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-20-off-merchandise-member-exclusive-from-28-29-sep-2026-307081/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-20-off-merchandise-member-exclusive-from-28-29-sep-2026-307081/"
-      },
-      "brand": "Starbucks",
-      "expires_at": "2026-09-29",
-      "upcoming": false,
-      "starts_at": "2026-09-28",
-      "first_seen": "2026-09-28",
-      "image": "images/deals/starbucks-s-pore-20-off-merchandise-member-exclusive-from-28.jpg"
     },
     {
       "id": "lovethatbag-branded-bag-sale-at-amk-hub-1-000-bags-from-s-50",
