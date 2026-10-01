@@ -517,7 +517,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-30",
-      "image": "images/deals/singapore-airlines-flight-deals-fr-s-198-for-travel-up-to-ma.jpg"
+      "image": "images/deals/singapore-airlines-flight-deals-fr-s-198-for-travel-up-to-ma.jpg",
+      "status": "claimed"
     },
     {
       "id": "kids-get-to-build-their-own-meal-at-mcdonald-s-this-children",
@@ -1021,7 +1022,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1087,7 +1089,8 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg"
+      "image": "images/deals/challenger-ms365.jpg",
+      "status": "claimed"
     },
     {
       "id": "courts-get7",
