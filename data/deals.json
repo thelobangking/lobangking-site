@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "categories": [
     {
       "id": "all",
@@ -285,38 +285,6 @@
       "starts_at": "",
       "first_seen": "2026-10-02",
       "image": "images/deals/fairprice-30-eggs-at-s-4-95-1kg-frozen-chicken-at-s-2-50-unt.jpg"
-    },
-    {
-      "id": "updated-2-oct-2026-best-singapore-fixed-deposit-rates-and-sa",
-      "title": "(Updated 2 Oct 2026) Best Singapore Fixed Deposit Rates and Savings Accounts",
-      "store": "(Updated 2 Oct 2026) Best",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Secure your finances with low-risk bank savings and deposit options.",
-      "expiry": "Ends 2 Oct",
-      "heat": 105,
-      "url": "https://singpromos.com/banks-credit-cards/best-singapore-deposit-rates-fixed-deposit-time-deposit-incremental-balance-more-188806/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/best-singapore-deposit-rates-fixed-deposit-time-deposit-incremental-balance-more-188806/"
-      },
-      "expires_at": "2026-10-02",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-02",
-      "image": "images/deals/updated-2-oct-2026-best-singapore-fixed-deposit-rates-and-sa.jpg"
     },
     {
       "id": "108-matcha-saro-s-pore-selling-two-soft-serves-for-just-6-99",
@@ -731,42 +699,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-08-27"
-    },
-    {
-      "id": "massive-muji-clearance-sale-with-up-to-70-off-clothes-homewa",
-      "title": "MASSIVE MUJI CLEARANCE SALE WITH UP TO 70% OFF CLOTHES, HOMEWARE, BEDDING, FOOTWEAR & MORE AT JEWEL CHANGI AIRPORT! - sh",
-      "store": "Muji",
-      "categories": [
-        "home"
-      ],
-      "icon": "🏠",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MUJI"
-        },
-        {
-          "type": "discount",
-          "label": "70% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "MASSIVE MUJI CLEARANCE SALE WITH UP TO 70% OFF CLOTHES, HOMEWARE, BEDDING, FOOTWEAR & MORE AT JEWEL CHANGI AIRPORT! shout.sg",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSnUycEY2Q21xYmVSYWdabXprYjRtcGlWdkt2UzI2QVMtdEF2dDlQaTJKZ2hGS0EzbGFHNzBnQkNQVFJHS1dtWkNaWlk4TXd4aHZVWXJfVFZUWDhXa3J5YldPOE9hWWxwdU5xeXR4T3phMjdlWUFoOXNleUlabjlubHl6a2R5VmtmNFNTeXh4X1pVdUh1b1pNekVMaTVBZUg3VUdfTzBzOHRjNnhXSnpuUWtobG1LRkdWOG1aZVB6QjNYOFFPeTFRcFJB?oc=5",
-      "source": {
-        "name": "shout.sg",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSnUycEY2Q21xYmVSYWdabXprYjRtcGlWdkt2UzI2QVMtdEF2dDlQaTJKZ2hGS0EzbGFHNzBnQkNQVFJHS1dtWkNaWlk4TXd4aHZVWXJfVFZUWDhXa3J5YldPOE9hWWxwdU5xeXR4T3phMjdlWUFoOXNleUlabjlubHl6a2R5VmtmNFNTeXh4X1pVdUh1b1pNekVMaTVBZUg3VUdfTzBzOHRjNnhXSnpuUWtobG1LRkdWOG1aZVB6QjNYOFFPeTFRcFJB?oc=5"
-      },
-      "brand": "Muji",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-18"
     },
     {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
