@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "categories": [
     {
       "id": "all",
@@ -216,38 +216,6 @@
       "starts_at": "",
       "first_seen": "2026-10-03",
       "image": "images/deals/springleaf-prata-place-gives-away-2-free-plain-prata-on-6-oc.jpg"
-    },
-    {
-      "id": "guzman-y-gomez-s-pore-3-brekkie-burritos-on-3-oct-2026",
-      "title": "Guzman y Gomez S’pore $3 Brekkie Burritos on 3 Oct 2026",
-      "store": "Guzman y Gomez",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Start the morning with a hearty GYG Brekkie Burrito",
-      "expiry": "Ends 3 Oct",
-      "heat": 110,
-      "url": "https://singpromos.com/dining-restaurants-food/guzman-y-gomez-spore-3-brekkie-burritos-on-3-oct-2026-307185/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/guzman-y-gomez-spore-3-brekkie-burritos-on-3-oct-2026-307185/"
-      },
-      "expires_at": "2026-10-03",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-03",
-      "image": "images/deals/guzman-y-gomez-s-pore-3-brekkie-burritos-on-3-oct-2026.jpg"
     },
     {
       "id": "kfc-s-pore-most-anticipated-chicken-tuesday-returns-at-10-95",
