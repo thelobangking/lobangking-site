@@ -8,7 +8,7 @@ Content-Signal: search=yes, ai-input=no, ai-train=no
 Allow: /
 Disallow: /privacy.html
 
-# --- AI / scraper crawlers (183): full block ---
+# --- AI / scraper crawlers (184): full block ---
 User-agent: AddSearchBot
 User-agent: AgentDataBot
 User-agent: AgentTimes
@@ -106,6 +106,7 @@ User-agent: img2dataset
 User-agent: ISSCyberRiskCrawler
 User-agent: kagi-fetcher
 User-agent: Kangaroo Bot
+User-agent: KeenableBot
 User-agent: Kimi-Agent
 User-agent: Kimi-SearchBot
 User-agent: Kimi-User
@@ -121,10 +122,10 @@ User-agent: Linguee Bot
 User-agent: LinkupBot
 User-agent: magpie-crawler
 User-agent: Manus-User
-User-agent: Meta-ExternalAgent
 User-agent: meta-externalagent
-User-agent: Meta-ExternalFetcher
+User-agent: Meta-ExternalAgent
 User-agent: meta-externalfetcher
+User-agent: Meta-ExternalFetcher
 User-agent: meta-webindexer
 User-agent: MistralAI-Index
 User-agent: MistralAI-Training

@@ -105,6 +105,7 @@ Disallow: /
 # - ISSCyberRiskCrawler
 # - kagi-fetcher
 # - Kangaroo Bot
+# - KeenableBot
 # - Kimi-Agent
 # - Kimi-SearchBot
 # - Kimi-User
@@ -120,10 +121,10 @@ Disallow: /
 # - LinkupBot
 # - magpie-crawler
 # - Manus-User
-# - Meta-ExternalAgent
 # - meta-externalagent
-# - Meta-ExternalFetcher
+# - Meta-ExternalAgent
 # - meta-externalfetcher
+# - Meta-ExternalFetcher
 # - meta-webindexer
 # - MistralAI-Index
 # - MistralAI-Training
