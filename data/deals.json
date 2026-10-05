@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04",
+  "updated": "2026-10-05",
   "categories": [
     {
       "id": "all",
@@ -226,42 +226,6 @@
       "image": "images/deals/starbucks-s-pore-offering-2-tall-drinks-for-9-90-from-5-8-oc.jpg"
     },
     {
-      "id": "mr-bean-buy-1-get-1-free-almost-all-soy-drinks-one-day-treat",
-      "title": "Mr Bean Buy-1-Get-1-FREE Almost ALL Soy Drinks One-Day Treat on 4 Oct 2026",
-      "store": "Mr Bean Buy-1-Get-1-FREE Almost",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Double the soy drink goodness with a one-day 1-for-1 treat while stocks last",
-      "expiry": "Ends 4 Oct",
-      "heat": 130,
-      "url": "https://singpromos.com/dining-restaurants-food/mr-bean-buy-1-get-1-free-almost-all-soy-drinks-one-day-treat-on-4-oct-2026-307532/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mr-bean-buy-1-get-1-free-almost-all-soy-drinks-one-day-treat-on-4-oct-2026-307532/"
-      },
-      "expires_at": "2026-10-04",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-04",
-      "image": "images/deals/mr-bean-buy-1-get-1-free-almost-all-soy-drinks-one-day-treat.jpg"
-    },
-    {
       "id": "springleaf-prata-place-is-giving-away-2-free-plain-prata-on-",
       "title": "Springleaf Prata Place is giving away 2 free plain prata on 6 Oct 2026",
       "store": "Springleaf Prata Place is",
@@ -292,38 +256,6 @@
       "starts_at": "",
       "first_seen": "2026-10-04",
       "image": "images/deals/springleaf-prata-place-is-giving-away-2-free-plain-prata-on-.jpg"
-    },
-    {
-      "id": "4fingers-s-pore-4pcs-wingettes-drumettes-for-s-4-on-4-oct-20",
-      "title": "4Fingers S’pore: 4pcs Wingettes & Drumettes for S$4 on 4 Oct 2026",
-      "store": "4Fingers",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Grab four crispy Wingettes & Drumettes for just S$4 in this one-day 4Fingers Day treat.",
-      "expiry": "Ends 4 Oct",
-      "heat": 100,
-      "url": "https://singpromos.com/dining-restaurants-food/4fingers-spore-4-wingettes-drumettes-for-s4-on-4-oct-2026-307502/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/4fingers-spore-4-wingettes-drumettes-for-s4-on-4-oct-2026-307502/"
-      },
-      "expires_at": "2026-10-04",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-04",
-      "image": "images/deals/4fingers-s-pore-4pcs-wingettes-drumettes-for-s-4-on-4-oct-20.jpg"
     },
     {
       "id": "burger-king-s-pore-app-deals-from-s-1-50-till-31-dec-2026",
