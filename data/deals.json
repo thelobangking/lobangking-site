@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "categories": [
     {
       "id": "all",
@@ -115,7 +115,6 @@
   "brands_today": [
     "4Fingers",
     "BEST Denki",
-    "Best Denki",
     "BreadTalk",
     "Burger King",
     "Chagee",
@@ -253,42 +252,6 @@
       "starts_at": "",
       "first_seen": "2026-10-05",
       "image": "images/deals/starbucks-singapore-9-90-deal-pick-any-2-tall-drinks-from-oc.jpg"
-    },
-    {
-      "id": "best-singapore-promos-deals-this-month-october-2026-starbuck",
-      "title": "Best Singapore Promos & Deals This Month, October 2026: STARBUCKS REWARDS MEMBERS GET ANY 2 TALL DRINKS FOR $9.90, MON 5",
-      "store": "Best Denki",
-      "categories": [
-        "home"
-      ],
-      "icon": "🏠",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MUJI"
-        },
-        {
-          "type": "discount",
-          "label": "10% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "Best Singapore Promos & Deals This Month, October 2026: STARBUCKS REWARDS MEMBERS GET ANY 2 TALL DRINKS FOR $9.90, MON 5 TO THU 8 OCT, 2PM-8PM; MUJI'S 10% OFF ONLINE ENDS TODAY, MON 5 OCT misslobang.c",
-      "expiry": "Ends 5 Oct",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BUG9OODdEekczS1Y0M3hWTGw4bGhzQXpIQk83WXEzeXh1OWVZUkVXMkFRY18tUEJzSnNsNXN4NXdKQWlxZEV6RXdMRk1XOENXOXNxbUlZUkQycUJJYmhnNDJ6T2ROeTBMckc1QWllMGlyUnNLOW1xTkZibjg?oc=5",
-      "source": {
-        "name": "misslobang.com",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BUG9OODdEekczS1Y0M3hWTGw4bGhzQXpIQk83WXEzeXh1OWVZUkVXMkFRY18tUEJzSnNsNXN4NXdKQWlxZEV6RXdMRk1XOENXOXNxbUlZUkQycUJJYmhnNDJ6T2ROeTBMckc1QWllMGlyUnNLOW1xTkZibjg?oc=5"
-      },
-      "brand": "Best Denki",
-      "expires_at": "2026-10-05",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-05"
     },
     {
       "id": "fairprice-cleaning-sale-1-for-1-up-to-55-off-deals-till-14-o",
