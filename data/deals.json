@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "categories": [
     {
       "id": "all",
@@ -465,38 +465,6 @@
       "starts_at": "2026-10-05",
       "first_seen": "2026-10-04",
       "image": "images/deals/starbucks-s-pore-offering-2-tall-drinks-for-9-90-from-5-8-oc.jpg"
-    },
-    {
-      "id": "springleaf-prata-place-is-giving-away-2-free-plain-prata-on-",
-      "title": "Springleaf Prata Place is giving away 2 free plain prata on 6 Oct 2026",
-      "store": "Springleaf Prata Place is",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Get two free plain pratas just for joining their Telegram channel",
-      "expiry": "Ends 6 Oct",
-      "heat": 90,
-      "url": "https://singpromos.com/dining-restaurants-food/springleaf-prata-place-gives-away-2-free-plain-prata-on-6-oct-2026-307481/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/springleaf-prata-place-gives-away-2-free-plain-prata-on-6-oct-2026-307481/"
-      },
-      "expires_at": "2026-10-06",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-04",
-      "image": "images/deals/springleaf-prata-place-is-giving-away-2-free-plain-prata-on-.jpg"
     },
     {
       "id": "burger-king-s-pore-app-deals-from-s-1-50-till-31-dec-2026",
