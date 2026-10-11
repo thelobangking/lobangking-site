@@ -114,6 +114,7 @@
   ],
   "brands_today": [
     "4Fingers",
+    "Apple",
     "BEST Denki",
     "BreadTalk",
     "Chagee",
@@ -130,7 +131,6 @@
     "Giant",
     "HarbourFront Centre",
     "Harvey Norman",
-    "Jollibee",
     "KFC",
     "McDonald's",
     "Moley Apparels",
@@ -143,7 +143,7 @@
     "Sheng Siong",
     "Shihlin",
     "Singapore Zoo",
-    "Subway",
+    "Starbucks",
     "Swensen's",
     "TANGS",
     "Toys“R”Us",
@@ -151,6 +151,76 @@
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "starbucks-s-pore-2nd-venti-drink-at-just-1-from-12-15-oct-20",
+      "title": "Starbucks S’pore 2nd Venti Drink at Just $1 from 12-15 Oct 2026, 2-8pm",
+      "store": "Starbucks",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "STARBUCKS"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Enjoy more coffee for less",
+      "expiry": "Ends 15 Oct",
+      "heat": 155,
+      "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-2nd-venti-drink-at-just-1-from-12-15-oct-2026-2-8pm-307849/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-2nd-venti-drink-at-just-1-from-12-15-oct-2026-2-8pm-307849/"
+      },
+      "brand": "Starbucks",
+      "expires_at": "2026-10-15",
+      "upcoming": true,
+      "starts_at": "2026-10-12",
+      "first_seen": "2026-10-11",
+      "spotlight": true,
+      "image": "images/deals/starbucks-s-pore-2nd-venti-drink-at-just-1-from-12-15-oct-20.jpg"
+    },
+    {
+      "id": "have-an-iphone-but-no-smartwatch-get-the-apple-watch-series-",
+      "title": "Have an iPhone but no smartwatch? Get the Apple Watch Series 11 for 28% off now! - HardwareZone Singapore",
+      "store": "Apple",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "💻",
+      "badges": [
+        {
+          "type": "new",
+          "label": "APPLE"
+        },
+        {
+          "type": "discount",
+          "label": "28% OFF"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Have an iPhone but no smartwatch? Get the Apple Watch Series 11 for 28% off now! HardwareZone Singapore",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaU16MXpGb01FRjdKYW56VHdsVWY1T2JSSGlONjFJRndnanNUVlVwQ0M1a1BlOG9HUGtpME13bWk4ellzQ1VXUHgxeXdTbEVZY2tBOEdXXzQ4MklMOGh4ck01YXBaSW55d3RBRUw5UEYtYW9oc29VaE5IRWF5QmZmMERiMTRRbWxOY1duQWxjNjZkQ0UybFp3aDI1UTA?oc=5",
+      "source": {
+        "name": "HardwareZone Singapore",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaU16MXpGb01FRjdKYW56VHdsVWY1T2JSSGlONjFJRndnanNUVlVwQ0M1a1BlOG9HUGtpME13bWk4ellzQ1VXUHgxeXdTbEVZY2tBOEdXXzQ4MklMOGh4ck01YXBaSW55d3RBRUw5UEYtYW9oc29VaE5IRWF5QmZmMERiMTRRbWxOY1duQWxjNjZkQ0UybFp3aDI1UTA?oc=5"
+      },
+      "brand": "Apple",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-11"
+    },
     {
       "id": "polar-puffs-cakes-20-off-all-whole-cakes-online-for-members-",
       "title": "Polar Puffs & Cakes 20% Off All Whole Cakes Online for Members till 11 Oct 2026",
@@ -171,7 +241,7 @@
       },
       "desc": "From chocolate favourites to fruity treats",
       "expiry": "Ends 11 Oct",
-      "heat": 130,
+      "heat": 125,
       "url": "https://singpromos.com/dining-restaurants-food/polar-puffs-cakes-20-off-all-whole-cakes-online-for-members-till-11-oct-2026-307813/",
       "source": {
         "name": "SINGPromos",
@@ -181,8 +251,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-10",
-      "image": "images/deals/polar-puffs-cakes-20-off-all-whole-cakes-online-for-members-.jpg",
-      "spotlight": true
+      "image": "images/deals/polar-puffs-cakes-20-off-all-whole-cakes-online-for-members-.jpg"
     },
     {
       "id": "standard-chartered-s-pore-12-month-time-deposit-up-to-1-9-p-",
@@ -204,7 +273,7 @@
       },
       "desc": "A slight reduction of 0.05 percentage point compared with the previous rates",
       "expiry": "Ongoing",
-      "heat": 115,
+      "heat": 110,
       "url": "https://singpromos.com/banks-credit-cards/standard-chartered-spore-12-month-time-deposit-up-to-1-9-p-a-from-9-oct-2026-307833/",
       "source": {
         "name": "SINGPromos",
@@ -236,7 +305,7 @@
       },
       "desc": "All six SGD fixed deposit rates have risen, with Premier Banking offering the highest return.",
       "expiry": "Ongoing",
-      "heat": 105,
+      "heat": 100,
       "url": "https://singpromos.com/banks-credit-cards/rhb-bank-spore-fixed-deposit-promo-rates-up-to-2-2-p-a-from-9-oct-2026-307811/",
       "source": {
         "name": "SINGPromos",
@@ -247,78 +316,6 @@
       "starts_at": "2026-10-09",
       "first_seen": "2026-10-10",
       "image": "images/deals/rhb-bank-s-pore-fixed-deposit-promo-rates-up-to-2-2-p-a-from.jpg"
-    },
-    {
-      "id": "international-fried-chicken-day-2026-in-singapore-texas-chic",
-      "title": "International Fried Chicken Day 2026 in Singapore: Texas Chicken $1 Chicken, Popeyes $10.90 5pc Bucket, FREE Jollibee Ch",
-      "store": "Jollibee",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "JOLLIBEE"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "International Fried Chicken Day 2026 in Singapore: Texas Chicken $1 Chicken, Popeyes $10.90 5pc Bucket, FREE Jollibee Chickenjoy & More (3–8 Jul) www.misslobang.com",
-      "expiry": "Ends 8 Jul",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2wydk9CUHREbUJUSTY3MEZtMWQwRmNwNGRUNXByWjYzOThLQXo3d1hwLVYwYjZmY2w0cEpBRWJHbm5WazE2anlFYXllUkV2VGhuODE5NTBDMkwyYlVHcGYxZTBweWF3UnhuZjdTemNIYk9Na3R0ZEJMdFQyMlI4VFNpdVEtSDY3dUtfMkhQZnQ?oc=5",
-      "source": {
-        "name": "www.misslobang.com",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2wydk9CUHREbUJUSTY3MEZtMWQwRmNwNGRUNXByWjYzOThLQXo3d1hwLVYwYjZmY2w0cEpBRWJHbm5WazE2anlFYXllUkV2VGhuODE5NTBDMkwyYlVHcGYxZTBweWF3UnhuZjdTemNIYk9Na3R0ZEJMdFQyMlI4VFNpdVEtSDY3dUtfMkhQZnQ?oc=5"
-      },
-      "brand": "Jollibee",
-      "expires_at": "2027-07-08",
-      "upcoming": true,
-      "starts_at": "2027-07-03",
-      "first_seen": "2026-10-10"
-    },
-    {
-      "id": "blue-orange-chas-card-holders-get-6-off-at-sheng-siong-till-",
-      "title": "Blue, orange CHAS card holders get 6% off at Sheng Siong till Jan 1, 2027, up from 4% - The Straits Times",
-      "store": "Sheng Siong",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SHENG SIONG"
-        },
-        {
-          "type": "discount",
-          "label": "6% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Blue, orange CHAS card holders get 6% off at Sheng Siong till Jan 1, 2027, up from 4% The Straits Times",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQi1qVFk2QzNaSDByWExMeWg1U0xKVHhNTW8xOGpWeXJXU19xMnVVSXpYNW1ZcFlqZ0hnTXd6NDBPMUk0UmJUMWJlVGEwQjFwSFFiTTRVNlBTYW80RGJORkt6YXNiTkgwd25Ca01oNHZUTWtUeFMwZDVySERCSlNJVmFCdXdiZGF1Yk9wUTgwQTN3Rm9Zd1A3bkZwck9zSjZjYzZQam8tNDFxc1hralpzNDFLNi1PdUJ1RVdfUFhaQQ?oc=5",
-      "source": {
-        "name": "The Straits Times",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQi1qVFk2QzNaSDByWExMeWg1U0xKVHhNTW8xOGpWeXJXU19xMnVVSXpYNW1ZcFlqZ0hnTXd6NDBPMUk0UmJUMWJlVGEwQjFwSFFiTTRVNlBTYW80RGJORkt6YXNiTkgwd25Ca01oNHZUTWtUeFMwZDVySERCSlNJVmFCdXdiZGF1Yk9wUTgwQTN3Rm9Zd1A3bkZwck9zSjZjYzZQam8tNDFxc1hralpzNDFLNi1PdUJ1RVdfUFhaQQ?oc=5"
-      },
-      "brand": "Sheng Siong",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-10"
     },
     {
       "id": "fairprice-50-off-new-zealand-natural-ice-cream-for-members-t",
@@ -344,7 +341,7 @@
       },
       "desc": "Half-price New Zealand Natural ice cream",
       "expiry": "Ends 14 Oct",
-      "heat": 150,
+      "heat": 145,
       "url": "https://singpromos.com/dining-restaurants-food/fairprice-50-off-new-zealand-natural-ice-cream-for-members-till-14-oct-2026-307763/",
       "source": {
         "name": "SINGPromos",
@@ -377,7 +374,7 @@
       },
       "desc": "The spicy fan favourite is back",
       "expiry": "Ongoing",
-      "heat": 135,
+      "heat": 130,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-spicy-chicken-mcnuggets-return-from-8-oct-2026-307774/",
       "source": {
         "name": "SINGPromos",
@@ -414,7 +411,7 @@
       },
       "desc": "Enjoy up to 60% off second guest fares, free guest deals and fly-cruise packages",
       "expiry": "Ends 11 Oct",
-      "heat": 120,
+      "heat": 115,
       "url": "https://singpromos.com/happenings/royal-caribbean-sg-roadshow-at-waterway-point-with-cruise-deals-till-11-oct-2026-307796/",
       "source": {
         "name": "SINGPromos",
@@ -446,7 +443,7 @@
       },
       "desc": "Plus grocery deals at great savings",
       "expiry": "Ends 11 Oct",
-      "heat": 125,
+      "heat": 120,
       "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-4-days-special-haagen-dazs-at-3-for-25-more-deals-till-11-oct-2026-307744/",
       "source": {
         "name": "SINGPromos",
@@ -479,7 +476,7 @@
       },
       "desc": "Plus savings on snacks, cereal and more",
       "expiry": "Ends 14 Oct",
-      "heat": 120,
+      "heat": 115,
       "url": "https://singpromos.com/dining-restaurants-food/cold-storage-cs-fresh-selling-ben-jerrys-at-3-for-24-50-till-14-oct-2026-307740/",
       "source": {
         "name": "SINGPromos",
@@ -602,6 +599,42 @@
       "first_seen": "2026-09-30"
     },
     {
+      "id": "kids-get-to-build-their-own-meal-at-mcdonald-s-this-children",
+      "title": "Kids Get To Build Their Own Meal At McDonald’s This Children’s Day (+ Free Vanilla Cone!) - Sassy Mama Singapore",
+      "store": "McDonald's",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "MCDONALD'S"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Kids Get To Build Their Own Meal At McDonald’s This Children’s Day (+ Free Vanilla Cone!) Sassy Mama Singapore",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRUx0ZGl1V0VoVGZieUpkX2J4N1ZULUF5NVZkOU1TbTBjSl9KdTF6Rldicy1sX1FjN0lBOHdUeS1HbnJnME01M253NHhRTWJ5YTZwakt5UTJYc2xEdDI3R2pB?oc=5",
+      "source": {
+        "name": "Sassy Mama Singapore",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRUx0ZGl1V0VoVGZieUpkX2J4N1ZULUF5NVZkOU1TbTBjSl9KdTF6Rldicy1sX1FjN0lBOHdUeS1HbnJnME01M253NHhRTWJ5YTZwakt5UTJYc2xEdDI3R2pB?oc=5"
+      },
+      "brand": "McDonald's",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-09-29"
+    },
+    {
       "id": "8-best-bubble-tea-deals-promos-in-singapore-2026-beutea-s-50",
       "title": "8 Best Bubble Tea Deals & Promos in Singapore (2026): Beutea's 50% Off Plus 1-for-1 Sign-Up Pack, CHAGEE's 15% Off Every",
       "store": "Chagee",
@@ -678,6 +711,42 @@
       "first_seen": "2026-09-26"
     },
     {
+      "id": "starbucks-singapore-is-offering-1-for-1-on-all-venti-sized-d",
+      "title": "Starbucks Singapore Is Offering 1-FOR-1 On All Venti-Sized Drinks From September 21 to 24 - Great Deals Singapore",
+      "store": "Starbucks",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "STARBUCKS"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Starbucks Singapore Is Offering 1-FOR-1 On All Venti-Sized Drinks From September 21 to 24 Great Deals Singapore",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPakxBRnFVT013MHF3ektVUEhaTWFWVVo1NWZtT0lET1g0RHp3VU8tRXNQQkk1TmdrcmNPT1JaREprNDBpVWVoSTl0NFI2M2tHTU5ONk1jSUhmN283Y3hfamVOLVBnOXE0ZF81Y0Nic1dWTi1QQXFpNWk3Mzk4OFZXQVRQV2Z0ZXZYN1pqMEpXZm1HOEhu?oc=5",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPakxBRnFVT013MHF3ektVUEhaTWFWVVo1NWZtT0lET1g0RHp3VU8tRXNQQkk1TmdrcmNPT1JaREprNDBpVWVoSTl0NFI2M2tHTU5ONk1jSUhmN283Y3hfamVOLVBnOXE0ZF81Y0Nic1dWTi1QQXFpNWk3Mzk4OFZXQVRQV2Z0ZXZYN1pqMEpXZm1HOEhu?oc=5"
+      },
+      "brand": "Starbucks",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-09-20"
+    },
+    {
       "id": "32-best-pickleball-courts-in-singapore-free-courts-places-fr",
       "title": "32 Best Pickleball Courts In Singapore (+ Free Courts & Places From $3.30/Hour!) - Sassy Mama Singapore",
       "store": "Courts",
@@ -748,42 +817,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-08-31"
-    },
-    {
-      "id": "up-to-70-off-with-sheng-siong-s-cdc-voucher-promo-till-22-ju",
-      "title": "Up to 70% off with Sheng Siong’s CDC Voucher Promo till 22 Jun - SETHLUI.com",
-      "store": "Sheng Siong",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SHENG SIONG"
-        },
-        {
-          "type": "discount",
-          "label": "70% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Up to 70% off with Sheng Siong’s CDC Voucher Promo till 22 Jun SETHLUI.com",
-      "expiry": "Ends 22 Jun",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MWkxieHFxTjRhMkE3VGFuLUI5ckc3cTBISDNCSkJ5ODFMTElJR0xReFVMT0dBWHFUbkNFZmVITEpHbHJfRnJDN3JrT0gwdHFCS1pSSUpZZmxVRHFhZHV6MlF6Tm1FaE9TWUtfZkdDREt1a0ZyTGdsVHlCX1hjQQ?oc=5",
-      "source": {
-        "name": "SETHLUI.com",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MWkxieHFxTjRhMkE3VGFuLUI5ckc3cTBISDNCSkJ5ODFMTElJR0xReFVMT0dBWHFUbkNFZmVITEpHbHJfRnJDN3JrT0gwdHFCS1pSSUpZZmxVRHFhZHV6MlF6Tm1FaE9TWUtfZkdDREt1a0ZyTGdsVHlCX1hjQQ?oc=5"
-      },
-      "brand": "Sheng Siong",
-      "expires_at": "2027-06-22",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-28"
     },
     {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
@@ -930,42 +963,6 @@
       "first_seen": "2026-07-06"
     },
     {
-      "id": "subway-singapore-giving-free-cookie-with-every-sub-purchase-",
-      "title": "Subway Singapore Giving FREE Cookie With Every Sub Purchase This Ramadan Till March 21 - Great Deals Singapore",
-      "store": "Subway",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SUBWAY"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Subway Singapore Giving FREE Cookie With Every Sub Purchase This Ramadan Till March 21 Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2lVZHk5MWJsaTlBX01LbzZwSDZZTTRZTUR4MlhmR05QcTJFZUFOYkpWSm1YaUNjMHNJZUM0aTZzS1dReXJzZElQUWpUYURhSlQzU2RBb1N5WFpCRFYyclBvVEh2WWRDY3A5UXRzeDkyTm03N1BvQklWSFhtNDFEc1hhQ0t3ZVU0bndTRg?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2lVZHk5MWJsaTlBX01LbzZwSDZZTTRZTUR4MlhmR05QcTJFZUFOYkpWSm1YaUNjMHNJZUM0aTZzS1dReXJzZElQUWpUYURhSlQzU2RBb1N5WFpCRFYyclBvVEh2WWRDY3A5UXRzeDkyTm03N1BvQklWSFhtNDFEc1hhQ0t3ZVU0bndTRg?oc=5"
-      },
-      "brand": "Subway",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-06"
-    },
-    {
       "id": "bestdenki-jackpot",
       "title": "Up to 20% off TVs + up to $700 off soundbars",
       "store": "BEST Denki · Storewide",
@@ -1060,9 +1057,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-31",
       "upcoming": false,
-      "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "courts-get7",
