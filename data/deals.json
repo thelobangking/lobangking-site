@@ -114,7 +114,6 @@
   ],
   "brands_today": [
     "4Fingers",
-    "Apple",
     "BEST Denki",
     "BreadTalk",
     "Chagee",
@@ -151,6 +150,182 @@
   ],
   "deals": [
     {
+      "id": "kfc-s-pore-1-for-1-japanese-nanban-chicken-bites-every-wed-t",
+      "title": "KFC S’pore 1-for-1 Japanese Nanban Chicken Bites Every Wed, Thu & Fri from 14 Oct 2026",
+      "store": "KFC",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "KFC"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Get 12 saucy Japanese Nanban Chicken Bites for just $6.95",
+      "expiry": "Ongoing",
+      "heat": 175,
+      "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-1-for-1-japanese-nanban-chicken-bites-every-wed-thu-fri-from-14-oct-2026-307881/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-1-for-1-japanese-nanban-chicken-bites-every-wed-thu-fri-from-14-oct-2026-307881/"
+      },
+      "brand": "KFC",
+      "expires_at": "",
+      "upcoming": true,
+      "starts_at": "2026-10-14",
+      "first_seen": "2026-10-12",
+      "spotlight": true,
+      "image": "images/deals/kfc-s-pore-1-for-1-japanese-nanban-chicken-bites-every-wed-t.jpg"
+    },
+    {
+      "id": "mcdonald-s-s-pore-free-vanilla-cone-with-meal-purchase-till-",
+      "title": "McDonald’s S’pore FREE Vanilla Cone with meal purchase till 14 Oct 2026",
+      "store": "McDonald's",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "MCDONALD'S"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "PSLE Marking Day app promotion",
+      "expiry": "Ends 14 Oct",
+      "heat": 170,
+      "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-free-vanilla-cone-with-meal-purchase-till-14-oct-2026-307872/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-free-vanilla-cone-with-meal-purchase-till-14-oct-2026-307872/"
+      },
+      "brand": "McDonald's",
+      "expires_at": "2026-10-14",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-12",
+      "image": "images/deals/mcdonald-s-s-pore-free-vanilla-cone-with-meal-purchase-till-.jpg"
+    },
+    {
+      "id": "big-fish-small-fish-1-for-1-fish-chips-deal-from-12-14-oct-2",
+      "title": "Big Fish Small Fish 1-for-1 Fish & Chips Deal from 12-14 Oct 2026",
+      "store": "Big Fish Small Fish",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Available at all four outlets for members (free membership)",
+      "expiry": "Ends 14 Oct",
+      "heat": 125,
+      "url": "https://singpromos.com/dining-restaurants-food/big-fish-small-fish-1-for-1-fish-chips-deal-from-12-14-oct-2026-307868/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/big-fish-small-fish-1-for-1-fish-chips-deal-from-12-14-oct-2026-307868/"
+      },
+      "expires_at": "2026-10-14",
+      "upcoming": false,
+      "starts_at": "2026-10-12",
+      "first_seen": "2026-10-12",
+      "image": "images/deals/big-fish-small-fish-1-for-1-fish-chips-deal-from-12-14-oct-2.jpg"
+    },
+    {
+      "id": "dunkin-s-pore-dozen-day-buy-9-donuts-get-3-free-on-12-oct-20",
+      "title": "Dunkin’ S’pore Dozen Day Buy 9 Donuts, Get 3 Free on 12 Oct 2026",
+      "store": "Dunkin’",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Build a dozen with favourite Dunkin' treats while paying for only nine donuts.",
+      "expiry": "Ends 12 Oct",
+      "heat": 120,
+      "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-dozen-day-buy-9-donuts-get-3-free-on-12-oct-2026-307720/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-dozen-day-buy-9-donuts-get-3-free-on-12-oct-2026-307720/"
+      },
+      "expires_at": "2026-10-12",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-12",
+      "image": "images/deals/dunkin-s-pore-dozen-day-buy-9-donuts-get-3-free-on-12-oct-20.jpg"
+    },
+    {
+      "id": "chagee-s-new-chrysanthemum-milk-tea-arrives-on-october-12-wi",
+      "title": "CHAGEE’s New Chrysanthemum Milk Tea Arrives on October 12 with Cute Collectibles and Mini Digicam",
+      "store": "Chagee",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "CHAGEE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "CHAGEE's latest drop comes with sunny yellow cups and a mini digicam.",
+      "expiry": "Check link for dates",
+      "heat": 95,
+      "url": "https://www.greatdeals.com.sg/2026/10/09/chagee-new-chrysanthemum-milk-tea-launch-october-2026",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://www.greatdeals.com.sg/2026/10/09/chagee-new-chrysanthemum-milk-tea-launch-october-2026"
+      },
+      "brand": "Chagee",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-12",
+      "image": "images/deals/chagee-s-new-chrysanthemum-milk-tea-arrives-on-october-12-wi.jpg"
+    },
+    {
       "id": "starbucks-s-pore-2nd-venti-drink-at-just-1-from-12-15-oct-20",
       "title": "Starbucks S’pore 2nd Venti Drink at Just $1 from 12-15 Oct 2026, 2-8pm",
       "store": "Starbucks",
@@ -170,7 +345,7 @@
       },
       "desc": "Enjoy more coffee for less",
       "expiry": "Ends 15 Oct",
-      "heat": 155,
+      "heat": 135,
       "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-2nd-venti-drink-at-just-1-from-12-15-oct-2026-2-8pm-307849/",
       "source": {
         "name": "SINGPromos",
@@ -178,47 +353,10 @@
       },
       "brand": "Starbucks",
       "expires_at": "2026-10-15",
-      "upcoming": true,
+      "upcoming": false,
       "starts_at": "2026-10-12",
       "first_seen": "2026-10-11",
-      "image": "images/deals/starbucks-s-pore-2nd-venti-drink-at-just-1-from-12-15-oct-20.jpg",
-      "spotlight": true
-    },
-    {
-      "id": "have-an-iphone-but-no-smartwatch-get-the-apple-watch-series-",
-      "title": "Have an iPhone but no smartwatch? Get the Apple Watch Series 11 for 28% off now! - HardwareZone Singapore",
-      "store": "Apple",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "💻",
-      "badges": [
-        {
-          "type": "new",
-          "label": "APPLE"
-        },
-        {
-          "type": "discount",
-          "label": "28% OFF"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Have an iPhone but no smartwatch? Get the Apple Watch Series 11 for 28% off now! HardwareZone Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaU16MXpGb01FRjdKYW56VHdsVWY1T2JSSGlONjFJRndnanNUVlVwQ0M1a1BlOG9HUGtpME13bWk4ellzQ1VXUHgxeXdTbEVZY2tBOEdXXzQ4MklMOGh4ck01YXBaSW55d3RBRUw5UEYtYW9oc29VaE5IRWF5QmZmMERiMTRRbWxOY1duQWxjNjZkQ0UybFp3aDI1UTA?oc=5",
-      "source": {
-        "name": "HardwareZone Singapore",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaU16MXpGb01FRjdKYW56VHdsVWY1T2JSSGlONjFJRndnanNUVlVwQ0M1a1BlOG9HUGtpME13bWk4ellzQ1VXUHgxeXdTbEVZY2tBOEdXXzQ4MklMOGh4ck01YXBaSW55d3RBRUw5UEYtYW9oc29VaE5IRWF5QmZmMERiMTRRbWxOY1duQWxjNjZkQ0UybFp3aDI1UTA?oc=5"
-      },
-      "brand": "Apple",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-11"
+      "image": "images/deals/starbucks-s-pore-2nd-venti-drink-at-just-1-from-12-15-oct-20.jpg"
     },
     {
       "id": "standard-chartered-s-pore-12-month-time-deposit-up-to-1-9-p-",
@@ -240,7 +378,7 @@
       },
       "desc": "A slight reduction of 0.05 percentage point compared with the previous rates",
       "expiry": "Ongoing",
-      "heat": 110,
+      "heat": 90,
       "url": "https://singpromos.com/banks-credit-cards/standard-chartered-spore-12-month-time-deposit-up-to-1-9-p-a-from-9-oct-2026-307833/",
       "source": {
         "name": "SINGPromos",
@@ -251,38 +389,6 @@
       "starts_at": "2026-10-09",
       "first_seen": "2026-10-10",
       "image": "images/deals/standard-chartered-s-pore-12-month-time-deposit-up-to-1-9-p-.jpg"
-    },
-    {
-      "id": "rhb-bank-s-pore-fixed-deposit-promo-rates-up-to-2-2-p-a-from",
-      "title": "RHB Bank S’pore Fixed Deposit Promo Rates Up To 2.2% p.a. from 9 Oct 2026",
-      "store": "RHB Bank",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "All six SGD fixed deposit rates have risen, with Premier Banking offering the highest return.",
-      "expiry": "Ongoing",
-      "heat": 100,
-      "url": "https://singpromos.com/banks-credit-cards/rhb-bank-spore-fixed-deposit-promo-rates-up-to-2-2-p-a-from-9-oct-2026-307811/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/rhb-bank-spore-fixed-deposit-promo-rates-up-to-2-2-p-a-from-9-oct-2026-307811/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-10-09",
-      "first_seen": "2026-10-10",
-      "image": "images/deals/rhb-bank-s-pore-fixed-deposit-promo-rates-up-to-2-2-p-a-from.jpg"
     },
     {
       "id": "fairprice-50-off-new-zealand-natural-ice-cream-for-members-t",
@@ -308,7 +414,7 @@
       },
       "desc": "Half-price New Zealand Natural ice cream",
       "expiry": "Ends 14 Oct",
-      "heat": 145,
+      "heat": 135,
       "url": "https://singpromos.com/dining-restaurants-food/fairprice-50-off-new-zealand-natural-ice-cream-for-members-till-14-oct-2026-307763/",
       "source": {
         "name": "SINGPromos",
@@ -341,7 +447,7 @@
       },
       "desc": "The spicy fan favourite is back",
       "expiry": "Ongoing",
-      "heat": 130,
+      "heat": 120,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-spicy-chicken-mcnuggets-return-from-8-oct-2026-307774/",
       "source": {
         "name": "SINGPromos",
@@ -374,7 +480,7 @@
       },
       "desc": "Plus savings on snacks, cereal and more",
       "expiry": "Ends 14 Oct",
-      "heat": 115,
+      "heat": 110,
       "url": "https://singpromos.com/dining-restaurants-food/cold-storage-cs-fresh-selling-ben-jerrys-at-3-for-24-50-till-14-oct-2026-307740/",
       "source": {
         "name": "SINGPromos",
@@ -411,7 +517,7 @@
       },
       "desc": "Escape to Mandai from $229 this November.",
       "expiry": "Check link for dates",
-      "heat": 90,
+      "heat": 95,
       "url": "https://www.greatdeals.com.sg/2026/10/07/mandai-rainforest-resort-banyan-tree-anniversary-promo-november-2026",
       "source": {
         "name": "Great Deals Singapore",
@@ -753,6 +859,42 @@
       "first_seen": "2026-07-10"
     },
     {
+      "id": "up-to-70-off-selected-items-at-don-don-donki-till-19-jul-set",
+      "title": "Up to 70% off selected items at Don Don Donki till 19 Jul - SETHLUI.com",
+      "store": "Don Don Donki",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "DON DON DONKI"
+        },
+        {
+          "type": "discount",
+          "label": "70% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Up to 70% off selected items at Don Don Donki till 19 Jul SETHLUI.com",
+      "expiry": "Ends 19 Jul",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5",
+      "source": {
+        "name": "SETHLUI.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5"
+      },
+      "brand": "Don Don Donki",
+      "expires_at": "2027-07-19",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-07-06"
+    },
+    {
       "id": "muji-online-exclusive-sale-just-dropped-with-up-to-40-off-ho",
       "title": "MUJI Online Exclusive Sale Just Dropped with Up to 40% OFF Home and Living Picks Till April 30 - Great Deals Singapore",
       "store": "Muji",
@@ -956,7 +1098,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
