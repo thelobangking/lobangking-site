@@ -121,10 +121,10 @@ Disallow: /
 # - LinkupBot
 # - magpie-crawler
 # - Manus-User
-# - meta-externalagent
 # - Meta-ExternalAgent
-# - meta-externalfetcher
+# - meta-externalagent
 # - Meta-ExternalFetcher
+# - meta-externalfetcher
 # - meta-webindexer
 # - MistralAI-Index
 # - MistralAI-Training

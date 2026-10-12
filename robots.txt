@@ -122,10 +122,10 @@ User-agent: Linguee Bot
 User-agent: LinkupBot
 User-agent: magpie-crawler
 User-agent: Manus-User
-User-agent: meta-externalagent
 User-agent: Meta-ExternalAgent
-User-agent: meta-externalfetcher
+User-agent: meta-externalagent
 User-agent: Meta-ExternalFetcher
+User-agent: meta-externalfetcher
 User-agent: meta-webindexer
 User-agent: MistralAI-Index
 User-agent: MistralAI-Training
