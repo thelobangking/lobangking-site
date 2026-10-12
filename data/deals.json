@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-12",
   "categories": [
     {
       "id": "all",
@@ -140,7 +140,6 @@
     "Punggol GRC",
     "REFASH",
     "SUSHIRO",
-    "Sheng Siong",
     "Shihlin",
     "Singapore Zoo",
     "Starbucks",
@@ -220,38 +219,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-11"
-    },
-    {
-      "id": "polar-puffs-cakes-20-off-all-whole-cakes-online-for-members-",
-      "title": "Polar Puffs & Cakes 20% Off All Whole Cakes Online for Members till 11 Oct 2026",
-      "store": "Polar Puffs & Cakes",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "20% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "From chocolate favourites to fruity treats",
-      "expiry": "Ends 11 Oct",
-      "heat": 125,
-      "url": "https://singpromos.com/dining-restaurants-food/polar-puffs-cakes-20-off-all-whole-cakes-online-for-members-till-11-oct-2026-307813/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/polar-puffs-cakes-20-off-all-whole-cakes-online-for-members-till-11-oct-2026-307813/"
-      },
-      "expires_at": "2026-10-11",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-10",
-      "image": "images/deals/polar-puffs-cakes-20-off-all-whole-cakes-online-for-members-.jpg"
     },
     {
       "id": "standard-chartered-s-pore-12-month-time-deposit-up-to-1-9-p-",
@@ -386,75 +353,6 @@
       "starts_at": "2026-10-08",
       "first_seen": "2026-10-09",
       "image": "images/deals/mcdonald-s-s-pore-spicy-chicken-mcnuggets-return-from-8-oct-.jpg"
-    },
-    {
-      "id": "royal-caribbean-sg-roadshow-at-waterway-point-with-cruise-de",
-      "title": "Royal Caribbean SG roadshow at Waterway Point with cruise deals till 11 Oct 2026",
-      "store": "Royal Caribbean",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        },
-        {
-          "type": "discount",
-          "label": "60% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy up to 60% off second guest fares, free guest deals and fly-cruise packages",
-      "expiry": "Ends 11 Oct",
-      "heat": 115,
-      "url": "https://singpromos.com/happenings/royal-caribbean-sg-roadshow-at-waterway-point-with-cruise-deals-till-11-oct-2026-307796/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/happenings/royal-caribbean-sg-roadshow-at-waterway-point-with-cruise-deals-till-11-oct-2026-307796/"
-      },
-      "expires_at": "2026-10-11",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-09",
-      "image": "images/deals/royal-caribbean-sg-roadshow-at-waterway-point-with-cruise-de.jpg"
-    },
-    {
-      "id": "sheng-siong-4-days-special-h-agen-dazs-at-3-for-25-more-deal",
-      "title": "Sheng Siong 4 Days Special Häagen-Dazs at 3-for-$25 & More Deals till 11 Oct 2026",
-      "store": "Sheng Siong",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SHENG SIONG"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Plus grocery deals at great savings",
-      "expiry": "Ends 11 Oct",
-      "heat": 120,
-      "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-4-days-special-haagen-dazs-at-3-for-25-more-deals-till-11-oct-2026-307744/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-4-days-special-haagen-dazs-at-3-for-25-more-deals-till-11-oct-2026-307744/"
-      },
-      "brand": "Sheng Siong",
-      "expires_at": "2026-10-11",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-08",
-      "image": "images/deals/sheng-siong-4-days-special-h-agen-dazs-at-3-for-25-more-deal.jpg"
     },
     {
       "id": "cold-storage-cs-fresh-selling-ben-jerry-s-at-3-for-24-50-til",
