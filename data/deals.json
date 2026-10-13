@@ -189,7 +189,8 @@
       "starts_at": "",
       "first_seen": "2026-10-13",
       "image": "images/deals/sheng-siong-housebrand-buy-1-get-1-free-frozen-deals-pwp-sav.jpg",
-      "spotlight": true
+      "spotlight": true,
+      "status": "claimed"
     },
     {
       "id": "scoot-s-pore-one-day-sale-has-fares-from-s-80-on-13-oct-2026",
@@ -222,7 +223,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-13",
-      "image": "images/deals/scoot-s-pore-one-day-sale-has-fares-from-s-80-on-13-oct-2026.jpg"
+      "image": "images/deals/scoot-s-pore-one-day-sale-has-fares-from-s-80-on-13-oct-2026.jpg",
+      "status": "claimed"
     },
     {
       "id": "fully-redeemed-singapore-airlines-s-50-off-return-flights-wi",
@@ -255,7 +257,8 @@
       "upcoming": false,
       "starts_at": "2026-10-13",
       "first_seen": "2026-10-13",
-      "image": "images/deals/fully-redeemed-singapore-airlines-s-50-off-return-flights-wi.jpg"
+      "image": "images/deals/fully-redeemed-singapore-airlines-s-50-off-return-flights-wi.jpg",
+      "status": "claimed"
     },
     {
       "id": "kfc-singapore-s-new-1-for-1-deal-gets-you-12-japanese-nanban",
@@ -324,7 +327,8 @@
       "upcoming": false,
       "starts_at": "2026-10-13",
       "first_seen": "2026-10-13",
-      "image": "images/deals/maybank-s-pore-standalone-sgd-time-deposit-rates-now-up-to-2.jpg"
+      "image": "images/deals/maybank-s-pore-standalone-sgd-time-deposit-rates-now-up-to-2.jpg",
+      "status": "claimed"
     },
     {
       "id": "dry-dull-hair-give-your-scalp-hair-a-collagen-boost-with-jus",
@@ -356,7 +360,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-13",
-      "image": "images/deals/dry-dull-hair-give-your-scalp-hair-a-collagen-boost-with-jus.jpg"
+      "image": "images/deals/dry-dull-hair-give-your-scalp-hair-a-collagen-boost-with-jus.jpg",
+      "status": "claimed"
     },
     {
       "id": "icbc-singapore-fresh-funds-promo-fd-offers-up-to-1-85-p-a-fr",
@@ -388,7 +393,8 @@
       "upcoming": false,
       "starts_at": "2026-10-12",
       "first_seen": "2026-10-13",
-      "image": "images/deals/icbc-singapore-fresh-funds-promo-fd-offers-up-to-1-85-p-a-fr.jpg"
+      "image": "images/deals/icbc-singapore-fresh-funds-promo-fd-offers-up-to-1-85-p-a-fr.jpg",
+      "status": "claimed"
     },
     {
       "id": "kfc-s-pore-1-for-1-japanese-nanban-chicken-bites-every-wed-t",
@@ -425,7 +431,8 @@
       "upcoming": true,
       "starts_at": "2026-10-14",
       "first_seen": "2026-10-12",
-      "image": "images/deals/kfc-s-pore-1-for-1-japanese-nanban-chicken-bites-every-wed-t.jpg"
+      "image": "images/deals/kfc-s-pore-1-for-1-japanese-nanban-chicken-bites-every-wed-t.jpg",
+      "status": "claimed"
     },
     {
       "id": "mcdonald-s-s-pore-free-vanilla-cone-with-meal-purchase-till-",
@@ -462,7 +469,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-12",
-      "image": "images/deals/mcdonald-s-s-pore-free-vanilla-cone-with-meal-purchase-till-.jpg"
+      "image": "images/deals/mcdonald-s-s-pore-free-vanilla-cone-with-meal-purchase-till-.jpg",
+      "status": "claimed"
     },
     {
       "id": "big-fish-small-fish-1-for-1-fish-chips-deal-from-12-14-oct-2",
@@ -498,7 +506,8 @@
       "upcoming": false,
       "starts_at": "2026-10-12",
       "first_seen": "2026-10-12",
-      "image": "images/deals/big-fish-small-fish-1-for-1-fish-chips-deal-from-12-14-oct-2.jpg"
+      "image": "images/deals/big-fish-small-fish-1-for-1-fish-chips-deal-from-12-14-oct-2.jpg",
+      "status": "claimed"
     },
     {
       "id": "starbucks-s-pore-2nd-venti-drink-at-just-1-from-12-15-oct-20",
@@ -531,7 +540,8 @@
       "upcoming": false,
       "starts_at": "2026-10-12",
       "first_seen": "2026-10-11",
-      "image": "images/deals/starbucks-s-pore-2nd-venti-drink-at-just-1-from-12-15-oct-20.jpg"
+      "image": "images/deals/starbucks-s-pore-2nd-venti-drink-at-just-1-from-12-15-oct-20.jpg",
+      "status": "claimed"
     },
     {
       "id": "mandai-rainforest-resort-marks-first-anniversary-with-up-to-",
@@ -1036,7 +1046,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1102,7 +1113,8 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg"
+      "image": "images/deals/challenger-ms365.jpg",
+      "status": "claimed"
     },
     {
       "id": "courts-get7",
