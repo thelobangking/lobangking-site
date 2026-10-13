@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "categories": [
     {
       "id": "all",
@@ -259,38 +259,6 @@
       "starts_at": "2026-10-12",
       "first_seen": "2026-10-12",
       "image": "images/deals/big-fish-small-fish-1-for-1-fish-chips-deal-from-12-14-oct-2.jpg"
-    },
-    {
-      "id": "dunkin-s-pore-dozen-day-buy-9-donuts-get-3-free-on-12-oct-20",
-      "title": "Dunkin’ S’pore Dozen Day Buy 9 Donuts, Get 3 Free on 12 Oct 2026",
-      "store": "Dunkin’",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Build a dozen with favourite Dunkin' treats while paying for only nine donuts.",
-      "expiry": "Ends 12 Oct",
-      "heat": 120,
-      "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-dozen-day-buy-9-donuts-get-3-free-on-12-oct-2026-307720/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-dozen-day-buy-9-donuts-get-3-free-on-12-oct-2026-307720/"
-      },
-      "expires_at": "2026-10-12",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-12",
-      "image": "images/deals/dunkin-s-pore-dozen-day-buy-9-donuts-get-3-free-on-12-oct-20.jpg"
     },
     {
       "id": "chagee-s-new-chrysanthemum-milk-tea-arrives-on-october-12-wi",
