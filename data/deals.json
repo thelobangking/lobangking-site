@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-10-14",
   "categories": [
     {
       "id": "all",
@@ -136,7 +136,6 @@
     "Punggol GRC",
     "REFASH",
     "SUSHIRO",
-    "Scoot",
     "Sheng Siong",
     "Shihlin",
     "Singapore Airlines",
@@ -191,40 +190,6 @@
       "image": "images/deals/sheng-siong-housebrand-buy-1-get-1-free-frozen-deals-pwp-sav.jpg",
       "status": "claimed",
       "spotlight": true
-    },
-    {
-      "id": "scoot-s-pore-one-day-sale-has-fares-from-s-80-on-13-oct-2026",
-      "title": "Scoot S’pore One-Day Sale Has Fares from S$80 on 13 Oct 2026",
-      "store": "Scoot",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SCOOT"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Scoot away to Malaysia, Thailand, Australia and Europe with attractive one-way fares from Singapore.",
-      "expiry": "Ends 13 Oct",
-      "heat": 150,
-      "url": "https://singpromos.com/airlines-flights/scoot-spore-one-day-sale-has-fares-from-s80-on-13-oct-2026-307932/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/airlines-flights/scoot-spore-one-day-sale-has-fares-from-s80-on-13-oct-2026-307932/"
-      },
-      "brand": "Scoot",
-      "expires_at": "2026-10-13",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-13",
-      "image": "images/deals/scoot-s-pore-one-day-sale-has-fares-from-s-80-on-13-oct-2026.jpg",
-      "status": "claimed"
     },
     {
       "id": "fully-redeemed-singapore-airlines-s-50-off-return-flights-wi",
