@@ -181,8 +181,8 @@
       "starts_at": "2026-10-13",
       "first_seen": "2026-10-14",
       "image": "images/deals/expired-fully-redeemed-singapore-airlines-s-50-off-return-fl.jpg",
-      "spotlight": true,
-      "status": "claimed"
+      "status": "claimed",
+      "spotlight": true
     },
     {
       "id": "expressvpn-up-to-80-off-vpn-plans-from-us-2-99-month-until-3",
