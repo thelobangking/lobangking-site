@@ -127,6 +127,7 @@
     "Gain City",
     "Giant",
     "HarbourFront Centre",
+    "Harvey Norman",
     "KFC",
     "McDonald's",
     "Moley Apparels",
@@ -148,6 +149,104 @@
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "expired-fully-redeemed-singapore-airlines-s-50-off-return-fl",
+      "title": "(EXPIRED) (Fully Redeemed) Singapore Airlines S$50 OFF Return Flights with DBS/POSB Cards from 13-19 Oct 2026",
+      "store": "Singapore Airlines",
+      "categories": [
+        "travel"
+      ],
+      "icon": "✈️",
+      "badges": [
+        {
+          "type": "new",
+          "label": "SINGAPORE AIRLINES"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Fly for less and enjoy up to S$100 savings on eligible return flight bookings.",
+      "expiry": "Ends 19 Oct",
+      "heat": 140,
+      "url": "https://singpromos.com/airlines-flights/singapore-airlines-s50-off-return-flights-with-dbs-posb-cards-from-13-19-oct-2026-307923/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/airlines-flights/singapore-airlines-s50-off-return-flights-with-dbs-posb-cards-from-13-19-oct-2026-307923/"
+      },
+      "brand": "Singapore Airlines",
+      "expires_at": "2026-10-19",
+      "upcoming": false,
+      "starts_at": "2026-10-13",
+      "first_seen": "2026-10-14",
+      "spotlight": true,
+      "image": "images/deals/expired-fully-redeemed-singapore-airlines-s-50-off-return-fl.jpg"
+    },
+    {
+      "id": "expressvpn-up-to-80-off-vpn-plans-from-us-2-99-month-until-3",
+      "title": "ExpressVPN Up to 80% Off VPN Plans from US$2.99/month until 3 Nov 2026",
+      "store": "ExpressVPN Up to 80%",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "💻",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "80% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Enjoy up to 80% savings on VPN plans with bonus months, privacy tools and security extras.",
+      "expiry": "Ends 3 Nov",
+      "heat": 130,
+      "url": "https://singpromos.com/computers-pc/expressvpn-up-to-80-off-vpn-plans-from-us2-99-month-until-3-nov-2026-307948/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/computers-pc/expressvpn-up-to-80-off-vpn-plans-from-us2-99-month-until-3-nov-2026-307948/"
+      },
+      "expires_at": "2026-11-03",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-14",
+      "image": "images/deals/expressvpn-up-to-80-off-vpn-plans-from-us-2-99-month-until-3.jpg"
+    },
+    {
+      "id": "standard-chartered-s-pore-12-month-time-deposit-up-to-2-p-a-",
+      "title": "Standard Chartered S’pore 12-Month Time Deposit Up To 2% p.a. from 13 Oct 2026",
+      "store": "Standard Chartered",
+      "categories": [
+        "finance"
+      ],
+      "icon": "💳",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Standard Chartered raises all three 12-month deposit rates, with placements starting from S$25,000.",
+      "expiry": "Ongoing",
+      "heat": 115,
+      "url": "https://singpromos.com/banks-credit-cards/standard-chartered-spore-12-month-time-deposit-up-to-2-p-a-from-13-oct-2026-307956/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/banks-credit-cards/standard-chartered-spore-12-month-time-deposit-up-to-2-p-a-from-13-oct-2026-307956/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-10-13",
+      "first_seen": "2026-10-14",
+      "image": "images/deals/standard-chartered-s-pore-12-month-time-deposit-up-to-2-p-a-.jpg"
+    },
     {
       "id": "sheng-siong-housebrand-buy-1-get-1-free-frozen-deals-pwp-sav",
       "title": "Sheng Siong Housebrand Buy-1-Get-1-FREE Frozen Deals & PWP Savings Up to 62% till 19 Oct 2026",
@@ -176,7 +275,7 @@
       },
       "desc": "Enjoy 1-for-1 frozen favourites and save up to $15.95 on PWP household essentials",
       "expiry": "Ends 19 Oct",
-      "heat": 175,
+      "heat": 165,
       "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-housebrand-buy-1-get-1-free-frozen-deals-pwp-savings-up-to-62-till-19-oct-2026-307937/",
       "source": {
         "name": "SINGPromos",
@@ -187,43 +286,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-13",
-      "image": "images/deals/sheng-siong-housebrand-buy-1-get-1-free-frozen-deals-pwp-sav.jpg",
-      "status": "claimed",
-      "spotlight": true
-    },
-    {
-      "id": "fully-redeemed-singapore-airlines-s-50-off-return-flights-wi",
-      "title": "(Fully Redeemed) Singapore Airlines S$50 OFF Return Flights with DBS/POSB Cards from 13-19 Oct 2026",
-      "store": "Singapore Airlines",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SINGAPORE AIRLINES"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Fly for less and enjoy up to S$100 savings on eligible return flight bookings.",
-      "expiry": "Ends 19 Oct",
-      "heat": 145,
-      "url": "https://singpromos.com/airlines-flights/singapore-airlines-s50-off-return-flights-with-dbs-posb-cards-from-13-19-oct-2026-307923/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/airlines-flights/singapore-airlines-s50-off-return-flights-with-dbs-posb-cards-from-13-19-oct-2026-307923/"
-      },
-      "brand": "Singapore Airlines",
-      "expires_at": "2026-10-19",
-      "upcoming": false,
-      "starts_at": "2026-10-13",
-      "first_seen": "2026-10-13",
-      "image": "images/deals/fully-redeemed-singapore-airlines-s-50-off-return-flights-wi.jpg",
-      "status": "claimed"
+      "image": "images/deals/sheng-siong-housebrand-buy-1-get-1-free-frozen-deals-pwp-sav.jpg"
     },
     {
       "id": "kfc-singapore-s-new-1-for-1-deal-gets-you-12-japanese-nanban",
@@ -249,7 +312,7 @@
       },
       "desc": "More bites for your buck with KFC's latest offer.",
       "expiry": "Check link for dates",
-      "heat": 105,
+      "heat": 100,
       "url": "https://www.greatdeals.com.sg/2026/10/12/kfc-1-for-1-japanese-nanban-chicken-bites-october-2026",
       "source": {
         "name": "Great Deals Singapore",
@@ -282,7 +345,7 @@
       },
       "desc": "Six- and 12-month standalone rates rise, with placements from S$20,000.",
       "expiry": "Ongoing",
-      "heat": 100,
+      "heat": 95,
       "url": "https://singpromos.com/banks-credit-cards/maybank-spore-standalone-sgd-time-deposit-rates-now-up-to-2-p-a-from-13-oct-2026-307907/",
       "source": {
         "name": "SINGPromos",
@@ -292,8 +355,7 @@
       "upcoming": false,
       "starts_at": "2026-10-13",
       "first_seen": "2026-10-13",
-      "image": "images/deals/maybank-s-pore-standalone-sgd-time-deposit-rates-now-up-to-2.jpg",
-      "status": "claimed"
+      "image": "images/deals/maybank-s-pore-standalone-sgd-time-deposit-rates-now-up-to-2.jpg"
     },
     {
       "id": "dry-dull-hair-give-your-scalp-hair-a-collagen-boost-with-jus",
@@ -315,7 +377,7 @@
       },
       "desc": "Beijing 101's Collagen Scalp Therapy is now at $50 only (U.P. $500)",
       "expiry": "Check link for dates",
-      "heat": 95,
+      "heat": 90,
       "url": "https://singpromos.com/beauty/dry-dull-hair-give-your-scalp-hair-a-collagen-boost-with-just-50-307214/",
       "source": {
         "name": "SINGPromos",
@@ -325,41 +387,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-13",
-      "image": "images/deals/dry-dull-hair-give-your-scalp-hair-a-collagen-boost-with-jus.jpg",
-      "status": "claimed"
-    },
-    {
-      "id": "icbc-singapore-fresh-funds-promo-fd-offers-up-to-1-85-p-a-fr",
-      "title": "ICBC Singapore Fresh Funds Promo FD offers up to 1.85% p.a. from 12 Oct 2026",
-      "store": "ICBC",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "Earn up to 1.85% p.a. on fresh SGD funds, with online fixed deposits starting from just S$500.",
-      "expiry": "Ongoing",
-      "heat": 90,
-      "url": "https://singpromos.com/banks-credit-cards/icbc-singapore-fresh-funds-promo-fd-offers-up-to-1-85-p-a-from-12-oct-2026-307903/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/icbc-singapore-fresh-funds-promo-fd-offers-up-to-1-85-p-a-from-12-oct-2026-307903/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-10-12",
-      "first_seen": "2026-10-13",
-      "image": "images/deals/icbc-singapore-fresh-funds-promo-fd-offers-up-to-1-85-p-a-fr.jpg",
-      "status": "claimed"
+      "image": "images/deals/dry-dull-hair-give-your-scalp-hair-a-collagen-boost-with-jus.jpg"
     },
     {
       "id": "kfc-s-pore-1-for-1-japanese-nanban-chicken-bites-every-wed-t",
@@ -385,7 +413,7 @@
       },
       "desc": "Get 12 saucy Japanese Nanban Chicken Bites for just $6.95",
       "expiry": "Ongoing",
-      "heat": 140,
+      "heat": 135,
       "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-1-for-1-japanese-nanban-chicken-bites-every-wed-thu-fri-from-14-oct-2026-307881/",
       "source": {
         "name": "SINGPromos",
@@ -393,11 +421,10 @@
       },
       "brand": "KFC",
       "expires_at": "",
-      "upcoming": true,
+      "upcoming": false,
       "starts_at": "2026-10-14",
       "first_seen": "2026-10-12",
-      "image": "images/deals/kfc-s-pore-1-for-1-japanese-nanban-chicken-bites-every-wed-t.jpg",
-      "status": "claimed"
+      "image": "images/deals/kfc-s-pore-1-for-1-japanese-nanban-chicken-bites-every-wed-t.jpg"
     },
     {
       "id": "mcdonald-s-s-pore-free-vanilla-cone-with-meal-purchase-till-",
@@ -423,7 +450,7 @@
       },
       "desc": "PSLE Marking Day app promotion",
       "expiry": "Ends 14 Oct",
-      "heat": 135,
+      "heat": 130,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-free-vanilla-cone-with-meal-purchase-till-14-oct-2026-307872/",
       "source": {
         "name": "SINGPromos",
@@ -434,45 +461,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-12",
-      "image": "images/deals/mcdonald-s-s-pore-free-vanilla-cone-with-meal-purchase-till-.jpg",
-      "status": "claimed"
-    },
-    {
-      "id": "big-fish-small-fish-1-for-1-fish-chips-deal-from-12-14-oct-2",
-      "title": "Big Fish Small Fish 1-for-1 Fish & Chips Deal from 12-14 Oct 2026",
-      "store": "Big Fish Small Fish",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Available at all four outlets for members (free membership)",
-      "expiry": "Ends 14 Oct",
-      "heat": 90,
-      "url": "https://singpromos.com/dining-restaurants-food/big-fish-small-fish-1-for-1-fish-chips-deal-from-12-14-oct-2026-307868/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/big-fish-small-fish-1-for-1-fish-chips-deal-from-12-14-oct-2026-307868/"
-      },
-      "expires_at": "2026-10-14",
-      "upcoming": false,
-      "starts_at": "2026-10-12",
-      "first_seen": "2026-10-12",
-      "image": "images/deals/big-fish-small-fish-1-for-1-fish-chips-deal-from-12-14-oct-2.jpg",
-      "status": "claimed"
+      "image": "images/deals/mcdonald-s-s-pore-free-vanilla-cone-with-meal-purchase-till-.jpg"
     },
     {
       "id": "starbucks-s-pore-2nd-venti-drink-at-just-1-from-12-15-oct-20",
@@ -494,7 +483,7 @@
       },
       "desc": "Enjoy more coffee for less",
       "expiry": "Ends 15 Oct",
-      "heat": 105,
+      "heat": 100,
       "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-2nd-venti-drink-at-just-1-from-12-15-oct-2026-2-8pm-307849/",
       "source": {
         "name": "SINGPromos",
@@ -505,8 +494,7 @@
       "upcoming": false,
       "starts_at": "2026-10-12",
       "first_seen": "2026-10-11",
-      "image": "images/deals/starbucks-s-pore-2nd-venti-drink-at-just-1-from-12-15-oct-20.jpg",
-      "status": "claimed"
+      "image": "images/deals/starbucks-s-pore-2nd-venti-drink-at-just-1-from-12-15-oct-20.jpg"
     },
     {
       "id": "mandai-rainforest-resort-marks-first-anniversary-with-up-to-",
@@ -802,6 +790,42 @@
       "first_seen": "2026-09-04"
     },
     {
+      "id": "harvey-norman-throwing-2-day-kopitiam-party-with-free-local-",
+      "title": "Harvey Norman throwing 2-day kopitiam party with free local delights, big discounts & sure-win prizes - Must Share News",
+      "store": "Harvey Norman",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "💻",
+      "badges": [
+        {
+          "type": "new",
+          "label": "HARVEY NORMAN"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Harvey Norman throwing 2-day kopitiam party with free local delights, big discounts & sure-win prizes Must Share News",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sMkJkZUx2MVNPR003d0h0MHdDTjZhV29sU1hBSVNOQ1RHd1RGOFMxQWhoSHh0YktxOVI2MGEtczhlTXR2eld5dHVRMTZMU0VFcEIySEczcHdkRkZNaUEwSjBOZU5WZ9IBa0FVX3lxTE5kOUFpY3Z3UUNQWFZ3LW5HRUNkUUItRUZOdUw1cHhjT3d1RVNkelRpSGU4OW1OTWdTVWhkWFZmU05RZjBHV2NFOUNNNElFOVVZa09NUG5yRldXRXpMaC1KNEphVmZIdlVLbWdF?oc=5",
+      "source": {
+        "name": "Must Share News",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sMkJkZUx2MVNPR003d0h0MHdDTjZhV29sU1hBSVNOQ1RHd1RGOFMxQWhoSHh0YktxOVI2MGEtczhlTXR2eld5dHVRMTZMU0VFcEIySEczcHdkRkZNaUEwSjBOZU5WZ9IBa0FVX3lxTE5kOUFpY3Z3UUNQWFZ3LW5HRUNkUUItRUZOdUw1cHhjT3d1RVNkelRpSGU4OW1OTWdTVWhkWFZmU05RZjBHV2NFOUNNNElFOVVZa09NUG5yRldXRXpMaC1KNEphVmZIdlVLbWdF?oc=5"
+      },
+      "brand": "Harvey Norman",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-08-31"
+    },
+    {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
       "title": "Decathlon Singapore hosting second-hand bike festival with refurbished bikes up to 80% off - CNA Lifestyle",
       "store": "Decathlon",
@@ -1011,8 +1035,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1078,8 +1101,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
