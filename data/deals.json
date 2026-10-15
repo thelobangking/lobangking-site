@@ -385,7 +385,8 @@
       "upcoming": false,
       "starts_at": "2026-10-13",
       "first_seen": "2026-10-14",
-      "image": "images/deals/expired-fully-redeemed-singapore-airlines-s-50-off-return-fl.jpg"
+      "image": "images/deals/expired-fully-redeemed-singapore-airlines-s-50-off-return-fl.jpg",
+      "status": "claimed"
     },
     {
       "id": "expressvpn-up-to-80-off-vpn-plans-from-us-2-99-month-until-3",
@@ -999,7 +1000,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1065,7 +1067,8 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg"
+      "image": "images/deals/challenger-ms365.jpg",
+      "status": "claimed"
     },
     {
       "id": "courts-get7",
