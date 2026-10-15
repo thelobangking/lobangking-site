@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "categories": [
     {
       "id": "all",
@@ -426,43 +426,6 @@
       "starts_at": "2026-10-14",
       "first_seen": "2026-10-12",
       "image": "images/deals/kfc-s-pore-1-for-1-japanese-nanban-chicken-bites-every-wed-t.jpg"
-    },
-    {
-      "id": "mcdonald-s-s-pore-free-vanilla-cone-with-meal-purchase-till-",
-      "title": "McDonald’s S’pore FREE Vanilla Cone with meal purchase till 14 Oct 2026",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "PSLE Marking Day app promotion",
-      "expiry": "Ends 14 Oct",
-      "heat": 130,
-      "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-free-vanilla-cone-with-meal-purchase-till-14-oct-2026-307872/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-free-vanilla-cone-with-meal-purchase-till-14-oct-2026-307872/"
-      },
-      "brand": "McDonald's",
-      "expires_at": "2026-10-14",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-12",
-      "image": "images/deals/mcdonald-s-s-pore-free-vanilla-cone-with-meal-purchase-till-.jpg"
     },
     {
       "id": "starbucks-s-pore-2nd-venti-drink-at-just-1-from-12-15-oct-20",
