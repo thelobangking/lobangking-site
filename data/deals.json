@@ -116,6 +116,7 @@
     "4Fingers",
     "BEST Denki",
     "BreadTalk",
+    "Burger King",
     "Chagee",
     "Challenger",
     "Cotton On",
@@ -150,6 +151,210 @@
   ],
   "deals": [
     {
+      "id": "burger-king-s-pore-7-95-quarter-chicken-leg-drink-2-kitkat-d",
+      "title": "Burger King S’pore $7.95 Quarter Chicken Leg & Drink, $2 KitKat Drink Deals Till 1 Nov 2026",
+      "store": "Burger King",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "BURGER KING"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Enjoy Hot KitKat, Iced KitKat and a chicken meal at special prices with these BK app rewards.",
+      "expiry": "Ends 1 Nov",
+      "heat": 150,
+      "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-7-95-quarter-chicken-leg-drink-2-kitkat-drink-deals-till-1-nov-2026-308000/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-7-95-quarter-chicken-leg-drink-2-kitkat-drink-deals-till-1-nov-2026-308000/"
+      },
+      "brand": "Burger King",
+      "expires_at": "2026-11-01",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-15",
+      "spotlight": true,
+      "image": "images/deals/burger-king-s-pore-7-95-quarter-chicken-leg-drink-2-kitkat-d.jpg"
+    },
+    {
+      "id": "sheng-siong-price-drop-up-to-57-off-free-5-voucher-until-19-",
+      "title": "Sheng Siong Price Drop Up to 57% Off + Free $5 Voucher until 19 Oct 2026",
+      "store": "Sheng Siong",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "SHENG SIONG"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        },
+        {
+          "type": "discount",
+          "label": "57% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Save $13.30 on Dettol body wash, enjoy up to 57% off and get a free $5 voucher with $50 spend.",
+      "expiry": "Ends 19 Oct",
+      "heat": 150,
+      "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-price-drop-up-to-57-off-free-5-voucher-until-19-oct-2026-307980/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-price-drop-up-to-57-off-free-5-voucher-until-19-oct-2026-307980/"
+      },
+      "brand": "Sheng Siong",
+      "expires_at": "2026-10-19",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-15",
+      "image": "images/deals/sheng-siong-price-drop-up-to-57-off-free-5-voucher-until-19-.jpg"
+    },
+    {
+      "id": "starbucks-s-pore-disney-winnie-the-pooh-collection-at-14-90-",
+      "title": "Starbucks S’pore Disney Winnie the Pooh Collection at $14.90 onwards from 20 Oct 2026",
+      "store": "Starbucks",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "STARBUCKS"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Discover adorable Pooh-themed tumblers, mugs and collectibles celebrating 100 years of friendship.",
+      "expiry": "Ongoing",
+      "heat": 145,
+      "url": "https://singpromos.com/household/starbucks-spore-disney-winnie-the-pooh-collection-from-20-oct-2026-14-90-onwards-308008/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/household/starbucks-spore-disney-winnie-the-pooh-collection-from-20-oct-2026-14-90-onwards-308008/"
+      },
+      "brand": "Starbucks",
+      "expires_at": "",
+      "upcoming": true,
+      "starts_at": "2026-10-20",
+      "first_seen": "2026-10-15",
+      "image": "images/deals/starbucks-s-pore-disney-winnie-the-pooh-collection-at-14-90-.jpg"
+    },
+    {
+      "id": "wingstop-s-pore-50-off-large-mushroom-fritters-on-15-oct-202",
+      "title": "Wingstop S’pore 50% Off Large Mushroom Fritters on 15 Oct 2026 Only",
+      "store": "Wingstop",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "50% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Celebrate National Mushroom Day with half-price Large Mushroom Fritters",
+      "expiry": "Ends 15 Oct",
+      "heat": 120,
+      "url": "https://singpromos.com/dining-restaurants-food/wingstop-spore-50-off-large-mushroom-fritters-on-15-oct-2026-only-307842/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/wingstop-spore-50-off-large-mushroom-fritters-on-15-oct-2026-only-307842/"
+      },
+      "expires_at": "2026-10-15",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-15",
+      "image": "images/deals/wingstop-s-pore-50-off-large-mushroom-fritters-on-15-oct-202.jpg"
+    },
+    {
+      "id": "hl-bank-s-pore-up-to-2-15-p-a-fixed-deposit-promo-rates-from",
+      "title": "HL Bank S’pore Up to 2.15% p.a. Fixed Deposit Promo Rates from 14 Oct 2026",
+      "store": "HL Bank",
+      "categories": [
+        "finance"
+      ],
+      "icon": "💳",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — see source link to claim"
+      },
+      "desc": "Lock in up to 2.15% p.a. on SGD fixed deposits with online placements from just S$10,000.",
+      "expiry": "Ongoing",
+      "heat": 115,
+      "url": "https://singpromos.com/banks-credit-cards/hl-bank-spore-up-to-2-15-p-a-fixed-deposit-promo-rates-from-14-oct-2026-308031/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/banks-credit-cards/hl-bank-spore-up-to-2-15-p-a-fixed-deposit-promo-rates-from-14-oct-2026-308031/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-10-14",
+      "first_seen": "2026-10-15",
+      "image": "images/deals/hl-bank-s-pore-up-to-2-15-p-a-fixed-deposit-promo-rates-from.jpg"
+    },
+    {
+      "id": "pastamania-world-pasta-day-1-for-1-pasta-promo-from-19-23-oc",
+      "title": "PastaMania World Pasta Day 1-for-1 Pasta Promo from 19-23 Oct 2026",
+      "store": "PastaMania World Pasta Day",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Double the pasta with a 1-for-1 treat",
+      "expiry": "Ends 23 Oct",
+      "heat": 115,
+      "url": "https://singpromos.com/dining-restaurants-food/pastamania-world-pasta-day-1-for-1-pasta-promo-from-19-23-oct-2026-307545/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/pastamania-world-pasta-day-1-for-1-pasta-promo-from-19-23-oct-2026-307545/"
+      },
+      "expires_at": "2026-10-23",
+      "upcoming": true,
+      "starts_at": "2026-10-19",
+      "first_seen": "2026-10-15",
+      "image": "images/deals/pastamania-world-pasta-day-1-for-1-pasta-promo-from-19-23-oc.jpg"
+    },
+    {
       "id": "expired-fully-redeemed-singapore-airlines-s-50-off-return-fl",
       "title": "(EXPIRED) (Fully Redeemed) Singapore Airlines S$50 OFF Return Flights with DBS/POSB Cards from 13-19 Oct 2026",
       "store": "Singapore Airlines",
@@ -169,7 +374,7 @@
       },
       "desc": "Fly for less and enjoy up to S$100 savings on eligible return flight bookings.",
       "expiry": "Ends 19 Oct",
-      "heat": 140,
+      "heat": 105,
       "url": "https://singpromos.com/airlines-flights/singapore-airlines-s50-off-return-flights-with-dbs-posb-cards-from-13-19-oct-2026-307923/",
       "source": {
         "name": "SINGPromos",
@@ -180,9 +385,7 @@
       "upcoming": false,
       "starts_at": "2026-10-13",
       "first_seen": "2026-10-14",
-      "image": "images/deals/expired-fully-redeemed-singapore-airlines-s-50-off-return-fl.jpg",
-      "status": "claimed",
-      "spotlight": true
+      "image": "images/deals/expired-fully-redeemed-singapore-airlines-s-50-off-return-fl.jpg"
     },
     {
       "id": "expressvpn-up-to-80-off-vpn-plans-from-us-2-99-month-until-3",
@@ -204,7 +407,7 @@
       },
       "desc": "Enjoy up to 80% savings on VPN plans with bonus months, privacy tools and security extras.",
       "expiry": "Ends 3 Nov",
-      "heat": 130,
+      "heat": 95,
       "url": "https://singpromos.com/computers-pc/expressvpn-up-to-80-off-vpn-plans-from-us2-99-month-until-3-nov-2026-307948/",
       "source": {
         "name": "SINGPromos",
@@ -215,38 +418,6 @@
       "starts_at": "",
       "first_seen": "2026-10-14",
       "image": "images/deals/expressvpn-up-to-80-off-vpn-plans-from-us-2-99-month-until-3.jpg"
-    },
-    {
-      "id": "standard-chartered-s-pore-12-month-time-deposit-up-to-2-p-a-",
-      "title": "Standard Chartered S’pore 12-Month Time Deposit Up To 2% p.a. from 13 Oct 2026",
-      "store": "Standard Chartered",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Standard Chartered raises all three 12-month deposit rates, with placements starting from S$25,000.",
-      "expiry": "Ongoing",
-      "heat": 115,
-      "url": "https://singpromos.com/banks-credit-cards/standard-chartered-spore-12-month-time-deposit-up-to-2-p-a-from-13-oct-2026-307956/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/standard-chartered-spore-12-month-time-deposit-up-to-2-p-a-from-13-oct-2026-307956/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-10-13",
-      "first_seen": "2026-10-14",
-      "image": "images/deals/standard-chartered-s-pore-12-month-time-deposit-up-to-2-p-a-.jpg"
     },
     {
       "id": "sheng-siong-housebrand-buy-1-get-1-free-frozen-deals-pwp-sav",
@@ -276,7 +447,7 @@
       },
       "desc": "Enjoy 1-for-1 frozen favourites and save up to $15.95 on PWP household essentials",
       "expiry": "Ends 19 Oct",
-      "heat": 165,
+      "heat": 130,
       "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-housebrand-buy-1-get-1-free-frozen-deals-pwp-savings-up-to-62-till-19-oct-2026-307937/",
       "source": {
         "name": "SINGPromos",
@@ -313,7 +484,7 @@
       },
       "desc": "More bites for your buck with KFC's latest offer.",
       "expiry": "Check link for dates",
-      "heat": 100,
+      "heat": 90,
       "url": "https://www.greatdeals.com.sg/2026/10/12/kfc-1-for-1-japanese-nanban-chicken-bites-october-2026",
       "source": {
         "name": "Great Deals Singapore",
@@ -325,177 +496,6 @@
       "starts_at": "",
       "first_seen": "2026-10-13",
       "image": "images/deals/kfc-singapore-s-new-1-for-1-deal-gets-you-12-japanese-nanban.jpg"
-    },
-    {
-      "id": "maybank-s-pore-standalone-sgd-time-deposit-rates-now-up-to-2",
-      "title": "Maybank S’pore standalone SGD Time Deposit rates now up to 2% p.a. from 13 Oct 2026",
-      "store": "Maybank",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Six- and 12-month standalone rates rise, with placements from S$20,000.",
-      "expiry": "Ongoing",
-      "heat": 95,
-      "url": "https://singpromos.com/banks-credit-cards/maybank-spore-standalone-sgd-time-deposit-rates-now-up-to-2-p-a-from-13-oct-2026-307907/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/maybank-spore-standalone-sgd-time-deposit-rates-now-up-to-2-p-a-from-13-oct-2026-307907/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-10-13",
-      "first_seen": "2026-10-13",
-      "image": "images/deals/maybank-s-pore-standalone-sgd-time-deposit-rates-now-up-to-2.jpg"
-    },
-    {
-      "id": "dry-dull-hair-give-your-scalp-hair-a-collagen-boost-with-jus",
-      "title": "Dry, Dull Hair? Give Your Scalp & Hair a Collagen Boost with just $50!",
-      "store": "Dry, Dull Hair? Give",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Beijing 101's Collagen Scalp Therapy is now at $50 only (U.P. $500)",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://singpromos.com/beauty/dry-dull-hair-give-your-scalp-hair-a-collagen-boost-with-just-50-307214/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/beauty/dry-dull-hair-give-your-scalp-hair-a-collagen-boost-with-just-50-307214/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-13",
-      "image": "images/deals/dry-dull-hair-give-your-scalp-hair-a-collagen-boost-with-jus.jpg"
-    },
-    {
-      "id": "kfc-s-pore-1-for-1-japanese-nanban-chicken-bites-every-wed-t",
-      "title": "KFC S’pore 1-for-1 Japanese Nanban Chicken Bites Every Wed, Thu & Fri from 14 Oct 2026",
-      "store": "KFC",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "KFC"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Get 12 saucy Japanese Nanban Chicken Bites for just $6.95",
-      "expiry": "Ongoing",
-      "heat": 135,
-      "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-1-for-1-japanese-nanban-chicken-bites-every-wed-thu-fri-from-14-oct-2026-307881/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-1-for-1-japanese-nanban-chicken-bites-every-wed-thu-fri-from-14-oct-2026-307881/"
-      },
-      "brand": "KFC",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-10-14",
-      "first_seen": "2026-10-12",
-      "image": "images/deals/kfc-s-pore-1-for-1-japanese-nanban-chicken-bites-every-wed-t.jpg"
-    },
-    {
-      "id": "starbucks-s-pore-2nd-venti-drink-at-just-1-from-12-15-oct-20",
-      "title": "Starbucks S’pore 2nd Venti Drink at Just $1 from 12-15 Oct 2026, 2-8pm",
-      "store": "Starbucks",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "STARBUCKS"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy more coffee for less",
-      "expiry": "Ends 15 Oct",
-      "heat": 100,
-      "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-2nd-venti-drink-at-just-1-from-12-15-oct-2026-2-8pm-307849/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-2nd-venti-drink-at-just-1-from-12-15-oct-2026-2-8pm-307849/"
-      },
-      "brand": "Starbucks",
-      "expires_at": "2026-10-15",
-      "upcoming": false,
-      "starts_at": "2026-10-12",
-      "first_seen": "2026-10-11",
-      "image": "images/deals/starbucks-s-pore-2nd-venti-drink-at-just-1-from-12-15-oct-20.jpg"
-    },
-    {
-      "id": "mandai-rainforest-resort-marks-first-anniversary-with-up-to-",
-      "title": "Mandai Rainforest Resort Marks First Anniversary With Up to 45% OFF Stays From $229 In November",
-      "store": "Singapore Zoo",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SINGAPORE ZOO"
-        },
-        {
-          "type": "discount",
-          "label": "45% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Escape to Mandai from $229 this November.",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://www.greatdeals.com.sg/2026/10/07/mandai-rainforest-resort-banyan-tree-anniversary-promo-november-2026",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://www.greatdeals.com.sg/2026/10/07/mandai-rainforest-resort-banyan-tree-anniversary-promo-november-2026"
-      },
-      "brand": "Singapore Zoo",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-08",
-      "image": "images/deals/mandai-rainforest-resort-marks-first-anniversary-with-up-to-.jpg"
     },
     {
       "id": "don-don-donki-grabmart-spooky-deals-up-to-30-off-plus-20-off",
@@ -999,8 +999,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1066,8 +1065,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
