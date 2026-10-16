@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "categories": [
     {
       "id": "all",
@@ -128,7 +128,6 @@
     "Gain City",
     "Giant",
     "HarbourFront Centre",
-    "Harvey Norman",
     "KFC",
     "McDonald's",
     "Moley Apparels",
@@ -257,38 +256,6 @@
       "starts_at": "2026-10-20",
       "first_seen": "2026-10-15",
       "image": "images/deals/starbucks-s-pore-disney-winnie-the-pooh-collection-at-14-90-.jpg"
-    },
-    {
-      "id": "wingstop-s-pore-50-off-large-mushroom-fritters-on-15-oct-202",
-      "title": "Wingstop S’pore 50% Off Large Mushroom Fritters on 15 Oct 2026 Only",
-      "store": "Wingstop",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Celebrate National Mushroom Day with half-price Large Mushroom Fritters",
-      "expiry": "Ends 15 Oct",
-      "heat": 120,
-      "url": "https://singpromos.com/dining-restaurants-food/wingstop-spore-50-off-large-mushroom-fritters-on-15-oct-2026-only-307842/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/wingstop-spore-50-off-large-mushroom-fritters-on-15-oct-2026-only-307842/"
-      },
-      "expires_at": "2026-10-15",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-15",
-      "image": "images/deals/wingstop-s-pore-50-off-large-mushroom-fritters-on-15-oct-202.jpg"
     },
     {
       "id": "hl-bank-s-pore-up-to-2-15-p-a-fixed-deposit-promo-rates-from",
@@ -753,42 +720,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-04"
-    },
-    {
-      "id": "harvey-norman-throwing-2-day-kopitiam-party-with-free-local-",
-      "title": "Harvey Norman throwing 2-day kopitiam party with free local delights, big discounts & sure-win prizes - Must Share News",
-      "store": "Harvey Norman",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "💻",
-      "badges": [
-        {
-          "type": "new",
-          "label": "HARVEY NORMAN"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Harvey Norman throwing 2-day kopitiam party with free local delights, big discounts & sure-win prizes Must Share News",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sMkJkZUx2MVNPR003d0h0MHdDTjZhV29sU1hBSVNOQ1RHd1RGOFMxQWhoSHh0YktxOVI2MGEtczhlTXR2eld5dHVRMTZMU0VFcEIySEczcHdkRkZNaUEwSjBOZU5WZ9IBa0FVX3lxTE5kOUFpY3Z3UUNQWFZ3LW5HRUNkUUItRUZOdUw1cHhjT3d1RVNkelRpSGU4OW1OTWdTVWhkWFZmU05RZjBHV2NFOUNNNElFOVVZa09NUG5yRldXRXpMaC1KNEphVmZIdlVLbWdF?oc=5",
-      "source": {
-        "name": "Must Share News",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sMkJkZUx2MVNPR003d0h0MHdDTjZhV29sU1hBSVNOQ1RHd1RGOFMxQWhoSHh0YktxOVI2MGEtczhlTXR2eld5dHVRMTZMU0VFcEIySEczcHdkRkZNaUEwSjBOZU5WZ9IBa0FVX3lxTE5kOUFpY3Z3UUNQWFZ3LW5HRUNkUUItRUZOdUw1cHhjT3d1RVNkelRpSGU4OW1OTWdTVWhkWFZmU05RZjBHV2NFOUNNNElFOVVZa09NUG5yRldXRXpMaC1KNEphVmZIdlVLbWdF?oc=5"
-      },
-      "brand": "Harvey Norman",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-08-31"
     },
     {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
