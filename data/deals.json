@@ -121,7 +121,6 @@
     "Challenger",
     "Cotton On",
     "Courts",
-    "Decathlon",
     "Don Don Donki",
     "Eu Yan Sang",
     "FairPrice",
@@ -138,7 +137,6 @@
     "Punggol GRC",
     "REFASH",
     "SUSHIRO",
-    "Sheng Siong",
     "Shihlin",
     "Singapore Zoo",
     "Starbucks",
@@ -149,6 +147,135 @@
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "nasty-cookie-50-off-big-mini-crispy-and-dubai-chewy-cookies-",
+      "title": "Nasty Cookie 50% off Big, Mini Crispy and Dubai Chewy Cookies at OrchardGateway on 17 Oct 2026",
+      "store": "Nasty Cookie 50% off",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "50% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Celebrate Nasty Cookie's birthday with half-price cookies at OrchardGateway for one day only!",
+      "expiry": "Ends 17 Oct",
+      "heat": 125,
+      "url": "https://singpromos.com/dining-restaurants-food/nasty-cookie-50-off-big-mini-crispy-and-dubai-chewy-cookies-at-orchardgateway-on-17-oct-2026-308102/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/nasty-cookie-50-off-big-mini-crispy-and-dubai-chewy-cookies-at-orchardgateway-on-17-oct-2026-308102/"
+      },
+      "expires_at": "2026-10-17",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-17",
+      "spotlight": true,
+      "image": "images/deals/nasty-cookie-50-off-big-mini-crispy-and-dubai-chewy-cookies-.jpg"
+    },
+    {
+      "id": "cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-15-p-a-",
+      "title": "CIMB Singapore SGD fixed deposit rates offer up to 2.15% p.a. from 17 Oct 2026",
+      "store": "CIMB",
+      "categories": [
+        "finance"
+      ],
+      "icon": "💳",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Enjoy higher 9- and 12-month rates, with extra interest for Preferred Banking and placements from S$10,000.",
+      "expiry": "Ongoing",
+      "heat": 115,
+      "url": "https://singpromos.com/banks-credit-cards/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-15-p-a-from-17-oct-2026-308162/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/banks-credit-cards/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-15-p-a-from-17-oct-2026-308162/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-10-17",
+      "first_seen": "2026-10-17",
+      "image": "images/deals/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-15-p-a-.jpg"
+    },
+    {
+      "id": "singfinance-fresh-fund-fixed-deposit-offers-up-to-1-8-p-a-fr",
+      "title": "SingFinance Fresh-Fund Fixed Deposit Offers Up To 1.8% p.a. from 16 Oct 2026",
+      "store": "SingFinance Fresh-Fund Fixed Deposit",
+      "categories": [
+        "finance"
+      ],
+      "icon": "💳",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — see source link to claim"
+      },
+      "desc": "Earn up to 1.8% p.a. across four tenors, with fresh-fund placements starting from S$1,000 online.",
+      "expiry": "Ongoing",
+      "heat": 110,
+      "url": "https://singpromos.com/banks-credit-cards/singfinance-fresh-fund-fixed-deposit-offers-up-to-1-8-p-a-from-16-oct-2026-308149/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/banks-credit-cards/singfinance-fresh-fund-fixed-deposit-offers-up-to-1-8-p-a-from-16-oct-2026-308149/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-10-16",
+      "first_seen": "2026-10-17",
+      "image": "images/deals/singfinance-fresh-fund-fixed-deposit-offers-up-to-1-8-p-a-fr.jpg"
+    },
+    {
+      "id": "new-simplygo-ez-link-buttercup-and-kuromi-charms-from-16-oct",
+      "title": "New SimplyGo EZ-Link Buttercup and Kuromi Charms from 16 Oct 2026",
+      "store": "New SimplyGo EZ-Link Buttercup",
+      "categories": [
+        "transport"
+      ],
+      "icon": "🚗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Add a little cuteness to every commute with these adorable crossover EZ-Link charms at just $14.90!",
+      "expiry": "Ongoing",
+      "heat": 100,
+      "url": "https://singpromos.com/motor-vehicles/new-simplygo-ez-link-buttercup-and-kuromi-charms-from-16-oct-2026-308136/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/motor-vehicles/new-simplygo-ez-link-buttercup-and-kuromi-charms-from-16-oct-2026-308136/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-10-16",
+      "first_seen": "2026-10-17",
+      "image": "images/deals/new-simplygo-ez-link-buttercup-and-kuromi-charms-from-16-oct.jpg"
+    },
     {
       "id": "mcdonald-s-s-pore-free-4pc-mcnuggets-with-selected-feasts-ti",
       "title": "McDonald’s S’pore FREE 4pc McNuggets with selected Feasts till 4 Nov 2026",
@@ -173,7 +300,7 @@
       },
       "desc": "Get FREE 4pc Chicken McNuggets with selected double-patty Feasts",
       "expiry": "Ends 4 Nov",
-      "heat": 175,
+      "heat": 155,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-free-4pc-mcnuggets-with-selected-feasts-till-4-nov-2026-308029/",
       "source": {
         "name": "SINGPromos",
@@ -184,8 +311,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-16",
-      "image": "images/deals/mcdonald-s-s-pore-free-4pc-mcnuggets-with-selected-feasts-ti.jpg",
-      "spotlight": true
+      "image": "images/deals/mcdonald-s-s-pore-free-4pc-mcnuggets-with-selected-feasts-ti.jpg"
     },
     {
       "id": "mcdonald-s-s-pore-new-chilli-lime-mcsaver-meals-at-5-80-onwa",
@@ -207,7 +333,7 @@
       },
       "desc": "Zesty lime meets mild chilli heat in three new burgers",
       "expiry": "Ongoing",
-      "heat": 145,
+      "heat": 125,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-new-chilli-lime-mcsaver-meals-at-5-80-onwards-from-15-oct-2026-308121/",
       "source": {
         "name": "SINGPromos",
@@ -244,7 +370,7 @@
       },
       "desc": "Score half-price Magnolia Mag-A-Cone ice cream with Link membership, plus Ben & Jerry's savings.",
       "expiry": "Ends 21 Oct",
-      "heat": 145,
+      "heat": 125,
       "url": "https://singpromos.com/dining-restaurants-food/fairprice-50-off-magnolia-mag-a-cone-for-members-3-for-24-50-ben-jerrys-till-21-oct-2026-308063/",
       "source": {
         "name": "SINGPromos",
@@ -277,7 +403,7 @@
       },
       "desc": "A fiery comeback brings loaded fries from $3.95 and a cheesy macaroni bowl set for just $5.50.",
       "expiry": "Ongoing",
-      "heat": 140,
+      "heat": 120,
       "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-samyang-buldak-carbonara-loaded-fries-5-50-bowl-from-21-oct-2026-308109/",
       "source": {
         "name": "SINGPromos",
@@ -314,7 +440,7 @@
       },
       "desc": "Save 50% on selected supplements, 52% on shampoo and enjoy more bundle deals",
       "expiry": "Ends 21 Oct",
-      "heat": 130,
+      "heat": 110,
       "url": "https://singpromos.com/health/unity-pharmacy-up-to-52-off-deals-plus-buy-2-get-1-free-till-21-oct-2026-308095/",
       "source": {
         "name": "SINGPromos",
@@ -346,7 +472,7 @@
       },
       "desc": "Transform mealtime into playtime with eight collectible robots and dinosaurs",
       "expiry": "Ends 11 Nov",
-      "heat": 120,
+      "heat": 100,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-robots-happy-meal-toys-from-15-oct-till-11-nov-2026-308042/",
       "source": {
         "name": "SINGPromos",
@@ -379,7 +505,7 @@
       },
       "desc": "Fuel up for less",
       "expiry": "Ends 18 Oct",
-      "heat": 115,
+      "heat": 95,
       "url": "https://singpromos.com/motor-vehicles/shell-spore-go-members-enjoy-23-off-fuel-with-all-bank-cards-from-16-18-oct-2026-308081/",
       "source": {
         "name": "SINGPromos",
@@ -415,7 +541,7 @@
       },
       "desc": "Enjoy Haagen-Dazs ice cream, buy-one-get-one-free treats, snack bargains and grocery savings",
       "expiry": "Ends 21 Oct",
-      "heat": 110,
+      "heat": 90,
       "url": "https://singpromos.com/dining-restaurants-food/giant-spore-has-haagen-dazs-3-for-25-dynamo-59-off-more-deals-till-21-oct-2026-308071/",
       "source": {
         "name": "SINGPromos",
@@ -426,47 +552,6 @@
       "starts_at": "",
       "first_seen": "2026-10-16",
       "image": "images/deals/giant-s-pore-has-haagen-dazs-3-for-25-dynamo-59-off-more-dea.jpg"
-    },
-    {
-      "id": "sheng-siong-price-drop-up-to-57-off-free-5-voucher-until-19-",
-      "title": "Sheng Siong Price Drop Up to 57% Off + Free $5 Voucher until 19 Oct 2026",
-      "store": "Sheng Siong",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SHENG SIONG"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        },
-        {
-          "type": "discount",
-          "label": "57% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Save $13.30 on Dettol body wash, enjoy up to 57% off and get a free $5 voucher with $50 spend.",
-      "expiry": "Ends 19 Oct",
-      "heat": 115,
-      "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-price-drop-up-to-57-off-free-5-voucher-until-19-oct-2026-307980/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-price-drop-up-to-57-off-free-5-voucher-until-19-oct-2026-307980/"
-      },
-      "brand": "Sheng Siong",
-      "expires_at": "2026-10-19",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-15",
-      "image": "images/deals/sheng-siong-price-drop-up-to-57-off-free-5-voucher-until-19-.jpg"
     },
     {
       "id": "burger-king-s-pore-7-95-quarter-chicken-leg-drink-2-kitkat-d",
@@ -488,7 +573,7 @@
       },
       "desc": "Enjoy Hot KitKat, Iced KitKat and a chicken meal at special prices with these BK app rewards.",
       "expiry": "Ends 1 Nov",
-      "heat": 110,
+      "heat": 90,
       "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-7-95-quarter-chicken-leg-drink-2-kitkat-drink-deals-till-1-nov-2026-308000/",
       "source": {
         "name": "SINGPromos",
@@ -500,39 +585,6 @@
       "starts_at": "",
       "first_seen": "2026-10-15",
       "image": "images/deals/burger-king-s-pore-7-95-quarter-chicken-leg-drink-2-kitkat-d.jpg"
-    },
-    {
-      "id": "starbucks-s-pore-disney-winnie-the-pooh-collection-at-14-90-",
-      "title": "Starbucks S’pore Disney Winnie the Pooh Collection at $14.90 onwards from 20 Oct 2026",
-      "store": "Starbucks",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "STARBUCKS"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Discover adorable Pooh-themed tumblers, mugs and collectibles celebrating 100 years of friendship.",
-      "expiry": "Ongoing",
-      "heat": 105,
-      "url": "https://singpromos.com/household/starbucks-spore-disney-winnie-the-pooh-collection-from-20-oct-2026-14-90-onwards-308008/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/household/starbucks-spore-disney-winnie-the-pooh-collection-from-20-oct-2026-14-90-onwards-308008/"
-      },
-      "brand": "Starbucks",
-      "expires_at": "",
-      "upcoming": true,
-      "starts_at": "2026-10-20",
-      "first_seen": "2026-10-15",
-      "image": "images/deals/starbucks-s-pore-disney-winnie-the-pooh-collection-at-14-90-.jpg"
     },
     {
       "id": "kfc-singapore-s-new-1-for-1-deal-gets-you-12-japanese-nanban",
@@ -792,78 +844,6 @@
       "first_seen": "2026-09-20"
     },
     {
-      "id": "32-best-pickleball-courts-in-singapore-free-courts-places-fr",
-      "title": "32 Best Pickleball Courts In Singapore (+ Free Courts & Places From $3.30/Hour!) - Sassy Mama Singapore",
-      "store": "Courts",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "💻",
-      "badges": [
-        {
-          "type": "new",
-          "label": "COURTS"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "32 Best Pickleball Courts In Singapore (+ Free Courts & Places From $3.30/Hour!) Sassy Mama Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4way1MRVpVT2RKS0Z1d1ozUi1yNG9Pd3oxWksxNkV0Q1pPY0VrdDFad091ZGhDN2RPanFHbEJld1lGaDM1QVNGbHhsLXNUNkRvUlY3RV8yaFp1alF4bDJxRG1nQ3pOZHA2ZUg4MHFfSzV3TFJhYnc?oc=5",
-      "source": {
-        "name": "Sassy Mama Singapore",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4way1MRVpVT2RKS0Z1d1ozUi1yNG9Pd3oxWksxNkV0Q1pPY0VrdDFad091ZGhDN2RPanFHbEJld1lGaDM1QVNGbHhsLXNUNkRvUlY3RV8yaFp1alF4bDJxRG1nQ3pOZHA2ZUg4MHFfSzV3TFJhYnc?oc=5"
-      },
-      "brand": "Courts",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-04"
-    },
-    {
-      "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
-      "title": "Decathlon Singapore hosting second-hand bike festival with refurbished bikes up to 80% off - CNA Lifestyle",
-      "store": "Decathlon",
-      "categories": [
-        "entertainment"
-      ],
-      "icon": "🎮",
-      "badges": [
-        {
-          "type": "new",
-          "label": "DECATHLON"
-        },
-        {
-          "type": "discount",
-          "label": "80% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Decathlon Singapore hosting second-hand bike festival with refurbished bikes up to 80% off CNA Lifestyle",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDR5cElCdU1qc3EzSWZnMGtMMkpxVVlQRUxiX0FYSW5Sa2pTU0lkLUhYVUpnN0E0aDVicUxuSHVBTGJDTmNUejU0WUlvSzlTdnoyS3RoN3JRSkoxT1gyTHBLNzNNdVFhNzlhd1hXd3RELW1mT1RmMm9qb09FU3FUYXItVFBRT1ZHYzRNNA?oc=5",
-      "source": {
-        "name": "CNA Lifestyle",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDR5cElCdU1qc3EzSWZnMGtMMkpxVVlQRUxiX0FYSW5Sa2pTU0lkLUhYVUpnN0E0aDVicUxuSHVBTGJDTmNUejU0WUlvSzlTdnoyS3RoN3JRSkoxT1gyTHBLNzNNdVFhNzlhd1hXd3RELW1mT1RmMm9qb09FU3FUYXItVFBRT1ZHYzRNNA?oc=5"
-      },
-      "brand": "Decathlon",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-10"
-    },
-    {
       "id": "up-to-70-off-selected-items-at-don-don-donki-till-19-jul-set",
       "title": "Up to 70% off selected items at Don Don Donki till 19 Jul - SETHLUI.com",
       "store": "Don Don Donki",
@@ -1037,8 +1017,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1104,8 +1083,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
