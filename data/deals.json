@@ -114,9 +114,9 @@
   ],
   "brands_today": [
     "4Fingers",
+    "Agoda",
     "BEST Denki",
     "BreadTalk",
-    "Burger King",
     "Chagee",
     "Challenger",
     "Cotton On",
@@ -148,6 +148,109 @@
   ],
   "deals": [
     {
+      "id": "agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct",
+      "title": "Agoda SG Extra 20% Off Hotels with DBS/POSB Cards Till 31 Oct 2026",
+      "store": "Agoda",
+      "categories": [
+        "travel"
+      ],
+      "icon": "✈️",
+      "badges": [
+        {
+          "type": "new",
+          "label": "AGODA"
+        },
+        {
+          "type": "discount",
+          "label": "20% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Enjoy extra savings of up to S$50 on eligible worldwide hotel stays with DBS/POSB cards.",
+      "expiry": "Ends 31 Oct",
+      "heat": 170,
+      "url": "https://singpromos.com/vacations/agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct-2026-308176/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/vacations/agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct-2026-308176/"
+      },
+      "brand": "Agoda",
+      "expires_at": "2026-10-31",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-18",
+      "spotlight": true,
+      "image": "images/deals/agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct.jpg"
+    },
+    {
+      "id": "mr-bean-buy-1-get-1-free-almost-all-soy-drinks-on-sunday-18-",
+      "title": "Mr Bean Buy-1-Get-1-FREE Almost ALL Soy Drinks on Sunday, 18 Oct 2026",
+      "store": "Mr Bean Buy-1-Get-1-FREE Almost",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Enjoy two soy drinks for the price of one",
+      "expiry": "Ends 18 Oct",
+      "heat": 135,
+      "url": "https://singpromos.com/dining-restaurants-food/mr-bean-buy-1-get-1-free-almost-all-soy-drinks-on-sunday-18-oct-2026-308184/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/mr-bean-buy-1-get-1-free-almost-all-soy-drinks-on-sunday-18-oct-2026-308184/"
+      },
+      "expires_at": "2026-10-18",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-18",
+      "image": "images/deals/mr-bean-buy-1-get-1-free-almost-all-soy-drinks-on-sunday-18-.jpg"
+    },
+    {
+      "id": "mcdonald-s-happy-meal-toys-are-transforming-into-robots-and-",
+      "title": "McDonald’s Happy Meal Toys Are Transforming Into Robots and Dinosaurs in New Collection",
+      "store": "McDonald's",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "MCDONALD'S"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Who knew a Happy Meal box could turn into a T-Rex?",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://www.greatdeals.com.sg/2026/10/18/mcdonalds-happy-meal-toys-transforming-robots-dinosaurs-october-2026",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://www.greatdeals.com.sg/2026/10/18/mcdonalds-happy-meal-toys-transforming-robots-dinosaurs-october-2026"
+      },
+      "brand": "McDonald's",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-18",
+      "image": "images/deals/mcdonald-s-happy-meal-toys-are-transforming-into-robots-and-.jpg"
+    },
+    {
       "id": "cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-15-p-a-",
       "title": "CIMB Singapore SGD fixed deposit rates offer up to 2.15% p.a. from 17 Oct 2026",
       "store": "CIMB",
@@ -167,7 +270,7 @@
       },
       "desc": "Enjoy higher 9- and 12-month rates, with extra interest for Preferred Banking and placements from S$10,000.",
       "expiry": "Ongoing",
-      "heat": 115,
+      "heat": 105,
       "url": "https://singpromos.com/banks-credit-cards/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-15-p-a-from-17-oct-2026-308162/",
       "source": {
         "name": "SINGPromos",
@@ -177,8 +280,7 @@
       "upcoming": false,
       "starts_at": "2026-10-17",
       "first_seen": "2026-10-17",
-      "image": "images/deals/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-15-p-a-.jpg",
-      "spotlight": true
+      "image": "images/deals/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-15-p-a-.jpg"
     },
     {
       "id": "singfinance-fresh-fund-fixed-deposit-offers-up-to-1-8-p-a-fr",
@@ -200,7 +302,7 @@
       },
       "desc": "Earn up to 1.8% p.a. across four tenors, with fresh-fund placements starting from S$1,000 online.",
       "expiry": "Ongoing",
-      "heat": 110,
+      "heat": 100,
       "url": "https://singpromos.com/banks-credit-cards/singfinance-fresh-fund-fixed-deposit-offers-up-to-1-8-p-a-from-16-oct-2026-308149/",
       "source": {
         "name": "SINGPromos",
@@ -232,7 +334,7 @@
       },
       "desc": "Add a little cuteness to every commute with these adorable crossover EZ-Link charms at just $14.90!",
       "expiry": "Ongoing",
-      "heat": 100,
+      "heat": 95,
       "url": "https://singpromos.com/motor-vehicles/new-simplygo-ez-link-buttercup-and-kuromi-charms-from-16-oct-2026-308136/",
       "source": {
         "name": "SINGPromos",
@@ -268,7 +370,7 @@
       },
       "desc": "Get FREE 4pc Chicken McNuggets with selected double-patty Feasts",
       "expiry": "Ends 4 Nov",
-      "heat": 155,
+      "heat": 150,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-free-4pc-mcnuggets-with-selected-feasts-till-4-nov-2026-308029/",
       "source": {
         "name": "SINGPromos",
@@ -301,7 +403,7 @@
       },
       "desc": "Zesty lime meets mild chilli heat in three new burgers",
       "expiry": "Ongoing",
-      "heat": 125,
+      "heat": 120,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-new-chilli-lime-mcsaver-meals-at-5-80-onwards-from-15-oct-2026-308121/",
       "source": {
         "name": "SINGPromos",
@@ -338,7 +440,7 @@
       },
       "desc": "Score half-price Magnolia Mag-A-Cone ice cream with Link membership, plus Ben & Jerry's savings.",
       "expiry": "Ends 21 Oct",
-      "heat": 125,
+      "heat": 120,
       "url": "https://singpromos.com/dining-restaurants-food/fairprice-50-off-magnolia-mag-a-cone-for-members-3-for-24-50-ben-jerrys-till-21-oct-2026-308063/",
       "source": {
         "name": "SINGPromos",
@@ -371,7 +473,7 @@
       },
       "desc": "A fiery comeback brings loaded fries from $3.95 and a cheesy macaroni bowl set for just $5.50.",
       "expiry": "Ongoing",
-      "heat": 120,
+      "heat": 115,
       "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-samyang-buldak-carbonara-loaded-fries-5-50-bowl-from-21-oct-2026-308109/",
       "source": {
         "name": "SINGPromos",
@@ -408,7 +510,7 @@
       },
       "desc": "Save 50% on selected supplements, 52% on shampoo and enjoy more bundle deals",
       "expiry": "Ends 21 Oct",
-      "heat": 110,
+      "heat": 105,
       "url": "https://singpromos.com/health/unity-pharmacy-up-to-52-off-deals-plus-buy-2-get-1-free-till-21-oct-2026-308095/",
       "source": {
         "name": "SINGPromos",
@@ -440,7 +542,7 @@
       },
       "desc": "Transform mealtime into playtime with eight collectible robots and dinosaurs",
       "expiry": "Ends 11 Nov",
-      "heat": 100,
+      "heat": 95,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-robots-happy-meal-toys-from-15-oct-till-11-nov-2026-308042/",
       "source": {
         "name": "SINGPromos",
@@ -473,7 +575,7 @@
       },
       "desc": "Fuel up for less",
       "expiry": "Ends 18 Oct",
-      "heat": 95,
+      "heat": 90,
       "url": "https://singpromos.com/motor-vehicles/shell-spore-go-members-enjoy-23-off-fuel-with-all-bank-cards-from-16-18-oct-2026-308081/",
       "source": {
         "name": "SINGPromos",
@@ -484,75 +586,6 @@
       "starts_at": "2026-10-16",
       "first_seen": "2026-10-16",
       "image": "images/deals/shell-s-pore-go-members-enjoy-23-off-fuel-with-all-bank-card.jpg"
-    },
-    {
-      "id": "giant-s-pore-has-haagen-dazs-3-for-25-dynamo-59-off-more-dea",
-      "title": "Giant S’pore Has Haagen-Dazs 3-for-$25, Dynamo 59% Off & More Deals till 21 Oct 2026",
-      "store": "Giant",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        },
-        {
-          "type": "discount",
-          "label": "59% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy Haagen-Dazs ice cream, buy-one-get-one-free treats, snack bargains and grocery savings",
-      "expiry": "Ends 21 Oct",
-      "heat": 90,
-      "url": "https://singpromos.com/dining-restaurants-food/giant-spore-has-haagen-dazs-3-for-25-dynamo-59-off-more-deals-till-21-oct-2026-308071/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/giant-spore-has-haagen-dazs-3-for-25-dynamo-59-off-more-deals-till-21-oct-2026-308071/"
-      },
-      "expires_at": "2026-10-21",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-16",
-      "image": "images/deals/giant-s-pore-has-haagen-dazs-3-for-25-dynamo-59-off-more-dea.jpg"
-    },
-    {
-      "id": "burger-king-s-pore-7-95-quarter-chicken-leg-drink-2-kitkat-d",
-      "title": "Burger King S’pore $7.95 Quarter Chicken Leg & Drink, $2 KitKat Drink Deals Till 1 Nov 2026",
-      "store": "Burger King",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "BURGER KING"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Enjoy Hot KitKat, Iced KitKat and a chicken meal at special prices with these BK app rewards.",
-      "expiry": "Ends 1 Nov",
-      "heat": 90,
-      "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-7-95-quarter-chicken-leg-drink-2-kitkat-drink-deals-till-1-nov-2026-308000/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-7-95-quarter-chicken-leg-drink-2-kitkat-drink-deals-till-1-nov-2026-308000/"
-      },
-      "brand": "Burger King",
-      "expires_at": "2026-11-01",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-15",
-      "image": "images/deals/burger-king-s-pore-7-95-quarter-chicken-leg-drink-2-kitkat-d.jpg"
     },
     {
       "id": "kfc-singapore-s-new-1-for-1-deal-gets-you-12-japanese-nanban",
@@ -985,8 +1018,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1052,8 +1084,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
