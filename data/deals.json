@@ -183,7 +183,8 @@
       "starts_at": "",
       "first_seen": "2026-10-18",
       "image": "images/deals/agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct.jpg",
-      "spotlight": true
+      "spotlight": true,
+      "status": "claimed"
     },
     {
       "id": "mr-bean-buy-1-get-1-free-almost-all-soy-drinks-on-sunday-18-",
@@ -1018,7 +1019,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1084,7 +1086,8 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg"
+      "image": "images/deals/challenger-ms365.jpg",
+      "status": "claimed"
     },
     {
       "id": "courts-get7",
