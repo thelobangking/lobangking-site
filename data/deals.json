@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "categories": [
     {
       "id": "all",
@@ -148,39 +148,6 @@
   ],
   "deals": [
     {
-      "id": "nasty-cookie-50-off-big-mini-crispy-and-dubai-chewy-cookies-",
-      "title": "Nasty Cookie 50% off Big, Mini Crispy and Dubai Chewy Cookies at OrchardGateway on 17 Oct 2026",
-      "store": "Nasty Cookie 50% off",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Celebrate Nasty Cookie's birthday with half-price cookies at OrchardGateway for one day only!",
-      "expiry": "Ends 17 Oct",
-      "heat": 125,
-      "url": "https://singpromos.com/dining-restaurants-food/nasty-cookie-50-off-big-mini-crispy-and-dubai-chewy-cookies-at-orchardgateway-on-17-oct-2026-308102/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/nasty-cookie-50-off-big-mini-crispy-and-dubai-chewy-cookies-at-orchardgateway-on-17-oct-2026-308102/"
-      },
-      "expires_at": "2026-10-17",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-17",
-      "image": "images/deals/nasty-cookie-50-off-big-mini-crispy-and-dubai-chewy-cookies-.jpg",
-      "spotlight": true
-    },
-    {
       "id": "cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-15-p-a-",
       "title": "CIMB Singapore SGD fixed deposit rates offer up to 2.15% p.a. from 17 Oct 2026",
       "store": "CIMB",
@@ -210,7 +177,8 @@
       "upcoming": false,
       "starts_at": "2026-10-17",
       "first_seen": "2026-10-17",
-      "image": "images/deals/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-15-p-a-.jpg"
+      "image": "images/deals/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-15-p-a-.jpg",
+      "spotlight": true
     },
     {
       "id": "singfinance-fresh-fund-fixed-deposit-offers-up-to-1-8-p-a-fr",
