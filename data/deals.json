@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "categories": [
     {
       "id": "all",
@@ -185,38 +185,6 @@
       "image": "images/deals/agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct.jpg",
       "status": "claimed",
       "spotlight": true
-    },
-    {
-      "id": "mr-bean-buy-1-get-1-free-almost-all-soy-drinks-on-sunday-18-",
-      "title": "Mr Bean Buy-1-Get-1-FREE Almost ALL Soy Drinks on Sunday, 18 Oct 2026",
-      "store": "Mr Bean Buy-1-Get-1-FREE Almost",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy two soy drinks for the price of one",
-      "expiry": "Ends 18 Oct",
-      "heat": 135,
-      "url": "https://singpromos.com/dining-restaurants-food/mr-bean-buy-1-get-1-free-almost-all-soy-drinks-on-sunday-18-oct-2026-308184/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mr-bean-buy-1-get-1-free-almost-all-soy-drinks-on-sunday-18-oct-2026-308184/"
-      },
-      "expires_at": "2026-10-18",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-18",
-      "image": "images/deals/mr-bean-buy-1-get-1-free-almost-all-soy-drinks-on-sunday-18-.jpg"
     },
     {
       "id": "mcdonald-s-happy-meal-toys-are-transforming-into-robots-and-",
@@ -555,38 +523,6 @@
       "starts_at": "2026-10-15",
       "first_seen": "2026-10-16",
       "image": "images/deals/mcdonald-s-s-pore-robots-happy-meal-toys-from-15-oct-till-11.jpg"
-    },
-    {
-      "id": "shell-s-pore-go-members-enjoy-23-off-fuel-with-all-bank-card",
-      "title": "Shell S’pore GO+ Members Enjoy 23% Off Fuel with All Bank Cards from 16-18 Oct 2026",
-      "store": "Shell",
-      "categories": [
-        "transport"
-      ],
-      "icon": "🚗",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "23% OFF"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Fuel up for less",
-      "expiry": "Ends 18 Oct",
-      "heat": 90,
-      "url": "https://singpromos.com/motor-vehicles/shell-spore-go-members-enjoy-23-off-fuel-with-all-bank-cards-from-16-18-oct-2026-308081/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/motor-vehicles/shell-spore-go-members-enjoy-23-off-fuel-with-all-bank-cards-from-16-18-oct-2026-308081/"
-      },
-      "expires_at": "2026-10-18",
-      "upcoming": false,
-      "starts_at": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "image": "images/deals/shell-s-pore-go-members-enjoy-23-off-fuel-with-all-bank-card.jpg"
     },
     {
       "id": "kfc-singapore-s-new-1-for-1-deal-gets-you-12-japanese-nanban",
