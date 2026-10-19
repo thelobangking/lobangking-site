@@ -121,9 +121,9 @@
     "Challenger",
     "Cotton On",
     "Courts",
+    "Decathlon",
     "Don Don Donki",
     "Eu Yan Sang",
-    "FairPrice",
     "GOLDLION",
     "Gain City",
     "Giant",
@@ -148,6 +148,108 @@
   ],
   "deals": [
     {
+      "id": "mcdonald-s-s-pore-pre-payday-deals-6-90-meals-free-delivery-",
+      "title": "McDonald’s S’pore Pre-Payday Deals $6.90 Meals & Free Delivery w/ $35 spend until 23 Oct 2026",
+      "store": "McDonald's",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "MCDONALD'S"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Enjoy $6.90 breakfast and lunch meals, plus free McDelivery with $35 spend via the app.",
+      "expiry": "Ends 23 Oct",
+      "heat": 150,
+      "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-pre-payday-deals-6-90-meals-free-delivery-w-35-spend-until-23-oct-2026-308192/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-pre-payday-deals-6-90-meals-free-delivery-w-35-spend-until-23-oct-2026-308192/"
+      },
+      "brand": "McDonald's",
+      "expires_at": "2026-10-23",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-19",
+      "spotlight": true,
+      "image": "images/deals/mcdonald-s-s-pore-pre-payday-deals-6-90-meals-free-delivery-.jpg"
+    },
+    {
+      "id": "autodesk-s-pore-15-off-autocad-maya-3ds-max-more-till-23-oct",
+      "title": "Autodesk S’pore 15% Off AutoCAD, Maya, 3ds Max & More till 23 Oct 2026",
+      "store": "Autodesk",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "💻",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "15% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Enjoy 15% off selected Autodesk annual subscriptions, with savings of up to S$431 on popular software.",
+      "expiry": "Ends 23 Oct",
+      "heat": 135,
+      "url": "https://singpromos.com/computers-pc/autodesk-spore-15-off-autocad-maya-3ds-max-more-till-23-oct-2026-308212/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/computers-pc/autodesk-spore-15-off-autocad-maya-3ds-max-more-till-23-oct-2026-308212/"
+      },
+      "expires_at": "2026-10-23",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-19",
+      "image": "images/deals/autodesk-s-pore-15-off-autocad-maya-3ds-max-more-till-23-oct.jpg"
+    },
+    {
+      "id": "kfc-1-for-1-japanese-nanban-chicken-bites-12-pieces-for-6-95",
+      "title": "KFC 1-for-1 Japanese Nanban Chicken Bites: 12 Pieces for $6.95, Every Wed-Fri From 14 Oct - https://www.misslobang.com/",
+      "store": "KFC",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "KFC"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "KFC 1-for-1 Japanese Nanban Chicken Bites: 12 Pieces for $6.95, Every Wed-Fri From 14 Oct https://www.misslobang.com/",
+      "expiry": "Ongoing",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2tYZ3UyLVlxM2Z4YVMxZDVTS0o3RjcxeW5yR2JpRDJVWUs1Qm9ENk1UX2NSVXRQMXkzZXltUFNGVkt6TGdXZ0E0eXREUFk0Y3pDcDNDaFdsV2FZejNTbVRuUUxWOER3SjI1Q2xsOEVvVG5DTGZRb2Y3TmtGMWJFeUxuQk5VcUxLMWUtRXNB?oc=5",
+      "source": {
+        "name": "https://www.misslobang.com/",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2tYZ3UyLVlxM2Z4YVMxZDVTS0o3RjcxeW5yR2JpRDJVWUs1Qm9ENk1UX2NSVXRQMXkzZXltUFNGVkt6TGdXZ0E0eXREUFk0Y3pDcDNDaFdsV2FZejNTbVRuUUxWOER3SjI1Q2xsOEVvVG5DTGZRb2Y3TmtGMWJFeUxuQk5VcUxLMWUtRXNB?oc=5"
+      },
+      "brand": "KFC",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-10-14",
+      "first_seen": "2026-10-19"
+    },
+    {
       "id": "agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct",
       "title": "Agoda SG Extra 20% Off Hotels with DBS/POSB Cards Till 31 Oct 2026",
       "store": "Agoda",
@@ -171,7 +273,7 @@
       },
       "desc": "Enjoy extra savings of up to S$50 on eligible worldwide hotel stays with DBS/POSB cards.",
       "expiry": "Ends 31 Oct",
-      "heat": 170,
+      "heat": 165,
       "url": "https://singpromos.com/vacations/agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct-2026-308176/",
       "source": {
         "name": "SINGPromos",
@@ -182,42 +284,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-18",
-      "image": "images/deals/agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct.jpg",
-      "status": "claimed",
-      "spotlight": true
-    },
-    {
-      "id": "mcdonald-s-happy-meal-toys-are-transforming-into-robots-and-",
-      "title": "McDonald’s Happy Meal Toys Are Transforming Into Robots and Dinosaurs in New Collection",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Who knew a Happy Meal box could turn into a T-Rex?",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://www.greatdeals.com.sg/2026/10/18/mcdonalds-happy-meal-toys-transforming-robots-dinosaurs-october-2026",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://www.greatdeals.com.sg/2026/10/18/mcdonalds-happy-meal-toys-transforming-robots-dinosaurs-october-2026"
-      },
-      "brand": "McDonald's",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-18",
-      "image": "images/deals/mcdonald-s-happy-meal-toys-are-transforming-into-robots-and-.jpg"
+      "image": "images/deals/agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct.jpg"
     },
     {
       "id": "cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-15-p-a-",
@@ -239,7 +306,7 @@
       },
       "desc": "Enjoy higher 9- and 12-month rates, with extra interest for Preferred Banking and placements from S$10,000.",
       "expiry": "Ongoing",
-      "heat": 105,
+      "heat": 100,
       "url": "https://singpromos.com/banks-credit-cards/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-15-p-a-from-17-oct-2026-308162/",
       "source": {
         "name": "SINGPromos",
@@ -271,7 +338,7 @@
       },
       "desc": "Earn up to 1.8% p.a. across four tenors, with fresh-fund placements starting from S$1,000 online.",
       "expiry": "Ongoing",
-      "heat": 100,
+      "heat": 95,
       "url": "https://singpromos.com/banks-credit-cards/singfinance-fresh-fund-fixed-deposit-offers-up-to-1-8-p-a-from-16-oct-2026-308149/",
       "source": {
         "name": "SINGPromos",
@@ -303,7 +370,7 @@
       },
       "desc": "Add a little cuteness to every commute with these adorable crossover EZ-Link charms at just $14.90!",
       "expiry": "Ongoing",
-      "heat": 95,
+      "heat": 90,
       "url": "https://singpromos.com/motor-vehicles/new-simplygo-ez-link-buttercup-and-kuromi-charms-from-16-oct-2026-308136/",
       "source": {
         "name": "SINGPromos",
@@ -339,7 +406,7 @@
       },
       "desc": "Get FREE 4pc Chicken McNuggets with selected double-patty Feasts",
       "expiry": "Ends 4 Nov",
-      "heat": 150,
+      "heat": 145,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-free-4pc-mcnuggets-with-selected-feasts-till-4-nov-2026-308029/",
       "source": {
         "name": "SINGPromos",
@@ -372,7 +439,7 @@
       },
       "desc": "Zesty lime meets mild chilli heat in three new burgers",
       "expiry": "Ongoing",
-      "heat": 120,
+      "heat": 115,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-new-chilli-lime-mcsaver-meals-at-5-80-onwards-from-15-oct-2026-308121/",
       "source": {
         "name": "SINGPromos",
@@ -384,43 +451,6 @@
       "starts_at": "2026-10-15",
       "first_seen": "2026-10-16",
       "image": "images/deals/mcdonald-s-s-pore-new-chilli-lime-mcsaver-meals-at-5-80-onwa.jpg"
-    },
-    {
-      "id": "fairprice-50-off-magnolia-mag-a-cone-for-members-3-for-24-50",
-      "title": "FairPrice 50% Off Magnolia Mag-A-Cone For Members & 3 for $24.50 Ben & Jerry’s Till 21 Oct 2026",
-      "store": "FairPrice",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "FAIRPRICE"
-        },
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Score half-price Magnolia Mag-A-Cone ice cream with Link membership, plus Ben & Jerry's savings.",
-      "expiry": "Ends 21 Oct",
-      "heat": 120,
-      "url": "https://singpromos.com/dining-restaurants-food/fairprice-50-off-magnolia-mag-a-cone-for-members-3-for-24-50-ben-jerrys-till-21-oct-2026-308063/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/fairprice-50-off-magnolia-mag-a-cone-for-members-3-for-24-50-ben-jerrys-till-21-oct-2026-308063/"
-      },
-      "brand": "FairPrice",
-      "expires_at": "2026-10-21",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-16",
-      "image": "images/deals/fairprice-50-off-magnolia-mag-a-cone-for-members-3-for-24-50.jpg"
     },
     {
       "id": "kfc-s-pore-samyang-buldak-carbonara-loaded-fries-5-50-bowl-f",
@@ -442,7 +472,7 @@
       },
       "desc": "A fiery comeback brings loaded fries from $3.95 and a cheesy macaroni bowl set for just $5.50.",
       "expiry": "Ongoing",
-      "heat": 115,
+      "heat": 110,
       "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-samyang-buldak-carbonara-loaded-fries-5-50-bowl-from-21-oct-2026-308109/",
       "source": {
         "name": "SINGPromos",
@@ -479,7 +509,7 @@
       },
       "desc": "Save 50% on selected supplements, 52% on shampoo and enjoy more bundle deals",
       "expiry": "Ends 21 Oct",
-      "heat": 105,
+      "heat": 100,
       "url": "https://singpromos.com/health/unity-pharmacy-up-to-52-off-deals-plus-buy-2-get-1-free-till-21-oct-2026-308095/",
       "source": {
         "name": "SINGPromos",
@@ -490,76 +520,6 @@
       "starts_at": "",
       "first_seen": "2026-10-16",
       "image": "images/deals/unity-pharmacy-up-to-52-off-deals-plus-buy-2-get-1-free-till.jpg"
-    },
-    {
-      "id": "mcdonald-s-s-pore-robots-happy-meal-toys-from-15-oct-till-11",
-      "title": "McDonald’s S’pore Robots Happy Meal Toys From 15 Oct Till 11 Nov 2026",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Transform mealtime into playtime with eight collectible robots and dinosaurs",
-      "expiry": "Ends 11 Nov",
-      "heat": 95,
-      "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-robots-happy-meal-toys-from-15-oct-till-11-nov-2026-308042/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-robots-happy-meal-toys-from-15-oct-till-11-nov-2026-308042/"
-      },
-      "brand": "McDonald's",
-      "expires_at": "2026-11-11",
-      "upcoming": false,
-      "starts_at": "2026-10-15",
-      "first_seen": "2026-10-16",
-      "image": "images/deals/mcdonald-s-s-pore-robots-happy-meal-toys-from-15-oct-till-11.jpg"
-    },
-    {
-      "id": "kfc-singapore-s-new-1-for-1-deal-gets-you-12-japanese-nanban",
-      "title": "KFC Singapore’s New 1-FOR-1 Deal Gets You 12 Japanese Nanban Chicken Bites for $6.95",
-      "store": "KFC",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "KFC"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "More bites for your buck with KFC's latest offer.",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://www.greatdeals.com.sg/2026/10/12/kfc-1-for-1-japanese-nanban-chicken-bites-october-2026",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://www.greatdeals.com.sg/2026/10/12/kfc-1-for-1-japanese-nanban-chicken-bites-october-2026"
-      },
-      "brand": "KFC",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-13",
-      "image": "images/deals/kfc-singapore-s-new-1-for-1-deal-gets-you-12-japanese-nanban.jpg"
     },
     {
       "id": "don-don-donki-grabmart-spooky-deals-up-to-30-off-plus-20-off",
@@ -782,40 +742,76 @@
       "first_seen": "2026-09-20"
     },
     {
-      "id": "up-to-70-off-selected-items-at-don-don-donki-till-19-jul-set",
-      "title": "Up to 70% off selected items at Don Don Donki till 19 Jul - SETHLUI.com",
-      "store": "Don Don Donki",
+      "id": "32-best-pickleball-courts-in-singapore-free-courts-places-fr",
+      "title": "32 Best Pickleball Courts In Singapore (+ Free Courts & Places From $3.30/Hour!) - Sassy Mama Singapore",
+      "store": "Courts",
       "categories": [
-        "food"
+        "electronics"
       ],
-      "icon": "🍜",
+      "icon": "💻",
       "badges": [
         {
           "type": "new",
-          "label": "DON DON DONKI"
+          "label": "COURTS"
         },
         {
-          "type": "discount",
-          "label": "70% OFF"
+          "type": "free",
+          "label": "FREE"
         }
       ],
       "access": {
         "type": "easy",
         "label": "See source for how to redeem"
       },
-      "desc": "Up to 70% off selected items at Don Don Donki till 19 Jul SETHLUI.com",
-      "expiry": "Ends 19 Jul",
+      "desc": "32 Best Pickleball Courts In Singapore (+ Free Courts & Places From $3.30/Hour!) Sassy Mama Singapore",
+      "expiry": "Check link for dates",
       "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4way1MRVpVT2RKS0Z1d1ozUi1yNG9Pd3oxWksxNkV0Q1pPY0VrdDFad091ZGhDN2RPanFHbEJld1lGaDM1QVNGbHhsLXNUNkRvUlY3RV8yaFp1alF4bDJxRG1nQ3pOZHA2ZUg4MHFfSzV3TFJhYnc?oc=5",
       "source": {
-        "name": "SETHLUI.com",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5"
+        "name": "Sassy Mama Singapore",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4way1MRVpVT2RKS0Z1d1ozUi1yNG9Pd3oxWksxNkV0Q1pPY0VrdDFad091ZGhDN2RPanFHbEJld1lGaDM1QVNGbHhsLXNUNkRvUlY3RV8yaFp1alF4bDJxRG1nQ3pOZHA2ZUg4MHFfSzV3TFJhYnc?oc=5"
       },
-      "brand": "Don Don Donki",
-      "expires_at": "2027-07-19",
+      "brand": "Courts",
+      "expires_at": "",
       "upcoming": false,
       "starts_at": "",
-      "first_seen": "2026-07-06"
+      "first_seen": "2026-09-04"
+    },
+    {
+      "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
+      "title": "Decathlon Singapore hosting second-hand bike festival with refurbished bikes up to 80% off - CNA Lifestyle",
+      "store": "Decathlon",
+      "categories": [
+        "entertainment"
+      ],
+      "icon": "🎮",
+      "badges": [
+        {
+          "type": "new",
+          "label": "DECATHLON"
+        },
+        {
+          "type": "discount",
+          "label": "80% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Decathlon Singapore hosting second-hand bike festival with refurbished bikes up to 80% off CNA Lifestyle",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDR5cElCdU1qc3EzSWZnMGtMMkpxVVlQRUxiX0FYSW5Sa2pTU0lkLUhYVUpnN0E0aDVicUxuSHVBTGJDTmNUejU0WUlvSzlTdnoyS3RoN3JRSkoxT1gyTHBLNzNNdVFhNzlhd1hXd3RELW1mT1RmMm9qb09FU3FUYXItVFBRT1ZHYzRNNA?oc=5",
+      "source": {
+        "name": "CNA Lifestyle",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDR5cElCdU1qc3EzSWZnMGtMMkpxVVlQRUxiX0FYSW5Sa2pTU0lkLUhYVUpnN0E0aDVicUxuSHVBTGJDTmNUejU0WUlvSzlTdnoyS3RoN3JRSkoxT1gyTHBLNzNNdVFhNzlhd1hXd3RELW1mT1RmMm9qb09FU3FUYXItVFBRT1ZHYzRNNA?oc=5"
+      },
+      "brand": "Decathlon",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-07-10"
     },
     {
       "id": "muji-online-exclusive-sale-just-dropped-with-up-to-40-off-ho",
@@ -955,8 +951,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1022,8 +1017,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
