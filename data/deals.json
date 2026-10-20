@@ -117,6 +117,7 @@
     "Agoda",
     "BEST Denki",
     "BreadTalk",
+    "Burger King",
     "Chagee",
     "Challenger",
     "Cotton On",
@@ -137,9 +138,10 @@
     "Punggol GRC",
     "REFASH",
     "SUSHIRO",
+    "Scoot",
     "Shihlin",
+    "Singapore Airlines",
     "Singapore Zoo",
-    "Starbucks",
     "Swensen's",
     "TANGS",
     "Toys“R”Us",
@@ -147,6 +149,271 @@
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "burger-king-s-pore-free-king-jr-cups-with-every-king-jr-meal",
+      "title": "Burger King S’pore Free King Jr. Cups With Every King Jr. Meal from 19 Oct 2026",
+      "store": "Burger King",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "BURGER KING"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Collect 1 of 4 colourful King Jr. cups with every kids' meal, while stocks last",
+      "expiry": "Ongoing",
+      "heat": 165,
+      "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-free-king-jr-cups-with-every-king-jr-meal-from-19-oct-2026-308249/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-free-king-jr-cups-with-every-king-jr-meal-from-19-oct-2026-308249/"
+      },
+      "brand": "Burger King",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "spotlight": true,
+      "image": "images/deals/burger-king-s-pore-free-king-jr-cups-with-every-king-jr-meal.jpg"
+    },
+    {
+      "id": "airasia-up-to-30-off-flights-for-travel-until-sep-2027-book-",
+      "title": "AirAsia Up to 30% OFF Flights for Travel until Sep 2027, Book by 25 Oct 2026",
+      "store": "AirAsia Up to 30%",
+      "categories": [
+        "travel"
+      ],
+      "icon": "✈️",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "30% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Save on flights and travel extras, with exciting destinations, Fly-Thru connections and cardholder deals.",
+      "expiry": "Ends 25 Oct",
+      "heat": 135,
+      "url": "https://singpromos.com/airlines-flights/airasia-up-to-30-off-flights-for-travel-until-sep-2027-book-by-25-oct-2026-308282/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/airlines-flights/airasia-up-to-30-off-flights-for-travel-until-sep-2027-book-by-25-oct-2026-308282/"
+      },
+      "expires_at": "2026-10-25",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-20",
+      "image": "images/deals/airasia-up-to-30-off-flights-for-travel-until-sep-2027-book-.jpg"
+    },
+    {
+      "id": "mcdonald-s-s-pore-brings-back-sweet-and-savoury-mcgriddles-f",
+      "title": "McDonald’s S’pore brings back sweet-and-savoury McGriddles from 22 Oct 2026",
+      "store": "McDonald's",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "MCDONALD'S"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Maple-flavoured griddle cakes, savoury breakfast favourites and an early GrabFood delivery perk",
+      "expiry": "Ongoing",
+      "heat": 130,
+      "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-mcgriddles-returns-from-22-oct-2026-308223/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-mcgriddles-returns-from-22-oct-2026-308223/"
+      },
+      "brand": "McDonald's",
+      "expires_at": "",
+      "upcoming": true,
+      "starts_at": "2026-10-22",
+      "first_seen": "2026-10-20",
+      "image": "images/deals/mcdonald-s-s-pore-brings-back-sweet-and-savoury-mcgriddles-f.jpg"
+    },
+    {
+      "id": "scoot-sg-time-to-fly-sale-from-23-30-oct-2026-has-180-000-ti",
+      "title": "Scoot SG Time To Fly Sale from 23-30 Oct 2026 has 180,000+ Tickets to 70 Destinations",
+      "store": "Scoot",
+      "categories": [
+        "travel"
+      ],
+      "icon": "✈️",
+      "badges": [
+        {
+          "type": "new",
+          "label": "SCOOT"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Scoot's upcoming sale covers 70 destinations, with discounted one-way fares and travel into 2027.",
+      "expiry": "Ends 30 Oct",
+      "heat": 125,
+      "url": "https://singpromos.com/airlines-flights/scoot-sg-time-to-fly-sale-from-23-30-oct-2026-has-180000-tickets-to-70-destinations-308230/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/airlines-flights/scoot-sg-time-to-fly-sale-from-23-30-oct-2026-has-180000-tickets-to-70-destinations-308230/"
+      },
+      "brand": "Scoot",
+      "expires_at": "2026-10-30",
+      "upcoming": true,
+      "starts_at": "2026-10-23",
+      "first_seen": "2026-10-20",
+      "image": "images/deals/scoot-sg-time-to-fly-sale-from-23-30-oct-2026-has-180-000-ti.jpg"
+    },
+    {
+      "id": "singapore-airlines-s-pore-promo-fares-from-23-30-oct-2026-tr",
+      "title": "Singapore Airlines S’pore Promo Fares from 23-30 Oct 2026, Travel Until Sep 2027",
+      "store": "Singapore Airlines",
+      "categories": [
+        "travel"
+      ],
+      "icon": "✈️",
+      "badges": [
+        {
+          "type": "new",
+          "label": "SINGAPORE AIRLINES"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Featuring discounted return fares and additional card offers",
+      "expiry": "Ends 30 Oct",
+      "heat": 120,
+      "url": "https://singpromos.com/airlines-flights/singapore-airlines-spore-promo-fares-from-23-30-oct-2026-travel-until-sep-2027-308216/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/airlines-flights/singapore-airlines-spore-promo-fares-from-23-30-oct-2026-travel-until-sep-2027-308216/"
+      },
+      "brand": "Singapore Airlines",
+      "expires_at": "2026-10-30",
+      "upcoming": true,
+      "starts_at": "2026-10-23",
+      "first_seen": "2026-10-20",
+      "image": "images/deals/singapore-airlines-s-pore-promo-fares-from-23-30-oct-2026-tr.jpg"
+    },
+    {
+      "id": "mandom-warehouse-sale-up-to-80-off-from-20-to-21-oct-2026",
+      "title": "Mandom Warehouse Sale – Up to 80% Off from 20 to 21 Oct 2026",
+      "store": "Mandom Warehouse Sale –",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "80% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Shop beauty, skincare, haircare and household essentials at this two-day sale",
+      "expiry": "Ends 21 Oct",
+      "heat": 115,
+      "url": "https://singpromos.com/warehouse-sales/mandom-warehouse-sale-up-to-80-off-from-20-to-21-oct-2026-307967/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/warehouse-sales/mandom-warehouse-sale-up-to-80-off-from-20-to-21-oct-2026-307967/"
+      },
+      "expires_at": "2026-10-21",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-20",
+      "image": "images/deals/mandom-warehouse-sale-up-to-80-off-from-20-to-21-oct-2026.jpg"
+    },
+    {
+      "id": "bank-of-china-s-pore-latest-time-deposit-offers-up-to-2-05-p",
+      "title": "Bank of China S’pore Latest Time Deposit Offers Up To 2.05% p.a. from 19 Oct 2026",
+      "store": "Bank of China",
+      "categories": [
+        "finance"
+      ],
+      "icon": "💳",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "The top 2.05% p.a. rate now needs just S$20,000 for 12 months, with other tenors also improved.",
+      "expiry": "Ongoing",
+      "heat": 110,
+      "url": "https://singpromos.com/banks-credit-cards/bank-of-china-spore-latest-time-deposit-offers-up-to-2-05-p-a-from-19-oct-2026-308275/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/banks-credit-cards/bank-of-china-spore-latest-time-deposit-offers-up-to-2-05-p-a-from-19-oct-2026-308275/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "image": "images/deals/bank-of-china-s-pore-latest-time-deposit-offers-up-to-2-05-p.jpg"
+    },
+    {
+      "id": "f-n-magnolia-launches-limited-edition-matcha-flavoured-milk-",
+      "title": "F&N Magnolia Launches Limited-Edition Matcha Flavoured Milk from S$2.52",
+      "store": "F&N Magnolia Launches Limited-Edition",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Made with real matcha powder, the halal-certified milk comes in two sizes for home café drinks.",
+      "expiry": "Check link for dates",
+      "heat": 100,
+      "url": "https://singpromos.com/dining-restaurants-food/fn-magnolia-launches-limited-edition-matcha-flavoured-milk-from-s2-52-308257/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/fn-magnolia-launches-limited-edition-matcha-flavoured-milk-from-s2-52-308257/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-20",
+      "image": "images/deals/f-n-magnolia-launches-limited-edition-matcha-flavoured-milk-.jpg"
+    },
     {
       "id": "mcdonald-s-s-pore-pre-payday-deals-6-90-meals-free-delivery-",
       "title": "McDonald’s S’pore Pre-Payday Deals $6.90 Meals & Free Delivery w/ $35 spend until 23 Oct 2026",
@@ -167,7 +434,7 @@
       },
       "desc": "Enjoy $6.90 breakfast and lunch meals, plus free McDelivery with $35 spend via the app.",
       "expiry": "Ends 23 Oct",
-      "heat": 150,
+      "heat": 110,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-pre-payday-deals-6-90-meals-free-delivery-w-35-spend-until-23-oct-2026-308192/",
       "source": {
         "name": "SINGPromos",
@@ -178,8 +445,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-19",
-      "image": "images/deals/mcdonald-s-s-pore-pre-payday-deals-6-90-meals-free-delivery-.jpg",
-      "spotlight": true
+      "image": "images/deals/mcdonald-s-s-pore-pre-payday-deals-6-90-meals-free-delivery-.jpg"
     },
     {
       "id": "autodesk-s-pore-15-off-autocad-maya-3ds-max-more-till-23-oct",
@@ -201,7 +467,7 @@
       },
       "desc": "Enjoy 15% off selected Autodesk annual subscriptions, with savings of up to S$431 on popular software.",
       "expiry": "Ends 23 Oct",
-      "heat": 135,
+      "heat": 95,
       "url": "https://singpromos.com/computers-pc/autodesk-spore-15-off-autocad-maya-3ds-max-more-till-23-oct-2026-308212/",
       "source": {
         "name": "SINGPromos",
@@ -212,42 +478,6 @@
       "starts_at": "",
       "first_seen": "2026-10-19",
       "image": "images/deals/autodesk-s-pore-15-off-autocad-maya-3ds-max-more-till-23-oct.jpg"
-    },
-    {
-      "id": "kfc-1-for-1-japanese-nanban-chicken-bites-12-pieces-for-6-95",
-      "title": "KFC 1-for-1 Japanese Nanban Chicken Bites: 12 Pieces for $6.95, Every Wed-Fri From 14 Oct - https://www.misslobang.com/",
-      "store": "KFC",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "KFC"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "KFC 1-for-1 Japanese Nanban Chicken Bites: 12 Pieces for $6.95, Every Wed-Fri From 14 Oct https://www.misslobang.com/",
-      "expiry": "Ongoing",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2tYZ3UyLVlxM2Z4YVMxZDVTS0o3RjcxeW5yR2JpRDJVWUs1Qm9ENk1UX2NSVXRQMXkzZXltUFNGVkt6TGdXZ0E0eXREUFk0Y3pDcDNDaFdsV2FZejNTbVRuUUxWOER3SjI1Q2xsOEVvVG5DTGZRb2Y3TmtGMWJFeUxuQk5VcUxLMWUtRXNB?oc=5",
-      "source": {
-        "name": "https://www.misslobang.com/",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2tYZ3UyLVlxM2Z4YVMxZDVTS0o3RjcxeW5yR2JpRDJVWUs1Qm9ENk1UX2NSVXRQMXkzZXltUFNGVkt6TGdXZ0E0eXREUFk0Y3pDcDNDaFdsV2FZejNTbVRuUUxWOER3SjI1Q2xsOEVvVG5DTGZRb2Y3TmtGMWJFeUxuQk5VcUxLMWUtRXNB?oc=5"
-      },
-      "brand": "KFC",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-10-14",
-      "first_seen": "2026-10-19"
     },
     {
       "id": "agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct",
@@ -273,7 +503,7 @@
       },
       "desc": "Enjoy extra savings of up to S$50 on eligible worldwide hotel stays with DBS/POSB cards.",
       "expiry": "Ends 31 Oct",
-      "heat": 165,
+      "heat": 125,
       "url": "https://singpromos.com/vacations/agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct-2026-308176/",
       "source": {
         "name": "SINGPromos",
@@ -284,243 +514,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-18",
-      "image": "images/deals/agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct.jpg",
-      "status": "claimed"
-    },
-    {
-      "id": "cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-15-p-a-",
-      "title": "CIMB Singapore SGD fixed deposit rates offer up to 2.15% p.a. from 17 Oct 2026",
-      "store": "CIMB",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy higher 9- and 12-month rates, with extra interest for Preferred Banking and placements from S$10,000.",
-      "expiry": "Ongoing",
-      "heat": 100,
-      "url": "https://singpromos.com/banks-credit-cards/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-15-p-a-from-17-oct-2026-308162/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-15-p-a-from-17-oct-2026-308162/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-10-17",
-      "first_seen": "2026-10-17",
-      "image": "images/deals/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-15-p-a-.jpg"
-    },
-    {
-      "id": "singfinance-fresh-fund-fixed-deposit-offers-up-to-1-8-p-a-fr",
-      "title": "SingFinance Fresh-Fund Fixed Deposit Offers Up To 1.8% p.a. from 16 Oct 2026",
-      "store": "SingFinance Fresh-Fund Fixed Deposit",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "Earn up to 1.8% p.a. across four tenors, with fresh-fund placements starting from S$1,000 online.",
-      "expiry": "Ongoing",
-      "heat": 95,
-      "url": "https://singpromos.com/banks-credit-cards/singfinance-fresh-fund-fixed-deposit-offers-up-to-1-8-p-a-from-16-oct-2026-308149/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/singfinance-fresh-fund-fixed-deposit-offers-up-to-1-8-p-a-from-16-oct-2026-308149/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-10-16",
-      "first_seen": "2026-10-17",
-      "image": "images/deals/singfinance-fresh-fund-fixed-deposit-offers-up-to-1-8-p-a-fr.jpg"
-    },
-    {
-      "id": "new-simplygo-ez-link-buttercup-and-kuromi-charms-from-16-oct",
-      "title": "New SimplyGo EZ-Link Buttercup and Kuromi Charms from 16 Oct 2026",
-      "store": "New SimplyGo EZ-Link Buttercup",
-      "categories": [
-        "transport"
-      ],
-      "icon": "🚗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Add a little cuteness to every commute with these adorable crossover EZ-Link charms at just $14.90!",
-      "expiry": "Ongoing",
-      "heat": 90,
-      "url": "https://singpromos.com/motor-vehicles/new-simplygo-ez-link-buttercup-and-kuromi-charms-from-16-oct-2026-308136/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/motor-vehicles/new-simplygo-ez-link-buttercup-and-kuromi-charms-from-16-oct-2026-308136/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-10-16",
-      "first_seen": "2026-10-17",
-      "image": "images/deals/new-simplygo-ez-link-buttercup-and-kuromi-charms-from-16-oct.jpg"
-    },
-    {
-      "id": "mcdonald-s-s-pore-free-4pc-mcnuggets-with-selected-feasts-ti",
-      "title": "McDonald’s S’pore FREE 4pc McNuggets with selected Feasts till 4 Nov 2026",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Get FREE 4pc Chicken McNuggets with selected double-patty Feasts",
-      "expiry": "Ends 4 Nov",
-      "heat": 145,
-      "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-free-4pc-mcnuggets-with-selected-feasts-till-4-nov-2026-308029/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-free-4pc-mcnuggets-with-selected-feasts-till-4-nov-2026-308029/"
-      },
-      "brand": "McDonald's",
-      "expires_at": "2026-11-04",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-16",
-      "image": "images/deals/mcdonald-s-s-pore-free-4pc-mcnuggets-with-selected-feasts-ti.jpg"
-    },
-    {
-      "id": "mcdonald-s-s-pore-new-chilli-lime-mcsaver-meals-at-5-80-onwa",
-      "title": "McDonald’s S’pore New Chilli Lime McSaver™ Meals at $5.80 onwards from 15 Oct 2026",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Zesty lime meets mild chilli heat in three new burgers",
-      "expiry": "Ongoing",
-      "heat": 115,
-      "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-new-chilli-lime-mcsaver-meals-at-5-80-onwards-from-15-oct-2026-308121/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-new-chilli-lime-mcsaver-meals-at-5-80-onwards-from-15-oct-2026-308121/"
-      },
-      "brand": "McDonald's",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-10-15",
-      "first_seen": "2026-10-16",
-      "image": "images/deals/mcdonald-s-s-pore-new-chilli-lime-mcsaver-meals-at-5-80-onwa.jpg"
-    },
-    {
-      "id": "kfc-s-pore-samyang-buldak-carbonara-loaded-fries-5-50-bowl-f",
-      "title": "KFC S’pore Samyang Buldak Carbonara Loaded Fries & $5.50 Bowl from 21 Oct 2026",
-      "store": "KFC",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "KFC"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "A fiery comeback brings loaded fries from $3.95 and a cheesy macaroni bowl set for just $5.50.",
-      "expiry": "Ongoing",
-      "heat": 110,
-      "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-samyang-buldak-carbonara-loaded-fries-5-50-bowl-from-21-oct-2026-308109/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-samyang-buldak-carbonara-loaded-fries-5-50-bowl-from-21-oct-2026-308109/"
-      },
-      "brand": "KFC",
-      "expires_at": "",
-      "upcoming": true,
-      "starts_at": "2026-10-21",
-      "first_seen": "2026-10-16",
-      "image": "images/deals/kfc-s-pore-samyang-buldak-carbonara-loaded-fries-5-50-bowl-f.jpg"
-    },
-    {
-      "id": "unity-pharmacy-up-to-52-off-deals-plus-buy-2-get-1-free-till",
-      "title": "Unity Pharmacy Up to 52% OFF Deals, Plus Buy 2 Get 1 Free Till 21 Oct 2026",
-      "store": "Unity Pharmacy Up to",
-      "categories": [
-        "home"
-      ],
-      "icon": "🏠",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        },
-        {
-          "type": "discount",
-          "label": "52% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Save 50% on selected supplements, 52% on shampoo and enjoy more bundle deals",
-      "expiry": "Ends 21 Oct",
-      "heat": 100,
-      "url": "https://singpromos.com/health/unity-pharmacy-up-to-52-off-deals-plus-buy-2-get-1-free-till-21-oct-2026-308095/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/health/unity-pharmacy-up-to-52-off-deals-plus-buy-2-get-1-free-till-21-oct-2026-308095/"
-      },
-      "expires_at": "2026-10-21",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-16",
-      "image": "images/deals/unity-pharmacy-up-to-52-off-deals-plus-buy-2-get-1-free-till.jpg"
+      "image": "images/deals/agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct.jpg"
     },
     {
       "id": "don-don-donki-grabmart-spooky-deals-up-to-30-off-plus-20-off",
@@ -671,8 +665,8 @@
       "first_seen": "2026-09-27"
     },
     {
-      "id": "mcdonald-s-singapore-celebrates-children-s-day-with-free-van",
-      "title": "McDonald’s Singapore Celebrates Children’s Day With FREE Vanilla Cones for Kids Till October 7 - Great Deals Singapore",
+      "id": "mcdonald-s-singapore-teams-up-with-foodpanda-for-1-for-1-dea",
+      "title": "McDonald’s Singapore Teams Up With foodpanda For 1-FOR-1 Deals From September 17 To 30 - Great Deals Singapore",
       "store": "McDonald's",
       "categories": [
         "food"
@@ -684,42 +678,6 @@
           "label": "MCDONALD'S"
         },
         {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "McDonald’s Singapore Celebrates Children’s Day With FREE Vanilla Cones for Kids Till October 7 Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWE5ySTVYZTctTXRYVEpkSmhWV0RLMlBZcjh5eWp6UGg1R0tFYjZrMTkzbE1BeUVjMnA4MWdVa21NZXl5dVVBUGJSa0hsTlpqYUUyMEFEVkhrQURwNDB6dDY3N210dE5zRHkzS2xuTzA3Z01zQkZfOXc4SHhidVRUaDg2b3ZVaUNfN0ZVdzNwYkJsWjFUWHVzcmFzWk4?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWE5ySTVYZTctTXRYVEpkSmhWV0RLMlBZcjh5eWp6UGg1R0tFYjZrMTkzbE1BeUVjMnA4MWdVa21NZXl5dVVBUGJSa0hsTlpqYUUyMEFEVkhrQURwNDB6dDY3N210dE5zRHkzS2xuTzA3Z01zQkZfOXc4SHhidVRUaDg2b3ZVaUNfN0ZVdzNwYkJsWjFUWHVzcmFzWk4?oc=5"
-      },
-      "brand": "McDonald's",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-26"
-    },
-    {
-      "id": "starbucks-singapore-is-offering-1-for-1-on-all-venti-sized-d",
-      "title": "Starbucks Singapore Is Offering 1-FOR-1 On All Venti-Sized Drinks From September 21 to 24 - Great Deals Singapore",
-      "store": "Starbucks",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "STARBUCKS"
-        },
-        {
           "type": "discount",
           "label": "1-FOR-1"
         }
@@ -728,19 +686,19 @@
         "type": "easy",
         "label": "See source for how to redeem"
       },
-      "desc": "Starbucks Singapore Is Offering 1-FOR-1 On All Venti-Sized Drinks From September 21 to 24 Great Deals Singapore",
+      "desc": "McDonald’s Singapore Teams Up With foodpanda For 1-FOR-1 Deals From September 17 To 30 Great Deals Singapore",
       "expiry": "Check link for dates",
       "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPakxBRnFVT013MHF3ektVUEhaTWFWVVo1NWZtT0lET1g0RHp3VU8tRXNQQkk1TmdrcmNPT1JaREprNDBpVWVoSTl0NFI2M2tHTU5ONk1jSUhmN283Y3hfamVOLVBnOXE0ZF81Y0Nic1dWTi1QQXFpNWk3Mzk4OFZXQVRQV2Z0ZXZYN1pqMEpXZm1HOEhu?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcWUyZVZlLTlDcERrNVZVSmcyLURYTTdreWlPRzFDR1pURUdTQTV3OTl6cmpyUHBWSEwzWXpDSkxjSWFSRHlBQnJCRko3anlwWDltX0JfeHpqUVBMVmxxVEFNZmVFLWRzYVlobTk1YWlLNkoxeUFISWxMQXJ6YmJBa3RjNnBraUg0X2FRYWt0N1NhdWM?oc=5",
       "source": {
         "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPakxBRnFVT013MHF3ektVUEhaTWFWVVo1NWZtT0lET1g0RHp3VU8tRXNQQkk1TmdrcmNPT1JaREprNDBpVWVoSTl0NFI2M2tHTU5ONk1jSUhmN283Y3hfamVOLVBnOXE0ZF81Y0Nic1dWTi1QQXFpNWk3Mzk4OFZXQVRQV2Z0ZXZYN1pqMEpXZm1HOEhu?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcWUyZVZlLTlDcERrNVZVSmcyLURYTTdreWlPRzFDR1pURUdTQTV3OTl6cmpyUHBWSEwzWXpDSkxjSWFSRHlBQnJCRko3anlwWDltX0JfeHpqUVBMVmxxVEFNZmVFLWRzYVlobTk1YWlLNkoxeUFISWxMQXJ6YmJBa3RjNnBraUg0X2FRYWt0N1NhdWM?oc=5"
       },
-      "brand": "Starbucks",
+      "brand": "McDonald's",
       "expires_at": "",
       "upcoming": false,
       "starts_at": "",
-      "first_seen": "2026-09-20"
+      "first_seen": "2026-09-16"
     },
     {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
@@ -777,6 +735,42 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-10"
+    },
+    {
+      "id": "up-to-70-off-selected-items-at-don-don-donki-till-19-jul-set",
+      "title": "Up to 70% off selected items at Don Don Donki till 19 Jul - SETHLUI.com",
+      "store": "Don Don Donki",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "DON DON DONKI"
+        },
+        {
+          "type": "discount",
+          "label": "70% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Up to 70% off selected items at Don Don Donki till 19 Jul SETHLUI.com",
+      "expiry": "Ends 19 Jul",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5",
+      "source": {
+        "name": "SETHLUI.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5"
+      },
+      "brand": "Don Don Donki",
+      "expires_at": "2027-07-19",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-07-06"
     },
     {
       "id": "muji-online-exclusive-sale-just-dropped-with-up-to-40-off-ho",
@@ -916,8 +910,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -983,8 +976,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
