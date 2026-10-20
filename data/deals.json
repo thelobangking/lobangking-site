@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "categories": [
     {
       "id": "all",
@@ -741,42 +741,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-20"
-    },
-    {
-      "id": "32-best-pickleball-courts-in-singapore-free-courts-places-fr",
-      "title": "32 Best Pickleball Courts In Singapore (+ Free Courts & Places From $3.30/Hour!) - Sassy Mama Singapore",
-      "store": "Courts",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "💻",
-      "badges": [
-        {
-          "type": "new",
-          "label": "COURTS"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "32 Best Pickleball Courts In Singapore (+ Free Courts & Places From $3.30/Hour!) Sassy Mama Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4way1MRVpVT2RKS0Z1d1ozUi1yNG9Pd3oxWksxNkV0Q1pPY0VrdDFad091ZGhDN2RPanFHbEJld1lGaDM1QVNGbHhsLXNUNkRvUlY3RV8yaFp1alF4bDJxRG1nQ3pOZHA2ZUg4MHFfSzV3TFJhYnc?oc=5",
-      "source": {
-        "name": "Sassy Mama Singapore",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4way1MRVpVT2RKS0Z1d1ozUi1yNG9Pd3oxWksxNkV0Q1pPY0VrdDFad091ZGhDN2RPanFHbEJld1lGaDM1QVNGbHhsLXNUNkRvUlY3RV8yaFp1alF4bDJxRG1nQ3pOZHA2ZUg4MHFfSzV3TFJhYnc?oc=5"
-      },
-      "brand": "Courts",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-04"
     },
     {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
