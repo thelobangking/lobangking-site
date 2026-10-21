@@ -114,7 +114,6 @@
   ],
   "brands_today": [
     "4Fingers",
-    "Agoda",
     "BEST Denki",
     "BreadTalk",
     "Burger King",
@@ -139,16 +138,224 @@
     "REFASH",
     "SUSHIRO",
     "Scoot",
+    "Sheng Siong",
     "Shihlin",
     "Singapore Airlines",
     "Singapore Zoo",
     "Swensen's",
     "TANGS",
     "Toys“R”Us",
+    "Watsons",
     "Yellow Ribbon",
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "sheng-siong-weekly-deals-with-free-5-voucher-pwp-offers-more",
+      "title": "Sheng Siong Weekly Deals with Free $5 Voucher, PWP Offers & More till 26 Oct 2026",
+      "store": "Sheng Siong",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "SHENG SIONG"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Savings on snacks, groceries, frozen food and household essentials, plus a free voucher.",
+      "expiry": "Ends 26 Oct",
+      "heat": 155,
+      "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-weekly-deals-with-free-5-voucher-pwp-offers-more-till-26-oct-2026-308289/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-weekly-deals-with-free-5-voucher-pwp-offers-more-till-26-oct-2026-308289/"
+      },
+      "brand": "Sheng Siong",
+      "expires_at": "2026-10-26",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-21",
+      "spotlight": true,
+      "image": "images/deals/sheng-siong-weekly-deals-with-free-5-voucher-pwp-offers-more.jpg"
+    },
+    {
+      "id": "le-creuset-s-pore-last-family-sale-up-to-80-off-from-23-25-o",
+      "title": "Le Creuset S’pore Last Family Sale Up to 80% Off from 23 – 25 Oct 2026",
+      "store": "Le Creuset",
+      "categories": [
+        "online"
+      ],
+      "icon": "🛒",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "80% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Three days of deals",
+      "expiry": "Ends 25 Oct",
+      "heat": 135,
+      "url": "https://singpromos.com/warehouse-sales/le-creuset-spore-last-family-sale-up-to-80-off-from-23-25-oct-2026-308338/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/warehouse-sales/le-creuset-spore-last-family-sale-up-to-80-off-from-23-25-oct-2026-308338/"
+      },
+      "expires_at": "2026-10-25",
+      "upcoming": true,
+      "starts_at": "2026-10-23",
+      "first_seen": "2026-10-21",
+      "image": "images/deals/le-creuset-s-pore-last-family-sale-up-to-80-off-from-23-25-o.jpg"
+    },
+    {
+      "id": "shakey-s-singapore-1-for-1-pizza-deal-on-22-23-oct-2026-2-da",
+      "title": "Shakey’s Singapore 1-for-1 pizza deal on 22-23 Oct 2026, 2 days only",
+      "store": "Shakey’s",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Pizza lovers can enjoy two pizzas for the price of one with free Parlour Club membership!",
+      "expiry": "Ends 23 Oct",
+      "heat": 130,
+      "url": "https://singpromos.com/dining-restaurants-food/shakeys-singapore-1-for-1-pizza-deal-on-22-23-oct-2026-2-days-only-308325/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/shakeys-singapore-1-for-1-pizza-deal-on-22-23-oct-2026-2-days-only-308325/"
+      },
+      "expires_at": "2026-10-23",
+      "upcoming": true,
+      "starts_at": "2026-10-22",
+      "first_seen": "2026-10-21",
+      "image": "images/deals/shakey-s-singapore-1-for-1-pizza-deal-on-22-23-oct-2026-2-da.jpg"
+    },
+    {
+      "id": "kenangan-coffee-s-pore-1-for-1-payday-coffee-promo-till-22-o",
+      "title": "Kenangan Coffee S’pore 1-for-1 Payday Coffee Promo till 22 Oct 2026",
+      "store": "Kenangan Coffee",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Enjoy two regular coffees for the price of one with this limited-time payday treat via the app.",
+      "expiry": "Ends 22 Oct",
+      "heat": 120,
+      "url": "https://singpromos.com/dining-restaurants-food/kenangan-coffee-spore-1-for-1-payday-coffee-promo-till-22-oct-2026-308305/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/kenangan-coffee-spore-1-for-1-payday-coffee-promo-till-22-oct-2026-308305/"
+      },
+      "expires_at": "2026-10-22",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-21",
+      "image": "images/deals/kenangan-coffee-s-pore-1-for-1-payday-coffee-promo-till-22-o.jpg"
+    },
+    {
+      "id": "pizza-hut-s-pore-2-for-22-regular-2-for-33-large-4-90-pizza-",
+      "title": "Pizza Hut S’pore 2 for $22 Regular, 2 for $33 Large & $4.90 Pizza Deals (21 Oct – 11 Nov 2026)",
+      "store": "Pizza Hut",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Save up to 80% on pizza, with a $4.90 takeaway deal and two-pizza bundles from $22.",
+      "expiry": "Ends 11 Nov",
+      "heat": 105,
+      "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-2-for-22-regular-2-for-33-large-4-90-pizza-deals-21-oct-11-nov-2026-308313/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-2-for-22-regular-2-for-33-large-4-90-pizza-deals-21-oct-11-nov-2026-308313/"
+      },
+      "expires_at": "2026-11-11",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-21",
+      "image": "images/deals/pizza-hut-s-pore-2-for-22-regular-2-for-33-large-4-90-pizza-.jpg"
+    },
+    {
+      "id": "watsons-gnc-clearance-sale-2-for-50-off-3-for-60-off-online-",
+      "title": "Watsons GNC Clearance Sale: 2 for 50% Off, 3 for 60% Off Online, to 31 Dec 2026 - https://www.misslobang.com/",
+      "store": "Watsons",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "WATSONS"
+        },
+        {
+          "type": "discount",
+          "label": "50% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — see source link to claim"
+      },
+      "desc": "Watsons GNC Clearance Sale: 2 for 50% Off, 3 for 60% Off Online, to 31 Dec 2026 https://www.misslobang.com/",
+      "expiry": "Ends 31 Dec",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRmdxaVNpYl9wUG9hSkx6SklDLTRmRnlSaHpETVgzVnZrRXV2TzlHcHlSZkxIRW1xSjdzMHJPMHEySE9SOXQ5MmdCTDRLMkhCbTZ1X0ZLanFxUWIzVjZqRTQ1U3FhTkUxWW1TWkhQUmhaSklkaXZrNHlSanV2ODg4bW5HRWdzWjR6ZURndE1JTUp5UQ?oc=5",
+      "source": {
+        "name": "https://www.misslobang.com/",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRmdxaVNpYl9wUG9hSkx6SklDLTRmRnlSaHpETVgzVnZrRXV2TzlHcHlSZkxIRW1xSjdzMHJPMHEySE9SOXQ5MmdCTDRLMkhCbTZ1X0ZLanFxUWIzVjZqRTQ1U3FhTkUxWW1TWkhQUmhaSklkaXZrNHlSanV2ODg4bW5HRWdzWjR6ZURndE1JTUp5UQ?oc=5"
+      },
+      "brand": "Watsons",
+      "expires_at": "2026-12-31",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-21"
+    },
     {
       "id": "burger-king-s-pore-free-king-jr-cups-with-every-king-jr-meal",
       "title": "Burger King S’pore Free King Jr. Cups With Every King Jr. Meal from 19 Oct 2026",
@@ -173,7 +380,7 @@
       },
       "desc": "Collect 1 of 4 colourful King Jr. cups with every kids' meal, while stocks last",
       "expiry": "Ongoing",
-      "heat": 165,
+      "heat": 140,
       "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-free-king-jr-cups-with-every-king-jr-meal-from-19-oct-2026-308249/",
       "source": {
         "name": "SINGPromos",
@@ -184,8 +391,7 @@
       "upcoming": false,
       "starts_at": "2026-10-19",
       "first_seen": "2026-10-20",
-      "image": "images/deals/burger-king-s-pore-free-king-jr-cups-with-every-king-jr-meal.jpg",
-      "spotlight": true
+      "image": "images/deals/burger-king-s-pore-free-king-jr-cups-with-every-king-jr-meal.jpg"
     },
     {
       "id": "airasia-up-to-30-off-flights-for-travel-until-sep-2027-book-",
@@ -207,7 +413,7 @@
       },
       "desc": "Save on flights and travel extras, with exciting destinations, Fly-Thru connections and cardholder deals.",
       "expiry": "Ends 25 Oct",
-      "heat": 135,
+      "heat": 110,
       "url": "https://singpromos.com/airlines-flights/airasia-up-to-30-off-flights-for-travel-until-sep-2027-book-by-25-oct-2026-308282/",
       "source": {
         "name": "SINGPromos",
@@ -239,7 +445,7 @@
       },
       "desc": "Maple-flavoured griddle cakes, savoury breakfast favourites and an early GrabFood delivery perk",
       "expiry": "Ongoing",
-      "heat": 130,
+      "heat": 105,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-mcgriddles-returns-from-22-oct-2026-308223/",
       "source": {
         "name": "SINGPromos",
@@ -272,7 +478,7 @@
       },
       "desc": "Scoot's upcoming sale covers 70 destinations, with discounted one-way fares and travel into 2027.",
       "expiry": "Ends 30 Oct",
-      "heat": 125,
+      "heat": 100,
       "url": "https://singpromos.com/airlines-flights/scoot-sg-time-to-fly-sale-from-23-30-oct-2026-has-180000-tickets-to-70-destinations-308230/",
       "source": {
         "name": "SINGPromos",
@@ -305,7 +511,7 @@
       },
       "desc": "Featuring discounted return fares and additional card offers",
       "expiry": "Ends 30 Oct",
-      "heat": 120,
+      "heat": 95,
       "url": "https://singpromos.com/airlines-flights/singapore-airlines-spore-promo-fares-from-23-30-oct-2026-travel-until-sep-2027-308216/",
       "source": {
         "name": "SINGPromos",
@@ -338,7 +544,7 @@
       },
       "desc": "Shop beauty, skincare, haircare and household essentials at this two-day sale",
       "expiry": "Ends 21 Oct",
-      "heat": 115,
+      "heat": 90,
       "url": "https://singpromos.com/warehouse-sales/mandom-warehouse-sale-up-to-80-off-from-20-to-21-oct-2026-307967/",
       "source": {
         "name": "SINGPromos",
@@ -349,209 +555,6 @@
       "starts_at": "",
       "first_seen": "2026-10-20",
       "image": "images/deals/mandom-warehouse-sale-up-to-80-off-from-20-to-21-oct-2026.jpg"
-    },
-    {
-      "id": "bank-of-china-s-pore-latest-time-deposit-offers-up-to-2-05-p",
-      "title": "Bank of China S’pore Latest Time Deposit Offers Up To 2.05% p.a. from 19 Oct 2026",
-      "store": "Bank of China",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "The top 2.05% p.a. rate now needs just S$20,000 for 12 months, with other tenors also improved.",
-      "expiry": "Ongoing",
-      "heat": 110,
-      "url": "https://singpromos.com/banks-credit-cards/bank-of-china-spore-latest-time-deposit-offers-up-to-2-05-p-a-from-19-oct-2026-308275/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/bank-of-china-spore-latest-time-deposit-offers-up-to-2-05-p-a-from-19-oct-2026-308275/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-10-19",
-      "first_seen": "2026-10-20",
-      "image": "images/deals/bank-of-china-s-pore-latest-time-deposit-offers-up-to-2-05-p.jpg"
-    },
-    {
-      "id": "f-n-magnolia-launches-limited-edition-matcha-flavoured-milk-",
-      "title": "F&N Magnolia Launches Limited-Edition Matcha Flavoured Milk from S$2.52",
-      "store": "F&N Magnolia Launches Limited-Edition",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Made with real matcha powder, the halal-certified milk comes in two sizes for home café drinks.",
-      "expiry": "Check link for dates",
-      "heat": 100,
-      "url": "https://singpromos.com/dining-restaurants-food/fn-magnolia-launches-limited-edition-matcha-flavoured-milk-from-s2-52-308257/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/fn-magnolia-launches-limited-edition-matcha-flavoured-milk-from-s2-52-308257/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-20",
-      "image": "images/deals/f-n-magnolia-launches-limited-edition-matcha-flavoured-milk-.jpg"
-    },
-    {
-      "id": "mcdonald-s-s-pore-pre-payday-deals-6-90-meals-free-delivery-",
-      "title": "McDonald’s S’pore Pre-Payday Deals $6.90 Meals & Free Delivery w/ $35 spend until 23 Oct 2026",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Enjoy $6.90 breakfast and lunch meals, plus free McDelivery with $35 spend via the app.",
-      "expiry": "Ends 23 Oct",
-      "heat": 110,
-      "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-pre-payday-deals-6-90-meals-free-delivery-w-35-spend-until-23-oct-2026-308192/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-pre-payday-deals-6-90-meals-free-delivery-w-35-spend-until-23-oct-2026-308192/"
-      },
-      "brand": "McDonald's",
-      "expires_at": "2026-10-23",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-19",
-      "image": "images/deals/mcdonald-s-s-pore-pre-payday-deals-6-90-meals-free-delivery-.jpg"
-    },
-    {
-      "id": "autodesk-s-pore-15-off-autocad-maya-3ds-max-more-till-23-oct",
-      "title": "Autodesk S’pore 15% Off AutoCAD, Maya, 3ds Max & More till 23 Oct 2026",
-      "store": "Autodesk",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "💻",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "15% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy 15% off selected Autodesk annual subscriptions, with savings of up to S$431 on popular software.",
-      "expiry": "Ends 23 Oct",
-      "heat": 95,
-      "url": "https://singpromos.com/computers-pc/autodesk-spore-15-off-autocad-maya-3ds-max-more-till-23-oct-2026-308212/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/computers-pc/autodesk-spore-15-off-autocad-maya-3ds-max-more-till-23-oct-2026-308212/"
-      },
-      "expires_at": "2026-10-23",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-19",
-      "image": "images/deals/autodesk-s-pore-15-off-autocad-maya-3ds-max-more-till-23-oct.jpg"
-    },
-    {
-      "id": "agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct",
-      "title": "Agoda SG Extra 20% Off Hotels with DBS/POSB Cards Till 31 Oct 2026",
-      "store": "Agoda",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "new",
-          "label": "AGODA"
-        },
-        {
-          "type": "discount",
-          "label": "20% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy extra savings of up to S$50 on eligible worldwide hotel stays with DBS/POSB cards.",
-      "expiry": "Ends 31 Oct",
-      "heat": 125,
-      "url": "https://singpromos.com/vacations/agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct-2026-308176/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/vacations/agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct-2026-308176/"
-      },
-      "brand": "Agoda",
-      "expires_at": "2026-10-31",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-18",
-      "image": "images/deals/agoda-sg-extra-20-off-hotels-with-dbs-posb-cards-till-31-oct.jpg",
-      "status": "claimed"
-    },
-    {
-      "id": "don-don-donki-grabmart-spooky-deals-up-to-30-off-plus-20-off",
-      "title": "DON DON DONKI GrabMart Spooky Deals: Up to 30% Off Plus 20% Off Your First Order With DONKINEW, 5-25 Oct 2026 - https://",
-      "store": "Don Don Donki",
-      "categories": [
-        "transport"
-      ],
-      "icon": "🚗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "DON DON DONKI"
-        },
-        {
-          "type": "discount",
-          "label": "30% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "DON DON DONKI GrabMart Spooky Deals: Up to 30% Off Plus 20% Off Your First Order With DONKINEW, 5-25 Oct 2026 https://www.misslobang.com/",
-      "expiry": "Ends 25 Oct",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYU5FLWZNaUlmWTNDRWtRTVN6dGpBSXFhWkxseUFnb18taVFFcFYya2dWVTJkWFk4dVFWaXRZQ3ZuYnY1aGtZdWQ0ZkJkU2h3VTVJTFFkb3llTkQxcnhWbVE5VU9HaUpkSjcxT2k2LU12TDBvZlgwQkhsSEM0aUt4LVBHRlZWZw?oc=5",
-      "source": {
-        "name": "https://www.misslobang.com/",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYU5FLWZNaUlmWTNDRWtRTVN6dGpBSXFhWkxseUFnb18taVFFcFYya2dWVTJkWFk4dVFWaXRZQ3ZuYnY1aGtZdWQ0ZkJkU2h3VTVJTFFkb3llTkQxcnhWbVE5VU9HaUpkSjcxT2k2LU12TDBvZlgwQkhsSEM0aUt4LVBHRlZWZw?oc=5"
-      },
-      "brand": "Don Don Donki",
-      "expires_at": "2026-10-25",
-      "upcoming": false,
-      "starts_at": "2026-10-05",
-      "first_seen": "2026-10-07"
     },
     {
       "id": "kids-enter-free-promo-at-singapore-zoo-rainforest-wild-adven",
@@ -911,8 +914,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -978,8 +980,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
