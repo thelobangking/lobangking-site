@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "categories": [
     {
       "id": "all",
@@ -523,38 +523,6 @@
       "starts_at": "2026-10-23",
       "first_seen": "2026-10-20",
       "image": "images/deals/singapore-airlines-s-pore-promo-fares-from-23-30-oct-2026-tr.jpg"
-    },
-    {
-      "id": "mandom-warehouse-sale-up-to-80-off-from-20-to-21-oct-2026",
-      "title": "Mandom Warehouse Sale – Up to 80% Off from 20 to 21 Oct 2026",
-      "store": "Mandom Warehouse Sale –",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "80% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Shop beauty, skincare, haircare and household essentials at this two-day sale",
-      "expiry": "Ends 21 Oct",
-      "heat": 90,
-      "url": "https://singpromos.com/warehouse-sales/mandom-warehouse-sale-up-to-80-off-from-20-to-21-oct-2026-307967/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/warehouse-sales/mandom-warehouse-sale-up-to-80-off-from-20-to-21-oct-2026-307967/"
-      },
-      "expires_at": "2026-10-21",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-20",
-      "image": "images/deals/mandom-warehouse-sale-up-to-80-off-from-20-to-21-oct-2026.jpg"
     },
     {
       "id": "kids-enter-free-promo-at-singapore-zoo-rainforest-wild-adven",
