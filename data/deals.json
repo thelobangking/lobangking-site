@@ -116,14 +116,14 @@
     "4Fingers",
     "BEST Denki",
     "BreadTalk",
-    "Burger King",
     "Chagee",
     "Challenger",
-    "Cotton On",
+    "Cold Storage",
     "Courts",
     "Decathlon",
     "Don Don Donki",
     "Eu Yan Sang",
+    "FairPrice",
     "GOLDLION",
     "Gain City",
     "Giant",
@@ -143,11 +143,225 @@
     "Swensen's",
     "TANGS",
     "Toys“R”Us",
+    "Universal Studios Singapore",
     "Watsons",
     "Yellow Ribbon",
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "1-for-1-universal-studios-singapore-tickets-for-safra-member",
+      "title": "1 FOR 1 Universal Studios Singapore Tickets for SAFRA Members till 31 Dec 2026",
+      "store": "Universal Studios Singapore",
+      "categories": [
+        "entertainment"
+      ],
+      "icon": "🎮",
+      "badges": [
+        {
+          "type": "new",
+          "label": "UNIVERSAL STUDIOS SINGAPORE"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "SAFRA members can enjoy complimentary adult admission with every adult ticket purchased",
+      "expiry": "Ends 31 Dec",
+      "heat": 175,
+      "url": "https://singpromos.com/places-of-interest/1-for-1-universal-studios-singapore-tickets-for-safra-members-till-31-dec-2026-308460/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/places-of-interest/1-for-1-universal-studios-singapore-tickets-for-safra-members-till-31-dec-2026-308460/"
+      },
+      "brand": "Universal Studios Singapore",
+      "expires_at": "2026-12-31",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-23",
+      "spotlight": true,
+      "image": "images/deals/1-for-1-universal-studios-singapore-tickets-for-safra-member.jpg"
+    },
+    {
+      "id": "gnc-clearance-sale-at-watsons-sg-from-20-oct-2026-with-3-for",
+      "title": "GNC Clearance Sale at Watsons SG from 20 Oct 2026 with 3 for 60% Off and Extra $100 Off",
+      "store": "Watsons",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "WATSONS"
+        },
+        {
+          "type": "discount",
+          "label": "60% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — see source link to claim"
+      },
+      "desc": "Multi-buy savings and an extra $100 off eligible online orders.",
+      "expiry": "Ongoing",
+      "heat": 165,
+      "url": "https://singpromos.com/health/gnc-clearance-sale-at-watsons-sg-from-20-oct-2026-with-3-for-60-off-and-extra-100-off-308448/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/health/gnc-clearance-sale-at-watsons-sg-from-20-oct-2026-with-3-for-60-off-and-extra-100-off-308448/"
+      },
+      "brand": "Watsons",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-10-20",
+      "first_seen": "2026-10-23",
+      "image": "images/deals/gnc-clearance-sale-at-watsons-sg-from-20-oct-2026-with-3-for.jpg"
+    },
+    {
+      "id": "cold-storage-h-agen-dazs-tubs-any-3-for-25-save-19-25-more-d",
+      "title": "Cold Storage Häagen-Dazs Tubs Any 3 for $25, Save $19.25 & More Deals Till 28 Oct 2026",
+      "store": "Cold Storage",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "COLD STORAGE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Plus grocery bargains at Cold Storage and CS Fresh.",
+      "expiry": "Ends 28 Oct",
+      "heat": 140,
+      "url": "https://singpromos.com/dining-restaurants-food/cold-storage-haagen-dazs-tubs-any-3-for-25-save-19-25-more-deals-till-28-oct-2026-308428/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/cold-storage-haagen-dazs-tubs-any-3-for-25-save-19-25-more-deals-till-28-oct-2026-308428/"
+      },
+      "brand": "Cold Storage",
+      "expires_at": "2026-10-28",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-23",
+      "image": "images/deals/cold-storage-h-agen-dazs-tubs-any-3-for-25-save-19-25-more-d.jpg"
+    },
+    {
+      "id": "fairprice-half-price-andersen-s-ice-cream-plus-h-agen-dazs-c",
+      "title": "FairPrice Half-Price Andersen’s Ice Cream Plus Häagen-Dazs, Cornetto & Snack Deals Till 28 Oct 2026",
+      "store": "FairPrice",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "FAIRPRICE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Half-price ice cream, plus discounts on biscuits, chips and other supermarket favourites.",
+      "expiry": "Ends 28 Oct",
+      "heat": 135,
+      "url": "https://singpromos.com/dining-restaurants-food/fairprice-half-price-andersens-ice-cream-plus-haagen-dazs-cornetto-snack-deals-till-28-oct-2026-308413/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/fairprice-half-price-andersens-ice-cream-plus-haagen-dazs-cornetto-snack-deals-till-28-oct-2026-308413/"
+      },
+      "brand": "FairPrice",
+      "expires_at": "2026-10-28",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-23",
+      "image": "images/deals/fairprice-half-price-andersen-s-ice-cream-plus-h-agen-dazs-c.jpg"
+    },
+    {
+      "id": "klook-drops-50-off-singapore-oceanarium-universal-studios-si",
+      "title": "Klook Drops 50% Off Singapore Oceanarium & Universal Studios Singapore Tickets From 23–25 October - MoneyDigest",
+      "store": "Universal Studios Singapore",
+      "categories": [
+        "travel"
+      ],
+      "icon": "✈️",
+      "badges": [
+        {
+          "type": "new",
+          "label": "UNIVERSAL STUDIOS SINGAPORE"
+        },
+        {
+          "type": "discount",
+          "label": "50% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Klook Drops 50% Off Singapore Oceanarium & Universal Studios Singapore Tickets From 23–25 October MoneyDigest",
+      "expiry": "Ends 25 Oct",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0tBUUlDY0xiZkY1eXRIdWkzZENYOGo0U1NOOXZtaEJYQXBYTjV0SFZFTUJDY0tpOGZuVzVyVjl1NFZ1ajJHU3ZCNmVwVmkwZkRBclBOUXY1RzVMakE0WHhmQkFHV1d1cm9UN1NJVGhMbS11TVRDTEJfYXFla1AzUFJ1NHZLUG9QSWV1STZQeC1FdjBuVVZUb3plS0dqQVg4TUxpamJELUtWQmZnUDZXRXNXaTQ1MUtjS2ROOEIzUQ?oc=5",
+      "source": {
+        "name": "MoneyDigest",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0tBUUlDY0xiZkY1eXRIdWkzZENYOGo0U1NOOXZtaEJYQXBYTjV0SFZFTUJDY0tpOGZuVzVyVjl1NFZ1ajJHU3ZCNmVwVmkwZkRBclBOUXY1RzVMakE0WHhmQkFHV1d1cm9UN1NJVGhMbS11TVRDTEJfYXFla1AzUFJ1NHZLUG9QSWV1STZQeC1FdjBuVVZUb3plS0dqQVg4TUxpamJELUtWQmZnUDZXRXNXaTQ1MUtjS2ROOEIzUQ?oc=5"
+      },
+      "brand": "Universal Studios Singapore",
+      "expires_at": "2026-10-25",
+      "upcoming": false,
+      "starts_at": "2026-10-23",
+      "first_seen": "2026-10-23"
+    },
+    {
+      "id": "gain-city-s-go-green-campaign-offers-up-to-1k-off-on-applian",
+      "title": "Gain City’s Go Green campaign offers up to $1k off on appliances with trade-ins, free weekend repairs - The Straits Time",
+      "store": "Gain City",
+      "categories": [
+        "home"
+      ],
+      "icon": "🏠",
+      "badges": [
+        {
+          "type": "new",
+          "label": "GAIN CITY"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Gain City’s Go Green campaign offers up to $1k off on appliances with trade-ins, free weekend repairs The Straits Times",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWJUYlNxeWI3SmRabHZ4Nk54R21GTER6LW8zZU80SlZfcXd1V2d1SXFJWVpmV200QThibTZxUThqRVRpRklWVDdlczBUNUdLQktWQlRsSVZRbEstSkJQNDF3aWM4ZEVhLUFLMExJOS0yUjhTZmdGUjVMdC1CTjdtMEE3Zkp3LS1oTVdIR0QxbU8tQmNGS2lPRXhPNEY4V3RzdFVzNUtIWVg4ZnBsejdjU2dONGhpLURXekFiTFRjckg3amhpQTFOdXV1TXU?oc=5",
+      "source": {
+        "name": "The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWJUYlNxeWI3SmRabHZ4Nk54R21GTER6LW8zZU80SlZfcXd1V2d1SXFJWVpmV200QThibTZxUThqRVRpRklWVDdlczBUNUdLQktWQlRsSVZRbEstSkJQNDF3aWM4ZEVhLUFLMExJOS0yUjhTZmdGUjVMdC1CTjdtMEE3Zkp3LS1oTVdIR0QxbU8tQmNGS2lPRXhPNEY4V3RzdFVzNUtIWVg4ZnBsejdjU2dONGhpLURXekFiTFRjckg3amhpQTFOdXV1TXU?oc=5"
+      },
+      "brand": "Gain City",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-23"
+    },
     {
       "id": "sheng-siong-4-days-special-with-1-for-1-deals-till-25-oct-20",
       "title": "Sheng Siong 4 Days Special with 1-for-1 Deals till 25 Oct 2026",
@@ -172,7 +386,7 @@
       },
       "desc": "Pick up one-for-one treats and enjoy savings above 40% on selected household and grocery essentials.",
       "expiry": "Ends 25 Oct",
-      "heat": 175,
+      "heat": 150,
       "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-4-days-special-with-1-for-1-deals-till-25-oct-2026-308394/",
       "source": {
         "name": "SINGPromos",
@@ -183,8 +397,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-22",
-      "image": "images/deals/sheng-siong-4-days-special-with-1-for-1-deals-till-25-oct-20.jpg",
-      "spotlight": true
+      "image": "images/deals/sheng-siong-4-days-special-with-1-for-1-deals-till-25-oct-20.jpg"
     },
     {
       "id": "7-eleven-s-pore-1-deals-till-3-nov-has-m-m-s-lexus-nutella-b",
@@ -210,7 +423,7 @@
       },
       "desc": "Grab snacks from just $1, drinks from $1.20 and a buy 1 get 1 free Yan Yan treat!",
       "expiry": "Ends 3 Nov",
-      "heat": 125,
+      "heat": 100,
       "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-1-deals-till-3-nov-has-mms-lexus-nutella-b-ready-more-308351/",
       "source": {
         "name": "SINGPromos",
@@ -221,70 +434,6 @@
       "starts_at": "",
       "first_seen": "2026-10-22",
       "image": "images/deals/7-eleven-s-pore-1-deals-till-3-nov-has-m-m-s-lexus-nutella-b.jpg"
-    },
-    {
-      "id": "coe-oct-2026-2nd-bidding-sees-cat-a-rise-to-s-132-004-as-mot",
-      "title": "COE Oct 2026 2nd bidding sees Cat A rise to S$132,004 as motorcycles dip",
-      "store": "COE Oct 2026 2nd",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Car and goods vehicle premiums climb while motorcycle and Open Category prices head lower.",
-      "expiry": "Check link for dates",
-      "heat": 110,
-      "url": "https://singpromos.com/news/coe-oct-2026-2nd-bidding-sees-cat-a-rise-to-s132004-as-motorcycles-dip-308372/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/news/coe-oct-2026-2nd-bidding-sees-cat-a-rise-to-s132004-as-motorcycles-dip-308372/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-22",
-      "image": "images/deals/coe-oct-2026-2nd-bidding-sees-cat-a-rise-to-s-132-004-as-mot.jpg"
-    },
-    {
-      "id": "7-eleven-sg-4-for-9-cornetto-royale-4-h-agen-dazs-sandwich-m",
-      "title": "7-Eleven SG 4-for-$9 Cornetto Royale, $4 Häagen-Dazs Sandwich & More Icy Treats till 3 Nov 2026",
-      "store": "7-Eleven",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Save up to 42% on icy treats",
-      "expiry": "Ends 3 Nov",
-      "heat": 100,
-      "url": "https://singpromos.com/dining-restaurants-food/7-eleven-sg-4-for-9-cornetto-royale-4-haagen-dazs-sandwich-more-icy-treats-till-3-nov-2026-308347/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/7-eleven-sg-4-for-9-cornetto-royale-4-haagen-dazs-sandwich-more-icy-treats-till-3-nov-2026-308347/"
-      },
-      "expires_at": "2026-11-03",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-22",
-      "image": "images/deals/7-eleven-sg-4-for-9-cornetto-royale-4-h-agen-dazs-sandwich-m.jpg"
     },
     {
       "id": "sheng-siong-weekly-deals-with-free-5-voucher-pwp-offers-more",
@@ -310,7 +459,7 @@
       },
       "desc": "Savings on snacks, groceries, frozen food and household essentials, plus a free voucher.",
       "expiry": "Ends 26 Oct",
-      "heat": 135,
+      "heat": 115,
       "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-weekly-deals-with-free-5-voucher-pwp-offers-more-till-26-oct-2026-308289/",
       "source": {
         "name": "SINGPromos",
@@ -341,55 +490,19 @@
         "type": "easy",
         "label": "See source for how to redeem"
       },
-      "desc": "Three days of deals",
+      "desc": "Up to 80% off cookware, plus extra multi-buy and survey discounts",
       "expiry": "Ends 25 Oct",
-      "heat": 115,
+      "heat": 90,
       "url": "https://singpromos.com/warehouse-sales/le-creuset-spore-last-family-sale-up-to-80-off-from-23-25-oct-2026-308338/",
       "source": {
         "name": "SINGPromos",
         "url": "https://singpromos.com/warehouse-sales/le-creuset-spore-last-family-sale-up-to-80-off-from-23-25-oct-2026-308338/"
       },
       "expires_at": "2026-10-25",
-      "upcoming": true,
+      "upcoming": false,
       "starts_at": "2026-10-23",
       "first_seen": "2026-10-21",
       "image": "images/deals/le-creuset-s-pore-last-family-sale-up-to-80-off-from-23-25-o.jpg"
-    },
-    {
-      "id": "shakey-s-singapore-1-for-1-pizza-deal-on-22-23-oct-2026-2-da",
-      "title": "Shakey’s Singapore 1-for-1 pizza deal on 22-23 Oct 2026, 2 days only",
-      "store": "Shakey’s",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Pizza lovers can enjoy two pizzas for the price of one with free Parlour Club membership!",
-      "expiry": "Ends 23 Oct",
-      "heat": 110,
-      "url": "https://singpromos.com/dining-restaurants-food/shakeys-singapore-1-for-1-pizza-deal-on-22-23-oct-2026-2-days-only-308325/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/shakeys-singapore-1-for-1-pizza-deal-on-22-23-oct-2026-2-days-only-308325/"
-      },
-      "expires_at": "2026-10-23",
-      "upcoming": false,
-      "starts_at": "2026-10-22",
-      "first_seen": "2026-10-21",
-      "image": "images/deals/shakey-s-singapore-1-for-1-pizza-deal-on-22-23-oct-2026-2-da.jpg"
     },
     {
       "id": "watsons-gnc-clearance-sale-2-for-50-off-3-for-60-off-online-",
@@ -428,73 +541,36 @@
       "first_seen": "2026-10-21"
     },
     {
-      "id": "burger-king-s-pore-free-king-jr-cups-with-every-king-jr-meal",
-      "title": "Burger King S’pore Free King Jr. Cups With Every King Jr. Meal from 19 Oct 2026",
-      "store": "Burger King",
+      "id": "maybank-s-pore-standalone-sgd-time-deposit-rates-now-up-to-2",
+      "title": "Maybank S’pore standalone SGD Time Deposit rates now up to 2.1% p.a. from 23 Oct 2026",
+      "store": "Maybank",
       "categories": [
-        "food"
+        "finance"
       ],
-      "icon": "🍜",
+      "icon": "💳",
       "badges": [
         {
           "type": "new",
-          "label": "BURGER KING"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
+          "label": "NEW"
         }
       ],
       "access": {
         "type": "easy",
         "label": "See source for how to redeem"
       },
-      "desc": "Collect 1 of 4 colourful King Jr. cups with every kids' meal, while stocks last",
+      "desc": "All three tenors now pay more, with 2.10% p.a. available for six or 12 months from S$20,000.",
       "expiry": "Ongoing",
-      "heat": 120,
-      "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-free-king-jr-cups-with-every-king-jr-meal-from-19-oct-2026-308249/",
+      "heat": 110,
+      "url": "https://singpromos.com/banks-credit-cards/maybank-spore-standalone-sgd-time-deposit-rates-now-up-to-2-1-p-a-from-23-oct-2026-308435/",
       "source": {
         "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-free-king-jr-cups-with-every-king-jr-meal-from-19-oct-2026-308249/"
+        "url": "https://singpromos.com/banks-credit-cards/maybank-spore-standalone-sgd-time-deposit-rates-now-up-to-2-1-p-a-from-23-oct-2026-308435/"
       },
-      "brand": "Burger King",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": "2026-10-19",
-      "first_seen": "2026-10-20",
-      "image": "images/deals/burger-king-s-pore-free-king-jr-cups-with-every-king-jr-meal.jpg"
-    },
-    {
-      "id": "airasia-up-to-30-off-flights-for-travel-until-sep-2027-book-",
-      "title": "AirAsia Up to 30% OFF Flights for Travel until Sep 2027, Book by 25 Oct 2026",
-      "store": "AirAsia Up to 30%",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "30% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Save on flights and travel extras, with exciting destinations, Fly-Thru connections and cardholder deals.",
-      "expiry": "Ends 25 Oct",
-      "heat": 90,
-      "url": "https://singpromos.com/airlines-flights/airasia-up-to-30-off-flights-for-travel-until-sep-2027-book-by-25-oct-2026-308282/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/airlines-flights/airasia-up-to-30-off-flights-for-travel-until-sep-2027-book-by-25-oct-2026-308282/"
-      },
-      "expires_at": "2026-10-25",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-20",
-      "image": "images/deals/airasia-up-to-30-off-flights-for-travel-until-sep-2027-book-.jpg"
+      "starts_at": "2026-10-23",
+      "first_seen": "2026-10-13",
+      "image": "images/deals/maybank-s-pore-standalone-sgd-time-deposit-rates-now-up-to-2.jpg"
     },
     {
       "id": "kids-enter-free-promo-at-singapore-zoo-rainforest-wild-adven",
@@ -789,42 +865,6 @@
       "first_seen": "2026-07-06"
     },
     {
-      "id": "mcdonald-s-singapore-launching-new-spicy-chicken-tenders-wit",
-      "title": "McDonald’s Singapore Launching New Spicy Chicken Tenders with FREE Sampling on Feb 12 & 13 - Great Deals Singapore",
-      "store": "Cotton On",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "McDonald’s Singapore Launching New Spicy Chicken Tenders with FREE Sampling on Feb 12 & 13 Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzN1bXpqWjhWWDJzdng2cnNiRGRvSl9TTkd5Y2xiQVNTTGdDWGZzeGdpcWlBVmp5VXJHdlo3X1JoVDVZVm0zdTM3SFFNcDBObFVnY3ZfYV95TXlQQjk1dkk4Y25CbzM5bWpRTTBaaGQta1F0ejN4QlhWMDhDU2o0VjlCRjQxWUlPQXlpN1VhRUZQcmNXUWU3YmhVNA?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzN1bXpqWjhWWDJzdng2cnNiRGRvSl9TTkd5Y2xiQVNTTGdDWGZzeGdpcWlBVmp5VXJHdlo3X1JoVDVZVm0zdTM3SFFNcDBObFVnY3ZfYV95TXlQQjk1dkk4Y25CbzM5bWpRTTBaaGQta1F0ejN4QlhWMDhDU2o0VjlCRjQxWUlPQXlpN1VhRUZQcmNXUWU3YmhVNA?oc=5"
-      },
-      "brand": "Cotton On",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-06"
-    },
-    {
       "id": "bestdenki-jackpot",
       "title": "Up to 20% off TVs + up to $700 off soundbars",
       "store": "BEST Denki · Storewide",
@@ -854,8 +894,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -921,8 +960,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
