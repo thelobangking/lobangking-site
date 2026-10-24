@@ -140,6 +140,7 @@
     "Sheng Siong",
     "Shihlin",
     "Singapore Zoo",
+    "Starbucks",
     "Swensen's",
     "TANGS",
     "Toys“R”Us",
@@ -149,6 +150,103 @@
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "unity-pharmacy-buy-1-get-1-deals-on-health-beauty-essentials",
+      "title": "Unity Pharmacy Buy 1 Get 1 Deals on Health & Beauty Essentials Till 28 Oct 2026",
+      "store": "Unity Pharmacy Buy 1",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Enjoy Buy 1 Get 1 savings on selected supplements, body washes and beauty essentials at Unity Pharmacy.",
+      "expiry": "Ends 28 Oct",
+      "heat": 135,
+      "url": "https://singpromos.com/health/unity-pharmacy-buy-1-get-1-deals-on-health-beauty-essentials-till-28-oct-2026-308496/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/health/unity-pharmacy-buy-1-get-1-deals-on-health-beauty-essentials-till-28-oct-2026-308496/"
+      },
+      "expires_at": "2026-10-28",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-24",
+      "spotlight": true,
+      "image": "images/deals/unity-pharmacy-buy-1-get-1-deals-on-health-beauty-essentials.jpg"
+    },
+    {
+      "id": "the-car-expo-2026-at-singapore-expo-from-24-25-oct-with-free",
+      "title": "The Car Expo 2026 at Singapore EXPO from 24-25 Oct with Free Entry, Car Deals & Prizes",
+      "store": "The Car Expo 2026 at",
+      "categories": [
+        "online"
+      ],
+      "icon": "🛒",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Explore over 50 car brands, enjoy exclusive deals and stand to win cash, vouchers and freebies.",
+      "expiry": "Ends 25 Oct",
+      "heat": 130,
+      "url": "https://singpromos.com/happenings/the-car-expo-2026-at-singapore-expo-from-24-25-oct-with-free-entry-car-deals-prizes-308488/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/happenings/the-car-expo-2026-at-singapore-expo-from-24-25-oct-with-free-entry-car-deals-prizes-308488/"
+      },
+      "expires_at": "2026-10-25",
+      "upcoming": false,
+      "starts_at": "2026-10-24",
+      "first_seen": "2026-10-24",
+      "image": "images/deals/the-car-expo-2026-at-singapore-expo-from-24-25-oct-with-free.jpg"
+    },
+    {
+      "id": "yakiniku-go-7-90-meat-it-yourself-set-u-p-17-90-on-30-oct-20",
+      "title": "Yakiniku-GO $7.90++ Meat It Yourself Set (U.P. $17.90) on 30 Oct 2026",
+      "store": "Yakiniku-GO $7.90++ Meat It",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Celebrate Yakiniku-GO's 5th anniversary with a sizzling meat set deal and an extra members-only perk.",
+      "expiry": "Ends 30 Oct",
+      "heat": 105,
+      "url": "https://singpromos.com/dining-restaurants-food/yakiniku-go-7-90-meat-it-yourself-set-u-p-17-90-on-30-oct-2026-308479/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/yakiniku-go-7-90-meat-it-yourself-set-u-p-17-90-on-30-oct-2026-308479/"
+      },
+      "expires_at": "2026-10-30",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-24",
+      "image": "images/deals/yakiniku-go-7-90-meat-it-yourself-set-u-p-17-90-on-30-oct-20.jpg"
+    },
     {
       "id": "1-for-1-universal-studios-singapore-tickets-for-safra-member",
       "title": "1 FOR 1 Universal Studios Singapore Tickets for SAFRA Members till 31 Dec 2026",
@@ -173,7 +271,7 @@
       },
       "desc": "SAFRA members can enjoy complimentary adult admission with every adult ticket purchased",
       "expiry": "Ends 31 Dec",
-      "heat": 175,
+      "heat": 160,
       "url": "https://singpromos.com/places-of-interest/1-for-1-universal-studios-singapore-tickets-for-safra-members-till-31-dec-2026-308460/",
       "source": {
         "name": "SINGPromos",
@@ -184,8 +282,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-23",
-      "image": "images/deals/1-for-1-universal-studios-singapore-tickets-for-safra-member.jpg",
-      "spotlight": true
+      "image": "images/deals/1-for-1-universal-studios-singapore-tickets-for-safra-member.jpg"
     },
     {
       "id": "gnc-clearance-sale-at-watsons-sg-from-20-oct-2026-with-3-for",
@@ -211,7 +308,7 @@
       },
       "desc": "Multi-buy savings and an extra $100 off eligible online orders.",
       "expiry": "Ongoing",
-      "heat": 165,
+      "heat": 150,
       "url": "https://singpromos.com/health/gnc-clearance-sale-at-watsons-sg-from-20-oct-2026-with-3-for-60-off-and-extra-100-off-308448/",
       "source": {
         "name": "SINGPromos",
@@ -244,7 +341,7 @@
       },
       "desc": "Plus grocery bargains at Cold Storage and CS Fresh.",
       "expiry": "Ends 28 Oct",
-      "heat": 140,
+      "heat": 125,
       "url": "https://singpromos.com/dining-restaurants-food/cold-storage-haagen-dazs-tubs-any-3-for-25-save-19-25-more-deals-till-28-oct-2026-308428/",
       "source": {
         "name": "SINGPromos",
@@ -277,7 +374,7 @@
       },
       "desc": "Half-price ice cream, plus discounts on biscuits, chips and other supermarket favourites.",
       "expiry": "Ends 28 Oct",
-      "heat": 135,
+      "heat": 120,
       "url": "https://singpromos.com/dining-restaurants-food/fairprice-half-price-andersens-ice-cream-plus-haagen-dazs-cornetto-snack-deals-till-28-oct-2026-308413/",
       "source": {
         "name": "SINGPromos",
@@ -386,7 +483,7 @@
       },
       "desc": "Pick up one-for-one treats and enjoy savings above 40% on selected household and grocery essentials.",
       "expiry": "Ends 25 Oct",
-      "heat": 150,
+      "heat": 135,
       "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-4-days-special-with-1-for-1-deals-till-25-oct-2026-308394/",
       "source": {
         "name": "SINGPromos",
@@ -398,111 +495,6 @@
       "starts_at": "",
       "first_seen": "2026-10-22",
       "image": "images/deals/sheng-siong-4-days-special-with-1-for-1-deals-till-25-oct-20.jpg"
-    },
-    {
-      "id": "7-eleven-s-pore-1-deals-till-3-nov-has-m-m-s-lexus-nutella-b",
-      "title": "7-Eleven S’pore $1 Deals Till 3 Nov Has M&M’s, Lexus, Nutella B-Ready & More",
-      "store": "7-Eleven",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Grab snacks from just $1, drinks from $1.20 and a buy 1 get 1 free Yan Yan treat!",
-      "expiry": "Ends 3 Nov",
-      "heat": 100,
-      "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-1-deals-till-3-nov-has-mms-lexus-nutella-b-ready-more-308351/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-1-deals-till-3-nov-has-mms-lexus-nutella-b-ready-more-308351/"
-      },
-      "expires_at": "2026-11-03",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-22",
-      "image": "images/deals/7-eleven-s-pore-1-deals-till-3-nov-has-m-m-s-lexus-nutella-b.jpg"
-    },
-    {
-      "id": "sheng-siong-weekly-deals-with-free-5-voucher-pwp-offers-more",
-      "title": "Sheng Siong Weekly Deals with Free $5 Voucher, PWP Offers & More till 26 Oct 2026",
-      "store": "Sheng Siong",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SHENG SIONG"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Savings on snacks, groceries, frozen food and household essentials, plus a free voucher.",
-      "expiry": "Ends 26 Oct",
-      "heat": 115,
-      "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-weekly-deals-with-free-5-voucher-pwp-offers-more-till-26-oct-2026-308289/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-weekly-deals-with-free-5-voucher-pwp-offers-more-till-26-oct-2026-308289/"
-      },
-      "brand": "Sheng Siong",
-      "expires_at": "2026-10-26",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-21",
-      "image": "images/deals/sheng-siong-weekly-deals-with-free-5-voucher-pwp-offers-more.jpg"
-    },
-    {
-      "id": "le-creuset-s-pore-last-family-sale-up-to-80-off-from-23-25-o",
-      "title": "Le Creuset S’pore Last Family Sale Up to 80% Off from 23 – 25 Oct 2026",
-      "store": "Le Creuset",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "80% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Up to 80% off cookware, plus extra multi-buy and survey discounts",
-      "expiry": "Ends 25 Oct",
-      "heat": 90,
-      "url": "https://singpromos.com/warehouse-sales/le-creuset-spore-last-family-sale-up-to-80-off-from-23-25-oct-2026-308338/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/warehouse-sales/le-creuset-spore-last-family-sale-up-to-80-off-from-23-25-oct-2026-308338/"
-      },
-      "expires_at": "2026-10-25",
-      "upcoming": false,
-      "starts_at": "2026-10-23",
-      "first_seen": "2026-10-21",
-      "image": "images/deals/le-creuset-s-pore-last-family-sale-up-to-80-off-from-23-25-o.jpg"
     },
     {
       "id": "watsons-gnc-clearance-sale-2-for-50-off-3-for-60-off-online-",
@@ -560,7 +552,7 @@
       },
       "desc": "All three tenors now pay more, with 2.10% p.a. available for six or 12 months from S$20,000.",
       "expiry": "Ongoing",
-      "heat": 110,
+      "heat": 95,
       "url": "https://singpromos.com/banks-credit-cards/maybank-spore-standalone-sgd-time-deposit-rates-now-up-to-2-1-p-a-from-23-oct-2026-308435/",
       "source": {
         "name": "SINGPromos",
@@ -571,6 +563,42 @@
       "starts_at": "2026-10-23",
       "first_seen": "2026-10-13",
       "image": "images/deals/maybank-s-pore-standalone-sgd-time-deposit-rates-now-up-to-2.jpg"
+    },
+    {
+      "id": "kfc-singapore-s-new-1-for-1-deal-gets-you-12-japanese-nanban",
+      "title": "KFC Singapore's New 1-FOR-1 Deal Gets You 12 Japanese Nanban Chicken Bites for $6.95 - Great Deals Singapore",
+      "store": "KFC",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "KFC"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "KFC Singapore's New 1-FOR-1 Deal Gets You 12 Japanese Nanban Chicken Bites for $6.95 Great Deals Singapore",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVmRmVURiaXFyNUwtVDhRWDhRbXI5YmRjaS1vTmY5bjNvdDVQU0twdnZLRTdLUng1RklubGlGR1V6ekxHU2Z4UHhiQW1CV3VXenUxYnJMVzdkYV9PRmJvdm0wYzVQWkdaWVBtRTJVNWxnNjV1eTNlMlJDZHVybmozYjVPQW01S05jTHI1MlpId09LSGFBRkNxUGotUQ?oc=5",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVmRmVURiaXFyNUwtVDhRWDhRbXI5YmRjaS1vTmY5bjNvdDVQU0twdnZLRTdLUng1RklubGlGR1V6ekxHU2Z4UHhiQW1CV3VXenUxYnJMVzdkYV9PRmJvdm0wYzVQWkdaWVBtRTJVNWxnNjV1eTNlMlJDZHVybmozYjVPQW01S05jTHI1MlpId09LSGFBRkNxUGotUQ?oc=5"
+      },
+      "brand": "KFC",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-13"
     },
     {
       "id": "kids-enter-free-promo-at-singapore-zoo-rainforest-wild-adven",
@@ -719,6 +747,42 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-26"
+    },
+    {
+      "id": "starbucks-singapore-is-offering-1-for-1-on-all-venti-sized-d",
+      "title": "Starbucks Singapore Is Offering 1-FOR-1 On All Venti-Sized Drinks From September 21 to 24 - Great Deals Singapore",
+      "store": "Starbucks",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "STARBUCKS"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Starbucks Singapore Is Offering 1-FOR-1 On All Venti-Sized Drinks From September 21 to 24 Great Deals Singapore",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPakxBRnFVT013MHF3ektVUEhaTWFWVVo1NWZtT0lET1g0RHp3VU8tRXNQQkk1TmdrcmNPT1JaREprNDBpVWVoSTl0NFI2M2tHTU5ONk1jSUhmN283Y3hfamVOLVBnOXE0ZF81Y0Nic1dWTi1QQXFpNWk3Mzk4OFZXQVRQV2Z0ZXZYN1pqMEpXZm1HOEhu?oc=5",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPakxBRnFVT013MHF3ektVUEhaTWFWVVo1NWZtT0lET1g0RHp3VU8tRXNQQkk1TmdrcmNPT1JaREprNDBpVWVoSTl0NFI2M2tHTU5ONk1jSUhmN283Y3hfamVOLVBnOXE0ZF81Y0Nic1dWTi1QQXFpNWk3Mzk4OFZXQVRQV2Z0ZXZYN1pqMEpXZm1HOEhu?oc=5"
+      },
+      "brand": "Starbucks",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-09-20"
     },
     {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
@@ -894,8 +958,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -961,8 +1024,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
