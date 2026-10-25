@@ -185,8 +185,8 @@
       "upcoming": true,
       "starts_at": "2026-10-26",
       "first_seen": "2026-10-25",
-      "spotlight": true,
-      "image": "images/deals/cat-the-fiddle-1-for-1-whole-cheesecakes-from-27-29-oct-2026.jpg"
+      "image": "images/deals/cat-the-fiddle-1-for-1-whole-cheesecakes-from-27-29-oct-2026.jpg",
+      "spotlight": true
     },
     {
       "id": "unity-pharmacy-buy-1-get-1-deals-on-health-beauty-essentials",
