@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "categories": [
     {
       "id": "all",
@@ -138,7 +138,6 @@
     "Punggol GRC",
     "REFASH",
     "SUSHIRO",
-    "Sheng Siong",
     "Shihlin",
     "Singapore Zoo",
     "Starbucks",
@@ -219,38 +218,6 @@
       "starts_at": "",
       "first_seen": "2026-10-24",
       "image": "images/deals/unity-pharmacy-buy-1-get-1-deals-on-health-beauty-essentials.jpg"
-    },
-    {
-      "id": "the-car-expo-2026-at-singapore-expo-from-24-25-oct-with-free",
-      "title": "The Car Expo 2026 at Singapore EXPO from 24-25 Oct with Free Entry, Car Deals & Prizes",
-      "store": "The Car Expo 2026 at",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Explore over 50 car brands, enjoy exclusive deals and stand to win cash, vouchers and freebies.",
-      "expiry": "Ends 25 Oct",
-      "heat": 125,
-      "url": "https://singpromos.com/happenings/the-car-expo-2026-at-singapore-expo-from-24-25-oct-with-free-entry-car-deals-prizes-308488/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/happenings/the-car-expo-2026-at-singapore-expo-from-24-25-oct-with-free-entry-car-deals-prizes-308488/"
-      },
-      "expires_at": "2026-10-25",
-      "upcoming": false,
-      "starts_at": "2026-10-24",
-      "first_seen": "2026-10-24",
-      "image": "images/deals/the-car-expo-2026-at-singapore-expo-from-24-25-oct-with-free.jpg"
     },
     {
       "id": "yakiniku-go-7-90-meat-it-yourself-set-u-p-17-90-on-30-oct-20",
@@ -425,42 +392,6 @@
       "image": "images/deals/fairprice-half-price-andersen-s-ice-cream-plus-h-agen-dazs-c.jpg"
     },
     {
-      "id": "klook-drops-50-off-singapore-oceanarium-universal-studios-si",
-      "title": "Klook Drops 50% Off Singapore Oceanarium & Universal Studios Singapore Tickets From 23–25 October - MoneyDigest",
-      "store": "Universal Studios Singapore",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "new",
-          "label": "UNIVERSAL STUDIOS SINGAPORE"
-        },
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Klook Drops 50% Off Singapore Oceanarium & Universal Studios Singapore Tickets From 23–25 October MoneyDigest",
-      "expiry": "Ends 25 Oct",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0tBUUlDY0xiZkY1eXRIdWkzZENYOGo0U1NOOXZtaEJYQXBYTjV0SFZFTUJDY0tpOGZuVzVyVjl1NFZ1ajJHU3ZCNmVwVmkwZkRBclBOUXY1RzVMakE0WHhmQkFHV1d1cm9UN1NJVGhMbS11TVRDTEJfYXFla1AzUFJ1NHZLUG9QSWV1STZQeC1FdjBuVVZUb3plS0dqQVg4TUxpamJELUtWQmZnUDZXRXNXaTQ1MUtjS2ROOEIzUQ?oc=5",
-      "source": {
-        "name": "MoneyDigest",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT0tBUUlDY0xiZkY1eXRIdWkzZENYOGo0U1NOOXZtaEJYQXBYTjV0SFZFTUJDY0tpOGZuVzVyVjl1NFZ1ajJHU3ZCNmVwVmkwZkRBclBOUXY1RzVMakE0WHhmQkFHV1d1cm9UN1NJVGhMbS11TVRDTEJfYXFla1AzUFJ1NHZLUG9QSWV1STZQeC1FdjBuVVZUb3plS0dqQVg4TUxpamJELUtWQmZnUDZXRXNXaTQ1MUtjS2ROOEIzUQ?oc=5"
-      },
-      "brand": "Universal Studios Singapore",
-      "expires_at": "2026-10-25",
-      "upcoming": false,
-      "starts_at": "2026-10-23",
-      "first_seen": "2026-10-23"
-    },
-    {
       "id": "gain-city-s-go-green-campaign-offers-up-to-1k-off-on-applian",
       "title": "Gain City’s Go Green campaign offers up to $1k off on appliances with trade-ins, free weekend repairs - The Straits Time",
       "store": "Gain City",
@@ -495,43 +426,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-23"
-    },
-    {
-      "id": "sheng-siong-4-days-special-with-1-for-1-deals-till-25-oct-20",
-      "title": "Sheng Siong 4 Days Special with 1-for-1 Deals till 25 Oct 2026",
-      "store": "Sheng Siong",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SHENG SIONG"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Pick up one-for-one treats and enjoy savings above 40% on selected household and grocery essentials.",
-      "expiry": "Ends 25 Oct",
-      "heat": 130,
-      "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-4-days-special-with-1-for-1-deals-till-25-oct-2026-308394/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-4-days-special-with-1-for-1-deals-till-25-oct-2026-308394/"
-      },
-      "brand": "Sheng Siong",
-      "expires_at": "2026-10-25",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-22",
-      "image": "images/deals/sheng-siong-4-days-special-with-1-for-1-deals-till-25-oct-20.jpg"
     },
     {
       "id": "watsons-gnc-clearance-sale-2-for-50-off-3-for-60-off-online-",
