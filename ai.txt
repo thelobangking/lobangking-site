@@ -11,6 +11,7 @@ Disallow: /
 # - AddSearchBot
 # - AgentDataBot
 # - AgentTimes
+# - AGI Agent
 # - AI2Bot
 # - AI2Bot-DeepResearchEval
 # - Ai2Bot-Dolma
@@ -41,6 +42,7 @@ Disallow: /
 # - Brightbot 1.0
 # - BuddyBot
 # - Bytespider
+# - CartAI Agentic Commerce
 # - CCBot
 # - Channel3Bot
 # - ChatGLM-Spider
@@ -51,10 +53,12 @@ Disallow: /
 # - Claude-User
 # - Claude-Web
 # - ClaudeBot
+# - CledaraBot
 # - Cloudflare-AutoRAG
 # - CloudflareBrowserRenderingCrawler
 # - CloudVertexBot
 # - Code
+# - Codex
 # - cohere-ai
 # - cohere-training-data-crawler
 # - Cotoyogi
@@ -68,13 +72,16 @@ Disallow: /
 # - Devin
 # - Diffbot
 # - Diffbot-User
+# - Dot
 # - DoubaoBot
 # - DuckAssistBot
 # - Echobot Bot
 # - EchoboxBot
+# - ElevenlabsBot
 # - ERNIEBot
 # - ExaBot
 # - ExaSearchBot
+# - ExaUser
 # - FacebookBot
 # - facebookexternalhit
 # - Factset_spyderbot
@@ -94,8 +101,10 @@ Disallow: /
 # - GoogleOther-Image
 # - GoogleOther-Video
 # - GPTBot
+# - Grok Bot
 # - GrokAppAndroid
 # - GrokBot
+# - HarkBot
 # - HenkBot
 # - Hunyuan
 # - iAskBot
@@ -105,6 +114,7 @@ Disallow: /
 # - ImagesiftBot
 # - imageSpider
 # - img2dataset
+# - Instinct
 # - ISSCyberRiskCrawler
 # - kagi-fetcher
 # - Kangaroo Bot
@@ -126,8 +136,8 @@ Disallow: /
 # - Manus-User
 # - meta-externalagent
 # - Meta-ExternalAgent
-# - meta-externalfetcher
 # - Meta-ExternalFetcher
+# - meta-externalfetcher
 # - meta-webindexer
 # - MistralAI-Index
 # - MistralAI-Training
@@ -135,6 +145,7 @@ Disallow: /
 # - MistralAI-User/1.0
 # - MoonshotBot
 # - Mozilla-Tabstack
+# - Muse
 # - MyCentralAIScraperBot
 # - NagetBot
 # - nbot
@@ -152,6 +163,7 @@ Disallow: /
 # - PanguBot
 # - Panscient
 # - panscient.com
+# - Payhawk Invoice Fetching Agent
 # - Perplexity-User
 # - PerplexityBot
 # - PetalBot
