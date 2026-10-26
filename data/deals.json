@@ -182,8 +182,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-26",
-      "spotlight": true,
-      "image": "images/deals/mcdonald-s-s-pore-2-hershey-s-sundae-with-any-purchase-till-.jpg"
+      "image": "images/deals/mcdonald-s-s-pore-2-hershey-s-sundae-with-any-purchase-till-.jpg",
+      "spotlight": true
     },
     {
       "id": "starbucks-s-pore-christmas-favourites-return-with-two-new-dr",
