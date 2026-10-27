@@ -124,7 +124,6 @@
     "Decathlon",
     "Don Don Donki",
     "Eu Yan Sang",
-    "FairPrice",
     "GOLDLION",
     "Gain City",
     "Giant",
@@ -152,6 +151,176 @@
   ],
   "deals": [
     {
+      "id": "burger-king-s-pore-5-king-s-value-meals-from-26-oct-2026",
+      "title": "Burger King S’pore $5 King’s Value Meals from 26 Oct 2026",
+      "store": "Burger King",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "BURGER KING"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Enjoy a burger, medium fries and a small drink for just $5 nett, with three choices available",
+      "expiry": "Ongoing",
+      "heat": 150,
+      "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-new-5-kings-value-meals-from-26-oct-2026-308569/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-new-5-kings-value-meals-from-26-oct-2026-308569/"
+      },
+      "brand": "Burger King",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "spotlight": true,
+      "image": "images/deals/burger-king-s-pore-5-king-s-value-meals-from-26-oct-2026.jpg"
+    },
+    {
+      "id": "dunkin-s-pore-buy-5-donuts-get-2-free-and-1-for-1-drinks-pay",
+      "title": "Dunkin’ S’pore Buy 5 Donuts Get 2 Free and 1-for-1 Drinks Payday Deals from 26 Oct 2026",
+      "store": "Dunkin’",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Payday treats are sweeter with two free donuts and 1-for-1 Cold Brew or Teh Tarik deals.",
+      "expiry": "Ongoing",
+      "heat": 135,
+      "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-buy-5-donuts-get-2-free-and-1-for-1-drinks-payday-deals-from-26-oct-2026-308584/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-buy-5-donuts-get-2-free-and-1-for-1-drinks-payday-deals-from-26-oct-2026-308584/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "image": "images/deals/dunkin-s-pore-buy-5-donuts-get-2-free-and-1-for-1-drinks-pay.jpg"
+    },
+    {
+      "id": "mr-bean-3-anniversary-coupon-booklet-unlocks-up-to-55-worth-",
+      "title": "Mr Bean $3 Anniversary Coupon Booklet Unlocks Up to $55 Worth of Treats",
+      "store": "Mr Bean $3 Anniversary",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE"
+        },
+        {
+          "type": "code",
+          "label": "PROMO CODE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Pay just $3 for free soymilk, pancake, beancurd, exclusive deals and more",
+      "expiry": "Check link for dates",
+      "heat": 120,
+      "url": "https://singpromos.com/dining-restaurants-food/mr-bean-3-anniversary-coupon-booklet-unlocks-up-to-55-worth-of-treats-308549/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/mr-bean-3-anniversary-coupon-booklet-unlocks-up-to-55-worth-of-treats-308549/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-27",
+      "image": "images/deals/mr-bean-3-anniversary-coupon-booklet-unlocks-up-to-55-worth-.jpg"
+    },
+    {
+      "id": "bank-of-china-s-pore-latest-time-deposit-offers-up-to-2-1-p-",
+      "title": "Bank of China S’pore Latest Time Deposit Offers Up To 2.1% p.a. from 26 Oct 2026",
+      "store": "Bank of China",
+      "categories": [
+        "finance"
+      ],
+      "icon": "💳",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Enjoy up to 2.10% p.a. on SGD time deposits, with promotional rates available from just S$500.",
+      "expiry": "Ongoing",
+      "heat": 105,
+      "url": "https://singpromos.com/banks-credit-cards/bank-of-china-spore-latest-time-deposit-offers-up-to-2-1-p-a-from-26-oct-2026-308563/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/banks-credit-cards/bank-of-china-spore-latest-time-deposit-offers-up-to-2-1-p-a-from-26-oct-2026-308563/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "image": "images/deals/bank-of-china-s-pore-latest-time-deposit-offers-up-to-2-1-p-.jpg"
+    },
+    {
+      "id": "pizza-hut-s-pore-10-large-pan-pizza-deal-for-members-until-2",
+      "title": "Pizza Hut S’pore $10 Large Pan Pizza Deal for Members until 29 Oct 2026",
+      "store": "Pizza Hut",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Grab a $10 Large Pan Pizza, including Otah Laksa, and save up to $32.75",
+      "expiry": "Ends 29 Oct",
+      "heat": 95,
+      "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-10-large-pan-pizza-deal-for-members-until-29-oct-2026-308540/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-10-large-pan-pizza-deal-for-members-until-29-oct-2026-308540/"
+      },
+      "expires_at": "2026-10-29",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-27",
+      "image": "images/deals/pizza-hut-s-pore-10-large-pan-pizza-deal-for-members-until-2.jpg"
+    },
+    {
       "id": "mcdonald-s-s-pore-2-hershey-s-sundae-with-any-purchase-till-",
       "title": "McDonald’s S’pore $2 Hershey’s Sundae With Any Purchase till 30 Oct 2026",
       "store": "McDonald's",
@@ -171,7 +340,7 @@
       },
       "desc": "Grab a chocolatey Hershey's Sundae for just $2 with any purchase",
       "expiry": "Ends 30 Oct",
-      "heat": 155,
+      "heat": 130,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-2-hersheys-sundae-with-any-purchase-till-30-oct-2026-308532/",
       "source": {
         "name": "SINGPromos",
@@ -182,8 +351,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-26",
-      "image": "images/deals/mcdonald-s-s-pore-2-hershey-s-sundae-with-any-purchase-till-.jpg",
-      "spotlight": true
+      "image": "images/deals/mcdonald-s-s-pore-2-hershey-s-sundae-with-any-purchase-till-.jpg"
     },
     {
       "id": "starbucks-s-pore-christmas-favourites-return-with-two-new-dr",
@@ -205,7 +373,7 @@
       },
       "desc": "Starbucks brings back festive coffee favourites alongside two new cold foam creations for the holidays.",
       "expiry": "Ongoing",
-      "heat": 150,
+      "heat": 125,
       "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-christmas-favourites-return-with-two-new-drinks-from-28-oct-2026-308518/",
       "source": {
         "name": "SINGPromos",
@@ -259,42 +427,6 @@
       "first_seen": "2026-10-26"
     },
     {
-      "id": "burger-king-singapore-app-deals-2-for-s-6-61-off-guide-2026-",
-      "title": "Burger King Singapore — App Deals, 2-for-S$6 & 61% Off Guide (2026) - www.misslobang.com",
-      "store": "Burger King",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "BURGER KING"
-        },
-        {
-          "type": "discount",
-          "label": "61% OFF"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Burger King Singapore — App Deals, 2-for-S$6 & 61% Off Guide (2026) www.misslobang.com",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlVRcHcyTnNHR3VvdGdCMXg2eGVMakI0aU1ldXlOdmU4NVpPUXBhb01uYzJ4WHkyRGpsaUxlMy0wN3JvZ2oxQWZ5Tk1ZdzNKSy1TYlM4eWluaU1MTnVjQXVXLWxhTmVHS21nbFJleHYzeVJDc2JOQXJ1WlotR213VURKOA?oc=5",
-      "source": {
-        "name": "www.misslobang.com",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlVRcHcyTnNHR3VvdGdCMXg2eGVMakI0aU1ldXlOdmU4NVpPUXBhb01uYzJ4WHkyRGpsaUxlMy0wN3JvZ2oxQWZ5Tk1ZdzNKSy1TYlM4eWluaU1MTnVjQXVXLWxhTmVHS21nbFJleHYzeVJDc2JOQXJ1WlotR213VURKOA?oc=5"
-      },
-      "brand": "Burger King",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-26"
-    },
-    {
       "id": "cat-the-fiddle-1-for-1-whole-cheesecakes-from-27-29-oct-2026",
       "title": "Cat & the Fiddle 1-for-1 Whole Cheesecakes from 27-29 Oct 2026, Early Access from 26 Oct",
       "store": "Cat & the Fiddle",
@@ -318,7 +450,7 @@
       },
       "desc": "Double the cheesecake treats with a buy-one-get-one-free anniversary deal and exclusive early access perks.",
       "expiry": "Ends 29 Oct",
-      "heat": 125,
+      "heat": 100,
       "url": "https://singpromos.com/dining-restaurants-food/cat-the-fiddle-1-for-1-whole-cheesecakes-from-27-29-oct-2026-early-access-from-26-oct-308504/",
       "source": {
         "name": "SINGPromos",
@@ -350,7 +482,7 @@
       },
       "desc": "Enjoy Buy 1 Get 1 savings on selected supplements, body washes and beauty essentials at Unity Pharmacy.",
       "expiry": "Ends 28 Oct",
-      "heat": 120,
+      "heat": 95,
       "url": "https://singpromos.com/health/unity-pharmacy-buy-1-get-1-deals-on-health-beauty-essentials-till-28-oct-2026-308496/",
       "source": {
         "name": "SINGPromos",
@@ -361,38 +493,6 @@
       "starts_at": "",
       "first_seen": "2026-10-24",
       "image": "images/deals/unity-pharmacy-buy-1-get-1-deals-on-health-beauty-essentials.jpg"
-    },
-    {
-      "id": "yakiniku-go-7-90-meat-it-yourself-set-u-p-17-90-on-30-oct-20",
-      "title": "Yakiniku-GO $7.90++ Meat It Yourself Set (U.P. $17.90) on 30 Oct 2026",
-      "store": "Yakiniku-GO $7.90++ Meat It",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Celebrate Yakiniku-GO's 5th anniversary with a sizzling meat set deal and an extra members-only perk.",
-      "expiry": "Ends 30 Oct",
-      "heat": 95,
-      "url": "https://singpromos.com/dining-restaurants-food/yakiniku-go-7-90-meat-it-yourself-set-u-p-17-90-on-30-oct-2026-308479/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/yakiniku-go-7-90-meat-it-yourself-set-u-p-17-90-on-30-oct-2026-308479/"
-      },
-      "expires_at": "2026-10-30",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-24",
-      "image": "images/deals/yakiniku-go-7-90-meat-it-yourself-set-u-p-17-90-on-30-oct-20.jpg"
     },
     {
       "id": "1-for-1-universal-studios-singapore-tickets-for-safra-member",
@@ -418,7 +518,7 @@
       },
       "desc": "SAFRA members can enjoy complimentary adult admission with every adult ticket purchased",
       "expiry": "Ends 31 Dec",
-      "heat": 150,
+      "heat": 125,
       "url": "https://singpromos.com/places-of-interest/1-for-1-universal-studios-singapore-tickets-for-safra-members-till-31-dec-2026-308460/",
       "source": {
         "name": "SINGPromos",
@@ -455,7 +555,7 @@
       },
       "desc": "Multi-buy savings and an extra $100 off eligible online orders.",
       "expiry": "Ongoing",
-      "heat": 140,
+      "heat": 115,
       "url": "https://singpromos.com/health/gnc-clearance-sale-at-watsons-sg-from-20-oct-2026-with-3-for-60-off-and-extra-100-off-308448/",
       "source": {
         "name": "SINGPromos",
@@ -488,7 +588,7 @@
       },
       "desc": "Plus grocery bargains at Cold Storage and CS Fresh.",
       "expiry": "Ends 28 Oct",
-      "heat": 115,
+      "heat": 90,
       "url": "https://singpromos.com/dining-restaurants-food/cold-storage-haagen-dazs-tubs-any-3-for-25-save-19-25-more-deals-till-28-oct-2026-308428/",
       "source": {
         "name": "SINGPromos",
@@ -500,39 +600,6 @@
       "starts_at": "",
       "first_seen": "2026-10-23",
       "image": "images/deals/cold-storage-h-agen-dazs-tubs-any-3-for-25-save-19-25-more-d.jpg"
-    },
-    {
-      "id": "fairprice-half-price-andersen-s-ice-cream-plus-h-agen-dazs-c",
-      "title": "FairPrice Half-Price Andersen’s Ice Cream Plus Häagen-Dazs, Cornetto & Snack Deals Till 28 Oct 2026",
-      "store": "FairPrice",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "FAIRPRICE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Half-price ice cream, plus discounts on biscuits, chips and other supermarket favourites.",
-      "expiry": "Ends 28 Oct",
-      "heat": 110,
-      "url": "https://singpromos.com/dining-restaurants-food/fairprice-half-price-andersens-ice-cream-plus-haagen-dazs-cornetto-snack-deals-till-28-oct-2026-308413/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/fairprice-half-price-andersens-ice-cream-plus-haagen-dazs-cornetto-snack-deals-till-28-oct-2026-308413/"
-      },
-      "brand": "FairPrice",
-      "expires_at": "2026-10-28",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-23",
-      "image": "images/deals/fairprice-half-price-andersen-s-ice-cream-plus-h-agen-dazs-c.jpg"
     },
     {
       "id": "gain-city-s-go-green-campaign-offers-up-to-1k-off-on-applian",
@@ -641,42 +708,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-30"
-    },
-    {
-      "id": "kids-get-to-build-their-own-meal-at-mcdonald-s-this-children",
-      "title": "Kids Get To Build Their Own Meal At McDonald’s This Children’s Day (+ Free Vanilla Cone!) - Sassy Mama Singapore",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Kids Get To Build Their Own Meal At McDonald’s This Children’s Day (+ Free Vanilla Cone!) Sassy Mama Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRUx0ZGl1V0VoVGZieUpkX2J4N1ZULUF5NVZkOU1TbTBjSl9KdTF6Rldicy1sX1FjN0lBOHdUeS1HbnJnME01M253NHhRTWJ5YTZwakt5UTJYc2xEdDI3R2pB?oc=5",
-      "source": {
-        "name": "Sassy Mama Singapore",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRUx0ZGl1V0VoVGZieUpkX2J4N1ZULUF5NVZkOU1TbTBjSl9KdTF6Rldicy1sX1FjN0lBOHdUeS1HbnJnME01M253NHhRTWJ5YTZwakt5UTJYc2xEdDI3R2pB?oc=5"
-      },
-      "brand": "McDonald's",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-29"
     },
     {
       "id": "8-best-bubble-tea-deals-promos-in-singapore-2026-beutea-s-50",
@@ -964,8 +995,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1031,8 +1061,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
