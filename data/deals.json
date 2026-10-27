@@ -181,8 +181,8 @@
       "upcoming": false,
       "starts_at": "2026-10-26",
       "first_seen": "2026-10-27",
-      "spotlight": true,
-      "image": "images/deals/burger-king-s-pore-5-king-s-value-meals-from-26-oct-2026.jpg"
+      "image": "images/deals/burger-king-s-pore-5-king-s-value-meals-from-26-oct-2026.jpg",
+      "spotlight": true
     },
     {
       "id": "dunkin-s-pore-buy-5-donuts-get-2-free-and-1-for-1-drinks-pay",
