@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "categories": [
     {
       "id": "all",
@@ -283,38 +283,6 @@
       "starts_at": "",
       "first_seen": "2026-10-28",
       "image": "images/deals/luckin-coffee-s-pore-1-for-1-all-coffee-payday-deal-till-31-.jpg"
-    },
-    {
-      "id": "tai-cheong-bakery-singapore-4-egg-tarts-for-8-on-28-oct-2026",
-      "title": "Tai Cheong Bakery Singapore 4 Egg Tarts for $8 on 28 Oct 2026",
-      "store": "Tai Cheong Bakery",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy four buttery egg tarts for just $8 with this one-day mid-week bakery special.",
-      "expiry": "Ends 28 Oct",
-      "heat": 110,
-      "url": "https://singpromos.com/dining-restaurants-food/tai-cheong-bakery-singapore-4-egg-tarts-for-8-on-28-oct-2026-308654/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/tai-cheong-bakery-singapore-4-egg-tarts-for-8-on-28-oct-2026-308654/"
-      },
-      "expires_at": "2026-10-28",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-28",
-      "image": "images/deals/tai-cheong-bakery-singapore-4-egg-tarts-for-8-on-28-oct-2026.jpg"
     },
     {
       "id": "burger-king-s-pore-5-king-s-value-meals-from-26-oct-2026",
