@@ -181,7 +181,8 @@
       "starts_at": "",
       "first_seen": "2026-10-29",
       "image": "images/deals/deepavali-istana-open-house-on-1-nov-2026-with-free-entry-fo.jpg",
-      "spotlight": true
+      "spotlight": true,
+      "status": "claimed"
     },
     {
       "id": "babyboo-warehouse-sale-29-oct-1-nov-2026-with-9-99-deals-doo",
@@ -910,7 +911,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "gaincity-jul-voucher",
@@ -976,7 +978,8 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg"
+      "image": "images/deals/challenger-ms365.jpg",
+      "status": "claimed"
     },
     {
       "id": "courts-get7",
