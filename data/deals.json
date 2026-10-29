@@ -119,6 +119,7 @@
     "Burger King",
     "Chagee",
     "Challenger",
+    "Cotton On",
     "Courts",
     "Decathlon",
     "Don Don Donki",
@@ -150,6 +151,103 @@
   ],
   "deals": [
     {
+      "id": "deepavali-istana-open-house-on-1-nov-2026-with-free-entry-fo",
+      "title": "Deepavali Istana Open House on 1 Nov 2026 with free entry for Singaporeans and PRs",
+      "store": "Deepavali Istana Open House",
+      "categories": [
+        "online"
+      ],
+      "icon": "🛒",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "A narrated Changing of Guards ceremony, live performances, family activities and more",
+      "expiry": "Ends 1 Nov",
+      "heat": 135,
+      "url": "https://singpromos.com/places-of-interest/deepavali-istana-open-house-on-1-nov-2026-with-free-entry-for-singaporeans-and-prs-308684/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/places-of-interest/deepavali-istana-open-house-on-1-nov-2026-with-free-entry-for-singaporeans-and-prs-308684/"
+      },
+      "expires_at": "2026-11-01",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-29",
+      "spotlight": true,
+      "image": "images/deals/deepavali-istana-open-house-on-1-nov-2026-with-free-entry-fo.jpg"
+    },
+    {
+      "id": "babyboo-warehouse-sale-29-oct-1-nov-2026-with-9-99-deals-doo",
+      "title": "Babyboo Warehouse Sale 29 Oct – 1 Nov 2026 with $9.99 Deals, Doorbusters & Free Gifts",
+      "store": "Babyboo Warehouse Sale 29",
+      "categories": [
+        "online"
+      ],
+      "icon": "🛒",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Score baby essentials from $9.99, limited-time stroller deals, PWP specials and exclusive freebies.",
+      "expiry": "Ends 1 Nov",
+      "heat": 125,
+      "url": "https://singpromos.com/warehouse-sales/babyboo-warehouse-sale-29-oct-1-nov-2026-with-9-99-deals-doorbusters-free-gifts-308625/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/warehouse-sales/babyboo-warehouse-sale-29-oct-1-nov-2026-with-9-99-deals-doorbusters-free-gifts-308625/"
+      },
+      "expires_at": "2026-11-01",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-29",
+      "image": "images/deals/babyboo-warehouse-sale-29-oct-1-nov-2026-with-9-99-deals-doo.jpg"
+    },
+    {
+      "id": "kitkat-chunky-pistachio-kunafa-lands-at-7-eleven-s-pore-in-c",
+      "title": "KitKat Chunky Pistachio Kunafa Lands at 7-Eleven S’pore in Chunky Bar and Sharebag",
+      "store": "KitKat Chunky Pistachio Kunafa",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Crispy, creamy and nutty! Discover the new pistachio kunafa KitKat in two tempting formats.",
+      "expiry": "Check link for dates",
+      "heat": 110,
+      "url": "https://singpromos.com/dining-restaurants-food/kitkat-chunky-pistachio-kunafa-lands-at-7-eleven-spore-in-chunky-bar-and-sharebag-308672/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/kitkat-chunky-pistachio-kunafa-lands-at-7-eleven-spore-in-chunky-bar-and-sharebag-308672/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-29",
+      "image": "images/deals/kitkat-chunky-pistachio-kunafa-lands-at-7-eleven-s-pore-in-c.jpg"
+    },
+    {
       "id": "sheng-siong-weekly-deals-with-pwp-savings-up-to-63-free-5-vo",
       "title": "Sheng Siong Weekly Deals with PWP Savings Up to 63%, Free $5 Voucher & More till 2 Nov 2026",
       "store": "Sheng Siong",
@@ -173,7 +271,7 @@
       },
       "desc": "Save up to 63% on selected PWP items, plus enjoy frozen food deals and a free $5 voucher offer",
       "expiry": "Ends 2 Nov",
-      "heat": 160,
+      "heat": 150,
       "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-weekly-deals-with-pwp-savings-up-to-63-free-5-voucher-more-till-2-nov-2026-308607/",
       "source": {
         "name": "SINGPromos",
@@ -184,8 +282,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-28",
-      "image": "images/deals/sheng-siong-weekly-deals-with-pwp-savings-up-to-63-free-5-vo.jpg",
-      "spotlight": true
+      "image": "images/deals/sheng-siong-weekly-deals-with-pwp-savings-up-to-63-free-5-vo.jpg"
     },
     {
       "id": "mcdonald-s-s-pore-new-mccrispy-fried-chicken-recipe-from-5-n",
@@ -207,7 +304,7 @@
       },
       "desc": "McCrispy gets an updated recipe with a spicier kick, new coleslaw, returning fries and a preview event.",
       "expiry": "Ongoing",
-      "heat": 145,
+      "heat": 135,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-new-mccrispy-fried-chicken-recipe-from-5-nov-2026-308635/",
       "source": {
         "name": "SINGPromos",
@@ -219,38 +316,6 @@
       "starts_at": "2026-11-05",
       "first_seen": "2026-10-28",
       "image": "images/deals/mcdonald-s-s-pore-new-mccrispy-fried-chicken-recipe-from-5-n.jpg"
-    },
-    {
-      "id": "singfinance-fresh-fund-fixed-deposit-offers-up-to-1-88-p-a-f",
-      "title": "SingFinance Fresh-Fund Fixed Deposit Offers Up To 1.88% p.a. from 28 Oct 2026",
-      "store": "SingFinance Fresh-Fund Fixed Deposit",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "Earn up to 1.88% p.a. with S$10,000 over 36 months, or enjoy special rates from S$1,000 online",
-      "expiry": "Ongoing",
-      "heat": 115,
-      "url": "https://singpromos.com/banks-credit-cards/singfinance-fresh-fund-fixed-deposit-offers-up-to-1-88-p-a-from-28-oct-2026-308660/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/singfinance-fresh-fund-fixed-deposit-offers-up-to-1-88-p-a-from-28-oct-2026-308660/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-10-28",
-      "first_seen": "2026-10-28",
-      "image": "images/deals/singfinance-fresh-fund-fixed-deposit-offers-up-to-1-88-p-a-f.jpg"
     },
     {
       "id": "luckin-coffee-s-pore-1-for-1-all-coffee-payday-deal-till-31-",
@@ -272,7 +337,7 @@
       },
       "desc": "Get two coffees for the price of one with Luckin Coffee's payday treat, available via its app.",
       "expiry": "Ends 31 Oct",
-      "heat": 115,
+      "heat": 105,
       "url": "https://singpromos.com/dining-restaurants-food/luckin-coffee-spore-1-for-1-all-coffee-payday-deal-till-31-oct-2026-308594/",
       "source": {
         "name": "SINGPromos",
@@ -283,6 +348,38 @@
       "starts_at": "",
       "first_seen": "2026-10-28",
       "image": "images/deals/luckin-coffee-s-pore-1-for-1-all-coffee-payday-deal-till-31-.jpg"
+    },
+    {
+      "id": "singfinance-fresh-fund-fixed-deposit-offers-up-to-1-88-p-a-f",
+      "title": "SingFinance Fresh-Fund Fixed Deposit Offers Up To 1.88% p.a. from 28 Oct 2026",
+      "store": "SingFinance Fresh-Fund Fixed Deposit",
+      "categories": [
+        "finance"
+      ],
+      "icon": "💳",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — see source link to claim"
+      },
+      "desc": "Earn up to 1.88% p.a. with S$10,000 over 36 months, or enjoy special rates from S$1,000 online",
+      "expiry": "Ongoing",
+      "heat": 100,
+      "url": "https://singpromos.com/banks-credit-cards/singfinance-fresh-fund-fixed-deposit-offers-up-to-1-88-p-a-from-28-oct-2026-308660/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/banks-credit-cards/singfinance-fresh-fund-fixed-deposit-offers-up-to-1-88-p-a-from-28-oct-2026-308660/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-10-28",
+      "first_seen": "2026-10-28",
+      "image": "images/deals/singfinance-fresh-fund-fixed-deposit-offers-up-to-1-88-p-a-f.jpg"
     },
     {
       "id": "burger-king-s-pore-5-king-s-value-meals-from-26-oct-2026",
@@ -304,7 +401,7 @@
       },
       "desc": "Enjoy a burger, medium fries and a small drink for just $5 nett, with three choices available",
       "expiry": "Ongoing",
-      "heat": 125,
+      "heat": 115,
       "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-new-5-kings-value-meals-from-26-oct-2026-308569/",
       "source": {
         "name": "SINGPromos",
@@ -341,7 +438,7 @@
       },
       "desc": "Payday treats are sweeter with two free donuts and 1-for-1 Cold Brew or Teh Tarik deals.",
       "expiry": "Ongoing",
-      "heat": 110,
+      "heat": 100,
       "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-buy-5-donuts-get-2-free-and-1-for-1-drinks-payday-deals-from-26-oct-2026-308584/",
       "source": {
         "name": "SINGPromos",
@@ -352,42 +449,6 @@
       "starts_at": "2026-10-26",
       "first_seen": "2026-10-27",
       "image": "images/deals/dunkin-s-pore-buy-5-donuts-get-2-free-and-1-for-1-drinks-pay.jpg"
-    },
-    {
-      "id": "mr-bean-3-anniversary-coupon-booklet-unlocks-up-to-55-worth-",
-      "title": "Mr Bean $3 Anniversary Coupon Booklet Unlocks Up to $55 Worth of Treats",
-      "store": "Mr Bean $3 Anniversary",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        },
-        {
-          "type": "code",
-          "label": "PROMO CODE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Pay just $3 for free soymilk, pancake, beancurd, exclusive deals and more",
-      "expiry": "Check link for dates",
-      "heat": 95,
-      "url": "https://singpromos.com/dining-restaurants-food/mr-bean-3-anniversary-coupon-booklet-unlocks-up-to-55-worth-of-treats-308549/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mr-bean-3-anniversary-coupon-booklet-unlocks-up-to-55-worth-of-treats-308549/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-27",
-      "image": "images/deals/mr-bean-3-anniversary-coupon-booklet-unlocks-up-to-55-worth-.jpg"
     },
     {
       "id": "mcdonald-s-s-pore-2-hershey-s-sundae-with-any-purchase-till-",
@@ -409,7 +470,7 @@
       },
       "desc": "Grab a chocolatey Hershey's Sundae for just $2 with any purchase",
       "expiry": "Ends 30 Oct",
-      "heat": 105,
+      "heat": 95,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-2-hersheys-sundae-with-any-purchase-till-30-oct-2026-308532/",
       "source": {
         "name": "SINGPromos",
@@ -442,7 +503,7 @@
       },
       "desc": "Starbucks brings back festive coffee favourites alongside two new cold foam creations for the holidays.",
       "expiry": "Ongoing",
-      "heat": 100,
+      "heat": 90,
       "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-christmas-favourites-return-with-two-new-drinks-from-28-oct-2026-308518/",
       "source": {
         "name": "SINGPromos",
@@ -454,82 +515,6 @@
       "starts_at": "2026-10-28",
       "first_seen": "2026-10-26",
       "image": "images/deals/starbucks-s-pore-christmas-favourites-return-with-two-new-dr.jpg"
-    },
-    {
-      "id": "6-best-burger-deals-in-singapore-october-2026-burger-king-co",
-      "title": "6 Best Burger Deals in Singapore (October 2026): Burger King Coupon Codes DK1–DK20, 2 Burgers for $6.50, Free McNuggets ",
-      "store": "Burger King",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        },
-        {
-          "type": "code",
-          "label": "PROMO CODE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "6 Best Burger Deals in Singapore (October 2026): Burger King Coupon Codes DK1–DK20, 2 Burgers for $6.50, Free McNuggets With McDonald's Doubles www.misslobang.com",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hZkFTbGd6OXhiVlFRbW1uMmFmWkpMOVpoVFprTVlBamh3OWhNQnl0dkpaQU9CWUNBRUFEZzFpVjNUVURnblo2TkZaMEV6a21xSTJVdWNkMnJFSDZZRVNKeWVUQXdqTnlKWk11WHdBLVFZaUpkRlFmdVZHOVVaNzQ?oc=5",
-      "source": {
-        "name": "www.misslobang.com",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hZkFTbGd6OXhiVlFRbW1uMmFmWkpMOVpoVFprTVlBamh3OWhNQnl0dkpaQU9CWUNBRUFEZzFpVjNUVURnblo2TkZaMEV6a21xSTJVdWNkMnJFSDZZRVNKeWVUQXdqTnlKWk11WHdBLVFZaUpkRlFmdVZHOVVaNzQ?oc=5"
-      },
-      "brand": "Burger King",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-26"
-    },
-    {
-      "id": "burger-king-singapore-app-deals-2-for-s-6-61-off-guide-2026-",
-      "title": "Burger King Singapore — App Deals, 2-for-S$6 & 61% Off Guide (2026) - www.misslobang.com",
-      "store": "Burger King",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "BURGER KING"
-        },
-        {
-          "type": "discount",
-          "label": "61% OFF"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Burger King Singapore — App Deals, 2-for-S$6 & 61% Off Guide (2026) www.misslobang.com",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlVRcHcyTnNHR3VvdGdCMXg2eGVMakI0aU1ldXlOdmU4NVpPUXBhb01uYzJ4WHkyRGpsaUxlMy0wN3JvZ2oxQWZ5Tk1ZdzNKSy1TYlM4eWluaU1MTnVjQXVXLWxhTmVHS21nbFJleHYzeVJDc2JOQXJ1WlotR213VURKOA?oc=5",
-      "source": {
-        "name": "www.misslobang.com",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlVRcHcyTnNHR3VvdGdCMXg2eGVMakI0aU1ldXlOdmU4NVpPUXBhb01uYzJ4WHkyRGpsaUxlMy0wN3JvZ2oxQWZ5Tk1ZdzNKSy1TYlM4eWluaU1MTnVjQXVXLWxhTmVHS21nbFJleHYzeVJDc2JOQXJ1WlotR213VURKOA?oc=5"
-      },
-      "brand": "Burger King",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-26"
     },
     {
       "id": "gain-city-s-go-green-campaign-offers-up-to-1k-off-on-applian",
@@ -716,42 +701,6 @@
       "first_seen": "2026-09-27"
     },
     {
-      "id": "mcdonald-s-singapore-celebrates-children-s-day-with-free-van",
-      "title": "McDonald’s Singapore Celebrates Children’s Day With FREE Vanilla Cones for Kids Till October 7 - Great Deals Singapore",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "McDonald’s Singapore Celebrates Children’s Day With FREE Vanilla Cones for Kids Till October 7 Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWE5ySTVYZTctTXRYVEpkSmhWV0RLMlBZcjh5eWp6UGg1R0tFYjZrMTkzbE1BeUVjMnA4MWdVa21NZXl5dVVBUGJSa0hsTlpqYUUyMEFEVkhrQURwNDB6dDY3N210dE5zRHkzS2xuTzA3Z01zQkZfOXc4SHhidVRUaDg2b3ZVaUNfN0ZVdzNwYkJsWjFUWHVzcmFzWk4?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWE5ySTVYZTctTXRYVEpkSmhWV0RLMlBZcjh5eWp6UGg1R0tFYjZrMTkzbE1BeUVjMnA4MWdVa21NZXl5dVVBUGJSa0hsTlpqYUUyMEFEVkhrQURwNDB6dDY3N210dE5zRHkzS2xuTzA3Z01zQkZfOXc4SHhidVRUaDg2b3ZVaUNfN0ZVdzNwYkJsWjFUWHVzcmFzWk4?oc=5"
-      },
-      "brand": "McDonald's",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-26"
-    },
-    {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
       "title": "Decathlon Singapore hosting second-hand bike festival with refurbished bikes up to 80% off - CNA Lifestyle",
       "store": "Decathlon",
@@ -896,6 +845,42 @@
       "first_seen": "2026-07-06"
     },
     {
+      "id": "mcdonald-s-singapore-launching-new-spicy-chicken-tenders-wit",
+      "title": "McDonald’s Singapore Launching New Spicy Chicken Tenders with FREE Sampling on Feb 12 & 13 - Great Deals Singapore",
+      "store": "Cotton On",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "MCDONALD'S"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "McDonald’s Singapore Launching New Spicy Chicken Tenders with FREE Sampling on Feb 12 & 13 Great Deals Singapore",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzN1bXpqWjhWWDJzdng2cnNiRGRvSl9TTkd5Y2xiQVNTTGdDWGZzeGdpcWlBVmp5VXJHdlo3X1JoVDVZVm0zdTM3SFFNcDBObFVnY3ZfYV95TXlQQjk1dkk4Y25CbzM5bWpRTTBaaGQta1F0ejN4QlhWMDhDU2o0VjlCRjQxWUlPQXlpN1VhRUZQcmNXUWU3YmhVNA?oc=5",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzN1bXpqWjhWWDJzdng2cnNiRGRvSl9TTkd5Y2xiQVNTTGdDWGZzeGdpcWlBVmp5VXJHdlo3X1JoVDVZVm0zdTM3SFFNcDBObFVnY3ZfYV95TXlQQjk1dkk4Y25CbzM5bWpRTTBaaGQta1F0ejN4QlhWMDhDU2o0VjlCRjQxWUlPQXlpN1VhRUZQcmNXUWU3YmhVNA?oc=5"
+      },
+      "brand": "Cotton On",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-07-06"
+    },
+    {
       "id": "bestdenki-jackpot",
       "title": "Up to 20% off TVs + up to $700 off soundbars",
       "store": "BEST Denki · Storewide",
@@ -925,8 +910,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -992,8 +976,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
