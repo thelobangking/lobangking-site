@@ -158,7 +158,7 @@ _ci_ — Scheduled jobs: daily deals build, hourly validate+GC, 30-min uptime pi
 
 ## Live inventory (auto-scanned)
 - **Total files:** 259
-- **Generated:** 40 per-deal pages, 6 category pages, 60 history snapshots
+- **Generated:** 39 per-deal pages, 7 category pages, 60 history snapshots
 - **By directory:** (root) (75), .git (30), .github (9), .well-known (1), css (4), data (2), fonts (1), history (61), images (43), js (11), scripts (22)
 
 ---
