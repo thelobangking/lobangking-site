@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "categories": [
     {
       "id": "all",
@@ -153,39 +153,6 @@
   ],
   "deals": [
     {
-      "id": "baskin-robbins-s-pore-31-off-handpacked-ice-cream-on-31-oct-",
-      "title": "Baskin-Robbins S’pore 31% OFF Handpacked Ice Cream on 31 Oct 2026",
-      "store": "Baskin-Robbins",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "31% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Get 31% savings on every handpacked size, with mix-and-match flavours",
-      "expiry": "Ends 31 Oct",
-      "heat": 130,
-      "url": "https://singpromos.com/dining-restaurants-food/baskin-robbins-spore-31-off-handpacked-ice-cream-on-31-oct-2026-308752/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/baskin-robbins-spore-31-off-handpacked-ice-cream-on-31-oct-2026-308752/"
-      },
-      "expires_at": "2026-10-31",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-31",
-      "image": "images/deals/baskin-robbins-s-pore-31-off-handpacked-ice-cream-on-31-oct-.jpg",
-      "spotlight": true
-    },
-    {
       "id": "giant-s-pore-ben-jerry-s-3-for-24-50-top-nanox-1-for-1-till-",
       "title": "Giant S’pore Ben & Jerry’s 3 for $24.50 & Top Nanox 1-for-1 Till 4 Nov 2026",
       "store": "Giant",
@@ -219,7 +186,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-31",
-      "image": "images/deals/giant-s-pore-ben-jerry-s-3-for-24-50-top-nanox-1-for-1-till-.jpg"
+      "image": "images/deals/giant-s-pore-ben-jerry-s-3-for-24-50-top-nanox-1-for-1-till-.jpg",
+      "spotlight": true
     },
     {
       "id": "pepper-lunch-sg-150g-striploin-steak-with-drink-at-11-on-11-",
@@ -788,42 +756,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-27"
-    },
-    {
-      "id": "mcdonald-s-singapore-celebrates-children-s-day-with-free-van",
-      "title": "McDonald’s Singapore Celebrates Children’s Day With FREE Vanilla Cones for Kids Till October 7 - Great Deals Singapore",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "McDonald’s Singapore Celebrates Children’s Day With FREE Vanilla Cones for Kids Till October 7 Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWE5ySTVYZTctTXRYVEpkSmhWV0RLMlBZcjh5eWp6UGg1R0tFYjZrMTkzbE1BeUVjMnA4MWdVa21NZXl5dVVBUGJSa0hsTlpqYUUyMEFEVkhrQURwNDB6dDY3N210dE5zRHkzS2xuTzA3Z01zQkZfOXc4SHhidVRUaDg2b3ZVaUNfN0ZVdzNwYkJsWjFUWHVzcmFzWk4?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWE5ySTVYZTctTXRYVEpkSmhWV0RLMlBZcjh5eWp6UGg1R0tFYjZrMTkzbE1BeUVjMnA4MWdVa21NZXl5dVVBUGJSa0hsTlpqYUUyMEFEVkhrQURwNDB6dDY3N210dE5zRHkzS2xuTzA3Z01zQkZfOXc4SHhidVRUaDg2b3ZVaUNfN0ZVdzNwYkJsWjFUWHVzcmFzWk4?oc=5"
-      },
-      "brand": "McDonald's",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-26"
     },
     {
       "id": "starbucks-singapore-is-offering-1-for-1-on-all-venti-sized-d",
