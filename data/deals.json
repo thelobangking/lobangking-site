@@ -181,8 +181,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-01",
-      "spotlight": true,
-      "image": "images/deals/pizza-hut-s-pore-1-for-1-melts-at-9-95-with-new-flavours-unt.jpg"
+      "image": "images/deals/pizza-hut-s-pore-1-for-1-melts-at-9-95-with-new-flavours-unt.jpg",
+      "spotlight": true
     },
     {
       "id": "cimb-s-pore-offers-up-to-2-88-p-a-with-at-least-s-10-000-fre",
