@@ -114,12 +114,13 @@
   ],
   "brands_today": [
     "4Fingers",
+    "Adidas",
     "BEST Denki",
     "Best Denki",
     "BreadTalk",
+    "Burger King",
     "Chagee",
     "Challenger",
-    "Cotton On",
     "Courts",
     "Decathlon",
     "Don Don Donki",
@@ -142,6 +143,7 @@
     "Shihlin",
     "Singapore Zoo",
     "Starbucks",
+    "Subway",
     "Swensen's",
     "TANGS",
     "Toys“R”Us",
@@ -151,6 +153,146 @@
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "adidas-s-pore-11-11-sale-offers-extra-30-off-selected-styles",
+      "title": "adidas S’pore 11.11 Sale Offers Extra 30% Off Selected Styles Until 11 Nov 2026",
+      "store": "Adidas",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "ADIDAS"
+        },
+        {
+          "type": "discount",
+          "label": "30% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — see source link to claim"
+      },
+      "desc": "Explore thousands of sale styles, with extra checkout savings on selected footwear and clothing",
+      "expiry": "Ends 11 Nov",
+      "heat": 175,
+      "url": "https://singpromos.com/fashion-accessories/adidas-spore-11-11-sale-offers-extra-30-off-selected-styles-until-11-nov-2026-308879/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/fashion-accessories/adidas-spore-11-11-sale-offers-extra-30-off-selected-styles-until-11-nov-2026-308879/"
+      },
+      "brand": "Adidas",
+      "expires_at": "2026-11-11",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-02",
+      "spotlight": true,
+      "image": "images/deals/adidas-s-pore-11-11-sale-offers-extra-30-off-selected-styles.jpg"
+    },
+    {
+      "id": "nike-sg-11-11-sale-up-to-50-off-plus-extra-20-off-with-gameo",
+      "title": "Nike SG 11.11 Sale Up To 50% Off Plus Extra 20% Off With GAMEON Till 11 Nov 2026",
+      "store": "Nike",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NIKE"
+        },
+        {
+          "type": "discount",
+          "label": "50% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Big savings on Nike sneakers, sportswear and more, with an extra 20% off eligible items.",
+      "expiry": "Ends 11 Nov",
+      "heat": 170,
+      "url": "https://singpromos.com/department-stores/nike-sg-11-11-sale-up-to-50-off-plus-extra-20-off-with-gameon-till-11-nov-2026-308873/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/department-stores/nike-sg-11-11-sale-up-to-50-off-plus-extra-20-off-with-gameon-till-11-nov-2026-308873/"
+      },
+      "brand": "Nike",
+      "expires_at": "2026-11-11",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-02",
+      "image": "images/deals/nike-sg-11-11-sale-up-to-50-off-plus-extra-20-off-with-gameo.jpg"
+    },
+    {
+      "id": "kfc-s-pore-6-50-2pc-chicken-meal-monday-app-deal-on-2-nov-20",
+      "title": "KFC S’pore $6.50 2pc Chicken Meal Monday App Deal on 2 Nov 2026",
+      "store": "KFC",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "KFC"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Enjoy two pieces of fried chicken, classic sides and a refreshing drink at a wallet-friendly price.",
+      "expiry": "Ends 2 Nov",
+      "heat": 145,
+      "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-2pc-chicken-meal-monday-app-deal-on-2-nov-2026-308848/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-2pc-chicken-meal-monday-app-deal-on-2-nov-2026-308848/"
+      },
+      "brand": "KFC",
+      "expires_at": "2026-11-02",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-02",
+      "image": "images/deals/kfc-s-pore-6-50-2pc-chicken-meal-monday-app-deal-on-2-nov-20.jpg"
+    },
+    {
+      "id": "coffee-bean-sg-turkey-chicken-cranberry-mayo-wrap-weekday-br",
+      "title": "Coffee Bean SG Turkey & Chicken Cranberry Mayo Wrap Weekday Breakfast Set From 2 Nov 2026",
+      "store": "Coffee Bean",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Get a festive wrap, salad, mini cupcake and Americano for just $6.25 per set when buying two.",
+      "expiry": "Ongoing",
+      "heat": 100,
+      "url": "https://singpromos.com/dining-restaurants-food/coffee-bean-sg-turkey-chicken-cranberry-mayo-wrap-breakfast-set-from-2-nov-2026-308843/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/coffee-bean-sg-turkey-chicken-cranberry-mayo-wrap-breakfast-set-from-2-nov-2026-308843/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-11-02",
+      "first_seen": "2026-11-02",
+      "image": "images/deals/coffee-bean-sg-turkey-chicken-cranberry-mayo-wrap-weekday-br.jpg"
+    },
     {
       "id": "pizza-hut-s-pore-1-for-1-melts-at-9-95-with-new-flavours-unt",
       "title": "Pizza Hut S’pore 1-for-1 Melts at $9.95 with new flavours until 15 Nov 2026",
@@ -171,7 +313,7 @@
       },
       "desc": "Enjoy two cheesy Melts for just $9.95, including new Cheesy Otah and Korean Garlic Cream Cheese flavours.",
       "expiry": "Ends 15 Nov",
-      "heat": 135,
+      "heat": 115,
       "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-1-for-1-melts-at-9-95-with-new-flavours-until-15-nov-2026-308804/",
       "source": {
         "name": "SINGPromos",
@@ -181,8 +323,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-01",
-      "image": "images/deals/pizza-hut-s-pore-1-for-1-melts-at-9-95-with-new-flavours-unt.jpg",
-      "spotlight": true
+      "image": "images/deals/pizza-hut-s-pore-1-for-1-melts-at-9-95-with-new-flavours-unt.jpg"
     },
     {
       "id": "cimb-s-pore-offers-up-to-2-88-p-a-with-at-least-s-10-000-fre",
@@ -204,7 +345,7 @@
       },
       "desc": "A S$10,000 fresh-funds top-up can unlock bonus interest across eligible CIMB savings accounts.",
       "expiry": "Check link for dates",
-      "heat": 110,
+      "heat": 90,
       "url": "https://singpromos.com/banks-credit-cards/cimb-spore-offers-up-to-2-88-p-a-with-at-least-s10000-fresh-funds-for-nov-2026-308811/",
       "source": {
         "name": "SINGPromos",
@@ -215,103 +356,6 @@
       "starts_at": "",
       "first_seen": "2026-11-01",
       "image": "images/deals/cimb-s-pore-offers-up-to-2-88-p-a-with-at-least-s-10-000-fre.jpg"
-    },
-    {
-      "id": "maybank-sg-fresh-funds-promo-offers-up-to-2-2-p-a-with-s-20-",
-      "title": "Maybank SG Fresh Funds Promo Offers Up To 2.2% p.a. With S$20,000 Incremental ADB",
-      "store": "Maybank",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Grow eligible Maybank savings balances with fresh funds and potentially earn up to 2.2% p.a.",
-      "expiry": "Check link for dates",
-      "heat": 105,
-      "url": "https://singpromos.com/banks-credit-cards/maybank-sg-fresh-funds-promo-offers-up-to-2-2-p-a-with-s20000-incremental-adb-308807/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/maybank-sg-fresh-funds-promo-offers-up-to-2-2-p-a-with-s20000-incremental-adb-308807/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-01",
-      "image": "images/deals/maybank-sg-fresh-funds-promo-offers-up-to-2-2-p-a-with-s-20-.jpg"
-    },
-    {
-      "id": "yakiniku-go-9-90-red-king-crab-and-snow-crab-with-every-set-",
-      "title": "Yakiniku-GO $9.90 Red King Crab and Snow Crab with Every Set Meal from 3 Nov 2026",
-      "store": "Yakiniku-GO $9.90 Red King",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy big, meaty Red King Crab and Snow Crab from just $9.90 with any yakiniku set meal",
-      "expiry": "Ongoing",
-      "heat": 100,
-      "url": "https://singpromos.com/dining-restaurants-food/yakiniku-go-9-90-red-king-crab-and-snow-crab-with-every-set-meal-from-3-nov-2026-308786/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/yakiniku-go-9-90-red-king-crab-and-snow-crab-with-every-set-meal-from-3-nov-2026-308786/"
-      },
-      "expires_at": "",
-      "upcoming": true,
-      "starts_at": "2026-11-03",
-      "first_seen": "2026-11-01",
-      "image": "images/deals/yakiniku-go-9-90-red-king-crab-and-snow-crab-with-every-set-.jpg"
-    },
-    {
-      "id": "mcdonald-s-new-mccrispy-fried-chicken-arrives-november-5-wit",
-      "title": "McDonald’s New McCrispy Fried Chicken Arrives November 5 With Spicier, Crispier Recipe",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "More spice, more crunch, more chicken.",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://www.greatdeals.com.sg/2026/10/28/mcdonalds-new-mccrispy-fried-chicken-november-2026",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://www.greatdeals.com.sg/2026/10/28/mcdonalds-new-mccrispy-fried-chicken-november-2026"
-      },
-      "brand": "McDonald's",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-01",
-      "image": "images/deals/mcdonald-s-new-mccrispy-fried-chicken-arrives-november-5-wit.jpg"
     },
     {
       "id": "safra-members-enjoy-1-for-1-universal-studios-singapore-tick",
@@ -337,7 +381,7 @@
       },
       "desc": "Your next USS outing just got cheaper with this SAFRA-exclusive deal.",
       "expiry": "Check link for dates",
-      "heat": 115,
+      "heat": 110,
       "url": "https://www.greatdeals.com.sg/2026/10/30/safra-1-for-1-uss-tickets-promo-till-december-2026",
       "source": {
         "name": "Great Deals Singapore",
@@ -374,7 +418,7 @@
       },
       "desc": "Scoop up big savings on Ben & Jerry's ice cream, plus grocery bargains and buy 1 get 1 free deals.",
       "expiry": "Ends 4 Nov",
-      "heat": 110,
+      "heat": 90,
       "url": "https://singpromos.com/dining-restaurants-food/giant-spore-ben-jerrys-3-for-24-50-top-nanox-1-for-1-till-4-nov-2026-308743/",
       "source": {
         "name": "SINGPromos",
@@ -385,38 +429,6 @@
       "starts_at": "",
       "first_seen": "2026-10-31",
       "image": "images/deals/giant-s-pore-ben-jerry-s-3-for-24-50-top-nanox-1-for-1-till-.jpg"
-    },
-    {
-      "id": "pepper-lunch-sg-150g-striploin-steak-with-drink-at-11-on-11-",
-      "title": "Pepper Lunch SG 150g Striploin Steak with Drink at $11 on 11 Nov, $16.90 from 3-30 Nov 2026",
-      "store": "Pepper Lunch",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy a 150g striploin steak with a drink for $11 on flash-sale day or $16.90 during the promotion",
-      "expiry": "Ends 30 Nov",
-      "heat": 95,
-      "url": "https://singpromos.com/dining-restaurants-food/pepper-lunch-sg-150g-striploin-steak-with-drink-at-11-on-11-nov-16-90-from-3-30-nov-2026-308773/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/pepper-lunch-sg-150g-striploin-steak-with-drink-at-11-on-11-nov-16-90-from-3-30-nov-2026-308773/"
-      },
-      "expires_at": "2026-11-30",
-      "upcoming": true,
-      "starts_at": "2026-11-03",
-      "first_seen": "2026-10-31",
-      "image": "images/deals/pepper-lunch-sg-150g-striploin-steak-with-drink-at-11-on-11-.jpg"
     },
     {
       "id": "best-denki-the-grand-electrical-fair-26-27-top-electronics-d",
@@ -478,7 +490,7 @@
       },
       "desc": "Enjoy 50% off Bulla ice cream, plus sweet savings on Häagen-Dazs, Ben & Jerry's and frozen snacks.",
       "expiry": "Ends 4 Nov",
-      "heat": 140,
+      "heat": 125,
       "url": "https://singpromos.com/dining-restaurants-food/fairprice-ice-cream-deals-with-50-off-bulla-more-till-4-nov-2026-308714/",
       "source": {
         "name": "SINGPromos",
@@ -492,9 +504,9 @@
       "image": "images/deals/fairprice-ice-cream-deals-with-50-off-bulla-more-till-4-nov-.jpg"
     },
     {
-      "id": "mcdonald-s-s-pore-20pc-mcnuggets-going-for-just-9-90-till-4-",
-      "title": "McDonald’s S’pore 20pc McNuggets® Going for Just $9.90 Till 4 Nov 2026",
-      "store": "McDonald's",
+      "id": "burger-king-singapore-app-deals-2-for-s-6-61-off-guide-2026-",
+      "title": "Burger King Singapore — App Deals, 2-for-S$6 & 61% Off Guide (2026) - www.misslobang.com",
+      "store": "Burger King",
       "categories": [
         "food"
       ],
@@ -502,60 +514,30 @@
       "badges": [
         {
           "type": "new",
-          "label": "MCDONALD'S"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Spicy, original and mixed options available",
-      "expiry": "Ends 4 Nov",
-      "heat": 115,
-      "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-20pc-mcnuggets-going-for-just-9-90-till-4-nov-2026-308682/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-20pc-mcnuggets-going-for-just-9-90-till-4-nov-2026-308682/"
-      },
-      "brand": "McDonald's",
-      "expires_at": "2026-11-04",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-30",
-      "image": "images/deals/mcdonald-s-s-pore-20pc-mcnuggets-going-for-just-9-90-till-4-.jpg"
-    },
-    {
-      "id": "fairprice-5-return-voucher-with-every-50-in-store-spend-till",
-      "title": "FairPrice $5 Return Voucher with every $50 in-store spend till 9 Nov 2026",
-      "store": "FairPrice",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
+          "label": "BURGER KING"
+        },
         {
-          "type": "new",
-          "label": "FAIRPRICE"
+          "type": "discount",
+          "label": "61% OFF"
         }
       ],
       "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
+        "type": "app",
+        "label": "App or membership may be needed"
       },
-      "desc": "Earn a $5 voucher for every $50 nett in-store spend, with no minimum spend when redeeming",
-      "expiry": "Ends 9 Nov",
-      "heat": 110,
-      "url": "https://singpromos.com/dining-restaurants-food/fairprice-5-return-voucher-with-every-50-in-store-spend-till-9-nov-2026-308694/",
+      "desc": "Burger King Singapore — App Deals, 2-for-S$6 & 61% Off Guide (2026) www.misslobang.com",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlVRcHcyTnNHR3VvdGdCMXg2eGVMakI0aU1ldXlOdmU4NVpPUXBhb01uYzJ4WHkyRGpsaUxlMy0wN3JvZ2oxQWZ5Tk1ZdzNKSy1TYlM4eWluaU1MTnVjQXVXLWxhTmVHS21nbFJleHYzeVJDc2JOQXJ1WlotR213VURKOA?oc=5",
       "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/fairprice-5-return-voucher-with-every-50-in-store-spend-till-9-nov-2026-308694/"
+        "name": "www.misslobang.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlVRcHcyTnNHR3VvdGdCMXg2eGVMakI0aU1ldXlOdmU4NVpPUXBhb01uYzJ4WHkyRGpsaUxlMy0wN3JvZ2oxQWZ5Tk1ZdzNKSy1TYlM4eWluaU1MTnVjQXVXLWxhTmVHS21nbFJleHYzeVJDc2JOQXJ1WlotR213VURKOA?oc=5"
       },
-      "brand": "FairPrice",
-      "expires_at": "2026-11-09",
+      "brand": "Burger King",
+      "expires_at": "",
       "upcoming": false,
       "starts_at": "",
-      "first_seen": "2026-10-30",
-      "image": "images/deals/fairprice-5-return-voucher-with-every-50-in-store-spend-till.jpg"
+      "first_seen": "2026-10-26"
     },
     {
       "id": "gain-city-s-go-green-campaign-offers-up-to-1k-off-on-applian",
@@ -837,7 +819,7 @@
       },
       "desc": "Up to 70% off selected items at Don Don Donki till 19 Jul SETHLUI.com",
       "expiry": "Ends 19 Jul",
-      "heat": 105,
+      "heat": 100,
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5",
       "source": {
         "name": "SETHLUI.com",
@@ -922,9 +904,9 @@
       "first_seen": "2026-07-06"
     },
     {
-      "id": "mcdonald-s-singapore-launching-new-spicy-chicken-tenders-wit",
-      "title": "McDonald’s Singapore Launching New Spicy Chicken Tenders with FREE Sampling on Feb 12 & 13 - Great Deals Singapore",
-      "store": "Cotton On",
+      "id": "subway-singapore-giving-free-cookie-with-every-sub-purchase-",
+      "title": "Subway Singapore Giving FREE Cookie With Every Sub Purchase This Ramadan Till March 21 - Great Deals Singapore",
+      "store": "Subway",
       "categories": [
         "food"
       ],
@@ -932,7 +914,7 @@
       "badges": [
         {
           "type": "new",
-          "label": "MCDONALD'S"
+          "label": "SUBWAY"
         },
         {
           "type": "free",
@@ -943,15 +925,15 @@
         "type": "easy",
         "label": "See source for how to redeem"
       },
-      "desc": "McDonald’s Singapore Launching New Spicy Chicken Tenders with FREE Sampling on Feb 12 & 13 Great Deals Singapore",
+      "desc": "Subway Singapore Giving FREE Cookie With Every Sub Purchase This Ramadan Till March 21 Great Deals Singapore",
       "expiry": "Check link for dates",
       "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzN1bXpqWjhWWDJzdng2cnNiRGRvSl9TTkd5Y2xiQVNTTGdDWGZzeGdpcWlBVmp5VXJHdlo3X1JoVDVZVm0zdTM3SFFNcDBObFVnY3ZfYV95TXlQQjk1dkk4Y25CbzM5bWpRTTBaaGQta1F0ejN4QlhWMDhDU2o0VjlCRjQxWUlPQXlpN1VhRUZQcmNXUWU3YmhVNA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2lVZHk5MWJsaTlBX01LbzZwSDZZTTRZTUR4MlhmR05QcTJFZUFOYkpWSm1YaUNjMHNJZUM0aTZzS1dReXJzZElQUWpUYURhSlQzU2RBb1N5WFpCRFYyclBvVEh2WWRDY3A5UXRzeDkyTm03N1BvQklWSFhtNDFEc1hhQ0t3ZVU0bndTRg?oc=5",
       "source": {
         "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzN1bXpqWjhWWDJzdng2cnNiRGRvSl9TTkd5Y2xiQVNTTGdDWGZzeGdpcWlBVmp5VXJHdlo3X1JoVDVZVm0zdTM3SFFNcDBObFVnY3ZfYV95TXlQQjk1dkk4Y25CbzM5bWpRTTBaaGQta1F0ejN4QlhWMDhDU2o0VjlCRjQxWUlPQXlpN1VhRUZQcmNXUWU3YmhVNA?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2lVZHk5MWJsaTlBX01LbzZwSDZZTTRZTUR4MlhmR05QcTJFZUFOYkpWSm1YaUNjMHNJZUM0aTZzS1dReXJzZElQUWpUYURhSlQzU2RBb1N5WFpCRFYyclBvVEh2WWRDY3A5UXRzeDkyTm03N1BvQklWSFhtNDFEc1hhQ0t3ZVU0bndTRg?oc=5"
       },
-      "brand": "Cotton On",
+      "brand": "Subway",
       "expires_at": "",
       "upcoming": false,
       "starts_at": "",
@@ -987,8 +969,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1054,8 +1035,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
