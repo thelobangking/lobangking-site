@@ -78,6 +78,7 @@ Disallow: /
 # - Echobot Bot
 # - EchoboxBot
 # - ElevenlabsBot
+# - ElevenlabsCrawler
 # - ERNIEBot
 # - ExaBot
 # - ExaSearchBot
@@ -134,10 +135,10 @@ Disallow: /
 # - LinkupBot
 # - magpie-crawler
 # - Manus-User
-# - meta-externalagent
 # - Meta-ExternalAgent
-# - Meta-ExternalFetcher
+# - meta-externalagent
 # - meta-externalfetcher
+# - Meta-ExternalFetcher
 # - meta-webindexer
 # - MistralAI-Index
 # - MistralAI-Training
@@ -180,6 +181,7 @@ Disallow: /
 # - Reflectionbot
 # - SBIntuitionsBot
 # - Scrapy
+# - ScryBot
 # - SemrushBot-OCOB
 # - SemrushBot-SWA
 # - Shap-User
@@ -199,8 +201,8 @@ Disallow: /
 # - UseAI
 # - VelenPublicWebCrawler
 # - WARDBot
-# - Webzio-Extended
 # - webzio-extended
+# - Webzio-Extended
 # - wpbot
 # - WRTNBot
 # - xAI-Grok
