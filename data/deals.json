@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "categories": [
     {
       "id": "all",
@@ -453,47 +453,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-31"
-    },
-    {
-      "id": "starbucks-s-pore-1-for-1-tall-drinks-with-trust-bank-cards-u",
-      "title": "Starbucks S’pore 1-for-1 Tall Drinks with Trust Bank Cards until 1 Nov 2026",
-      "store": "Starbucks",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "STARBUCKS"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy a free second Tall-sized handcrafted drink with Trust cards",
-      "expiry": "Ends 1 Nov",
-      "heat": 145,
-      "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-1-for-1-tall-drinks-with-trust-bank-cards-until-1-nov-2026-308732/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-1-for-1-tall-drinks-with-trust-bank-cards-until-1-nov-2026-308732/"
-      },
-      "brand": "Starbucks",
-      "expires_at": "2026-11-01",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-30",
-      "image": "images/deals/starbucks-s-pore-1-for-1-tall-drinks-with-trust-bank-cards-u.jpg"
     },
     {
       "id": "fairprice-ice-cream-deals-with-50-off-bulla-more-till-4-nov-",
