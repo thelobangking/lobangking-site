@@ -121,38 +121,570 @@
     "Burger King",
     "Chagee",
     "Challenger",
+    "Coach",
+    "Cotton On",
     "Courts",
     "Decathlon",
     "Don Don Donki",
     "Eu Yan Sang",
-    "FairPrice",
     "GOLDLION",
     "Gain City",
     "Giant",
+    "HP",
     "HarbourFront Centre",
     "KFC",
+    "Kei Kaisendon",
+    "Kenny Rogers Roasters",
     "McDonald's",
+    "Michael Kors",
     "Moley Apparels",
     "Muji",
     "Nike",
+    "Orchard Hotel",
     "Panasonic",
     "Popeyes",
     "Punggol GRC",
     "REFASH",
+    "SUKIYA",
     "SUSHIRO",
     "Shihlin",
     "Singapore Zoo",
+    "Sothys",
     "Starbucks",
-    "Subway",
     "Swensen's",
     "TANGS",
+    "Takagi Ramen",
     "Toys“R”Us",
     "Universal Studios Singapore",
     "Watsons",
+    "Welcia",
     "Yellow Ribbon",
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "michael-kors-sale",
+      "title": "Up to 55% off designer handbags, shoes & watches",
+      "store": "Michael Kors · Online & boutiques",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "UP TO 55% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online & in-boutique — prices as marked"
+      },
+      "desc": "Official Michael Kors sale with further reductions across designer handbags, shoes, watches and clothing — over 1,000 styles. Example: the Ava extra-small Saffiano crossbody is down from $430 to $189.",
+      "expiry": "While stocks last",
+      "expires_at": "",
+      "url": "https://www.michaelkors.global/sg/en/sale/",
+      "source": {
+        "name": "Michael Kors",
+        "url": "https://www.michaelkors.global/sg/en/sale/"
+      },
+      "brand": "Michael Kors",
+      "heat": 375,
+      "first_seen": "2026-11-03",
+      "starts_at": "",
+      "upcoming": false,
+      "spotlight": true
+    },
+    {
+      "id": "coach-bags-sale",
+      "title": "Designer leather bags on sale + free shipping",
+      "store": "Coach · Official online store",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "SALE + FREE SHIP"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — free shipping for a limited time"
+      },
+      "desc": "Coach Singapore's official leather bag sale — exclusive deals on handbags and signature styles, with free shipping for a limited time. New customers get 10% off their first order with code HELLO10.",
+      "expiry": "While stocks last",
+      "expires_at": "",
+      "url": "https://singapore.coach.com/sales/bags.html",
+      "source": {
+        "name": "Coach Singapore",
+        "url": "https://singapore.coach.com/sales/bags.html"
+      },
+      "brand": "Coach",
+      "heat": 370,
+      "first_seen": "2026-11-03",
+      "starts_at": "",
+      "upcoming": false
+    },
+    {
+      "id": "sukiya-shrimp-miso",
+      "title": "Shrimp Ball Miso Soup from $2.90",
+      "store": "SUKIYA · All 30 halal outlets",
+      "brand": "SUKIYA",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍲",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "FROM $2.90"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Dine-in at all outlets islandwide"
+      },
+      "desc": "New Shrimp Ball Miso Soup for a limited time — order it on its own or upgrade any regular miso soup for just $2.90. Available at all 30 Halal-certified SUKIYA outlets.",
+      "expiry": "While stocks last",
+      "heat": 285,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-11-03",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": ""
+    },
+    {
+      "id": "takagi-ramen-1for1-ndp",
+      "title": "Ultimate 1-for-1 ramen & rice bowls",
+      "store": "Takagi Ramen · Delivery & outlets",
+      "brand": "Takagi Ramen",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "GrabFood, Foodpanda or order direct"
+      },
+      "desc": "NDP-season Ultimate 1-for-1 on selected ramen and rice bowls — great-value Japanese comfort food via GrabFood, Foodpanda or direct ordering.",
+      "expiry": "While stocks last",
+      "heat": 280,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-11-03",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": ""
+    },
+    {
+      "id": "kennyrogers-670-meals",
+      "title": "$6.70 rice or pasta meals islandwide",
+      "store": "Kenny Rogers Roasters · Islandwide",
+      "brand": "Kenny Rogers Roasters",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍗",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "$6.70 MEALS"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Selected outlets & online ordering"
+      },
+      "desc": "Rice or pasta meals for just $6.70 each — an easy, wallet-friendly lunch or dinner at selected Kenny Rogers Roasters outlets islandwide and via online ordering.",
+      "expiry": "While stocks last",
+      "heat": 270,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-11-03",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": ""
+    },
+    {
+      "id": "welcia-kose-beauty",
+      "title": "Up to 50% off KOSE beauty + free gifts",
+      "store": "Welcia · KOSE brands",
+      "brand": "Welcia",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "💄",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "UP TO 50% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "In-store at Welcia outlets"
+      },
+      "desc": "Up to 50% off selected KOSE beauty brands including SEKKISEI, ONE BY KOSÉ and FASIO, plus exclusive SEKKISEI x Monchhichi gifts, foldable bags and deluxe samples with qualifying purchases.",
+      "expiry": "While stocks last",
+      "heat": 265,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-11-03",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": ""
+    },
+    {
+      "id": "hp-double7-savings",
+      "title": "Double 7: up to $120 off HP laptops & printers",
+      "store": "HP Singapore Online Store",
+      "brand": "HP",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "💻",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "UP TO $120 OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Sitewide vouchers at HP online store"
+      },
+      "desc": "HP's Double 7 sale: sitewide vouchers worth up to $120 off selected HP AI laptops, workstations, printers and accessories. Upgrade your tech for less while the offer lasts.",
+      "expiry": "While stocks last",
+      "heat": 260,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-11-03",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": ""
+    },
+    {
+      "id": "sothys-july-skincare",
+      "title": "10% off + gifts worth up to $106",
+      "store": "Sothys Singapore",
+      "brand": "Sothys",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "🧴",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "10% OFF + GIFTS"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "In-store & online while stocks last"
+      },
+      "desc": "Sothys July skincare offers: the new MultiVit range, complimentary gifts worth up to $106, limited-edition cleansing sets, anti-ageing offers and 10% off selected favourites.",
+      "expiry": "While stocks last",
+      "heat": 250,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-11-03",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": ""
+    },
+    {
+      "id": "orchard-hotel-nationalday-drinks",
+      "title": "Local-inspired drinks from $6.10",
+      "store": "Orchard Hotel Singapore",
+      "brand": "Orchard Hotel",
+      "categories": [
+        "food"
+      ],
+      "icon": "🥂",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "FROM $6.10"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Available through August"
+      },
+      "desc": "Celebrate National Day at Orchard Hotel Singapore with a series of local-inspired drinks priced from $6.10 all through August — a nostalgic, wallet-friendly way to toast SG61.",
+      "expiry": "Aug 2026",
+      "expires_at": "",
+      "starts_at": "2026-08-01",
+      "heat": 195,
+      "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/sales-period/upcoming-sales/"
+      },
+      "image": "images/up-orchard-hotel.jpg",
+      "first_seen": "2026-11-03",
+      "upcoming": true
+    },
+    {
+      "id": "kei-kaisendon-premium-set",
+      "title": "Premium Kaisendon set from $22.95++",
+      "store": "Kei Kaisendon",
+      "brand": "Kei Kaisendon",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍥",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "FROM $22.95++"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Dine-in"
+      },
+      "desc": "Kei Kaisendon's Premium Set Meal: an authentic Japanese kaisendon served with side dishes and a drink for $22.95++ (usual $24.95++) — a worthwhile treat for seafood lovers.",
+      "expiry": "While stocks last",
+      "expires_at": "",
+      "starts_at": "",
+      "heat": 180,
+      "url": "https://sg.everydayonsales.com/promotions-freebies/",
+      "source": {
+        "name": "EverydayOnSales",
+        "url": "https://sg.everydayonsales.com/promotions-freebies/"
+      },
+      "first_seen": "2026-11-03",
+      "upcoming": false
+    },
+    {
+      "id": "starbucks-s-pore-x-pompompurin-collection-launches-10-nov-20",
+      "title": "Starbucks S’pore x Pompompurin Collection Launches 10 Nov 2026 with Items from $10.90",
+      "store": "Starbucks",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "STARBUCKS"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Adorable Pompompurin collectibles plus a free gift with $25 nett delivery spend",
+      "expiry": "Ends 10 Nov",
+      "heat": 150,
+      "url": "https://singpromos.com/household/starbucks-spore-x-pompompurin-collection-launches-10-nov-2026-with-items-from-10-90-308922/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/household/starbucks-spore-x-pompompurin-collection-launches-10-nov-2026-with-items-from-10-90-308922/"
+      },
+      "brand": "Starbucks",
+      "expires_at": "2026-11-10",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-03",
+      "image": "images/deals/starbucks-s-pore-x-pompompurin-collection-launches-10-nov-20.jpg"
+    },
+    {
+      "id": "skechers-s-pore-warehouse-sale-returns-with-up-to-90-off-sho",
+      "title": "Skechers S’pore Warehouse Sale Returns with Up to 90% Off Shoes, Apparel & Accessories",
+      "store": "Skechers",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "90% OFF"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Score big savings on footwear, clothing and accessories, with prices starting from just $15",
+      "expiry": "Check link for dates",
+      "heat": 135,
+      "url": "https://singpromos.com/warehouse-sales/skechers-spore-warehouse-sale-returns-with-up-to-90-off-shoes-apparel-accessories-308980/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/warehouse-sales/skechers-spore-warehouse-sale-returns-with-up-to-90-off-shoes-apparel-accessories-308980/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-03",
+      "image": "images/deals/skechers-s-pore-warehouse-sale-returns-with-up-to-90-off-sho.jpg"
+    },
+    {
+      "id": "vodien-s-pore-11-11-sale-until-13-nov-2026-has-11-11-domains",
+      "title": "Vodien S’pore 11.11 Sale Until 13 Nov 2026 Has $11.11 Domains & Up to 25% Off",
+      "store": "Vodien",
+      "categories": [
+        "online"
+      ],
+      "icon": "🛒",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "25% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Score $11.11 Singapore domains, discounted web hosting and extra savings on bundled services.",
+      "expiry": "Ends 13 Nov",
+      "heat": 130,
+      "url": "https://singpromos.com/web-hosting/vodien-spore-11-11-sale-until-13-nov-2026-has-11-11-domains-up-to-25-off-308971/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/web-hosting/vodien-spore-11-11-sale-until-13-nov-2026-has-11-11-domains-up-to-25-off-308971/"
+      },
+      "expires_at": "2026-11-13",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-03",
+      "image": "images/deals/vodien-s-pore-11-11-sale-until-13-nov-2026-has-11-11-domains.jpg"
+    },
+    {
+      "id": "parallels-desktop-up-to-50-off-1-year-subscriptions-till-23-",
+      "title": "Parallels Desktop Up to 50% Off 1-Year Subscriptions till 23 Nov 2026",
+      "store": "Parallels Desktop Up to",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "💻",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "50% OFF"
+        },
+        {
+          "type": "code",
+          "label": "PROMO CODE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — see source link to claim"
+      },
+      "desc": "Get savings on Parallels Desktop subscriptions with promo codes for selected editions",
+      "expiry": "Ends 23 Nov",
+      "heat": 125,
+      "url": "https://singpromos.com/computers-pc/parallels-desktop-up-to-50-off-1-year-subscriptions-till-23-nov-2026-308966/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/computers-pc/parallels-desktop-up-to-50-off-1-year-subscriptions-till-23-nov-2026-308966/"
+      },
+      "expires_at": "2026-11-23",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-03",
+      "image": "images/deals/parallels-desktop-up-to-50-off-1-year-subscriptions-till-23-.jpg"
+    },
+    {
+      "id": "trust-bank-up-to-2-2-p-a-level-up-promo-fresh-funds-deadline",
+      "title": "Trust Bank Up to 2.2% p.a. Level Up Promo – Fresh Funds Deadline 30 Nov",
+      "store": "Trust Bank Up to",
+      "categories": [
+        "finance"
+      ],
+      "icon": "💳",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "A Savings Pot and qualifying fresh funds can unlock up to 2.2% p.a. on incremental balances.",
+      "expiry": "Ends 30 Nov",
+      "heat": 100,
+      "url": "https://singpromos.com/banks-credit-cards/trust-bank-up-to-2-2-p-a-level-up-promo-fresh-funds-deadline-30-nov-308957/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/banks-credit-cards/trust-bank-up-to-2-2-p-a-level-up-promo-fresh-funds-deadline-30-nov-308957/"
+      },
+      "expires_at": "2026-11-30",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-03",
+      "image": "images/deals/trust-bank-up-to-2-2-p-a-level-up-promo-fresh-funds-deadline.jpg"
+    },
+    {
+      "id": "singapore-savings-bonds-up-to-2-39-p-a-10-year-average-retur",
+      "title": "Singapore Savings Bonds Up to 2.39% p.a. 10-Year Average Return From Just S$500",
+      "store": "Singapore Savings Bonds Up",
+      "categories": [
+        "finance"
+      ],
+      "icon": "💳",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Government-backed savings with step-up interest, semi-annual payouts and flexible redemption.",
+      "expiry": "Check link for dates",
+      "heat": 95,
+      "url": "https://singpromos.com/banks-credit-cards/singapore-savings-bonds-up-to-2-39-p-a-10-year-average-return-from-just-s500-308946/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/banks-credit-cards/singapore-savings-bonds-up-to-2-39-p-a-10-year-average-return-from-just-s500-308946/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-03",
+      "image": "images/deals/singapore-savings-bonds-up-to-2-39-p-a-10-year-average-retur.jpg"
+    },
     {
       "id": "adidas-s-pore-11-11-sale-offers-extra-30-off-selected-styles",
       "title": "adidas S’pore 11.11 Sale Offers Extra 30% Off Selected Styles Until 11 Nov 2026",
@@ -177,7 +709,7 @@
       },
       "desc": "Explore thousands of sale styles, with extra checkout savings on selected footwear and clothing",
       "expiry": "Ends 11 Nov",
-      "heat": 175,
+      "heat": 130,
       "url": "https://singpromos.com/fashion-accessories/adidas-spore-11-11-sale-offers-extra-30-off-selected-styles-until-11-nov-2026-308879/",
       "source": {
         "name": "SINGPromos",
@@ -188,8 +720,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-02",
-      "image": "images/deals/adidas-s-pore-11-11-sale-offers-extra-30-off-selected-styles.jpg",
-      "spotlight": true
+      "image": "images/deals/adidas-s-pore-11-11-sale-offers-extra-30-off-selected-styles.jpg"
     },
     {
       "id": "nike-sg-11-11-sale-up-to-50-off-plus-extra-20-off-with-gameo",
@@ -215,7 +746,7 @@
       },
       "desc": "Big savings on Nike sneakers, sportswear and more, with an extra 20% off eligible items.",
       "expiry": "Ends 11 Nov",
-      "heat": 170,
+      "heat": 125,
       "url": "https://singpromos.com/department-stores/nike-sg-11-11-sale-up-to-50-off-plus-extra-20-off-with-gameon-till-11-nov-2026-308873/",
       "source": {
         "name": "SINGPromos",
@@ -227,102 +758,6 @@
       "starts_at": "",
       "first_seen": "2026-11-02",
       "image": "images/deals/nike-sg-11-11-sale-up-to-50-off-plus-extra-20-off-with-gameo.jpg"
-    },
-    {
-      "id": "coffee-bean-sg-turkey-chicken-cranberry-mayo-wrap-weekday-br",
-      "title": "Coffee Bean SG Turkey & Chicken Cranberry Mayo Wrap Weekday Breakfast Set From 2 Nov 2026",
-      "store": "Coffee Bean",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Get a festive wrap, salad, mini cupcake and Americano for just $6.25 per set when buying two.",
-      "expiry": "Ongoing",
-      "heat": 100,
-      "url": "https://singpromos.com/dining-restaurants-food/coffee-bean-sg-turkey-chicken-cranberry-mayo-wrap-breakfast-set-from-2-nov-2026-308843/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/coffee-bean-sg-turkey-chicken-cranberry-mayo-wrap-breakfast-set-from-2-nov-2026-308843/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-11-02",
-      "first_seen": "2026-11-02",
-      "image": "images/deals/coffee-bean-sg-turkey-chicken-cranberry-mayo-wrap-weekday-br.jpg"
-    },
-    {
-      "id": "pizza-hut-s-pore-1-for-1-melts-at-9-95-with-new-flavours-unt",
-      "title": "Pizza Hut S’pore 1-for-1 Melts at $9.95 with new flavours until 15 Nov 2026",
-      "store": "Pizza Hut",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy two cheesy Melts for just $9.95, including new Cheesy Otah and Korean Garlic Cream Cheese flavours.",
-      "expiry": "Ends 15 Nov",
-      "heat": 115,
-      "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-1-for-1-melts-at-9-95-with-new-flavours-until-15-nov-2026-308804/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-1-for-1-melts-at-9-95-with-new-flavours-until-15-nov-2026-308804/"
-      },
-      "expires_at": "2026-11-15",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-01",
-      "image": "images/deals/pizza-hut-s-pore-1-for-1-melts-at-9-95-with-new-flavours-unt.jpg"
-    },
-    {
-      "id": "cimb-s-pore-offers-up-to-2-88-p-a-with-at-least-s-10-000-fre",
-      "title": "CIMB S’pore Offers Up To 2.88% p.a. With At Least S$10,000 Fresh Funds for Nov 2026",
-      "store": "CIMB",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "A S$10,000 fresh-funds top-up can unlock bonus interest across eligible CIMB savings accounts.",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://singpromos.com/banks-credit-cards/cimb-spore-offers-up-to-2-88-p-a-with-at-least-s10000-fresh-funds-for-nov-2026-308811/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/cimb-spore-offers-up-to-2-88-p-a-with-at-least-s10000-fresh-funds-for-nov-2026-308811/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-01",
-      "image": "images/deals/cimb-s-pore-offers-up-to-2-88-p-a-with-at-least-s-10-000-fre.jpg"
     },
     {
       "id": "safra-members-enjoy-1-for-1-universal-studios-singapore-tick",
@@ -348,7 +783,7 @@
       },
       "desc": "Your next USS outing just got cheaper with this SAFRA-exclusive deal.",
       "expiry": "Check link for dates",
-      "heat": 110,
+      "heat": 90,
       "url": "https://www.greatdeals.com.sg/2026/10/30/safra-1-for-1-uss-tickets-promo-till-december-2026",
       "source": {
         "name": "Great Deals Singapore",
@@ -360,42 +795,6 @@
       "starts_at": "",
       "first_seen": "2026-10-31",
       "image": "images/deals/safra-members-enjoy-1-for-1-universal-studios-singapore-tick.jpg"
-    },
-    {
-      "id": "giant-s-pore-ben-jerry-s-3-for-24-50-top-nanox-1-for-1-till-",
-      "title": "Giant S’pore Ben & Jerry’s 3 for $24.50 & Top Nanox 1-for-1 Till 4 Nov 2026",
-      "store": "Giant",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Scoop up big savings on Ben & Jerry's ice cream, plus grocery bargains and buy 1 get 1 free deals.",
-      "expiry": "Ends 4 Nov",
-      "heat": 90,
-      "url": "https://singpromos.com/dining-restaurants-food/giant-spore-ben-jerrys-3-for-24-50-top-nanox-1-for-1-till-4-nov-2026-308743/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/giant-spore-ben-jerrys-3-for-24-50-top-nanox-1-for-1-till-4-nov-2026-308743/"
-      },
-      "expires_at": "2026-11-04",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-31",
-      "image": "images/deals/giant-s-pore-ben-jerry-s-3-for-24-50-top-nanox-1-for-1-till-.jpg"
     },
     {
       "id": "best-denki-the-grand-electrical-fair-26-27-top-electronics-d",
@@ -434,43 +833,6 @@
       "first_seen": "2026-10-31"
     },
     {
-      "id": "fairprice-ice-cream-deals-with-50-off-bulla-more-till-4-nov-",
-      "title": "FairPrice Ice Cream Deals With 50% Off Bulla & More Till 4 Nov 2026",
-      "store": "FairPrice",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "FAIRPRICE"
-        },
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy 50% off Bulla ice cream, plus sweet savings on Häagen-Dazs, Ben & Jerry's and frozen snacks.",
-      "expiry": "Ends 4 Nov",
-      "heat": 125,
-      "url": "https://singpromos.com/dining-restaurants-food/fairprice-ice-cream-deals-with-50-off-bulla-more-till-4-nov-2026-308714/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/fairprice-ice-cream-deals-with-50-off-bulla-more-till-4-nov-2026-308714/"
-      },
-      "brand": "FairPrice",
-      "expires_at": "2026-11-04",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-30",
-      "image": "images/deals/fairprice-ice-cream-deals-with-50-off-bulla-more-till-4-nov-.jpg"
-    },
-    {
       "id": "burger-king-singapore-app-deals-2-for-s-6-61-off-guide-2026-",
       "title": "Burger King Singapore — App Deals, 2-for-S$6 & 61% Off Guide (2026) - www.misslobang.com",
       "store": "Burger King",
@@ -505,42 +867,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-26"
-    },
-    {
-      "id": "gain-city-s-go-green-campaign-offers-up-to-1k-off-on-applian",
-      "title": "Gain City’s Go Green campaign offers up to $1k off on appliances with trade-ins, free weekend repairs - The Straits Time",
-      "store": "Gain City",
-      "categories": [
-        "home"
-      ],
-      "icon": "🏠",
-      "badges": [
-        {
-          "type": "new",
-          "label": "GAIN CITY"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Gain City’s Go Green campaign offers up to $1k off on appliances with trade-ins, free weekend repairs The Straits Times",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWJUYlNxeWI3SmRabHZ4Nk54R21GTER6LW8zZU80SlZfcXd1V2d1SXFJWVpmV200QThibTZxUThqRVRpRklWVDdlczBUNUdLQktWQlRsSVZRbEstSkJQNDF3aWM4ZEVhLUFLMExJOS0yUjhTZmdGUjVMdC1CTjdtMEE3Zkp3LS1oTVdIR0QxbU8tQmNGS2lPRXhPNEY4V3RzdFVzNUtIWVg4ZnBsejdjU2dONGhpLURXekFiTFRjckg3amhpQTFOdXV1TXU?oc=5",
-      "source": {
-        "name": "The Straits Times",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWJUYlNxeWI3SmRabHZ4Nk54R21GTER6LW8zZU80SlZfcXd1V2d1SXFJWVpmV200QThibTZxUThqRVRpRklWVDdlczBUNUdLQktWQlRsSVZRbEstSkJQNDF3aWM4ZEVhLUFLMExJOS0yUjhTZmdGUjVMdC1CTjdtMEE3Zkp3LS1oTVdIR0QxbU8tQmNGS2lPRXhPNEY4V3RzdFVzNUtIWVg4ZnBsejdjU2dONGhpLURXekFiTFRjckg3amhpQTFOdXV1TXU?oc=5"
-      },
-      "brand": "Gain City",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-23"
     },
     {
       "id": "watsons-gnc-clearance-sale-2-for-50-off-3-for-60-off-online-",
@@ -786,7 +1112,7 @@
       },
       "desc": "Up to 70% off selected items at Don Don Donki till 19 Jul SETHLUI.com",
       "expiry": "Ends 19 Jul",
-      "heat": 100,
+      "heat": 90,
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5",
       "source": {
         "name": "SETHLUI.com",
@@ -871,9 +1197,9 @@
       "first_seen": "2026-07-06"
     },
     {
-      "id": "subway-singapore-giving-free-cookie-with-every-sub-purchase-",
-      "title": "Subway Singapore Giving FREE Cookie With Every Sub Purchase This Ramadan Till March 21 - Great Deals Singapore",
-      "store": "Subway",
+      "id": "mcdonald-s-singapore-launching-new-spicy-chicken-tenders-wit",
+      "title": "McDonald’s Singapore Launching New Spicy Chicken Tenders with FREE Sampling on Feb 12 & 13 - Great Deals Singapore",
+      "store": "Cotton On",
       "categories": [
         "food"
       ],
@@ -881,7 +1207,7 @@
       "badges": [
         {
           "type": "new",
-          "label": "SUBWAY"
+          "label": "MCDONALD'S"
         },
         {
           "type": "free",
@@ -892,15 +1218,15 @@
         "type": "easy",
         "label": "See source for how to redeem"
       },
-      "desc": "Subway Singapore Giving FREE Cookie With Every Sub Purchase This Ramadan Till March 21 Great Deals Singapore",
+      "desc": "McDonald’s Singapore Launching New Spicy Chicken Tenders with FREE Sampling on Feb 12 & 13 Great Deals Singapore",
       "expiry": "Check link for dates",
       "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2lVZHk5MWJsaTlBX01LbzZwSDZZTTRZTUR4MlhmR05QcTJFZUFOYkpWSm1YaUNjMHNJZUM0aTZzS1dReXJzZElQUWpUYURhSlQzU2RBb1N5WFpCRFYyclBvVEh2WWRDY3A5UXRzeDkyTm03N1BvQklWSFhtNDFEc1hhQ0t3ZVU0bndTRg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzN1bXpqWjhWWDJzdng2cnNiRGRvSl9TTkd5Y2xiQVNTTGdDWGZzeGdpcWlBVmp5VXJHdlo3X1JoVDVZVm0zdTM3SFFNcDBObFVnY3ZfYV95TXlQQjk1dkk4Y25CbzM5bWpRTTBaaGQta1F0ejN4QlhWMDhDU2o0VjlCRjQxWUlPQXlpN1VhRUZQcmNXUWU3YmhVNA?oc=5",
       "source": {
         "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2lVZHk5MWJsaTlBX01LbzZwSDZZTTRZTUR4MlhmR05QcTJFZUFOYkpWSm1YaUNjMHNJZUM0aTZzS1dReXJzZElQUWpUYURhSlQzU2RBb1N5WFpCRFYyclBvVEh2WWRDY3A5UXRzeDkyTm03N1BvQklWSFhtNDFEc1hhQ0t3ZVU0bndTRg?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzN1bXpqWjhWWDJzdng2cnNiRGRvSl9TTkd5Y2xiQVNTTGdDWGZzeGdpcWlBVmp5VXJHdlo3X1JoVDVZVm0zdTM3SFFNcDBObFVnY3ZfYV95TXlQQjk1dkk4Y25CbzM5bWpRTTBaaGQta1F0ejN4QlhWMDhDU2o0VjlCRjQxWUlPQXlpN1VhRUZQcmNXUWU3YmhVNA?oc=5"
       },
-      "brand": "Subway",
+      "brand": "Cotton On",
       "expires_at": "",
       "upcoming": false,
       "starts_at": "",
@@ -936,8 +1262,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1003,8 +1328,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
