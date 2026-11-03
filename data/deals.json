@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "categories": [
     {
       "id": "all",
@@ -227,39 +227,6 @@
       "starts_at": "",
       "first_seen": "2026-11-02",
       "image": "images/deals/nike-sg-11-11-sale-up-to-50-off-plus-extra-20-off-with-gameo.jpg"
-    },
-    {
-      "id": "kfc-s-pore-6-50-2pc-chicken-meal-monday-app-deal-on-2-nov-20",
-      "title": "KFC S’pore $6.50 2pc Chicken Meal Monday App Deal on 2 Nov 2026",
-      "store": "KFC",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "KFC"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Enjoy two pieces of fried chicken, classic sides and a refreshing drink at a wallet-friendly price.",
-      "expiry": "Ends 2 Nov",
-      "heat": 145,
-      "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-2pc-chicken-meal-monday-app-deal-on-2-nov-2026-308848/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-2pc-chicken-meal-monday-app-deal-on-2-nov-2026-308848/"
-      },
-      "brand": "KFC",
-      "expires_at": "2026-11-02",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-02",
-      "image": "images/deals/kfc-s-pore-6-50-2pc-chicken-meal-monday-app-deal-on-2-nov-20.jpg"
     },
     {
       "id": "coffee-bean-sg-turkey-chicken-cranberry-mayo-wrap-weekday-br",
