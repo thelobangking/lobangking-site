@@ -114,11 +114,9 @@
   ],
   "brands_today": [
     "4Fingers",
-    "Adidas",
     "BEST Denki",
     "Best Denki",
     "BreadTalk",
-    "Burger King",
     "Chagee",
     "Challenger",
     "Coach",
@@ -135,6 +133,7 @@
     "KFC",
     "Kei Kaisendon",
     "Kenny Rogers Roasters",
+    "Klook",
     "McDonald's",
     "Michael Kors",
     "Moley Apparels",
@@ -155,6 +154,7 @@
     "TANGS",
     "Takagi Ramen",
     "Toys“R”Us",
+    "Uniqlo",
     "Universal Studios Singapore",
     "Watsons",
     "Welcia",
@@ -162,6 +162,348 @@
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "klook-s-pore-11-11-flash-deals-50-off-hotels-tours-transport",
+      "title": "Klook S’pore 11.11 Flash Deals – 50% OFF Hotels, Tours & Transport + Up to S$155 OFF",
+      "store": "Klook",
+      "categories": [
+        "transport"
+      ],
+      "icon": "🚗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "KLOOK"
+        },
+        {
+          "type": "discount",
+          "label": "50% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — see source link to claim"
+      },
+      "desc": "Score 50% off travel bookings, sitewide vouchers and extra savings on the next getaway!",
+      "expiry": "Check link for dates",
+      "heat": 155,
+      "url": "https://singpromos.com/vacations/klook-spore-11-11-flash-deals-50-off-hotels-tours-transport-up-to-s155-off-308994/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/vacations/klook-spore-11-11-flash-deals-50-off-hotels-tours-transport-up-to-s155-off-308994/"
+      },
+      "brand": "Klook",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-04",
+      "spotlight": true,
+      "image": "images/deals/klook-s-pore-11-11-flash-deals-50-off-hotels-tours-transport.jpg"
+    },
+    {
+      "id": "expressvpn-black-friday-x-cyber-monday-sale-up-to-83-off-vpn",
+      "title": "ExpressVPN Black Friday x Cyber Monday Sale Up to 83% Off VPN Plans",
+      "store": "ExpressVPN Black Friday x",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "💻",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "83% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "ExpressVPN's Black Friday deals feature three phases, 28-month plans and savings of up to 83%.",
+      "expiry": "Check link for dates",
+      "heat": 130,
+      "url": "https://singpromos.com/computers-pc/expressvpn-black-friday-x-cyber-monday-sale-up-to-83-off-vpn-plans-309020/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/computers-pc/expressvpn-black-friday-x-cyber-monday-sale-up-to-83-off-vpn-plans-309020/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-04",
+      "image": "images/deals/expressvpn-black-friday-x-cyber-monday-sale-up-to-83-off-vpn.jpg"
+    },
+    {
+      "id": "deepavali-travel-alert-heavy-traffic-expected-at-woodlands-a",
+      "title": "Deepavali Travel Alert Heavy Traffic Expected at Woodlands and Tuas from 6-9 Nov 2026",
+      "store": "Deepavali Travel Alert Heavy",
+      "categories": [
+        "transport"
+      ],
+      "icon": "🚗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Heavy traffic is expected at both land checkpoints",
+      "expiry": "Ends 9 Nov",
+      "heat": 115,
+      "url": "https://singpromos.com/motor-vehicles/deepavali-travel-alert-heavy-traffic-expected-at-woodlands-and-tuas-from-6-9-nov-2026-309009/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/motor-vehicles/deepavali-travel-alert-heavy-traffic-expected-at-woodlands-and-tuas-from-6-9-nov-2026-309009/"
+      },
+      "expires_at": "2026-11-09",
+      "upcoming": true,
+      "starts_at": "2026-11-06",
+      "first_seen": "2026-11-04",
+      "image": "images/deals/deepavali-travel-alert-heavy-traffic-expected-at-woodlands-a.jpg"
+    },
+    {
+      "id": "cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-35-p-a-",
+      "title": "CIMB Singapore SGD fixed deposit rates offer up to 2.35% p.a. from 4 Nov 2026",
+      "store": "CIMB",
+      "categories": [
+        "finance"
+      ],
+      "icon": "💳",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — see source link to claim"
+      },
+      "desc": "Secure up to 2.35% p.a. with higher online fixed deposit rates and extra returns for Preferred Banking",
+      "expiry": "Ongoing",
+      "heat": 105,
+      "url": "https://singpromos.com/banks-credit-cards/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-35-p-a-from-4-nov-2026-309031/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/banks-credit-cards/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-35-p-a-from-4-nov-2026-309031/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "image": "images/deals/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-35-p-a-.jpg"
+    },
+    {
+      "id": "rhb-bank-s-pore-fixed-deposit-promo-rates-up-to-2-4-p-a-from",
+      "title": "RHB Bank S’pore Fixed Deposit Promo Rates Up To 2.4% p.a. from 4 Nov 2026",
+      "store": "RHB Bank",
+      "categories": [
+        "finance"
+      ],
+      "icon": "💳",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "All six SGD fixed deposit rates have risen, with Premier Banking offering up to 2.40% p.a.",
+      "expiry": "Ongoing",
+      "heat": 100,
+      "url": "https://singpromos.com/banks-credit-cards/rhb-bank-spore-fixed-deposit-promo-rates-up-to-2-4-p-a-from-4-nov-2026-309027/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/banks-credit-cards/rhb-bank-spore-fixed-deposit-promo-rates-up-to-2-4-p-a-from-4-nov-2026-309027/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-11-04",
+      "first_seen": "2026-11-04",
+      "image": "images/deals/rhb-bank-s-pore-fixed-deposit-promo-rates-up-to-2-4-p-a-from.jpg"
+    },
+    {
+      "id": "updated-4-nov-2026-best-singapore-fixed-deposit-rates-and-sa",
+      "title": "(Updated 4 Nov 2026) Best Singapore Fixed Deposit Rates and Savings Accounts",
+      "store": "(Updated 4 Nov 2026) Best",
+      "categories": [
+        "finance"
+      ],
+      "icon": "💳",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Secure your finances with low-risk bank savings and deposit options.",
+      "expiry": "Ends 4 Nov",
+      "heat": 90,
+      "url": "https://singpromos.com/banks-credit-cards/best-singapore-deposit-rates-fixed-deposit-time-deposit-incremental-balance-more-188806/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/banks-credit-cards/best-singapore-deposit-rates-fixed-deposit-time-deposit-incremental-balance-more-188806/"
+      },
+      "expires_at": "2026-11-04",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-04",
+      "image": "images/deals/updated-4-nov-2026-best-singapore-fixed-deposit-rates-and-sa.jpg"
+    },
+    {
+      "id": "muji-jewel-changi-airport-has-an-ongoing-clearance-sale-of-u",
+      "title": "MUJI Jewel Changi Airport Has An Ongoing Clearance Sale of Up To 70% Off Homeware & Clothing - Uchify",
+      "store": "Muji",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "MUJI"
+        },
+        {
+          "type": "discount",
+          "label": "70% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "MUJI Jewel Changi Airport Has An Ongoing Clearance Sale of Up To 70% Off Homeware & Clothing Uchify",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HLURCYlZFbGdZcTk3X2xyUVkyem9IeDVvMXJCU2lxTzRUSExWWW9wS3JOUVFuazN5VkRJYmdNMHdaR0cybnJnX2dnaU5icXgtZWd0SV9Bdzk?oc=5",
+      "source": {
+        "name": "Uchify",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HLURCYlZFbGdZcTk3X2xyUVkyem9IeDVvMXJCU2lxTzRUSExWWW9wS3JOUVFuazN5VkRJYmdNMHdaR0cybnJnX2dnaU5icXgtZWd0SV9Bdzk?oc=5"
+      },
+      "brand": "Muji",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-04"
+    },
+    {
+      "id": "uniqlo-singapore-giving-away-free-lunch-bags-during-thank-yo",
+      "title": "UNIQLO Singapore Giving Away FREE Lunch Bags During Thank You Festival From May 22 to 28 - Great Deals Singapore",
+      "store": "Uniqlo",
+      "categories": [
+        "entertainment"
+      ],
+      "icon": "🎮",
+      "badges": [
+        {
+          "type": "new",
+          "label": "UNIQLO"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "UNIQLO Singapore Giving Away FREE Lunch Bags During Thank You Festival From May 22 to 28 Great Deals Singapore",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkpXWDN1NEVRbjFVZk9ya2Z3QzdYVS11MWlPanhDV0xKcGVWbG5BTU9aNktyaktxVFEyR010QXdQTTcybDlJZXh3YTZvVWNVc0pLWjR5WHpoVUE3Q0pOYzYtbzExSnlERVdPV3dFc09IWUZweE5YelJTeGRvVVJDVVJjZzgzbXd1NHJuNi1vNkRfMXYtaWs3cjd6NDhHQWpq?oc=5",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkpXWDN1NEVRbjFVZk9ya2Z3QzdYVS11MWlPanhDV0xKcGVWbG5BTU9aNktyaktxVFEyR010QXdQTTcybDlJZXh3YTZvVWNVc0pLWjR5WHpoVUE3Q0pOYzYtbzExSnlERVdPV3dFc09IWUZweE5YelJTeGRvVVJDVVJjZzgzbXd1NHJuNi1vNkRfMXYtaWs3cjd6NDhHQWpq?oc=5"
+      },
+      "brand": "Uniqlo",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-04"
+    },
+    {
+      "id": "cotton-on-isn-t-leaving-sg-anytime-soon-you-can-swing-by-thi",
+      "title": "Cotton On Isn’t Leaving SG Anytime Soon & You Can Swing By This Weekend For Free Matcha To Celebrate - TheSmartLocal",
+      "store": "Cotton On",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "COTTON ON"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Cotton On Isn’t Leaving SG Anytime Soon & You Can Swing By This Weekend For Free Matcha To Celebrate TheSmartLocal",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YWEsyejk0dlJiTF9jNjJkX3o4RThhXy1zSWlBLXUtc3UyU0ZCMGlBNTRMSEd1QWw4aFZ0YUI2NTRjeXlQbENkZGprZUtOTmJKSFVyOWJuSGxudm9uc1N1ZmxWbndPaTExLTI3WU5IVUzSAXZBVV95cUxOblM4S3NweGJMVnBTNktLSl8tanpYWFlMc3RhNHVBU2k2clBFUmFoNk5hbmZhZC14NmlwNEtJTFdOODdxSl8xSDJ0MVJoMmlKcFMtVTNlY1N5T0ROQ3d4cG5oZ296U0lWNmtBaW96QWdlVGZZc2xB?oc=5",
+      "source": {
+        "name": "TheSmartLocal",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YWEsyejk0dlJiTF9jNjJkX3o4RThhXy1zSWlBLXUtc3UyU0ZCMGlBNTRMSEd1QWw4aFZ0YUI2NTRjeXlQbENkZGprZUtOTmJKSFVyOWJuSGxudm9uc1N1ZmxWbndPaTExLTI3WU5IVUzSAXZBVV95cUxOblM4S3NweGJMVnBTNktLSl8tanpYWFlMc3RhNHVBU2k2clBFUmFoNk5hbmZhZC14NmlwNEtJTFdOODdxSl8xSDJ0MVJoMmlKcFMtVTNlY1N5T0ROQ3d4cG5oZ296U0lWNmtBaW96QWdlVGZZc2xB?oc=5"
+      },
+      "brand": "Cotton On",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-04"
+    },
+    {
+      "id": "best-denki-returns-to-tampines-tampines-1-grand-opening-sale",
+      "title": "BEST Denki Returns to Tampines: Tampines 1 Grand Opening Sale, Up to 88% Off, Over $30,000 in Prizes, 6-9 Nov 2026 - htt",
+      "store": "Best Denki",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "💻",
+      "badges": [
+        {
+          "type": "new",
+          "label": "BEST DENKI"
+        },
+        {
+          "type": "discount",
+          "label": "88% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "BEST Denki Returns to Tampines: Tampines 1 Grand Opening Sale, Up to 88% Off, Over $30,000 in Prizes, 6-9 Nov 2026 https://www.misslobang.com/",
+      "expiry": "Ends 9 Nov",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVjBTZUg4VXgzVHp2Mjd0eEVfMDJDZGdMd200TmRqVmUxcmdsRk5PN2xxOHdnUUp4MU5ReUIzRXB6dzlGdHRtUlo0Z0tWUF84SjFhRDg4ZXFTX282aU04YkVMdmxrdklhRDNhSzlJSmtBdlY2eU1OZnZRMl9UeVBVZlVGUDdvMFloVHp3ZA?oc=5",
+      "source": {
+        "name": "https://www.misslobang.com/",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVjBTZUg4VXgzVHp2Mjd0eEVfMDJDZGdMd200TmRqVmUxcmdsRk5PN2xxOHdnUUp4MU5ReUIzRXB6dzlGdHRtUlo0Z0tWUF84SjFhRDg4ZXFTX282aU04YkVMdmxrdklhRDNhSzlJSmtBdlY2eU1OZnZRMl9UeVBVZlVGUDdvMFloVHp3ZA?oc=5"
+      },
+      "brand": "Best Denki",
+      "expires_at": "2026-11-09",
+      "upcoming": true,
+      "starts_at": "2026-11-06",
+      "first_seen": "2026-11-04"
+    },
     {
       "id": "michael-kors-sale",
       "title": "Up to 55% off designer handbags, shoes & watches",
@@ -192,8 +534,7 @@
       "heat": 375,
       "first_seen": "2026-11-03",
       "starts_at": "",
-      "upcoming": false,
-      "spotlight": true
+      "upcoming": false
     },
     {
       "id": "coach-bags-sale",
@@ -508,7 +849,7 @@
       },
       "desc": "Adorable Pompompurin collectibles plus a free gift with $25 nett delivery spend",
       "expiry": "Ends 10 Nov",
-      "heat": 150,
+      "heat": 115,
       "url": "https://singpromos.com/household/starbucks-spore-x-pompompurin-collection-launches-10-nov-2026-with-items-from-10-90-308922/",
       "source": {
         "name": "SINGPromos",
@@ -541,7 +882,7 @@
       },
       "desc": "Score big savings on footwear, clothing and accessories, with prices starting from just $15",
       "expiry": "Check link for dates",
-      "heat": 135,
+      "heat": 100,
       "url": "https://singpromos.com/warehouse-sales/skechers-spore-warehouse-sale-returns-with-up-to-90-off-shoes-apparel-accessories-308980/",
       "source": {
         "name": "SINGPromos",
@@ -573,7 +914,7 @@
       },
       "desc": "Score $11.11 Singapore domains, discounted web hosting and extra savings on bundled services.",
       "expiry": "Ends 13 Nov",
-      "heat": 130,
+      "heat": 95,
       "url": "https://singpromos.com/web-hosting/vodien-spore-11-11-sale-until-13-nov-2026-has-11-11-domains-up-to-25-off-308971/",
       "source": {
         "name": "SINGPromos",
@@ -609,7 +950,7 @@
       },
       "desc": "Get savings on Parallels Desktop subscriptions with promo codes for selected editions",
       "expiry": "Ends 23 Nov",
-      "heat": 125,
+      "heat": 90,
       "url": "https://singpromos.com/computers-pc/parallels-desktop-up-to-50-off-1-year-subscriptions-till-23-nov-2026-308966/",
       "source": {
         "name": "SINGPromos",
@@ -620,144 +961,6 @@
       "starts_at": "",
       "first_seen": "2026-11-03",
       "image": "images/deals/parallels-desktop-up-to-50-off-1-year-subscriptions-till-23-.jpg"
-    },
-    {
-      "id": "trust-bank-up-to-2-2-p-a-level-up-promo-fresh-funds-deadline",
-      "title": "Trust Bank Up to 2.2% p.a. Level Up Promo – Fresh Funds Deadline 30 Nov",
-      "store": "Trust Bank Up to",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "A Savings Pot and qualifying fresh funds can unlock up to 2.2% p.a. on incremental balances.",
-      "expiry": "Ends 30 Nov",
-      "heat": 100,
-      "url": "https://singpromos.com/banks-credit-cards/trust-bank-up-to-2-2-p-a-level-up-promo-fresh-funds-deadline-30-nov-308957/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/trust-bank-up-to-2-2-p-a-level-up-promo-fresh-funds-deadline-30-nov-308957/"
-      },
-      "expires_at": "2026-11-30",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-03",
-      "image": "images/deals/trust-bank-up-to-2-2-p-a-level-up-promo-fresh-funds-deadline.jpg"
-    },
-    {
-      "id": "singapore-savings-bonds-up-to-2-39-p-a-10-year-average-retur",
-      "title": "Singapore Savings Bonds Up to 2.39% p.a. 10-Year Average Return From Just S$500",
-      "store": "Singapore Savings Bonds Up",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Government-backed savings with step-up interest, semi-annual payouts and flexible redemption.",
-      "expiry": "Check link for dates",
-      "heat": 95,
-      "url": "https://singpromos.com/banks-credit-cards/singapore-savings-bonds-up-to-2-39-p-a-10-year-average-return-from-just-s500-308946/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/singapore-savings-bonds-up-to-2-39-p-a-10-year-average-return-from-just-s500-308946/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-03",
-      "image": "images/deals/singapore-savings-bonds-up-to-2-39-p-a-10-year-average-retur.jpg"
-    },
-    {
-      "id": "adidas-s-pore-11-11-sale-offers-extra-30-off-selected-styles",
-      "title": "adidas S’pore 11.11 Sale Offers Extra 30% Off Selected Styles Until 11 Nov 2026",
-      "store": "Adidas",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "ADIDAS"
-        },
-        {
-          "type": "discount",
-          "label": "30% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "Explore thousands of sale styles, with extra checkout savings on selected footwear and clothing",
-      "expiry": "Ends 11 Nov",
-      "heat": 130,
-      "url": "https://singpromos.com/fashion-accessories/adidas-spore-11-11-sale-offers-extra-30-off-selected-styles-until-11-nov-2026-308879/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/fashion-accessories/adidas-spore-11-11-sale-offers-extra-30-off-selected-styles-until-11-nov-2026-308879/"
-      },
-      "brand": "Adidas",
-      "expires_at": "2026-11-11",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-02",
-      "image": "images/deals/adidas-s-pore-11-11-sale-offers-extra-30-off-selected-styles.jpg"
-    },
-    {
-      "id": "nike-sg-11-11-sale-up-to-50-off-plus-extra-20-off-with-gameo",
-      "title": "Nike SG 11.11 Sale Up To 50% Off Plus Extra 20% Off With GAMEON Till 11 Nov 2026",
-      "store": "Nike",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NIKE"
-        },
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Big savings on Nike sneakers, sportswear and more, with an extra 20% off eligible items.",
-      "expiry": "Ends 11 Nov",
-      "heat": 125,
-      "url": "https://singpromos.com/department-stores/nike-sg-11-11-sale-up-to-50-off-plus-extra-20-off-with-gameon-till-11-nov-2026-308873/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/department-stores/nike-sg-11-11-sale-up-to-50-off-plus-extra-20-off-with-gameon-till-11-nov-2026-308873/"
-      },
-      "brand": "Nike",
-      "expires_at": "2026-11-11",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-02",
-      "image": "images/deals/nike-sg-11-11-sale-up-to-50-off-plus-extra-20-off-with-gameo.jpg"
     },
     {
       "id": "safra-members-enjoy-1-for-1-universal-studios-singapore-tick",
@@ -831,42 +1034,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-31"
-    },
-    {
-      "id": "burger-king-singapore-app-deals-2-for-s-6-61-off-guide-2026-",
-      "title": "Burger King Singapore — App Deals, 2-for-S$6 & 61% Off Guide (2026) - www.misslobang.com",
-      "store": "Burger King",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "BURGER KING"
-        },
-        {
-          "type": "discount",
-          "label": "61% OFF"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Burger King Singapore — App Deals, 2-for-S$6 & 61% Off Guide (2026) www.misslobang.com",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlVRcHcyTnNHR3VvdGdCMXg2eGVMakI0aU1ldXlOdmU4NVpPUXBhb01uYzJ4WHkyRGpsaUxlMy0wN3JvZ2oxQWZ5Tk1ZdzNKSy1TYlM4eWluaU1MTnVjQXVXLWxhTmVHS21nbFJleHYzeVJDc2JOQXJ1WlotR213VURKOA?oc=5",
-      "source": {
-        "name": "www.misslobang.com",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlVRcHcyTnNHR3VvdGdCMXg2eGVMakI0aU1ldXlOdmU4NVpPUXBhb01uYzJ4WHkyRGpsaUxlMy0wN3JvZ2oxQWZ5Tk1ZdzNKSy1TYlM4eWluaU1MTnVjQXVXLWxhTmVHS21nbFJleHYzeVJDc2JOQXJ1WlotR213VURKOA?oc=5"
-      },
-      "brand": "Burger King",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-26"
     },
     {
       "id": "watsons-gnc-clearance-sale-2-for-50-off-3-for-60-off-online-",
@@ -1197,42 +1364,6 @@
       "first_seen": "2026-07-06"
     },
     {
-      "id": "mcdonald-s-singapore-launching-new-spicy-chicken-tenders-wit",
-      "title": "McDonald’s Singapore Launching New Spicy Chicken Tenders with FREE Sampling on Feb 12 & 13 - Great Deals Singapore",
-      "store": "Cotton On",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "McDonald’s Singapore Launching New Spicy Chicken Tenders with FREE Sampling on Feb 12 & 13 Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzN1bXpqWjhWWDJzdng2cnNiRGRvSl9TTkd5Y2xiQVNTTGdDWGZzeGdpcWlBVmp5VXJHdlo3X1JoVDVZVm0zdTM3SFFNcDBObFVnY3ZfYV95TXlQQjk1dkk4Y25CbzM5bWpRTTBaaGQta1F0ejN4QlhWMDhDU2o0VjlCRjQxWUlPQXlpN1VhRUZQcmNXUWU3YmhVNA?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzN1bXpqWjhWWDJzdng2cnNiRGRvSl9TTkd5Y2xiQVNTTGdDWGZzeGdpcWlBVmp5VXJHdlo3X1JoVDVZVm0zdTM3SFFNcDBObFVnY3ZfYV95TXlQQjk1dkk4Y25CbzM5bWpRTTBaaGQta1F0ejN4QlhWMDhDU2o0VjlCRjQxWUlPQXlpN1VhRUZQcmNXUWU3YmhVNA?oc=5"
-      },
-      "brand": "Cotton On",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-06"
-    },
-    {
       "id": "bestdenki-jackpot",
       "title": "Up to 20% off TVs + up to $700 off soundbars",
       "store": "BEST Denki · Storewide",
@@ -1262,8 +1393,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1329,8 +1459,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
