@@ -119,6 +119,7 @@
     "BreadTalk",
     "Chagee",
     "Challenger",
+    "Charles & Keith",
     "Coach",
     "Cotton On",
     "Courts",
@@ -149,7 +150,7 @@
     "Shihlin",
     "Singapore Zoo",
     "Sothys",
-    "Starbucks",
+    "Subway",
     "Swensen's",
     "TANGS",
     "Takagi Ramen",
@@ -162,6 +163,313 @@
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "subway-s-pore-buy-1-breakfast-wrap-coffee-set-get-1-free-wra",
+      "title": "Subway S’pore Buy 1 Breakfast Wrap & Coffee Set, Get 1 FREE Wrap on 13 & 14 Nov 2026",
+      "store": "Subway",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "SUBWAY"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Get a free second breakfast wrap with a wrap-and-coffee set, plus flatbread at no extra charge.",
+      "expiry": "Ends 14 Nov",
+      "heat": 170,
+      "url": "https://singpromos.com/dining-restaurants-food/subway-spore-buy-1-breakfast-wrap-coffee-set-get-1-free-wrap-on-13-14-nov-2026-309153/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/subway-spore-buy-1-breakfast-wrap-coffee-set-get-1-free-wrap-on-13-14-nov-2026-309153/"
+      },
+      "brand": "Subway",
+      "expires_at": "2026-11-14",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-05",
+      "spotlight": true,
+      "image": "images/deals/subway-s-pore-buy-1-breakfast-wrap-coffee-set-get-1-free-wra.jpg"
+    },
+    {
+      "id": "charles-keith-s-pore-11-11-sale-up-to-50-off-extra-10-off-fo",
+      "title": "CHARLES & KEITH S’pore 11.11 Sale Up to 50% Off + Extra 10% Off for Members",
+      "store": "Charles & Keith",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "CHARLES & KEITH"
+        },
+        {
+          "type": "discount",
+          "label": "50% OFF"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Stylish bags, shoes and accessories at up to 50% off, with extra savings for members",
+      "expiry": "Check link for dates",
+      "heat": 165,
+      "url": "https://singpromos.com/fashion-accessories/charles-keith-spore-11-11-sale-up-to-50-off-extra-10-off-for-members-309137/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/fashion-accessories/charles-keith-spore-11-11-sale-up-to-50-off-extra-10-off-for-members-309137/"
+      },
+      "brand": "Charles & Keith",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-05",
+      "image": "images/deals/charles-keith-s-pore-11-11-sale-up-to-50-off-extra-10-off-fo.jpg"
+    },
+    {
+      "id": "rrooll-11-11-sale-has-hazelnut-rocher-rolls-at-just-1-10-fro",
+      "title": "rrooll 11.11 Sale Has Hazelnut Rocher Rolls at Just $1.10 from 9-11 Nov 2026",
+      "store": "rrooll 11.11 Sale Has",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Chocolatey Hazelnut Rocher rolls for just $1.10 each",
+      "expiry": "Ends 11 Nov",
+      "heat": 115,
+      "url": "https://singpromos.com/dining-restaurants-food/rrooll-11-11-sale-has-hazelnut-rocher-rolls-at-just-1-10-from-9-11-nov-2026-309173/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/rrooll-11-11-sale-has-hazelnut-rocher-rolls-at-just-1-10-from-9-11-nov-2026-309173/"
+      },
+      "expires_at": "2026-11-11",
+      "upcoming": true,
+      "starts_at": "2026-11-09",
+      "first_seen": "2026-11-05",
+      "image": "images/deals/rrooll-11-11-sale-has-hazelnut-rocher-rolls-at-just-1-10-fro.jpg"
+    },
+    {
+      "id": "7-eleven-s-pore-1-deals-till-17-nov-feature-milo-lexus-mento",
+      "title": "7-Eleven S’pore $1 Deals Till 17 Nov Feature Milo, Lexus, Mentos & More",
+      "store": "7-Eleven",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Score $1 snacks and drinks, $1.20 beverages and buy 1 get 1 free Cadbury chocolates",
+      "expiry": "Ends 17 Nov",
+      "heat": 105,
+      "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-1-deals-till-17-nov-feature-milo-lexus-mentos-more-309071/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-1-deals-till-17-nov-feature-milo-lexus-mentos-more-309071/"
+      },
+      "expires_at": "2026-11-17",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-05",
+      "image": "images/deals/7-eleven-s-pore-1-deals-till-17-nov-feature-milo-lexus-mento.jpg"
+    },
+    {
+      "id": "qatar-airways-s-pore-11-11-sale-with-return-fares-from-s-779",
+      "title": "Qatar Airways S’pore 11.11 Sale with Return Fares from S$779 till 12 Nov 2026",
+      "store": "Qatar Airways",
+      "categories": [
+        "travel"
+      ],
+      "icon": "✈️",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Explore special return fares to Istanbul, Madrid, Amsterdam and more.",
+      "expiry": "Ends 12 Nov",
+      "heat": 100,
+      "url": "https://singpromos.com/airlines-flights/qatar-airways-spore-11-11-sale-with-return-fares-from-s779-till-12-nov-2026-309016/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/airlines-flights/qatar-airways-spore-11-11-sale-with-return-fares-from-s779-till-12-nov-2026-309016/"
+      },
+      "expires_at": "2026-11-12",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-05",
+      "image": "images/deals/qatar-airways-s-pore-11-11-sale-with-return-fares-from-s-779.jpg"
+    },
+    {
+      "id": "popeyes-s-pore-2pc-chicken-combo-meal-at-7-95-for-2-days-onl",
+      "title": "Popeyes S’pore 2PC Chicken Combo Meal at $7.95 for 2 Days Only, Save $3.15",
+      "store": "Popeyes",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Enjoy a crispy chicken combo at a special flash deal price with counter redemption.",
+      "expiry": "Check link for dates",
+      "heat": 95,
+      "url": "https://singpromos.com/dining-restaurants-food/popeyes-spore-2pc-chicken-combo-meal-at-7-95-for-2-days-only-save-3-15-309142/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/popeyes-spore-2pc-chicken-combo-meal-at-7-95-for-2-days-only-save-3-15-309142/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-05",
+      "image": "images/deals/popeyes-s-pore-2pc-chicken-combo-meal-at-7-95-for-2-days-onl.jpg"
+    },
+    {
+      "id": "7-eleven-s-pore-20-off-storewide-with-20-spend-at-selected-s",
+      "title": "7-Eleven S’pore 20% Off Storewide with $20 Spend at Selected Stores from 5-7 Nov",
+      "store": "7-Eleven",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "20% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Enjoy 20% off snacks, drinks and daily essentials with a minimum spend at selected heartland stores.",
+      "expiry": "Ends 7 Nov",
+      "heat": 95,
+      "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-20-off-storewide-with-20-spend-at-selected-stores-from-5-7-nov-309065/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-20-off-storewide-with-20-spend-at-selected-stores-from-5-7-nov-309065/"
+      },
+      "expires_at": "2026-11-07",
+      "upcoming": false,
+      "starts_at": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "image": "images/deals/7-eleven-s-pore-20-off-storewide-with-20-spend-at-selected-s.jpg"
+    },
+    {
+      "id": "hdb-nov-2026-bto-offers-7-964-flats-across-seven-projects-ap",
+      "title": "HDB Nov 2026 BTO Offers 7,964 Flats Across Seven Projects, Apply by 11 Nov",
+      "store": "HDB Nov 2026 BTO",
+      "categories": [
+        "online"
+      ],
+      "icon": "🛒",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "See BTO prices, grants, shorter waiting times and eligibility details before applications close.",
+      "expiry": "Ends 11 Nov",
+      "heat": 90,
+      "url": "https://singpromos.com/housing/hdb-nov-2026-bto-offers-7964-flats-across-seven-projects-apply-by-11-nov-309105/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/housing/hdb-nov-2026-bto-offers-7964-flats-across-seven-projects-apply-by-11-nov-309105/"
+      },
+      "expires_at": "2026-11-11",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-05",
+      "image": "images/deals/hdb-nov-2026-bto-offers-7-964-flats-across-seven-projects-ap.jpg"
+    },
+    {
+      "id": "7-eleven-sg-up-to-59-off-icy-treats-wall-s-butterbear-3-for-",
+      "title": "7-Eleven SG Up to 59% Off Icy Treats, Wall’s Butterbear 3 for $6 & Magnum 3 for $10",
+      "store": "7-Eleven",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "59% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Save $8.70 on three Wall's Butterbear Toy Cups, plus enjoy Magnum, Häagen-Dazs and more",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://singpromos.com/dining-restaurants-food/7-eleven-sg-up-to-59-off-icy-treats-walls-butterbear-3-for-6-magnum-3-for-10-309054/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/7-eleven-sg-up-to-59-off-icy-treats-walls-butterbear-3-for-6-magnum-3-for-10-309054/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-05",
+      "image": "images/deals/7-eleven-sg-up-to-59-off-icy-treats-wall-s-butterbear-3-for-.jpg"
+    },
     {
       "id": "klook-s-pore-11-11-flash-deals-50-off-hotels-tours-transport",
       "title": "Klook S’pore 11.11 Flash Deals – 50% OFF Hotels, Tours & Transport + Up to S$155 OFF",
@@ -186,7 +494,7 @@
       },
       "desc": "Score 50% off travel bookings, sitewide vouchers and extra savings on the next getaway!",
       "expiry": "Check link for dates",
-      "heat": 155,
+      "heat": 105,
       "url": "https://singpromos.com/vacations/klook-spore-11-11-flash-deals-50-off-hotels-tours-transport-up-to-s155-off-308994/",
       "source": {
         "name": "SINGPromos",
@@ -197,137 +505,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-04",
-      "image": "images/deals/klook-s-pore-11-11-flash-deals-50-off-hotels-tours-transport.jpg",
-      "status": "claimed",
-      "spotlight": true
-    },
-    {
-      "id": "expressvpn-black-friday-x-cyber-monday-sale-up-to-83-off-vpn",
-      "title": "ExpressVPN Black Friday x Cyber Monday Sale Up to 83% Off VPN Plans",
-      "store": "ExpressVPN Black Friday x",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "💻",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "83% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "ExpressVPN's Black Friday deals feature three phases, 28-month plans and savings of up to 83%.",
-      "expiry": "Check link for dates",
-      "heat": 130,
-      "url": "https://singpromos.com/computers-pc/expressvpn-black-friday-x-cyber-monday-sale-up-to-83-off-vpn-plans-309020/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/computers-pc/expressvpn-black-friday-x-cyber-monday-sale-up-to-83-off-vpn-plans-309020/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-04",
-      "image": "images/deals/expressvpn-black-friday-x-cyber-monday-sale-up-to-83-off-vpn.jpg"
-    },
-    {
-      "id": "deepavali-travel-alert-heavy-traffic-expected-at-woodlands-a",
-      "title": "Deepavali Travel Alert Heavy Traffic Expected at Woodlands and Tuas from 6-9 Nov 2026",
-      "store": "Deepavali Travel Alert Heavy",
-      "categories": [
-        "transport"
-      ],
-      "icon": "🚗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Heavy traffic is expected at both land checkpoints",
-      "expiry": "Ends 9 Nov",
-      "heat": 115,
-      "url": "https://singpromos.com/motor-vehicles/deepavali-travel-alert-heavy-traffic-expected-at-woodlands-and-tuas-from-6-9-nov-2026-309009/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/motor-vehicles/deepavali-travel-alert-heavy-traffic-expected-at-woodlands-and-tuas-from-6-9-nov-2026-309009/"
-      },
-      "expires_at": "2026-11-09",
-      "upcoming": true,
-      "starts_at": "2026-11-06",
-      "first_seen": "2026-11-04",
-      "image": "images/deals/deepavali-travel-alert-heavy-traffic-expected-at-woodlands-a.jpg"
-    },
-    {
-      "id": "cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-35-p-a-",
-      "title": "CIMB Singapore SGD fixed deposit rates offer up to 2.35% p.a. from 4 Nov 2026",
-      "store": "CIMB",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "Secure up to 2.35% p.a. with higher online fixed deposit rates and extra returns for Preferred Banking",
-      "expiry": "Ongoing",
-      "heat": 105,
-      "url": "https://singpromos.com/banks-credit-cards/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-35-p-a-from-4-nov-2026-309031/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-35-p-a-from-4-nov-2026-309031/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-11-04",
-      "first_seen": "2026-11-04",
-      "image": "images/deals/cimb-singapore-sgd-fixed-deposit-rates-offer-up-to-2-35-p-a-.jpg"
-    },
-    {
-      "id": "rhb-bank-s-pore-fixed-deposit-promo-rates-up-to-2-4-p-a-from",
-      "title": "RHB Bank S’pore Fixed Deposit Promo Rates Up To 2.4% p.a. from 4 Nov 2026",
-      "store": "RHB Bank",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "All six SGD fixed deposit rates have risen, with Premier Banking offering up to 2.40% p.a.",
-      "expiry": "Ongoing",
-      "heat": 100,
-      "url": "https://singpromos.com/banks-credit-cards/rhb-bank-spore-fixed-deposit-promo-rates-up-to-2-4-p-a-from-4-nov-2026-309027/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/rhb-bank-spore-fixed-deposit-promo-rates-up-to-2-4-p-a-from-4-nov-2026-309027/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-11-04",
-      "first_seen": "2026-11-04",
-      "image": "images/deals/rhb-bank-s-pore-fixed-deposit-promo-rates-up-to-2-4-p-a-from.jpg"
+      "image": "images/deals/klook-s-pore-11-11-flash-deals-50-off-hotels-tours-transport.jpg"
     },
     {
       "id": "muji-jewel-changi-airport-has-an-ongoing-clearance-sale-of-u",
@@ -795,145 +973,8 @@
       "upcoming": false
     },
     {
-      "id": "starbucks-s-pore-x-pompompurin-collection-launches-10-nov-20",
-      "title": "Starbucks S’pore x Pompompurin Collection Launches 10 Nov 2026 with Items from $10.90",
-      "store": "Starbucks",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "STARBUCKS"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Adorable Pompompurin collectibles plus a free gift with $25 nett delivery spend",
-      "expiry": "Ends 10 Nov",
-      "heat": 115,
-      "url": "https://singpromos.com/household/starbucks-spore-x-pompompurin-collection-launches-10-nov-2026-with-items-from-10-90-308922/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/household/starbucks-spore-x-pompompurin-collection-launches-10-nov-2026-with-items-from-10-90-308922/"
-      },
-      "brand": "Starbucks",
-      "expires_at": "2026-11-10",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-03",
-      "image": "images/deals/starbucks-s-pore-x-pompompurin-collection-launches-10-nov-20.jpg"
-    },
-    {
-      "id": "skechers-s-pore-warehouse-sale-returns-with-up-to-90-off-sho",
-      "title": "Skechers S’pore Warehouse Sale Returns with Up to 90% Off Shoes, Apparel & Accessories",
-      "store": "Skechers",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "90% OFF"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Score big savings on footwear, clothing and accessories, with prices starting from just $15",
-      "expiry": "Check link for dates",
-      "heat": 100,
-      "url": "https://singpromos.com/warehouse-sales/skechers-spore-warehouse-sale-returns-with-up-to-90-off-shoes-apparel-accessories-308980/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/warehouse-sales/skechers-spore-warehouse-sale-returns-with-up-to-90-off-shoes-apparel-accessories-308980/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-03",
-      "image": "images/deals/skechers-s-pore-warehouse-sale-returns-with-up-to-90-off-sho.jpg"
-    },
-    {
-      "id": "vodien-s-pore-11-11-sale-until-13-nov-2026-has-11-11-domains",
-      "title": "Vodien S’pore 11.11 Sale Until 13 Nov 2026 Has $11.11 Domains & Up to 25% Off",
-      "store": "Vodien",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "25% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Score $11.11 Singapore domains, discounted web hosting and extra savings on bundled services.",
-      "expiry": "Ends 13 Nov",
-      "heat": 95,
-      "url": "https://singpromos.com/web-hosting/vodien-spore-11-11-sale-until-13-nov-2026-has-11-11-domains-up-to-25-off-308971/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/web-hosting/vodien-spore-11-11-sale-until-13-nov-2026-has-11-11-domains-up-to-25-off-308971/"
-      },
-      "expires_at": "2026-11-13",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-03",
-      "image": "images/deals/vodien-s-pore-11-11-sale-until-13-nov-2026-has-11-11-domains.jpg"
-    },
-    {
-      "id": "parallels-desktop-up-to-50-off-1-year-subscriptions-till-23-",
-      "title": "Parallels Desktop Up to 50% Off 1-Year Subscriptions till 23 Nov 2026",
-      "store": "Parallels Desktop Up to",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "💻",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        },
-        {
-          "type": "code",
-          "label": "PROMO CODE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "Get savings on Parallels Desktop subscriptions with promo codes for selected editions",
-      "expiry": "Ends 23 Nov",
-      "heat": 90,
-      "url": "https://singpromos.com/computers-pc/parallels-desktop-up-to-50-off-1-year-subscriptions-till-23-nov-2026-308966/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/computers-pc/parallels-desktop-up-to-50-off-1-year-subscriptions-till-23-nov-2026-308966/"
-      },
-      "expires_at": "2026-11-23",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-03",
-      "image": "images/deals/parallels-desktop-up-to-50-off-1-year-subscriptions-till-23-.jpg"
-    },
-    {
       "id": "safra-members-enjoy-1-for-1-universal-studios-singapore-tick",
-      "title": "SAFRA Members Enjoy 1-FOR-1 Universal Studios Singapore Tickets and $59 Child Tickets Till Dec 31",
+      "title": "SAFRA Members Enjoy 1-FOR-1 Universal Studios Singapore Tickets and $59 Child Tickets Till Dec 31 - Great Deals Singapor",
       "store": "Universal Studios Singapore",
       "categories": [
         "entertainment"
@@ -953,20 +994,19 @@
         "type": "app",
         "label": "App or membership may be needed"
       },
-      "desc": "Your next USS outing just got cheaper with this SAFRA-exclusive deal.",
+      "desc": "SAFRA Members Enjoy 1-FOR-1 Universal Studios Singapore Tickets and $59 Child Tickets Till Dec 31 Great Deals Singapore",
       "expiry": "Check link for dates",
       "heat": 90,
-      "url": "https://www.greatdeals.com.sg/2026/10/30/safra-1-for-1-uss-tickets-promo-till-december-2026",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3VLcGZzNHZjbmtveWxOS2ppc2J0cGp5LVpDZEwzX085YWVZaW9sbFk4bVVpSlhNRC0wN3BiQnNxaV9IT3lFUFZsZ2pmeXZvZVFzcHVGd251Qk5sZHExdFctejUtdkFNZ04yYUV1dDJHNWFmOS1fNUFLa0ZtM09TNTVIM3poQ0dNWkFKWGVnZGlNVnBCZXc?oc=5",
       "source": {
         "name": "Great Deals Singapore",
-        "url": "https://www.greatdeals.com.sg/2026/10/30/safra-1-for-1-uss-tickets-promo-till-december-2026"
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3VLcGZzNHZjbmtveWxOS2ppc2J0cGp5LVpDZEwzX085YWVZaW9sbFk4bVVpSlhNRC0wN3BiQnNxaV9IT3lFUFZsZ2pmeXZvZVFzcHVGd251Qk5sZHExdFctejUtdkFNZ04yYUV1dDJHNWFmOS1fNUFLa0ZtM09TNTVIM3poQ0dNWkFKWGVnZGlNVnBCZXc?oc=5"
       },
       "brand": "Universal Studios Singapore",
       "expires_at": "",
       "upcoming": false,
       "starts_at": "",
-      "first_seen": "2026-10-31",
-      "image": "images/deals/safra-members-enjoy-1-for-1-universal-studios-singapore-tick.jpg"
+      "first_seen": "2026-10-31"
     },
     {
       "id": "best-denki-the-grand-electrical-fair-26-27-top-electronics-d",
@@ -1153,6 +1193,42 @@
       "first_seen": "2026-09-27"
     },
     {
+      "id": "mcdonald-s-singapore-launches-kids-eat-free-deal-with-free-h",
+      "title": "McDonald’s Singapore Launches Kids Eat Free Deal with FREE Happy Meal for March School Holidays - Great Deals Singapore",
+      "store": "McDonald's",
+      "categories": [
+        "travel"
+      ],
+      "icon": "✈️",
+      "badges": [
+        {
+          "type": "new",
+          "label": "MCDONALD'S"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "McDonald’s Singapore Launches Kids Eat Free Deal with FREE Happy Meal for March School Holidays Great Deals Singapore",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUVUxaVZPODVQZzRHdXpUakp4eXFPb1NGTklaTno4bVpNMFJDempwNDNfNUlWYU04LXpXLVQtd1hhdXZLT3BwVXBNTFl6ZmZnX21tbG80RTBUYVRGNnlOMjZPWXBxZ3lGa3NlUnJ3UDlXNDNvOGxmNHVSeEN6UW1fRm81dW90NjVUUEtoOWR3ZWFJVmwtdVVfZDEtWDRfUQ?oc=5",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUVUxaVZPODVQZzRHdXpUakp4eXFPb1NGTklaTno4bVpNMFJDempwNDNfNUlWYU04LXpXLVQtd1hhdXZLT3BwVXBNTFl6ZmZnX21tbG80RTBUYVRGNnlOMjZPWXBxZ3lGa3NlUnJ3UDlXNDNvOGxmNHVSeEN6UW1fRm81dW90NjVUUEtoOWR3ZWFJVmwtdVVfZDEtWDRfUQ?oc=5"
+      },
+      "brand": "McDonald's",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-07-17"
+    },
+    {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
       "title": "Decathlon Singapore hosting second-hand bike festival with refurbished bikes up to 80% off - CNA Lifestyle",
       "store": "Decathlon",
@@ -1326,8 +1402,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1393,8 +1468,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
