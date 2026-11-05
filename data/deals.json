@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "categories": [
     {
       "id": "all",
@@ -328,38 +328,6 @@
       "starts_at": "2026-11-04",
       "first_seen": "2026-11-04",
       "image": "images/deals/rhb-bank-s-pore-fixed-deposit-promo-rates-up-to-2-4-p-a-from.jpg"
-    },
-    {
-      "id": "updated-4-nov-2026-best-singapore-fixed-deposit-rates-and-sa",
-      "title": "(Updated 4 Nov 2026) Best Singapore Fixed Deposit Rates and Savings Accounts",
-      "store": "(Updated 4 Nov 2026) Best",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Secure your finances with low-risk bank savings and deposit options.",
-      "expiry": "Ends 4 Nov",
-      "heat": 90,
-      "url": "https://singpromos.com/banks-credit-cards/best-singapore-deposit-rates-fixed-deposit-time-deposit-incremental-balance-more-188806/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/best-singapore-deposit-rates-fixed-deposit-time-deposit-incremental-balance-more-188806/"
-      },
-      "expires_at": "2026-11-04",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-04",
-      "image": "images/deals/updated-4-nov-2026-best-singapore-fixed-deposit-rates-and-sa.jpg"
     },
     {
       "id": "muji-jewel-changi-airport-has-an-ongoing-clearance-sale-of-u",
@@ -1183,42 +1151,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-27"
-    },
-    {
-      "id": "starbucks-singapore-is-offering-1-for-1-on-all-venti-sized-d",
-      "title": "Starbucks Singapore Is Offering 1-FOR-1 On All Venti-Sized Drinks From September 21 to 24 - Great Deals Singapore",
-      "store": "Starbucks",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "STARBUCKS"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Starbucks Singapore Is Offering 1-FOR-1 On All Venti-Sized Drinks From September 21 to 24 Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPakxBRnFVT013MHF3ektVUEhaTWFWVVo1NWZtT0lET1g0RHp3VU8tRXNQQkk1TmdrcmNPT1JaREprNDBpVWVoSTl0NFI2M2tHTU5ONk1jSUhmN283Y3hfamVOLVBnOXE0ZF81Y0Nic1dWTi1QQXFpNWk3Mzk4OFZXQVRQV2Z0ZXZYN1pqMEpXZm1HOEhu?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPakxBRnFVT013MHF3ektVUEhaTWFWVVo1NWZtT0lET1g0RHp3VU8tRXNQQkk1TmdrcmNPT1JaREprNDBpVWVoSTl0NFI2M2tHTU5ONk1jSUhmN283Y3hfamVOLVBnOXE0ZF81Y0Nic1dWTi1QQXFpNWk3Mzk4OFZXQVRQV2Z0ZXZYN1pqMEpXZm1HOEhu?oc=5"
-      },
-      "brand": "Starbucks",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-20"
     },
     {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
