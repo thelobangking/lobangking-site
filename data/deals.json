@@ -117,10 +117,8 @@
     "BEST Denki",
     "Best Denki",
     "BreadTalk",
-    "Burger King",
     "Chagee",
     "Challenger",
-    "Charles & Keith",
     "Coach",
     "Cotton On",
     "Courts",
@@ -150,13 +148,16 @@
     "SUSHIRO",
     "Samsung",
     "Shihlin",
+    "Shopee",
     "Singapore Zoo",
     "Sothys",
+    "Starbucks",
     "Subway",
     "Swensen's",
     "TANGS",
     "Takagi Ramen",
     "Toys“R”Us",
+    "Trip.com",
     "Uniqlo",
     "Universal Studios Singapore",
     "Watsons",
@@ -165,6 +166,319 @@
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "trip-com-11-11-sale-11-14-nov-2026-s-69-flights-s-220-coupon",
+      "title": "Trip.com 11.11 Sale 11-14 Nov 2026 – S$69 Flights, S$220 Coupons and S$40 Hotels",
+      "store": "Trip.com",
+      "categories": [
+        "travel"
+      ],
+      "icon": "✈️",
+      "badges": [
+        {
+          "type": "new",
+          "label": "TRIP.COM"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        },
+        {
+          "type": "code",
+          "label": "PROMO CODE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Flight flash fares, DBS/POSB discounts, hotel deals and flight-plus-hotel bundles for two.",
+      "expiry": "Ends 14 Nov",
+      "heat": 160,
+      "url": "https://singpromos.com/vacations/trip-com-11-11-sale-11-14-nov-2026-s69-flights-s220-coupons-and-s40-hotels-309358/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/vacations/trip-com-11-11-sale-11-14-nov-2026-s69-flights-s220-coupons-and-s40-hotels-309358/"
+      },
+      "brand": "Trip.com",
+      "expires_at": "2026-11-14",
+      "upcoming": true,
+      "starts_at": "2026-11-11",
+      "first_seen": "2026-11-07",
+      "spotlight": true,
+      "image": "images/deals/trip-com-11-11-sale-11-14-nov-2026-s-69-flights-s-220-coupon.jpg"
+    },
+    {
+      "id": "starbucks-s-pore-11-11-shopee-1-for-1-venti-drinks-from-7-40",
+      "title": "Starbucks S’pore 11.11 Shopee 1-for-1 Venti Drinks From $7.40, Save 50%",
+      "store": "Starbucks",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "STARBUCKS"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Choose from 10 discounted drink deals, with 30 days to redeem vouchers at eligible outlets",
+      "expiry": "Check link for dates",
+      "heat": 155,
+      "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-11-11-shopee-1-for-1-venti-drinks-from-7-40-save-50-309331/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-11-11-shopee-1-for-1-venti-drinks-from-7-40-save-50-309331/"
+      },
+      "brand": "Starbucks",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-07",
+      "image": "images/deals/starbucks-s-pore-11-11-shopee-1-for-1-venti-drinks-from-7-40.jpg"
+    },
+    {
+      "id": "kfc-s-pore-11-11-shopee-deals-from-1-10-with-up-to-74-off",
+      "title": "KFC S’pore 11.11 Shopee Deals from $1.10 with Up to 74% Off",
+      "store": "KFC",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "KFC"
+        },
+        {
+          "type": "discount",
+          "label": "74% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Enjoy discounted chicken meals, Twisters, loaded fries and more. Vouchers valid till 30 Nov 2026.",
+      "expiry": "Ends 30 Nov",
+      "heat": 145,
+      "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-11-11-shopee-deals-from-1-10-with-up-to-74-off-309320/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-11-11-shopee-deals-from-1-10-with-up-to-74-off-309320/"
+      },
+      "brand": "KFC",
+      "expires_at": "2026-11-30",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-07",
+      "image": "images/deals/kfc-s-pore-11-11-shopee-deals-from-1-10-with-up-to-74-off.jpg"
+    },
+    {
+      "id": "pizza-hut-s-pore-11-11-shopee-sale-has-regular-pizzas-melts-",
+      "title": "Pizza Hut S’pore 11.11 Shopee Sale Has Regular Pizzas & Melts from $11, Chicken Fries at $8.65",
+      "store": "Shopee",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "SHOPEE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Save up to 63% on selected favourites, with takeaway vouchers redeemable at multiple locations",
+      "expiry": "Check link for dates",
+      "heat": 130,
+      "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-11-11-shopee-sale-has-regular-pizzas-melts-from-11-chicken-fries-at-8-65-309326/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-11-11-shopee-sale-has-regular-pizzas-melts-from-11-chicken-fries-at-8-65-309326/"
+      },
+      "brand": "Shopee",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-07",
+      "image": "images/deals/pizza-hut-s-pore-11-11-shopee-sale-has-regular-pizzas-melts-.jpg"
+    },
+    {
+      "id": "cfoot-out-stock-sale-at-junction-8-with-guaranteed-lowest-sh",
+      "title": "CFOOT Out Stock Sale at Junction 8 With Guaranteed Lowest Shoe Prices From 6 Nov 2026",
+      "store": "CFOOT Out Stock Sale",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Big savings on everyday footwear and comfortable shoes",
+      "expiry": "Ongoing",
+      "heat": 105,
+      "url": "https://singpromos.com/footwear/cfoot-out-stock-sale-at-junction-8-with-guaranteed-lowest-shoe-prices-from-6-nov-2026-309051/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/footwear/cfoot-out-stock-sale-at-junction-8-with-guaranteed-lowest-shoe-prices-from-6-nov-2026-309051/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-11-06",
+      "first_seen": "2026-11-07",
+      "image": "images/deals/cfoot-out-stock-sale-at-junction-8-with-guaranteed-lowest-sh.jpg"
+    },
+    {
+      "id": "famous-amos-s-pore-get-up-to-50-more-free-cookies-from-7-to-",
+      "title": "Famous Amos S’pore Get Up to 50% More FREE Cookies from 7 to 9 Nov 2026",
+      "store": "Famous Amos",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Enjoy up to 200g extra at no charge, with savings of up to $13",
+      "expiry": "Ends 9 Nov",
+      "heat": 100,
+      "url": "https://singpromos.com/dining-restaurants-food/famous-amos-spore-get-up-to-50-more-free-cookies-from-7-to-9-nov-2026-309304/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/famous-amos-spore-get-up-to-50-more-free-cookies-from-7-to-9-nov-2026-309304/"
+      },
+      "expires_at": "2026-11-09",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-07",
+      "image": "images/deals/famous-amos-s-pore-get-up-to-50-more-free-cookies-from-7-to-.jpg"
+    },
+    {
+      "id": "crocs-s-pore-11-11-sale-offers-up-to-60-off-best-deals-from-",
+      "title": "Crocs S’pore 11.11 Sale Offers Up to 60% Off, Best Deals from S$35.95",
+      "store": "Crocs",
+      "categories": [
+        "online"
+      ],
+      "icon": "🛒",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE"
+        },
+        {
+          "type": "discount",
+          "label": "60% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "S$1.11 charms, 10-for-S$10 deals and outlet bundles, with free shipping on orders above S$70.",
+      "expiry": "Check link for dates",
+      "heat": 95,
+      "url": "https://singpromos.com/footwear/crocs-spore-11-11-sale-offers-up-to-60-off-best-deals-from-s35-95-309292/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/footwear/crocs-spore-11-11-sale-offers-up-to-60-off-best-deals-from-s35-95-309292/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-07",
+      "image": "images/deals/crocs-s-pore-11-11-sale-offers-up-to-60-off-best-deals-from-.jpg"
+    },
+    {
+      "id": "cheapest-ever-circles-life-ai-superplan-now-just-5-month-fre",
+      "title": "[CHEAPEST EVER] Circles.Life AI Superplan: Now Just $5/month + FREE $10 Gift!",
+      "store": "[CHEAPEST EVER] Circles.Life AI",
+      "categories": [
+        "online"
+      ],
+      "icon": "🛒",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Access popular premium AI tools like ChatGPT, Claude, Gemini, Perplexity, DeepSeek, Qwen and more",
+      "expiry": "Check link for dates",
+      "heat": 135,
+      "url": "https://singpromos.com/telecoms/cheapest-ever-circles-life-ai-superplan-now-just-5-month-free-10-gift-309188/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/telecoms/cheapest-ever-circles-life-ai-superplan-now-just-5-month-free-10-gift-309188/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-06",
+      "image": "images/deals/cheapest-ever-circles-life-ai-superplan-now-just-5-month-fre.jpg"
+    },
+    {
+      "id": "equatorial-sleep-new-launch-sale-up-to-80-off-backed-by-ratt",
+      "title": "Equatorial Sleep New Launch Sale – Up to 80% OFF! Backed by Rattan Pacific’s 33 Years of Expertise",
+      "store": "Equatorial Sleep New Launch",
+      "categories": [
+        "home"
+      ],
+      "icon": "🏠",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "80% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "A wide range of mattresses to suit different sleeping needs and budgets",
+      "expiry": "Check link for dates",
+      "heat": 130,
+      "url": "https://singpromos.com/beds/equatorial-sleep-new-launch-sale-up-to-80-off-backed-by-rattan-pacifics-33-years-of-expertise-309203/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/beds/equatorial-sleep-new-launch-sale-up-to-80-off-backed-by-rattan-pacifics-33-years-of-expertise-309203/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-06",
+      "image": "images/deals/equatorial-sleep-new-launch-sale-up-to-80-off-backed-by-ratt.jpg"
+    },
     {
       "id": "fairprice-bulla-ice-cream-50-off-at-6-98-plus-snack-deals-ti",
       "title": "FairPrice Bulla Ice Cream 50% Off at $6.98, Plus Snack Deals Till 11 Nov 2026",
@@ -189,7 +503,7 @@
       },
       "desc": "Half-price Bulla ice cream, discounted biscuits, chips and more snack deals",
       "expiry": "Ends 11 Nov",
-      "heat": 155,
+      "heat": 105,
       "url": "https://singpromos.com/dining-restaurants-food/fairprice-bulla-ice-cream-50-off-at-6-98-plus-snack-deals-till-11-nov-2026-309213/",
       "source": {
         "name": "SINGPromos",
@@ -200,242 +514,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-06",
-      "image": "images/deals/fairprice-bulla-ice-cream-50-off-at-6-98-plus-snack-deals-ti.jpg",
-      "spotlight": true
-    },
-    {
-      "id": "jinjja-chicken-s-pore-1-for-1-6pc-drumettes-at-8-90-from-7-9",
-      "title": "JINJJA Chicken S’pore 1-for-1 6pc Drumettes at $8.90 from 7-9 Nov",
-      "store": "JINJJA Chicken",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy 12 drumettes for $8.90, with a choice of flavours for each set. Dine-in only!",
-      "expiry": "Ends 9 Nov",
-      "heat": 135,
-      "url": "https://singpromos.com/dining-restaurants-food/jinjja-chicken-spore-1-for-1-6pc-drumettes-at-8-90-from-7-9-nov-309185/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/jinjja-chicken-spore-1-for-1-6pc-drumettes-at-8-90-from-7-9-nov-309185/"
-      },
-      "expires_at": "2026-11-09",
-      "upcoming": true,
-      "starts_at": "2026-11-07",
-      "first_seen": "2026-11-06",
-      "image": "images/deals/jinjja-chicken-s-pore-1-for-1-6pc-drumettes-at-8-90-from-7-9.jpg"
-    },
-    {
-      "id": "shell-s-pore-go-members-get-23-off-fuel-with-all-bank-cards-",
-      "title": "Shell S’pore GO+ Members Get 23% Off Fuel with All Bank Cards from 6-8 Nov 2026",
-      "store": "Shell",
-      "categories": [
-        "transport"
-      ],
-      "icon": "🚗",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "23% OFF"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Enjoy 23% instant fuel savings with any bank card during this three-day Shell GO+ promotion.",
-      "expiry": "Ends 8 Nov",
-      "heat": 130,
-      "url": "https://singpromos.com/motor-vehicles/shell-spore-go-members-get-23-off-fuel-with-all-bank-cards-from-6-8-nov-2026-309258/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/motor-vehicles/shell-spore-go-members-get-23-off-fuel-with-all-bank-cards-from-6-8-nov-2026-309258/"
-      },
-      "expires_at": "2026-11-08",
-      "upcoming": false,
-      "starts_at": "2026-11-06",
-      "first_seen": "2026-11-06",
-      "image": "images/deals/shell-s-pore-go-members-get-23-off-fuel-with-all-bank-cards-.jpg"
-    },
-    {
-      "id": "burger-king-s-pore-7-95-quarter-chicken-leg-drink-deal-till-",
-      "title": "Burger King S’pore $7.95 Quarter Chicken Leg & Drink Deal Till 30 Nov 2026",
-      "store": "Burger King",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "BURGER KING"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "A crispy, spicy quarter chicken leg with a medium drink for just $7.95",
-      "expiry": "Ends 30 Nov",
-      "heat": 130,
-      "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-7-95-quarter-chicken-leg-drink-deal-till-30-nov-2026-309218/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-7-95-quarter-chicken-leg-drink-deal-till-30-nov-2026-309218/"
-      },
-      "brand": "Burger King",
-      "expires_at": "2026-11-30",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-06",
-      "image": "images/deals/burger-king-s-pore-7-95-quarter-chicken-leg-drink-deal-till-.jpg"
-    },
-    {
-      "id": "cheapest-ever-circles-life-ai-superplan-now-just-5-month-fre",
-      "title": "[CHEAPEST EVER] Circles.Life AI Superplan: Now Just $5/month + FREE $10 Gift!",
-      "store": "[CHEAPEST EVER] Circles.Life AI",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Access popular premium AI tools like ChatGPT, Claude, Gemini, Perplexity, DeepSeek, Qwen and more",
-      "expiry": "Check link for dates",
-      "heat": 125,
-      "url": "https://singpromos.com/telecoms/cheapest-ever-circles-life-ai-superplan-now-just-5-month-free-10-gift-309188/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/telecoms/cheapest-ever-circles-life-ai-superplan-now-just-5-month-free-10-gift-309188/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-06",
-      "image": "images/deals/cheapest-ever-circles-life-ai-superplan-now-just-5-month-fre.jpg"
-    },
-    {
-      "id": "puma-s-pore-11-11-sale-up-to-50-off-extra-15-off-on-selected",
-      "title": "PUMA S’pore 11.11 Sale Up to 50% Off + Extra 15% Off on Selected Items",
-      "store": "PUMA",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        },
-        {
-          "type": "code",
-          "label": "PROMO CODE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "Enjoy big savings on PUMA sneakers, sportswear and accessories with an extra discount code",
-      "expiry": "Check link for dates",
-      "heat": 120,
-      "url": "https://singpromos.com/fashion-accessories/puma-spore-11-11-sale-up-to-50-off-extra-15-off-on-selected-items-309249/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/fashion-accessories/puma-spore-11-11-sale-up-to-50-off-extra-15-off-on-selected-items-309249/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-06",
-      "image": "images/deals/puma-s-pore-11-11-sale-up-to-50-off-extra-15-off-on-selected.jpg"
-    },
-    {
-      "id": "charles-keith-s-pore-11-11-sale-up-to-50-off-till-12-nov-202",
-      "title": "CHARLES & KEITH S’pore 11.11 Sale Up to 50% Off Till 12 Nov 2026",
-      "store": "Charles & Keith",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "CHARLES & KEITH"
-        },
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "Shop selected bags, shoes and accessories at up to 50% off online and in selected stores.",
-      "expiry": "Ends 12 Nov",
-      "heat": 120,
-      "url": "https://singpromos.com/fashion-accessories/charles-keith-spore-11-11-sale-up-to-50-off-extra-10-off-for-members-309137/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/fashion-accessories/charles-keith-spore-11-11-sale-up-to-50-off-extra-10-off-for-members-309137/"
-      },
-      "brand": "Charles & Keith",
-      "expires_at": "2026-11-12",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-06",
-      "image": "images/deals/charles-keith-s-pore-11-11-sale-up-to-50-off-till-12-nov-202.jpg"
-    },
-    {
-      "id": "equatorial-sleep-new-launch-sale-up-to-80-off-backed-by-ratt",
-      "title": "Equatorial Sleep New Launch Sale – Up to 80% OFF! Backed by Rattan Pacific’s 33 Years of Expertise",
-      "store": "Equatorial Sleep New Launch",
-      "categories": [
-        "home"
-      ],
-      "icon": "🏠",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "80% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "A wide range of mattresses to suit different sleeping needs and budgets",
-      "expiry": "Check link for dates",
-      "heat": 95,
-      "url": "https://singpromos.com/beds/equatorial-sleep-new-launch-sale-up-to-80-off-backed-by-rattan-pacifics-33-years-of-expertise-309203/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/beds/equatorial-sleep-new-launch-sale-up-to-80-off-backed-by-rattan-pacifics-33-years-of-expertise-309203/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-06",
-      "image": "images/deals/equatorial-sleep-new-launch-sale-up-to-80-off-backed-by-ratt.jpg"
+      "image": "images/deals/fairprice-bulla-ice-cream-50-off-at-6-98-plus-snack-deals-ti.jpg"
     },
     {
       "id": "subway-singapore-brings-back-buy-1-get-1-free-breakfast-wrap",
@@ -513,47 +592,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-06"
-    },
-    {
-      "id": "subway-s-pore-buy-1-breakfast-wrap-coffee-set-get-1-free-wra",
-      "title": "Subway S’pore Buy 1 Breakfast Wrap & Coffee Set, Get 1 FREE Wrap on 13 & 14 Nov 2026",
-      "store": "Subway",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SUBWAY"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Get a free second breakfast wrap with a wrap-and-coffee set, plus flatbread at no extra charge.",
-      "expiry": "Ends 14 Nov",
-      "heat": 125,
-      "url": "https://singpromos.com/dining-restaurants-food/subway-spore-buy-1-breakfast-wrap-coffee-set-get-1-free-wrap-on-13-14-nov-2026-309153/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/subway-spore-buy-1-breakfast-wrap-coffee-set-get-1-free-wrap-on-13-14-nov-2026-309153/"
-      },
-      "brand": "Subway",
-      "expires_at": "2026-11-14",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-05",
-      "image": "images/deals/subway-s-pore-buy-1-breakfast-wrap-coffee-set-get-1-free-wra.jpg"
     },
     {
       "id": "muji-jewel-changi-airport-has-an-ongoing-clearance-sale-of-u",
@@ -1093,6 +1131,42 @@
       "first_seen": "2026-10-31"
     },
     {
+      "id": "gain-city-s-go-green-campaign-offers-up-to-1k-off-on-applian",
+      "title": "Gain City’s Go Green campaign offers up to $1k off on appliances with trade-ins, free weekend repairs - The Straits Time",
+      "store": "Gain City",
+      "categories": [
+        "home"
+      ],
+      "icon": "🏠",
+      "badges": [
+        {
+          "type": "new",
+          "label": "GAIN CITY"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Gain City’s Go Green campaign offers up to $1k off on appliances with trade-ins, free weekend repairs The Straits Times",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWJUYlNxeWI3SmRabHZ4Nk54R21GTER6LW8zZU80SlZfcXd1V2d1SXFJWVpmV200QThibTZxUThqRVRpRklWVDdlczBUNUdLQktWQlRsSVZRbEstSkJQNDF3aWM4ZEVhLUFLMExJOS0yUjhTZmdGUjVMdC1CTjdtMEE3Zkp3LS1oTVdIR0QxbU8tQmNGS2lPRXhPNEY4V3RzdFVzNUtIWVg4ZnBsejdjU2dONGhpLURXekFiTFRjckg3amhpQTFOdXV1TXU?oc=5",
+      "source": {
+        "name": "The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWJUYlNxeWI3SmRabHZ4Nk54R21GTER6LW8zZU80SlZfcXd1V2d1SXFJWVpmV200QThibTZxUThqRVRpRklWVDdlczBUNUdLQktWQlRsSVZRbEstSkJQNDF3aWM4ZEVhLUFLMExJOS0yUjhTZmdGUjVMdC1CTjdtMEE3Zkp3LS1oTVdIR0QxbU8tQmNGS2lPRXhPNEY4V3RzdFVzNUtIWVg4ZnBsejdjU2dONGhpLURXekFiTFRjckg3amhpQTFOdXV1TXU?oc=5"
+      },
+      "brand": "Gain City",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-23"
+    },
+    {
       "id": "watsons-gnc-clearance-sale-2-for-50-off-3-for-60-off-online-",
       "title": "Watsons GNC Clearance Sale: 2 for 50% Off, 3 for 60% Off Online, to 31 Dec 2026 - https://www.misslobang.com/",
       "store": "Watsons",
@@ -1450,8 +1524,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1517,8 +1590,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
