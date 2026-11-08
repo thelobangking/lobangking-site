@@ -117,7 +117,6 @@
     "BEST Denki",
     "Best Denki",
     "BreadTalk",
-    "Chagee",
     "Challenger",
     "Coach",
     "Cotton On",
@@ -125,7 +124,6 @@
     "Decathlon",
     "Don Don Donki",
     "Eu Yan Sang",
-    "FairPrice",
     "GOLDLION",
     "Gain City",
     "Giant",
@@ -146,7 +144,7 @@
     "REFASH",
     "SUKIYA",
     "SUSHIRO",
-    "Samsung",
+    "Sephora",
     "Shihlin",
     "Shopee",
     "Singapore Zoo",
@@ -166,6 +164,144 @@
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "sephora-sg-11-11-sale-2026-now-on-with-up-to-50-off-beauty-d",
+      "title": "Sephora SG 11.11 Sale 2026 Now On with Up to 50% Off Beauty Deals Till 12 Nov",
+      "store": "Sephora",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "SEPHORA"
+        },
+        {
+          "type": "discount",
+          "label": "50% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Makeup, skincare and fragrance markdowns, plus separate Buy 2 deals on selected products",
+      "expiry": "Ends 12 Nov",
+      "heat": 170,
+      "url": "https://singpromos.com/beauty/sephora-sg-11-11-sale-2026-now-on-with-up-to-50-off-beauty-deals-till-12-nov-309392/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/beauty/sephora-sg-11-11-sale-2026-now-on-with-up-to-50-off-beauty-deals-till-12-nov-309392/"
+      },
+      "brand": "Sephora",
+      "expires_at": "2026-11-12",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-08",
+      "spotlight": true,
+      "image": "images/deals/sephora-sg-11-11-sale-2026-now-on-with-up-to-50-off-beauty-d.jpg"
+    },
+    {
+      "id": "polar-puffs-cakes-11-11-20-off-whole-cakes-online-from-8-to-",
+      "title": "Polar Puffs & Cakes 11.11: 20% Off Whole Cakes Online from 8 to 15 Nov 2026",
+      "store": "Polar Puffs & Cakes",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "20% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — see source link to claim"
+      },
+      "desc": "Savings on strawberry, chocolate, mango and more for sweet celebrations",
+      "expiry": "Ends 15 Nov",
+      "heat": 135,
+      "url": "https://singpromos.com/dining-restaurants-food/polar-puffs-cakes-11-11-20-off-whole-cakes-online-from-8-to-15-nov-2026-309350/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/polar-puffs-cakes-11-11-20-off-whole-cakes-online-from-8-to-15-nov-2026-309350/"
+      },
+      "expires_at": "2026-11-15",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-08",
+      "image": "images/deals/polar-puffs-cakes-11-11-20-off-whole-cakes-online-from-8-to-.jpg"
+    },
+    {
+      "id": "mr-bean-buy-1-get-1-free-on-almost-all-soy-drinks-this-sunda",
+      "title": "Mr Bean Buy 1 Get 1 FREE on Almost All Soy Drinks This Sunday, 8 Nov 2026",
+      "store": "Mr Bean Buy 1",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "One-day Soymilk Sunday treat, including refreshing fruity flavours and limited-time selections",
+      "expiry": "Ends 8 Nov",
+      "heat": 125,
+      "url": "https://singpromos.com/dining-restaurants-food/mr-bean-buy-1-get-1-free-on-almost-all-soy-drinks-this-sunday-8-nov-2026-309384/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/mr-bean-buy-1-get-1-free-on-almost-all-soy-drinks-this-sunday-8-nov-2026-309384/"
+      },
+      "expires_at": "2026-11-08",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-08",
+      "image": "images/deals/mr-bean-buy-1-get-1-free-on-almost-all-soy-drinks-this-sunda.jpg"
+    },
+    {
+      "id": "unity-pharmacy-buy-1-get-1-deals-till-11-nov-2026-with-welln",
+      "title": "Unity Pharmacy Buy 1 Get 1 Deals Till 11 Nov 2026 With Wellness Essentials From $16.95",
+      "store": "Unity Pharmacy Buy 1",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Save on vitamins, skincare, supplements and everyday essentials, with selected exclusive deals.",
+      "expiry": "Ends 11 Nov",
+      "heat": 120,
+      "url": "https://singpromos.com/health/unity-pharmacy-buy-1-get-1-deals-till-11-nov-2026-with-wellness-essentials-from-16-95-309376/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/health/unity-pharmacy-buy-1-get-1-deals-till-11-nov-2026-with-wellness-essentials-from-16-95-309376/"
+      },
+      "expires_at": "2026-11-11",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-08",
+      "image": "images/deals/unity-pharmacy-buy-1-get-1-deals-till-11-nov-2026-with-welln.jpg"
+    },
     {
       "id": "trip-com-11-11-sale-11-14-nov-2026-s-69-flights-s-220-coupon",
       "title": "Trip.com 11.11 Sale 11-14 Nov 2026 – S$69 Flights, S$220 Coupons and S$40 Hotels",
@@ -194,7 +330,7 @@
       },
       "desc": "Flight flash fares, DBS/POSB discounts, hotel deals and flight-plus-hotel bundles for two.",
       "expiry": "Ends 14 Nov",
-      "heat": 160,
+      "heat": 140,
       "url": "https://singpromos.com/vacations/trip-com-11-11-sale-11-14-nov-2026-s69-flights-s220-coupons-and-s40-hotels-309358/",
       "source": {
         "name": "SINGPromos",
@@ -205,8 +341,7 @@
       "upcoming": true,
       "starts_at": "2026-11-11",
       "first_seen": "2026-11-07",
-      "image": "images/deals/trip-com-11-11-sale-11-14-nov-2026-s-69-flights-s-220-coupon.jpg",
-      "spotlight": true
+      "image": "images/deals/trip-com-11-11-sale-11-14-nov-2026-s-69-flights-s-220-coupon.jpg"
     },
     {
       "id": "starbucks-s-pore-11-11-shopee-1-for-1-venti-drinks-from-7-40",
@@ -232,7 +367,7 @@
       },
       "desc": "Choose from 10 discounted drink deals, with 30 days to redeem vouchers at eligible outlets",
       "expiry": "Check link for dates",
-      "heat": 155,
+      "heat": 135,
       "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-11-11-shopee-1-for-1-venti-drinks-from-7-40-save-50-309331/",
       "source": {
         "name": "SINGPromos",
@@ -269,7 +404,7 @@
       },
       "desc": "Enjoy discounted chicken meals, Twisters, loaded fries and more. Vouchers valid till 30 Nov 2026.",
       "expiry": "Ends 30 Nov",
-      "heat": 145,
+      "heat": 125,
       "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-11-11-shopee-deals-from-1-10-with-up-to-74-off-309320/",
       "source": {
         "name": "SINGPromos",
@@ -302,7 +437,7 @@
       },
       "desc": "Save up to 63% on selected favourites, with takeaway vouchers redeemable at multiple locations",
       "expiry": "Check link for dates",
-      "heat": 130,
+      "heat": 110,
       "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-11-11-shopee-sale-has-regular-pizzas-melts-from-11-chicken-fries-at-8-65-309326/",
       "source": {
         "name": "SINGPromos",
@@ -314,106 +449,6 @@
       "starts_at": "",
       "first_seen": "2026-11-07",
       "image": "images/deals/pizza-hut-s-pore-11-11-shopee-sale-has-regular-pizzas-melts-.jpg"
-    },
-    {
-      "id": "cfoot-out-stock-sale-at-junction-8-with-guaranteed-lowest-sh",
-      "title": "CFOOT Out Stock Sale at Junction 8 With Guaranteed Lowest Shoe Prices From 6 Nov 2026",
-      "store": "CFOOT Out Stock Sale",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Big savings on everyday footwear and comfortable shoes",
-      "expiry": "Ongoing",
-      "heat": 105,
-      "url": "https://singpromos.com/footwear/cfoot-out-stock-sale-at-junction-8-with-guaranteed-lowest-shoe-prices-from-6-nov-2026-309051/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/footwear/cfoot-out-stock-sale-at-junction-8-with-guaranteed-lowest-shoe-prices-from-6-nov-2026-309051/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-11-06",
-      "first_seen": "2026-11-07",
-      "image": "images/deals/cfoot-out-stock-sale-at-junction-8-with-guaranteed-lowest-sh.jpg"
-    },
-    {
-      "id": "famous-amos-s-pore-get-up-to-50-more-free-cookies-from-7-to-",
-      "title": "Famous Amos S’pore Get Up to 50% More FREE Cookies from 7 to 9 Nov 2026",
-      "store": "Famous Amos",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy up to 200g extra at no charge, with savings of up to $13",
-      "expiry": "Ends 9 Nov",
-      "heat": 100,
-      "url": "https://singpromos.com/dining-restaurants-food/famous-amos-spore-get-up-to-50-more-free-cookies-from-7-to-9-nov-2026-309304/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/famous-amos-spore-get-up-to-50-more-free-cookies-from-7-to-9-nov-2026-309304/"
-      },
-      "expires_at": "2026-11-09",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-07",
-      "image": "images/deals/famous-amos-s-pore-get-up-to-50-more-free-cookies-from-7-to-.jpg"
-    },
-    {
-      "id": "crocs-s-pore-11-11-sale-offers-up-to-60-off-best-deals-from-",
-      "title": "Crocs S’pore 11.11 Sale Offers Up to 60% Off, Best Deals from S$35.95",
-      "store": "Crocs",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        },
-        {
-          "type": "discount",
-          "label": "60% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "S$1.11 charms, 10-for-S$10 deals and outlet bundles, with free shipping on orders above S$70.",
-      "expiry": "Check link for dates",
-      "heat": 95,
-      "url": "https://singpromos.com/footwear/crocs-spore-11-11-sale-offers-up-to-60-off-best-deals-from-s35-95-309292/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/footwear/crocs-spore-11-11-sale-offers-up-to-60-off-best-deals-from-s35-95-309292/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-07",
-      "image": "images/deals/crocs-s-pore-11-11-sale-offers-up-to-60-off-best-deals-from-.jpg"
     },
     {
       "id": "cheapest-ever-circles-life-ai-superplan-now-just-5-month-fre",
@@ -435,7 +470,7 @@
       },
       "desc": "Access popular premium AI tools like ChatGPT, Claude, Gemini, Perplexity, DeepSeek, Qwen and more",
       "expiry": "Check link for dates",
-      "heat": 135,
+      "heat": 115,
       "url": "https://singpromos.com/telecoms/cheapest-ever-circles-life-ai-superplan-now-just-5-month-free-10-gift-309188/",
       "source": {
         "name": "SINGPromos",
@@ -467,7 +502,7 @@
       },
       "desc": "A wide range of mattresses to suit different sleeping needs and budgets",
       "expiry": "Check link for dates",
-      "heat": 130,
+      "heat": 110,
       "url": "https://singpromos.com/beds/equatorial-sleep-new-launch-sale-up-to-80-off-backed-by-rattan-pacifics-33-years-of-expertise-309203/",
       "source": {
         "name": "SINGPromos",
@@ -478,43 +513,6 @@
       "starts_at": "",
       "first_seen": "2026-11-06",
       "image": "images/deals/equatorial-sleep-new-launch-sale-up-to-80-off-backed-by-ratt.jpg"
-    },
-    {
-      "id": "fairprice-bulla-ice-cream-50-off-at-6-98-plus-snack-deals-ti",
-      "title": "FairPrice Bulla Ice Cream 50% Off at $6.98, Plus Snack Deals Till 11 Nov 2026",
-      "store": "FairPrice",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "FAIRPRICE"
-        },
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Half-price Bulla ice cream, discounted biscuits, chips and more snack deals",
-      "expiry": "Ends 11 Nov",
-      "heat": 105,
-      "url": "https://singpromos.com/dining-restaurants-food/fairprice-bulla-ice-cream-50-off-at-6-98-plus-snack-deals-till-11-nov-2026-309213/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/fairprice-bulla-ice-cream-50-off-at-6-98-plus-snack-deals-till-11-nov-2026-309213/"
-      },
-      "brand": "FairPrice",
-      "expires_at": "2026-11-11",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-06",
-      "image": "images/deals/fairprice-bulla-ice-cream-50-off-at-6-98-plus-snack-deals-ti.jpg"
     },
     {
       "id": "subway-singapore-brings-back-buy-1-get-1-free-breakfast-wrap",
@@ -556,42 +554,6 @@
       "starts_at": "",
       "first_seen": "2026-11-06",
       "image": "images/deals/subway-singapore-brings-back-buy-1-get-1-free-breakfast-wrap.jpg"
-    },
-    {
-      "id": "join-the-easy-mode-club-a-fuss-free-way-to-try-the-galaxy-s2",
-      "title": "Join the Easy Mode Club: A Fuss-Free Way to Try the Galaxy S26 Ultra - samsung.com",
-      "store": "Samsung",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "💻",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SAMSUNG"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Join the Easy Mode Club: A Fuss-Free Way to Try the Galaxy S26 Ultra samsung.com",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1RoWC1qbGNUQldKUHNvN1phak51ejBiX0lPYXV3UUw0ejhUSDJVV1R4X1R6ME5sMlVoUjllc2ZIeDZJY2k5bXNmOEFtcXEwOFlzSkh3NmhSQmtNRmFvaEktanNZYkgwTkEwYUFrX3Q5NWVzaXBHV1MtTFJHQkhzOUtHZVZzNktxaEM3LWYydS01VUxGdHRuSTdJbw?oc=5",
-      "source": {
-        "name": "samsung.com",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1RoWC1qbGNUQldKUHNvN1phak51ejBiX0lPYXV3UUw0ejhUSDJVV1R4X1R6ME5sMlVoUjllc2ZIeDZJY2k5bXNmOEFtcXEwOFlzSkh3NmhSQmtNRmFvaEktanNZYkgwTkEwYUFrX3Q5NWVzaXBHV1MtTFJHQkhzOUtHZVZzNktxaEM3LWYydS01VUxGdHRuSTdJbw?oc=5"
-      },
-      "brand": "Samsung",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-06"
     },
     {
       "id": "muji-jewel-changi-airport-has-an-ongoing-clearance-sale-of-u",
@@ -831,8 +793,7 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "takagi-ramen-1for1-ndp",
@@ -864,8 +825,7 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "kennyrogers-670-meals",
@@ -897,8 +857,7 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "welcia-kose-beauty",
@@ -930,8 +889,7 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "hp-double7-savings",
@@ -963,8 +921,7 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "sothys-july-skincare",
@@ -996,8 +953,7 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "orchard-hotel-nationalday-drinks",
@@ -1030,8 +986,7 @@
       },
       "image": "images/up-orchard-hotel.jpg",
       "first_seen": "2026-11-03",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "kei-kaisendon-premium-set",
@@ -1063,8 +1018,7 @@
         "url": "https://sg.everydayonsales.com/promotions-freebies/"
       },
       "first_seen": "2026-11-03",
-      "upcoming": false,
-      "status": "claimed"
+      "upcoming": false
     },
     {
       "id": "safra-members-enjoy-1-for-1-universal-studios-singapore-tick",
@@ -1283,46 +1237,6 @@
       "first_seen": "2026-09-29"
     },
     {
-      "id": "8-best-bubble-tea-deals-promos-in-singapore-2026-beutea-s-50",
-      "title": "8 Best Bubble Tea Deals & Promos in Singapore (2026): Beutea's 50% Off Plus 1-for-1 Sign-Up Pack, CHAGEE's 15% Off Every",
-      "store": "Chagee",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "CHAGEE"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "8 Best Bubble Tea Deals & Promos in Singapore (2026): Beutea's 50% Off Plus 1-for-1 Sign-Up Pack, CHAGEE's 15% Off Every Wednesday, and the Cheapest Cup at S$1.50 www.misslobang.com",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QS1o2YXhzZW8taVo2dDFtR2d3WGNtNHlIMUJ1RDhZNWdJenNfcEtCSzRhVGZ2MkhKZXpYNXM3aUlYcFZrTm00OGRQZm81cmVtWUpqRDVoYmJHZElhLXRYSWRhSXBKNDJKZ092bWJRdEYwSEUwUm1ocDVTQQ?oc=5",
-      "source": {
-        "name": "www.misslobang.com",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QS1o2YXhzZW8taVo2dDFtR2d3WGNtNHlIMUJ1RDhZNWdJenNfcEtCSzRhVGZ2MkhKZXpYNXM3aUlYcFZrTm00OGRQZm81cmVtWUpqRDVoYmJHZElhLXRYSWRhSXBKNDJKZ092bWJRdEYwSEUwUm1ocDVTQQ?oc=5"
-      },
-      "brand": "Chagee",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-27"
-    },
-    {
       "id": "mcdonald-s-singapore-launches-kids-eat-free-deal-with-free-h",
       "title": "McDonald’s Singapore Launches Kids Eat Free Deal with FREE Happy Meal for March School Holidays - Great Deals Singapore",
       "store": "McDonald's",
@@ -1532,8 +1446,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1599,8 +1512,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
@@ -1699,8 +1611,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-09",
       "upcoming": false,
-      "starts_at": "2026-07-06",
-      "status": "claimed"
+      "starts_at": "2026-07-06"
     },
     {
       "id": "breadtalk-26th-anniversary",
@@ -1765,8 +1676,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-31",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "euyansang-online-jul",
@@ -1799,8 +1709,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-08",
       "upcoming": false,
-      "starts_at": "2026-07-02",
-      "status": "claimed"
+      "starts_at": "2026-07-02"
     },
     {
       "id": "bestdenki-oppo-x9s",
@@ -1832,8 +1741,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-31",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "yellowribbon-hellokitty-plush",
@@ -1865,8 +1773,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-31",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "giant-durian-buffet",
@@ -1899,8 +1806,7 @@
       "expires_at": "2027-07-19",
       "upcoming": true,
       "starts_at": "2026-07-18",
-      "image": "images/up-giant-durian.jpg",
-      "status": "claimed"
+      "image": "images/up-giant-durian.jpg"
     },
     {
       "id": "harbourfront-summer-popup",
@@ -1932,8 +1838,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-26",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "kfc-drivethru-voucher",
@@ -1965,8 +1870,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "zenyum-sonic2-50off",
@@ -1998,8 +1902,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-12",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "sushiro-myvillage-opening",
@@ -2032,8 +1935,7 @@
       },
       "image": "images/up-sushiro.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "popeyes-heartbeat-bucket",
@@ -2066,8 +1968,7 @@
       },
       "image": "images/up-popeyes-heartbeat.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "tangs-sulwhasoo-candle",
@@ -2100,8 +2001,7 @@
       },
       "image": "images/up-tangs-sulwhasoo.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "panasonic-grooming-10off",
@@ -2133,8 +2033,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-15",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "refash-go-green-market",
@@ -2167,8 +2066,7 @@
       },
       "image": "images/up-refash.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "toysrus-football-sale",
@@ -2201,8 +2099,7 @@
       },
       "image": "images/up-toysrus.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "punggol-harmony-carnival",
@@ -2235,8 +2132,7 @@
       },
       "image": "images/up-punggol-carnival.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "goldlion-moving-out",
