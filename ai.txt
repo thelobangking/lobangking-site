@@ -8,6 +8,7 @@ User-Agent: *
 Disallow: /
 
 # Explicitly named AI crawlers (also blocked in robots.txt):
+# - __usage_ai-training
 # - AddSearchBot
 # - AgentDataBot
 # - AgentTimes
@@ -48,6 +49,7 @@ Disallow: /
 # - ChatGLM-Spider
 # - ChatGPT Agent
 # - ChatGPT-User
+# - Claude-Agent
 # - Claude-Code
 # - Claude-SearchBot
 # - Claude-User
@@ -135,10 +137,10 @@ Disallow: /
 # - LinkupBot
 # - magpie-crawler
 # - Manus-User
-# - Meta-ExternalAgent
 # - meta-externalagent
-# - meta-externalfetcher
+# - Meta-ExternalAgent
 # - Meta-ExternalFetcher
+# - meta-externalfetcher
 # - meta-webindexer
 # - MistralAI-Index
 # - MistralAI-Training

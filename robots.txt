@@ -8,7 +8,8 @@ Content-Signal: search=yes, ai-input=no, ai-train=no
 Allow: /
 Disallow: /privacy.html
 
-# --- AI / scraper crawlers (205): full block ---
+# --- AI / scraper crawlers (207): full block ---
+User-agent: __usage_ai-training
 User-agent: AddSearchBot
 User-agent: AgentDataBot
 User-agent: AgentTimes
@@ -49,6 +50,7 @@ User-agent: Channel3Bot
 User-agent: ChatGLM-Spider
 User-agent: ChatGPT Agent
 User-agent: ChatGPT-User
+User-agent: Claude-Agent
 User-agent: Claude-Code
 User-agent: Claude-SearchBot
 User-agent: Claude-User
@@ -136,10 +138,10 @@ User-agent: Linguee Bot
 User-agent: LinkupBot
 User-agent: magpie-crawler
 User-agent: Manus-User
-User-agent: Meta-ExternalAgent
 User-agent: meta-externalagent
-User-agent: meta-externalfetcher
+User-agent: Meta-ExternalAgent
 User-agent: Meta-ExternalFetcher
+User-agent: meta-externalfetcher
 User-agent: meta-webindexer
 User-agent: MistralAI-Index
 User-agent: MistralAI-Training
