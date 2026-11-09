@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "categories": [
     {
       "id": "all",
@@ -233,42 +233,6 @@
       "starts_at": "",
       "first_seen": "2026-11-08",
       "image": "images/deals/polar-puffs-cakes-11-11-20-off-whole-cakes-online-from-8-to-.jpg"
-    },
-    {
-      "id": "mr-bean-buy-1-get-1-free-on-almost-all-soy-drinks-this-sunda",
-      "title": "Mr Bean Buy 1 Get 1 FREE on Almost All Soy Drinks This Sunday, 8 Nov 2026",
-      "store": "Mr Bean Buy 1",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "One-day Soymilk Sunday treat, including refreshing fruity flavours and limited-time selections",
-      "expiry": "Ends 8 Nov",
-      "heat": 125,
-      "url": "https://singpromos.com/dining-restaurants-food/mr-bean-buy-1-get-1-free-on-almost-all-soy-drinks-this-sunday-8-nov-2026-309384/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mr-bean-buy-1-get-1-free-on-almost-all-soy-drinks-this-sunday-8-nov-2026-309384/"
-      },
-      "expires_at": "2026-11-08",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-08",
-      "image": "images/deals/mr-bean-buy-1-get-1-free-on-almost-all-soy-drinks-this-sunda.jpg"
     },
     {
       "id": "unity-pharmacy-buy-1-get-1-deals-till-11-nov-2026-with-welln",
