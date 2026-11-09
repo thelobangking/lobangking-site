@@ -165,6 +165,145 @@
   ],
   "deals": [
     {
+      "id": "mcdonald-s-s-pore-mccrispy-fried-chicken-2pc-meals-at-7-95-u",
+      "title": "McDonald’s S’pore McCrispy Fried Chicken 2pc Meals at $7.95 until 25 Nov",
+      "store": "McDonald's",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "MCDONALD'S"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Choose spicy or non-spicy chicken with fries and a drink, plus an extra-crispy coating",
+      "expiry": "Ends 25 Nov",
+      "heat": 155,
+      "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-mccrispy-fried-chicken-2pc-meals-at-7-95-until-25-nov-309423/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-mccrispy-fried-chicken-2pc-meals-at-7-95-until-25-nov-309423/"
+      },
+      "brand": "McDonald's",
+      "expires_at": "2026-11-25",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-09",
+      "spotlight": true,
+      "image": "images/deals/mcdonald-s-s-pore-mccrispy-fried-chicken-2pc-meals-at-7-95-u.jpg"
+    },
+    {
+      "id": "kfc-s-pore-6-50-famous-bowl-with-chicken-meal-monday-app-dea",
+      "title": "KFC S’pore $6.50 Famous Bowl with Chicken Meal Monday App Deal on 9 Nov 2026",
+      "store": "KFC",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "KFC"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "A hearty bowl, crispy chicken and Coke Zero Sugar",
+      "expiry": "Ends 9 Nov",
+      "heat": 150,
+      "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-famous-bowl-with-chicken-meal-monday-app-deal-on-9-nov-2026-309414/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-famous-bowl-with-chicken-meal-monday-app-deal-on-9-nov-2026-309414/"
+      },
+      "brand": "KFC",
+      "expires_at": "2026-11-09",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-09",
+      "image": "images/deals/kfc-s-pore-6-50-famous-bowl-with-chicken-meal-monday-app-dea.jpg"
+    },
+    {
+      "id": "cotton-on-reaffirms-singapore-presence-with-free-matcha-trea",
+      "title": "Cotton On Reaffirms Singapore Presence With FREE Matcha Treat at 5 Stores on April 4–5 - Great Deals Singapore",
+      "store": "Cotton On",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "COTTON ON"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Cotton On Reaffirms Singapore Presence With FREE Matcha Treat at 5 Stores on April 4–5 Great Deals Singapore",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcWpFOXlUZ2lGSV9EOW9vekNCQkYwOEU5Z3M5Q24zc2EyLWhxeGY3SzVCYlNUSTVqZXJsOXJBcGhqVHhmdDhoaC0wZ25Mb0NLSUpXd19OZU1mNkpyeTdsWjJRR1g5OHFhMmJnd3RMcExzZ0x6TDIzOFB0WU1EWmFWWlFwZFFPUQ?oc=5",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcWpFOXlUZ2lGSV9EOW9vekNCQkYwOEU5Z3M5Q24zc2EyLWhxeGY3SzVCYlNUSTVqZXJsOXJBcGhqVHhmdDhoaC0wZ25Mb0NLSUpXd19OZU1mNkpyeTdsWjJRR1g5OHFhMmJnd3RMcExzZ0x6TDIzOFB0WU1EWmFWWlFwZFFPUQ?oc=5"
+      },
+      "brand": "Cotton On",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-09"
+    },
+    {
+      "id": "sephora-11-11-sale-up-to-50-off-plus-buy-2-save-more-brand-d",
+      "title": "Sephora 11.11 Sale: Up to 50% Off Plus Buy 2, Save More Brand Deals, Online Only to 12 Nov 2026 - https://www.misslobang",
+      "store": "Sephora",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "SEPHORA"
+        },
+        {
+          "type": "discount",
+          "label": "50% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — see source link to claim"
+      },
+      "desc": "Sephora 11.11 Sale: Up to 50% Off Plus Buy 2, Save More Brand Deals, Online Only to 12 Nov 2026 https://www.misslobang.com/",
+      "expiry": "Ends 12 Nov",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQmFaVUNlcE5IVVROc0VrVTlJU3Z4Zl84enNJaUVzY19xMlFTeC1sMlRhY0pZLTZWdHFRQTZrNnhfTXBjZGNId1RBUHRRNkNBUUJaUU84WWpKZ2JfTWVZUzV3MmVFZnRCU0lZZXA2WU5DWGhRUkJkZXhnZy1lblpDUg?oc=5",
+      "source": {
+        "name": "https://www.misslobang.com/",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQmFaVUNlcE5IVVROc0VrVTlJU3Z4Zl84enNJaUVzY19xMlFTeC1sMlRhY0pZLTZWdHFRQTZrNnhfTXBjZGNId1RBUHRRNkNBUUJaUU84WWpKZ2JfTWVZUzV3MmVFZnRCU0lZZXA2WU5DWGhRUkJkZXhnZy1lblpDUg?oc=5"
+      },
+      "brand": "Sephora",
+      "expires_at": "2026-11-12",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-09"
+    },
+    {
       "id": "sephora-sg-11-11-sale-2026-now-on-with-up-to-50-off-beauty-d",
       "title": "Sephora SG 11.11 Sale 2026 Now On with Up to 50% Off Beauty Deals Till 12 Nov",
       "store": "Sephora",
@@ -188,7 +327,7 @@
       },
       "desc": "Makeup, skincare and fragrance markdowns, plus separate Buy 2 deals on selected products",
       "expiry": "Ends 12 Nov",
-      "heat": 170,
+      "heat": 160,
       "url": "https://singpromos.com/beauty/sephora-sg-11-11-sale-2026-now-on-with-up-to-50-off-beauty-deals-till-12-nov-309392/",
       "source": {
         "name": "SINGPromos",
@@ -199,8 +338,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-08",
-      "image": "images/deals/sephora-sg-11-11-sale-2026-now-on-with-up-to-50-off-beauty-d.jpg",
-      "spotlight": true
+      "image": "images/deals/sephora-sg-11-11-sale-2026-now-on-with-up-to-50-off-beauty-d.jpg"
     },
     {
       "id": "polar-puffs-cakes-11-11-20-off-whole-cakes-online-from-8-to-",
@@ -222,7 +360,7 @@
       },
       "desc": "Savings on strawberry, chocolate, mango and more for sweet celebrations",
       "expiry": "Ends 15 Nov",
-      "heat": 135,
+      "heat": 125,
       "url": "https://singpromos.com/dining-restaurants-food/polar-puffs-cakes-11-11-20-off-whole-cakes-online-from-8-to-15-nov-2026-309350/",
       "source": {
         "name": "SINGPromos",
@@ -254,7 +392,7 @@
       },
       "desc": "Save on vitamins, skincare, supplements and everyday essentials, with selected exclusive deals.",
       "expiry": "Ends 11 Nov",
-      "heat": 120,
+      "heat": 115,
       "url": "https://singpromos.com/health/unity-pharmacy-buy-1-get-1-deals-till-11-nov-2026-with-wellness-essentials-from-16-95-309376/",
       "source": {
         "name": "SINGPromos",
@@ -294,7 +432,7 @@
       },
       "desc": "Flight flash fares, DBS/POSB discounts, hotel deals and flight-plus-hotel bundles for two.",
       "expiry": "Ends 14 Nov",
-      "heat": 140,
+      "heat": 135,
       "url": "https://singpromos.com/vacations/trip-com-11-11-sale-11-14-nov-2026-s69-flights-s220-coupons-and-s40-hotels-309358/",
       "source": {
         "name": "SINGPromos",
@@ -331,7 +469,7 @@
       },
       "desc": "Choose from 10 discounted drink deals, with 30 days to redeem vouchers at eligible outlets",
       "expiry": "Check link for dates",
-      "heat": 135,
+      "heat": 130,
       "url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-11-11-shopee-1-for-1-venti-drinks-from-7-40-save-50-309331/",
       "source": {
         "name": "SINGPromos",
@@ -368,7 +506,7 @@
       },
       "desc": "Enjoy discounted chicken meals, Twisters, loaded fries and more. Vouchers valid till 30 Nov 2026.",
       "expiry": "Ends 30 Nov",
-      "heat": 125,
+      "heat": 120,
       "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-11-11-shopee-deals-from-1-10-with-up-to-74-off-309320/",
       "source": {
         "name": "SINGPromos",
@@ -401,7 +539,7 @@
       },
       "desc": "Save up to 63% on selected favourites, with takeaway vouchers redeemable at multiple locations",
       "expiry": "Check link for dates",
-      "heat": 110,
+      "heat": 105,
       "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-11-11-shopee-sale-has-regular-pizzas-melts-from-11-chicken-fries-at-8-65-309326/",
       "source": {
         "name": "SINGPromos",
@@ -434,7 +572,7 @@
       },
       "desc": "Access popular premium AI tools like ChatGPT, Claude, Gemini, Perplexity, DeepSeek, Qwen and more",
       "expiry": "Check link for dates",
-      "heat": 115,
+      "heat": 110,
       "url": "https://singpromos.com/telecoms/cheapest-ever-circles-life-ai-superplan-now-just-5-month-free-10-gift-309188/",
       "source": {
         "name": "SINGPromos",
@@ -466,7 +604,7 @@
       },
       "desc": "A wide range of mattresses to suit different sleeping needs and budgets",
       "expiry": "Check link for dates",
-      "heat": 110,
+      "heat": 105,
       "url": "https://singpromos.com/beds/equatorial-sleep-new-launch-sale-up-to-80-off-backed-by-rattan-pacifics-33-years-of-expertise-309203/",
       "source": {
         "name": "SINGPromos",
@@ -628,42 +766,6 @@
       "first_seen": "2026-11-04"
     },
     {
-      "id": "best-denki-returns-to-tampines-tampines-1-grand-opening-sale",
-      "title": "BEST Denki Returns to Tampines: Tampines 1 Grand Opening Sale, Up to 88% Off, Over $30,000 in Prizes, 6-9 Nov 2026 - htt",
-      "store": "Best Denki",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "💻",
-      "badges": [
-        {
-          "type": "new",
-          "label": "BEST DENKI"
-        },
-        {
-          "type": "discount",
-          "label": "88% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "BEST Denki Returns to Tampines: Tampines 1 Grand Opening Sale, Up to 88% Off, Over $30,000 in Prizes, 6-9 Nov 2026 https://www.misslobang.com/",
-      "expiry": "Ends 9 Nov",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVjBTZUg4VXgzVHp2Mjd0eEVfMDJDZGdMd200TmRqVmUxcmdsRk5PN2xxOHdnUUp4MU5ReUIzRXB6dzlGdHRtUlo0Z0tWUF84SjFhRDg4ZXFTX282aU04YkVMdmxrdklhRDNhSzlJSmtBdlY2eU1OZnZRMl9UeVBVZlVGUDdvMFloVHp3ZA?oc=5",
-      "source": {
-        "name": "https://www.misslobang.com/",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVjBTZUg4VXgzVHp2Mjd0eEVfMDJDZGdMd200TmRqVmUxcmdsRk5PN2xxOHdnUUp4MU5ReUIzRXB6dzlGdHRtUlo0Z0tWUF84SjFhRDg4ZXFTX282aU04YkVMdmxrdklhRDNhSzlJSmtBdlY2eU1OZnZRMl9UeVBVZlVGUDdvMFloVHp3ZA?oc=5"
-      },
-      "brand": "Best Denki",
-      "expires_at": "2026-11-09",
-      "upcoming": false,
-      "starts_at": "2026-11-06",
-      "first_seen": "2026-11-04"
-    },
-    {
       "id": "michael-kors-sale",
       "title": "Up to 55% off designer handbags, shoes & watches",
       "store": "Michael Kors · Online & boutiques",
@@ -757,8 +859,7 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "takagi-ramen-1for1-ndp",
@@ -790,8 +891,7 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "kennyrogers-670-meals",
@@ -823,8 +923,7 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "welcia-kose-beauty",
@@ -856,8 +955,7 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "hp-double7-savings",
@@ -889,8 +987,7 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "sothys-july-skincare",
@@ -922,8 +1019,7 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "orchard-hotel-nationalday-drinks",
@@ -956,8 +1052,7 @@
       },
       "image": "images/up-orchard-hotel.jpg",
       "first_seen": "2026-11-03",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "kei-kaisendon-premium-set",
@@ -989,8 +1084,7 @@
         "url": "https://sg.everydayonsales.com/promotions-freebies/"
       },
       "first_seen": "2026-11-03",
-      "upcoming": false,
-      "status": "claimed"
+      "upcoming": false
     },
     {
       "id": "safra-members-enjoy-1-for-1-universal-studios-singapore-tick",
@@ -1063,42 +1157,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-31"
-    },
-    {
-      "id": "gain-city-s-go-green-campaign-offers-up-to-1k-off-on-applian",
-      "title": "Gain City’s Go Green campaign offers up to $1k off on appliances with trade-ins, free weekend repairs - The Straits Time",
-      "store": "Gain City",
-      "categories": [
-        "home"
-      ],
-      "icon": "🏠",
-      "badges": [
-        {
-          "type": "new",
-          "label": "GAIN CITY"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Gain City’s Go Green campaign offers up to $1k off on appliances with trade-ins, free weekend repairs The Straits Times",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWJUYlNxeWI3SmRabHZ4Nk54R21GTER6LW8zZU80SlZfcXd1V2d1SXFJWVpmV200QThibTZxUThqRVRpRklWVDdlczBUNUdLQktWQlRsSVZRbEstSkJQNDF3aWM4ZEVhLUFLMExJOS0yUjhTZmdGUjVMdC1CTjdtMEE3Zkp3LS1oTVdIR0QxbU8tQmNGS2lPRXhPNEY4V3RzdFVzNUtIWVg4ZnBsejdjU2dONGhpLURXekFiTFRjckg3amhpQTFOdXV1TXU?oc=5",
-      "source": {
-        "name": "The Straits Times",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWJUYlNxeWI3SmRabHZ4Nk54R21GTER6LW8zZU80SlZfcXd1V2d1SXFJWVpmV200QThibTZxUThqRVRpRklWVDdlczBUNUdLQktWQlRsSVZRbEstSkJQNDF3aWM4ZEVhLUFLMExJOS0yUjhTZmdGUjVMdC1CTjdtMEE3Zkp3LS1oTVdIR0QxbU8tQmNGS2lPRXhPNEY4V3RzdFVzNUtIWVg4ZnBsejdjU2dONGhpLURXekFiTFRjckg3amhpQTFOdXV1TXU?oc=5"
-      },
-      "brand": "Gain City",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-23"
     },
     {
       "id": "watsons-gnc-clearance-sale-2-for-50-off-3-for-60-off-online-",
@@ -1418,8 +1476,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1485,8 +1542,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
@@ -1585,8 +1641,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-09",
       "upcoming": false,
-      "starts_at": "2026-07-06",
-      "status": "claimed"
+      "starts_at": "2026-07-06"
     },
     {
       "id": "breadtalk-26th-anniversary",
@@ -1651,8 +1706,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-31",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "euyansang-online-jul",
@@ -1685,8 +1739,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-08",
       "upcoming": false,
-      "starts_at": "2026-07-02",
-      "status": "claimed"
+      "starts_at": "2026-07-02"
     },
     {
       "id": "bestdenki-oppo-x9s",
@@ -1718,8 +1771,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-31",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "yellowribbon-hellokitty-plush",
@@ -1751,8 +1803,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-31",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "giant-durian-buffet",
@@ -1785,8 +1836,7 @@
       "expires_at": "2027-07-19",
       "upcoming": true,
       "starts_at": "2026-07-18",
-      "image": "images/up-giant-durian.jpg",
-      "status": "claimed"
+      "image": "images/up-giant-durian.jpg"
     },
     {
       "id": "harbourfront-summer-popup",
@@ -1818,8 +1868,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-26",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "kfc-drivethru-voucher",
@@ -1851,8 +1900,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "zenyum-sonic2-50off",
@@ -1884,8 +1932,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-12",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "sushiro-myvillage-opening",
@@ -1918,8 +1965,7 @@
       },
       "image": "images/up-sushiro.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "popeyes-heartbeat-bucket",
@@ -1952,8 +1998,7 @@
       },
       "image": "images/up-popeyes-heartbeat.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "tangs-sulwhasoo-candle",
@@ -1986,8 +2031,7 @@
       },
       "image": "images/up-tangs-sulwhasoo.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "panasonic-grooming-10off",
@@ -2019,8 +2063,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-15",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "refash-go-green-market",
@@ -2053,8 +2096,7 @@
       },
       "image": "images/up-refash.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "toysrus-football-sale",
@@ -2087,8 +2129,7 @@
       },
       "image": "images/up-toysrus.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "punggol-harmony-carnival",
@@ -2121,8 +2162,7 @@
       },
       "image": "images/up-punggol-carnival.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "goldlion-moving-out",
