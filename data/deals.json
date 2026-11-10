@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "categories": [
     {
       "id": "all",
@@ -197,39 +197,6 @@
       "first_seen": "2026-11-09",
       "image": "images/deals/mcdonald-s-s-pore-mccrispy-fried-chicken-2pc-meals-at-7-95-u.jpg",
       "spotlight": true
-    },
-    {
-      "id": "kfc-s-pore-6-50-famous-bowl-with-chicken-meal-monday-app-dea",
-      "title": "KFC S’pore $6.50 Famous Bowl with Chicken Meal Monday App Deal on 9 Nov 2026",
-      "store": "KFC",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "KFC"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "A hearty bowl, crispy chicken and Coke Zero Sugar",
-      "expiry": "Ends 9 Nov",
-      "heat": 150,
-      "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-famous-bowl-with-chicken-meal-monday-app-deal-on-9-nov-2026-309414/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-famous-bowl-with-chicken-meal-monday-app-deal-on-9-nov-2026-309414/"
-      },
-      "brand": "KFC",
-      "expires_at": "2026-11-09",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-09",
-      "image": "images/deals/kfc-s-pore-6-50-famous-bowl-with-chicken-meal-monday-app-dea.jpg"
     },
     {
       "id": "cotton-on-reaffirms-singapore-presence-with-free-matcha-trea",
