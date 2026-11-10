@@ -199,8 +199,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-10",
-      "spotlight": true,
-      "image": "images/deals/burger-king-s-pore-1-for-1-burgers-more-11-11-specials-until.jpg"
+      "image": "images/deals/burger-king-s-pore-1-for-1-burgers-more-11-11-specials-until.jpg",
+      "spotlight": true
     },
     {
       "id": "scoot-s-pore-one-day-sale-has-fares-from-s-81-on-10-nov-26-t",
