@@ -164,6 +164,318 @@
   ],
   "deals": [
     {
+      "id": "singapore-airlines-11-11-return-fares-from-s-198-book-11-20-",
+      "title": "Singapore Airlines 11.11 Return Fares from S$198, Book 11-20 Nov 2026",
+      "store": "Singapore Airlines",
+      "categories": [
+        "travel"
+      ],
+      "icon": "✈️",
+      "badges": [
+        {
+          "type": "new",
+          "label": "SINGAPORE AIRLINES"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Fly from January to May 2027, with extra savings from selected bank cards",
+      "expiry": "Ends 20 Nov",
+      "heat": 140,
+      "url": "https://singpromos.com/airlines-flights/singapore-airlines-11-11-return-fares-from-s198-book-11-20-nov-2026-309520/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/airlines-flights/singapore-airlines-11-11-return-fares-from-s198-book-11-20-nov-2026-309520/"
+      },
+      "brand": "Singapore Airlines",
+      "expires_at": "2026-11-20",
+      "upcoming": false,
+      "starts_at": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "spotlight": true,
+      "image": "images/deals/singapore-airlines-11-11-return-fares-from-s-198-book-11-20-.jpg"
+    },
+    {
+      "id": "crocs-s-pore-11-11-flash-sale-buy-2-get-40-off-buy-1-get-30-",
+      "title": "Crocs S’pore 11.11 Flash Sale Buy 2+ Get 40% Off, Buy 1 Get 30% Off till 12 Nov",
+      "store": "Crocs",
+      "categories": [
+        "online"
+      ],
+      "icon": "🛒",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        },
+        {
+          "type": "discount",
+          "label": "40% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "S$1.11 Jibbitz™ charms, free gifts with S$129 spend and free shipping above S$70",
+      "expiry": "Ends 12 Nov",
+      "heat": 135,
+      "url": "https://singpromos.com/footwear/crocs-spore-11-11-flash-sale-buy-2-get-40-off-buy-1-get-30-off-till-12-nov-309570/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/footwear/crocs-spore-11-11-flash-sale-buy-2-get-40-off-buy-1-get-30-off-till-12-nov-309570/"
+      },
+      "expires_at": "2026-11-12",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-11",
+      "image": "images/deals/crocs-s-pore-11-11-flash-sale-buy-2-get-40-off-buy-1-get-30-.jpg"
+    },
+    {
+      "id": "kfc-s-pore-avengers-doomsday-menu-from-25-nov-with-7-50-blin",
+      "title": "KFC S’pore Avengers Doomsday Menu from 25 Nov with $7.50 blind-box figurines",
+      "store": "KFC",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "KFC"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Doom-themed burgers, chicken meals, collectible figurines and exclusive merchandise",
+      "expiry": "Ongoing",
+      "heat": 130,
+      "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-avengers-doomsday-menu-from-25-nov-with-7-50-blind-box-figurines-309505/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-avengers-doomsday-menu-from-25-nov-with-7-50-blind-box-figurines-309505/"
+      },
+      "brand": "KFC",
+      "expires_at": "",
+      "upcoming": true,
+      "starts_at": "2026-11-25",
+      "first_seen": "2026-11-11",
+      "image": "images/deals/kfc-s-pore-avengers-doomsday-menu-from-25-nov-with-7-50-blin.jpg"
+    },
+    {
+      "id": "famous-amos-s-pore-11-11-deal-get-300g-cookies-in-a-bag-for-",
+      "title": "Famous Amos S’pore 11.11 Deal Get 300g Cookies in a Bag for $11.11 on 11 Nov 2026",
+      "store": "Famous Amos",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Two popular cookie flavours in one bag",
+      "expiry": "Ends 11 Nov",
+      "heat": 110,
+      "url": "https://singpromos.com/dining-restaurants-food/famous-amos-spore-11-11-deal-get-300g-cookies-in-a-bag-for-11-11-on-11-nov-2026-309553/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/famous-amos-spore-11-11-deal-get-300g-cookies-in-a-bag-for-11-11-on-11-nov-2026-309553/"
+      },
+      "expires_at": "2026-11-11",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-11",
+      "image": "images/deals/famous-amos-s-pore-11-11-deal-get-300g-cookies-in-a-bag-for-.jpg"
+    },
+    {
+      "id": "burger-king-singapore-s-11-11-sale-brings-1-for-1-whopper-lo",
+      "title": "Burger King Singapore’s 11.11 Sale Brings 1-FOR-1 WHOPPER, Long Chicken & More Till November 15",
+      "store": "Burger King",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "BURGER KING"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Burger King is doubling up the good stuff.",
+      "expiry": "Check link for dates",
+      "heat": 110,
+      "url": "https://www.greatdeals.com.sg/2026/11/11/burger-king-1-for-1-deals-november-2026",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://www.greatdeals.com.sg/2026/11/11/burger-king-1-for-1-deals-november-2026"
+      },
+      "brand": "Burger King",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-11",
+      "image": "images/deals/burger-king-singapore-s-11-11-sale-brings-1-for-1-whopper-lo.jpg"
+    },
+    {
+      "id": "bank-of-china-s-pore-latest-time-deposit-offers-up-to-2-3-p-",
+      "title": "Bank of China S’pore Latest Time Deposit Offers Up To 2.3% p.a. from 10 Nov 2026",
+      "store": "Bank of China",
+      "categories": [
+        "finance"
+      ],
+      "icon": "💳",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Mobile-only placements start from S$500, with tenors ranging from one to 24 months",
+      "expiry": "Ongoing",
+      "heat": 105,
+      "url": "https://singpromos.com/banks-credit-cards/bank-of-china-spore-latest-time-deposit-offers-up-to-2-3-p-a-from-10-nov-2026-309551/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/banks-credit-cards/bank-of-china-spore-latest-time-deposit-offers-up-to-2-3-p-a-from-10-nov-2026-309551/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "image": "images/deals/bank-of-china-s-pore-latest-time-deposit-offers-up-to-2-3-p-.jpg"
+    },
+    {
+      "id": "pizza-hut-s-pore-11-11-members-deal-1-10-personal-pan-pizza-",
+      "title": "Pizza Hut S’pore 11.11 Members Deal $1.10 Personal Pan Pizza from 10-12 Nov 2026",
+      "store": "Pizza Hut",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Choose from three pizza flavours",
+      "expiry": "Ends 12 Nov",
+      "heat": 95,
+      "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-11-11-members-deal-1-10-personal-pan-pizza-from-10-12-nov-2026-309527/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-11-11-members-deal-1-10-personal-pan-pizza-from-10-12-nov-2026-309527/"
+      },
+      "expires_at": "2026-11-12",
+      "upcoming": false,
+      "starts_at": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "image": "images/deals/pizza-hut-s-pore-11-11-members-deal-1-10-personal-pan-pizza-.jpg"
+    },
+    {
+      "id": "pelago-day-flash-sale-has-1-for-1-singapore-oceanarium-ticke",
+      "title": "Pelago Day flash sale has 1-for-1 Singapore Oceanarium tickets and S$55 Universal Studios Singapore tickets - MoneyDiges",
+      "store": "Universal Studios Singapore",
+      "categories": [
+        "entertainment"
+      ],
+      "icon": "🎮",
+      "badges": [
+        {
+          "type": "new",
+          "label": "UNIVERSAL STUDIOS SINGAPORE"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Pelago Day flash sale has 1-for-1 Singapore Oceanarium tickets and S$55 Universal Studios Singapore tickets MoneyDigest",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX2NkcWxiVURPWDJOM3FIdFJHQzA4ckp1Z3lEdmw2UlBiTVhqSG5VVlVjSmt3MWNxNXRyc2FfTjhVOTd6YlNyaW5PRFl6UzFvSGJoQVAzVnlld2lRdEp3NHhyejVkQzVPRS1DbnBDSTQ5UTNCSGNXZnNVWXh1RGZwYzBRLUhpZUpYNjItVVR2NUp1S1pqcjYtQnhNU2VGaXMyNVk0VXZoRU1wbnZtb1dxNWwwaHNlMnU4ZjBwQkRubjBsRG1DTThnbGczQjJocjQ?oc=5",
+      "source": {
+        "name": "MoneyDigest",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX2NkcWxiVURPWDJOM3FIdFJHQzA4ckp1Z3lEdmw2UlBiTVhqSG5VVlVjSmt3MWNxNXRyc2FfTjhVOTd6YlNyaW5PRFl6UzFvSGJoQVAzVnlld2lRdEp3NHhyejVkQzVPRS1DbnBDSTQ5UTNCSGNXZnNVWXh1RGZwYzBRLUhpZUpYNjItVVR2NUp1S1pqcjYtQnhNU2VGaXMyNVk0VXZoRU1wbnZtb1dxNWwwaHNlMnU4ZjBwQkRubjBsRG1DTThnbGczQjJocjQ?oc=5"
+      },
+      "brand": "Universal Studios Singapore",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-11"
+    },
+    {
+      "id": "burger-king-11-11-deals-1-for-1-whopper-long-chicken-truffle",
+      "title": "Burger King 11.11 Deals: 1-for-1 Whopper, Long Chicken, Truffle Mayo Burgers and More (9 to 15 Nov 2026) - https://www.m",
+      "store": "Burger King",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "BURGER KING"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Burger King 11.11 Deals: 1-for-1 Whopper, Long Chicken, Truffle Mayo Burgers and More (9 to 15 Nov 2026) https://www.misslobang.com/",
+      "expiry": "Ends 15 Nov",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSm45QWJFeU5jS1A5bU1QRVFjNUZtTjVqOWZjaVY1Y0pORGF3MnNWZTQzUEtVYlVXYmdvemxpM201eVpGVzZ4bG5NXzcxUGtwWTRrMWFETzZ0SHlPa250WTJxVVpkVEx5LTNtSmtrYUpNQVE1VU5FcUVNSkZLLVBEaw?oc=5",
+      "source": {
+        "name": "https://www.misslobang.com/",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSm45QWJFeU5jS1A5bU1QRVFjNUZtTjVqOWZjaVY1Y0pORGF3MnNWZTQzUEtVYlVXYmdvemxpM201eVpGVzZ4bG5NXzcxUGtwWTRrMWFETzZ0SHlPa250WTJxVVpkVEx5LTNtSmtrYUpNQVE1VU5FcUVNSkZLLVBEaw?oc=5"
+      },
+      "brand": "Burger King",
+      "expires_at": "2026-11-15",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-11"
+    },
+    {
       "id": "burger-king-s-pore-1-for-1-burgers-more-11-11-specials-until",
       "title": "Burger King S’pore 1-FOR-1 Burgers & More 11.11 Specials until 15 Nov 2026",
       "store": "Burger King",
@@ -187,7 +499,7 @@
       },
       "desc": "Six tasty choices, including Angus beef, chicken burgers, breakfast croissant and iced MILO",
       "expiry": "Ends 15 Nov",
-      "heat": 170,
+      "heat": 145,
       "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-1-for-1-burgers-more-11-11-specials-until-15-nov-2026-309483/",
       "source": {
         "name": "SINGPromos",
@@ -198,8 +510,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-10",
-      "image": "images/deals/burger-king-s-pore-1-for-1-burgers-more-11-11-specials-until.jpg",
-      "spotlight": true
+      "image": "images/deals/burger-king-s-pore-1-for-1-burgers-more-11-11-specials-until.jpg"
     },
     {
       "id": "singapore-airlines-s-50-off-return-flights-with-dbs-posb-car",
@@ -221,7 +532,7 @@
       },
       "desc": "Save on Economy to Suites fares, with discounts also available for children and infants.",
       "expiry": "Ends 16 Nov",
-      "heat": 135,
+      "heat": 110,
       "url": "https://singpromos.com/airlines-flights/singapore-airlines-s50-off-return-flights-with-dbs-posb-cards-from-10-16-nov-2026-309443/",
       "source": {
         "name": "SINGPromos",
@@ -232,8 +543,7 @@
       "upcoming": false,
       "starts_at": "2026-11-10",
       "first_seen": "2026-11-10",
-      "image": "images/deals/singapore-airlines-s-50-off-return-flights-with-dbs-posb-car.jpg",
-      "status": "claimed"
+      "image": "images/deals/singapore-airlines-s-50-off-return-flights-with-dbs-posb-car.jpg"
     },
     {
       "id": "udders-sweet-11-11-sale-offers-1-for-1-takeaway-ice-cream-pi",
@@ -255,114 +565,17 @@
       },
       "desc": "Double the ice cream",
       "expiry": "Ends 13 Nov",
-      "heat": 120,
+      "heat": 95,
       "url": "https://singpromos.com/dining-restaurants-food/udders-sweet-11-11-sale-offers-1-for-1-takeaway-ice-cream-pints-from-11-13-nov-2026-309401/",
       "source": {
         "name": "SINGPromos",
         "url": "https://singpromos.com/dining-restaurants-food/udders-sweet-11-11-sale-offers-1-for-1-takeaway-ice-cream-pints-from-11-13-nov-2026-309401/"
       },
       "expires_at": "2026-11-13",
-      "upcoming": true,
+      "upcoming": false,
       "starts_at": "2026-11-11",
       "first_seen": "2026-11-10",
       "image": "images/deals/udders-sweet-11-11-sale-offers-1-for-1-takeaway-ice-cream-pi.jpg"
-    },
-    {
-      "id": "singapore-11-11-singles-day-2026-best-sales-deals-promotions",
-      "title": "Singapore 11.11 Singles’ Day 2026: Best Sales, Deals & Promotions Online and In-Store",
-      "store": "Singapore 11.11 Singles’ Day",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "From $1.10 food treats to fashion, beauty, tech and travel promotions",
-      "expiry": "Check link for dates",
-      "heat": 105,
-      "url": "https://singpromos.com/warehouse-sales/singapore-11-11-singles-day-2026-best-sales-deals-promotions-online-and-in-store-309456/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/warehouse-sales/singapore-11-11-singles-day-2026-best-sales-deals-promotions-online-and-in-store-309456/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-10",
-      "image": "images/deals/singapore-11-11-singles-day-2026-best-sales-deals-promotions.jpg"
-    },
-    {
-      "id": "eat-pizza-s-pore-11-11-krazy-deal-offers-pizza-and-mac-chees",
-      "title": "Eat Pizza S’pore 11.11 Krazy Deal Offers Pizza and Mac & Cheese for Just $11, Save $4.80!",
-      "store": "Eat Pizza",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "With a choice of pizza flavours and three Mac & Cheese options.",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://singpromos.com/dining-restaurants-food/eat-pizza-spore-11-11-krazy-deal-offers-pizza-and-mac-cheese-for-just-11-save-4-80-309128/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/eat-pizza-spore-11-11-krazy-deal-offers-pizza-and-mac-cheese-for-just-11-save-4-80-309128/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-10",
-      "image": "images/deals/eat-pizza-s-pore-11-11-krazy-deal-offers-pizza-and-mac-chees.jpg"
-    },
-    {
-      "id": "burger-king-singapore-launches-new-cheesy-gouda-burgers-and-",
-      "title": "Burger King Singapore Launches New Cheesy Gouda Burgers and Brings Back Mint Treats from $1.90",
-      "store": "Burger King",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "BURGER KING"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "The minty favourites are making a sweet comeback.",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://www.greatdeals.com.sg/2026/11/10/burger-king-new-cheesy-gouda-burgers-mint-treats-nov-dec-2026",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://www.greatdeals.com.sg/2026/11/10/burger-king-new-cheesy-gouda-burgers-mint-treats-nov-dec-2026"
-      },
-      "brand": "Burger King",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-10",
-      "image": "images/deals/burger-king-singapore-launches-new-cheesy-gouda-burgers-and-.jpg"
     },
     {
       "id": "razer-gaming-headphones-now-31-off-hardwarezone-singapore",
@@ -420,7 +633,7 @@
       },
       "desc": "Choose spicy or non-spicy chicken with fries and a drink, plus an extra-crispy coating",
       "expiry": "Ends 25 Nov",
-      "heat": 125,
+      "heat": 100,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-mccrispy-fried-chicken-2pc-meals-at-7-95-until-25-nov-309423/",
       "source": {
         "name": "SINGPromos",
@@ -468,107 +681,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-09"
-    },
-    {
-      "id": "sephora-sg-11-11-sale-2026-now-on-with-up-to-50-off-beauty-d",
-      "title": "Sephora SG 11.11 Sale 2026 Now On with Up to 50% Off Beauty Deals Till 12 Nov",
-      "store": "Sephora",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SEPHORA"
-        },
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Makeup, skincare and fragrance markdowns, plus separate Buy 2 deals on selected products",
-      "expiry": "Ends 12 Nov",
-      "heat": 135,
-      "url": "https://singpromos.com/beauty/sephora-sg-11-11-sale-2026-now-on-with-up-to-50-off-beauty-deals-till-12-nov-309392/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/beauty/sephora-sg-11-11-sale-2026-now-on-with-up-to-50-off-beauty-deals-till-12-nov-309392/"
-      },
-      "brand": "Sephora",
-      "expires_at": "2026-11-12",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-08",
-      "image": "images/deals/sephora-sg-11-11-sale-2026-now-on-with-up-to-50-off-beauty-d.jpg"
-    },
-    {
-      "id": "polar-puffs-cakes-11-11-20-off-whole-cakes-online-from-8-to-",
-      "title": "Polar Puffs & Cakes 11.11: 20% Off Whole Cakes Online from 8 to 15 Nov 2026",
-      "store": "Polar Puffs & Cakes",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "20% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "Savings on strawberry, chocolate, mango and more for sweet celebrations",
-      "expiry": "Ends 15 Nov",
-      "heat": 100,
-      "url": "https://singpromos.com/dining-restaurants-food/polar-puffs-cakes-11-11-20-off-whole-cakes-online-from-8-to-15-nov-2026-309350/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/polar-puffs-cakes-11-11-20-off-whole-cakes-online-from-8-to-15-nov-2026-309350/"
-      },
-      "expires_at": "2026-11-15",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-08",
-      "image": "images/deals/polar-puffs-cakes-11-11-20-off-whole-cakes-online-from-8-to-.jpg"
-    },
-    {
-      "id": "unity-pharmacy-buy-1-get-1-deals-till-11-nov-2026-with-welln",
-      "title": "Unity Pharmacy Buy 1 Get 1 Deals Till 11 Nov 2026 With Wellness Essentials From $16.95",
-      "store": "Unity Pharmacy Buy 1",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Save on vitamins, skincare, supplements and everyday essentials, with selected exclusive deals.",
-      "expiry": "Ends 11 Nov",
-      "heat": 90,
-      "url": "https://singpromos.com/health/unity-pharmacy-buy-1-get-1-deals-till-11-nov-2026-with-wellness-essentials-from-16-95-309376/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/health/unity-pharmacy-buy-1-get-1-deals-till-11-nov-2026-with-wellness-essentials-from-16-95-309376/"
-      },
-      "expires_at": "2026-11-11",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-08",
-      "image": "images/deals/unity-pharmacy-buy-1-get-1-deals-till-11-nov-2026-with-welln.jpg"
     },
     {
       "id": "join-the-easy-mode-club-a-fuss-free-way-to-try-the-galaxy-s2",
@@ -1001,8 +1113,7 @@
       },
       "image": "images/up-orchard-hotel.jpg",
       "first_seen": "2026-11-03",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "kei-kaisendon-premium-set",
@@ -1109,42 +1220,6 @@
       "first_seen": "2026-10-31"
     },
     {
-      "id": "burger-king-singapore-app-deals-2-for-s-6-61-off-guide-2026-",
-      "title": "Burger King Singapore — App Deals, 2-for-S$6 & 61% Off Guide (2026) - www.misslobang.com",
-      "store": "Burger King",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "BURGER KING"
-        },
-        {
-          "type": "discount",
-          "label": "61% OFF"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Burger King Singapore — App Deals, 2-for-S$6 & 61% Off Guide (2026) www.misslobang.com",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlVRcHcyTnNHR3VvdGdCMXg2eGVMakI0aU1ldXlOdmU4NVpPUXBhb01uYzJ4WHkyRGpsaUxlMy0wN3JvZ2oxQWZ5Tk1ZdzNKSy1TYlM4eWluaU1MTnVjQXVXLWxhTmVHS21nbFJleHYzeVJDc2JOQXJ1WlotR213VURKOA?oc=5",
-      "source": {
-        "name": "www.misslobang.com",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYlVRcHcyTnNHR3VvdGdCMXg2eGVMakI0aU1ldXlOdmU4NVpPUXBhb01uYzJ4WHkyRGpsaUxlMy0wN3JvZ2oxQWZ5Tk1ZdzNKSy1TYlM4eWluaU1MTnVjQXVXLWxhTmVHS21nbFJleHYzeVJDc2JOQXJ1WlotR213VURKOA?oc=5"
-      },
-      "brand": "Burger King",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-10-26"
-    },
-    {
       "id": "kids-enter-free-promo-at-singapore-zoo-rainforest-wild-adven",
       "title": "Kids Enter Free Promo At Singapore Zoo & Rainforest Wild Adventure For Children's Day 2026 - Little Day Out",
       "store": "Singapore Zoo",
@@ -1215,42 +1290,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-29"
-    },
-    {
-      "id": "mcdonald-s-singapore-launches-kids-eat-free-deal-with-free-h",
-      "title": "McDonald’s Singapore Launches Kids Eat Free Deal with FREE Happy Meal for March School Holidays - Great Deals Singapore",
-      "store": "McDonald's",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "McDonald’s Singapore Launches Kids Eat Free Deal with FREE Happy Meal for March School Holidays Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUVUxaVZPODVQZzRHdXpUakp4eXFPb1NGTklaTno4bVpNMFJDempwNDNfNUlWYU04LXpXLVQtd1hhdXZLT3BwVXBNTFl6ZmZnX21tbG80RTBUYVRGNnlOMjZPWXBxZ3lGa3NlUnJ3UDlXNDNvOGxmNHVSeEN6UW1fRm81dW90NjVUUEtoOWR3ZWFJVmwtdVVfZDEtWDRfUQ?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUVUxaVZPODVQZzRHdXpUakp4eXFPb1NGTklaTno4bVpNMFJDempwNDNfNUlWYU04LXpXLVQtd1hhdXZLT3BwVXBNTFl6ZmZnX21tbG80RTBUYVRGNnlOMjZPWXBxZ3lGa3NlUnJ3UDlXNDNvOGxmNHVSeEN6UW1fRm81dW90NjVUUEtoOWR3ZWFJVmwtdVVfZDEtWDRfUQ?oc=5"
-      },
-      "brand": "McDonald's",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-17"
     },
     {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
@@ -1426,8 +1465,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1493,8 +1531,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
@@ -1917,8 +1954,7 @@
       },
       "image": "images/up-sushiro.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "popeyes-heartbeat-bucket",
@@ -1951,8 +1987,7 @@
       },
       "image": "images/up-popeyes-heartbeat.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "tangs-sulwhasoo-candle",
@@ -1985,8 +2020,7 @@
       },
       "image": "images/up-tangs-sulwhasoo.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "panasonic-grooming-10off",
@@ -2051,8 +2085,7 @@
       },
       "image": "images/up-refash.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "toysrus-football-sale",
@@ -2085,8 +2118,7 @@
       },
       "image": "images/up-toysrus.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "punggol-harmony-carnival",
@@ -2119,8 +2151,7 @@
       },
       "image": "images/up-punggol-carnival.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "goldlion-moving-out",
