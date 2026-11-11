@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "categories": [
     {
       "id": "all",
@@ -147,7 +147,6 @@
     "SUKIYA",
     "SUSHIRO",
     "Samsung",
-    "Scoot",
     "Sephora",
     "Shihlin",
     "Singapore Airlines",
@@ -201,39 +200,6 @@
       "first_seen": "2026-11-10",
       "image": "images/deals/burger-king-s-pore-1-for-1-burgers-more-11-11-specials-until.jpg",
       "spotlight": true
-    },
-    {
-      "id": "scoot-s-pore-one-day-sale-has-fares-from-s-81-on-10-nov-26-t",
-      "title": "Scoot S’pore One-Day Sale Has Fares from S$81 on 10 Nov 26, travel up to Feb 2027",
-      "store": "Scoot",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SCOOT"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Explore destinations across Asia, Australia and Europe, with selected ScootPlus fares available.",
-      "expiry": "Ends 10 Nov",
-      "heat": 155,
-      "url": "https://singpromos.com/airlines-flights/scoot-spore-one-day-sale-has-fares-from-s81-on-10-nov-26-travel-up-to-feb-2027-309498/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/airlines-flights/scoot-spore-one-day-sale-has-fares-from-s81-on-10-nov-26-travel-up-to-feb-2027-309498/"
-      },
-      "brand": "Scoot",
-      "expires_at": "2026-11-10",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-10",
-      "image": "images/deals/scoot-s-pore-one-day-sale-has-fares-from-s-81-on-10-nov-26-t.jpg"
     },
     {
       "id": "singapore-airlines-s-50-off-return-flights-with-dbs-posb-car",
