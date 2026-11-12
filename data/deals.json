@@ -148,6 +148,7 @@
     "SUSHIRO",
     "Samsung",
     "Sephora",
+    "Sheng Siong",
     "Shihlin",
     "Singapore Airlines",
     "Singapore Zoo",
@@ -163,6 +164,246 @@
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "sheng-siong-4-days-special-has-h-agen-dazs-ice-cream-at-2-fo",
+      "title": "Sheng Siong 4 Days Special Has Häagen-Dazs Ice Cream at 2 for $19.80 until 15 Nov 2026",
+      "store": "Sheng Siong",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "SHENG SIONG"
+        },
+        {
+          "type": "discount",
+          "label": "55% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Plus TOP NANOX at 55% off, Glade at half price and more supermarket bargains",
+      "expiry": "Ends 15 Nov",
+      "heat": 165,
+      "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-4-days-special-has-haagen-dazs-ice-cream-at-2-for-19-80-until-15-nov-2026-309611/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-4-days-special-has-haagen-dazs-ice-cream-at-2-for-19-80-until-15-nov-2026-309611/"
+      },
+      "brand": "Sheng Siong",
+      "expires_at": "2026-11-15",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-12",
+      "spotlight": true,
+      "image": "images/deals/sheng-siong-4-days-special-has-h-agen-dazs-ice-cream-at-2-fo.jpg"
+    },
+    {
+      "id": "mcdonald-s-s-pore-has-10-bt21-collectibles-with-happy-meals-",
+      "title": "McDonald’s S’pore Has 10 BT21 Collectibles With Happy Meals Till 16 Dec 2026",
+      "store": "McDonald's",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "MCDONALD'S"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "New collectibles every Thursday at 11am, plus a fun digital dance experience!",
+      "expiry": "Ends 16 Dec",
+      "heat": 150,
+      "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-has-10-bt21-collectibles-with-happy-meals-till-16-dec-2026-309638/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-has-10-bt21-collectibles-with-happy-meals-till-16-dec-2026-309638/"
+      },
+      "brand": "McDonald's",
+      "expires_at": "2026-12-16",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-12",
+      "image": "images/deals/mcdonald-s-s-pore-has-10-bt21-collectibles-with-happy-meals-.jpg"
+    },
+    {
+      "id": "7-eleven-s-pore-cornetto-royale-buy-1-get-1-free-up-to-55-of",
+      "title": "7-Eleven S’pore Cornetto Royale Buy 1 Get 1 FREE & Up to 55% Off 4-Day Specials Till 15 Nov 2026",
+      "store": "7-Eleven",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        },
+        {
+          "type": "discount",
+          "label": "55% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Four ice cream flavours at $3 a pair, plus six Dragon Brand bird's nest drinks for $15",
+      "expiry": "Ends 15 Nov",
+      "heat": 135,
+      "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-cornetto-royale-buy-1-get-1-free-up-to-55-off-4-day-specials-till-15-nov-2026-309654/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-cornetto-royale-buy-1-get-1-free-up-to-55-off-4-day-specials-till-15-nov-2026-309654/"
+      },
+      "expires_at": "2026-11-15",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-12",
+      "image": "images/deals/7-eleven-s-pore-cornetto-royale-buy-1-get-1-free-up-to-55-of.jpg"
+    },
+    {
+      "id": "dunkin-s-pore-dozen-day-buy-9-donuts-get-3-free-on-12-nov-20",
+      "title": "Dunkin’ S’pore Dozen Day Buy 9 Donuts, Get 3 Free on 12 Nov 2026",
+      "store": "Dunkin’",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "A sweet excuse to stock up on favourite flavours",
+      "expiry": "Ends 12 Nov",
+      "heat": 110,
+      "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-dozen-day-buy-9-donuts-get-3-free-on-12-nov-2026-309370/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-dozen-day-buy-9-donuts-get-3-free-on-12-nov-2026-309370/"
+      },
+      "expires_at": "2026-11-12",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-12",
+      "image": "images/deals/dunkin-s-pore-dozen-day-buy-9-donuts-get-3-free-on-12-nov-20.jpg"
+    },
+    {
+      "id": "singfinance-fresh-fund-fixed-deposit-offers-up-to-2-p-a-from",
+      "title": "SingFinance Fresh-Fund Fixed Deposit Offers Up To 2% p.a. from 12 Nov 2026",
+      "store": "SingFinance Fresh-Fund Fixed Deposit",
+      "categories": [
+        "finance"
+      ],
+      "icon": "💳",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — see source link to claim"
+      },
+      "desc": "Personal-only daily specials, with a S$1,000 online minimum and seven tenors to choose from.",
+      "expiry": "Ongoing",
+      "heat": 100,
+      "url": "https://singpromos.com/banks-credit-cards/singfinance-fresh-fund-fixed-deposit-offers-up-to-2-p-a-from-12-nov-2026-309624/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/banks-credit-cards/singfinance-fresh-fund-fixed-deposit-offers-up-to-2-p-a-from-12-nov-2026-309624/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "image": "images/deals/singfinance-fresh-fund-fixed-deposit-offers-up-to-2-p-a-from.jpg"
+    },
+    {
+      "id": "domino-s-pizza-s-pore-11-large-pizza-delivery-deal-until-17-",
+      "title": "Domino’s Pizza S’pore $11 Large Pizza Delivery Deal Until 17 Nov 2026 With Promo Code",
+      "store": "Domino’s Pizza",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "code",
+          "label": "PROMO CODE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — see source link to claim"
+      },
+      "desc": "Choose from favourite large pizzas and enjoy delivery from $2.99, with a minimum order requirement",
+      "expiry": "Ends 17 Nov",
+      "heat": 95,
+      "url": "https://singpromos.com/dining-restaurants-food/dominos-pizza-spore-11-large-pizza-delivery-deal-until-17-nov-2026-with-promo-code-309615/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/dominos-pizza-spore-11-large-pizza-delivery-deal-until-17-nov-2026-with-promo-code-309615/"
+      },
+      "expires_at": "2026-11-17",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-12",
+      "image": "images/deals/domino-s-pizza-s-pore-11-large-pizza-delivery-deal-until-17-.jpg"
+    },
+    {
+      "id": "singapore-airlines-11-11-sale-return-flights-from-s-198-to-a",
+      "title": "Singapore Airlines 11.11 Sale: Return Flights from S$198 to Asia, Australia and Europe Until November 20",
+      "store": "Singapore Airlines",
+      "categories": [
+        "travel"
+      ],
+      "icon": "✈️",
+      "badges": [
+        {
+          "type": "new",
+          "label": "SINGAPORE AIRLINES"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Another flight sale, another reason to check how much annual leave is left.",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://www.greatdeals.com.sg/2026/11/12/singapore-airlines-11-11-sale-asia-australia-europe-nov-2026",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://www.greatdeals.com.sg/2026/11/12/singapore-airlines-11-11-sale-asia-australia-europe-nov-2026"
+      },
+      "brand": "Singapore Airlines",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-12",
+      "image": "images/deals/singapore-airlines-11-11-sale-return-flights-from-s-198-to-a.jpg"
+    },
     {
       "id": "singapore-airlines-11-11-return-fares-from-s-198-book-11-20-",
       "title": "Singapore Airlines 11.11 Return Fares from S$198, Book 11-20 Nov 2026",
@@ -183,7 +424,7 @@
       },
       "desc": "Fly from January to May 2027, with extra savings from selected bank cards",
       "expiry": "Ends 20 Nov",
-      "heat": 140,
+      "heat": 115,
       "url": "https://singpromos.com/airlines-flights/singapore-airlines-11-11-return-fares-from-s198-book-11-20-nov-2026-309520/",
       "source": {
         "name": "SINGPromos",
@@ -194,8 +435,7 @@
       "upcoming": false,
       "starts_at": "2026-11-11",
       "first_seen": "2026-11-11",
-      "image": "images/deals/singapore-airlines-11-11-return-fares-from-s-198-book-11-20-.jpg",
-      "spotlight": true
+      "image": "images/deals/singapore-airlines-11-11-return-fares-from-s-198-book-11-20-.jpg"
     },
     {
       "id": "crocs-s-pore-11-11-flash-sale-buy-2-get-40-off-buy-1-get-30-",
@@ -225,7 +465,7 @@
       },
       "desc": "S$1.11 Jibbitz™ charms, free gifts with S$129 spend and free shipping above S$70",
       "expiry": "Ends 12 Nov",
-      "heat": 135,
+      "heat": 105,
       "url": "https://singpromos.com/footwear/crocs-spore-11-11-flash-sale-buy-2-get-40-off-buy-1-get-30-off-till-12-nov-309570/",
       "source": {
         "name": "SINGPromos",
@@ -257,7 +497,7 @@
       },
       "desc": "Doom-themed burgers, chicken meals, collectible figurines and exclusive merchandise",
       "expiry": "Ongoing",
-      "heat": 130,
+      "heat": 105,
       "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-avengers-doomsday-menu-from-25-nov-with-7-50-blind-box-figurines-309505/",
       "source": {
         "name": "SINGPromos",
@@ -294,7 +534,7 @@
       },
       "desc": "Burger King is doubling up the good stuff.",
       "expiry": "Check link for dates",
-      "heat": 110,
+      "heat": 100,
       "url": "https://www.greatdeals.com.sg/2026/11/11/burger-king-1-for-1-deals-november-2026",
       "source": {
         "name": "Great Deals Singapore",
@@ -306,70 +546,6 @@
       "starts_at": "",
       "first_seen": "2026-11-11",
       "image": "images/deals/burger-king-singapore-s-11-11-sale-brings-1-for-1-whopper-lo.jpg"
-    },
-    {
-      "id": "bank-of-china-s-pore-latest-time-deposit-offers-up-to-2-3-p-",
-      "title": "Bank of China S’pore Latest Time Deposit Offers Up To 2.3% p.a. from 10 Nov 2026",
-      "store": "Bank of China",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Mobile-only placements start from S$500, with tenors ranging from one to 24 months",
-      "expiry": "Ongoing",
-      "heat": 105,
-      "url": "https://singpromos.com/banks-credit-cards/bank-of-china-spore-latest-time-deposit-offers-up-to-2-3-p-a-from-10-nov-2026-309551/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/bank-of-china-spore-latest-time-deposit-offers-up-to-2-3-p-a-from-10-nov-2026-309551/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-11-10",
-      "first_seen": "2026-11-11",
-      "image": "images/deals/bank-of-china-s-pore-latest-time-deposit-offers-up-to-2-3-p-.jpg"
-    },
-    {
-      "id": "pizza-hut-s-pore-11-11-members-deal-1-10-personal-pan-pizza-",
-      "title": "Pizza Hut S’pore 11.11 Members Deal $1.10 Personal Pan Pizza from 10-12 Nov 2026",
-      "store": "Pizza Hut",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Choose from three pizza flavours",
-      "expiry": "Ends 12 Nov",
-      "heat": 95,
-      "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-11-11-members-deal-1-10-personal-pan-pizza-from-10-12-nov-2026-309527/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-11-11-members-deal-1-10-personal-pan-pizza-from-10-12-nov-2026-309527/"
-      },
-      "expires_at": "2026-11-12",
-      "upcoming": false,
-      "starts_at": "2026-11-10",
-      "first_seen": "2026-11-11",
-      "image": "images/deals/pizza-hut-s-pore-11-11-members-deal-1-10-personal-pan-pizza-.jpg"
     },
     {
       "id": "pelago-day-flash-sale-has-1-for-1-singapore-oceanarium-ticke",
@@ -408,42 +584,6 @@
       "first_seen": "2026-11-11"
     },
     {
-      "id": "burger-king-11-11-deals-1-for-1-whopper-long-chicken-truffle",
-      "title": "Burger King 11.11 Deals: 1-for-1 Whopper, Long Chicken, Truffle Mayo Burgers and More (9 to 15 Nov 2026) - https://www.m",
-      "store": "Burger King",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "BURGER KING"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Burger King 11.11 Deals: 1-for-1 Whopper, Long Chicken, Truffle Mayo Burgers and More (9 to 15 Nov 2026) https://www.misslobang.com/",
-      "expiry": "Ends 15 Nov",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSm45QWJFeU5jS1A5bU1QRVFjNUZtTjVqOWZjaVY1Y0pORGF3MnNWZTQzUEtVYlVXYmdvemxpM201eVpGVzZ4bG5NXzcxUGtwWTRrMWFETzZ0SHlPa250WTJxVVpkVEx5LTNtSmtrYUpNQVE1VU5FcUVNSkZLLVBEaw?oc=5",
-      "source": {
-        "name": "https://www.misslobang.com/",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSm45QWJFeU5jS1A5bU1QRVFjNUZtTjVqOWZjaVY1Y0pORGF3MnNWZTQzUEtVYlVXYmdvemxpM201eVpGVzZ4bG5NXzcxUGtwWTRrMWFETzZ0SHlPa250WTJxVVpkVEx5LTNtSmtrYUpNQVE1VU5FcUVNSkZLLVBEaw?oc=5"
-      },
-      "brand": "Burger King",
-      "expires_at": "2026-11-15",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-11"
-    },
-    {
       "id": "burger-king-s-pore-1-for-1-burgers-more-11-11-specials-until",
       "title": "Burger King S’pore 1-FOR-1 Burgers & More 11.11 Specials until 15 Nov 2026",
       "store": "Burger King",
@@ -467,7 +607,7 @@
       },
       "desc": "Six tasty choices, including Angus beef, chicken burgers, breakfast croissant and iced MILO",
       "expiry": "Ends 15 Nov",
-      "heat": 145,
+      "heat": 120,
       "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-1-for-1-burgers-more-11-11-specials-until-15-nov-2026-309483/",
       "source": {
         "name": "SINGPromos",
@@ -479,72 +619,6 @@
       "starts_at": "",
       "first_seen": "2026-11-10",
       "image": "images/deals/burger-king-s-pore-1-for-1-burgers-more-11-11-specials-until.jpg"
-    },
-    {
-      "id": "singapore-airlines-s-50-off-return-flights-with-dbs-posb-car",
-      "title": "Singapore Airlines S$50 Off Return Flights with DBS/POSB Cards from 10-16 Nov 2026",
-      "store": "Singapore Airlines",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SINGAPORE AIRLINES"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Save on Economy to Suites fares, with discounts also available for children and infants.",
-      "expiry": "Ends 16 Nov",
-      "heat": 110,
-      "url": "https://singpromos.com/airlines-flights/singapore-airlines-s50-off-return-flights-with-dbs-posb-cards-from-10-16-nov-2026-309443/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/airlines-flights/singapore-airlines-s50-off-return-flights-with-dbs-posb-cards-from-10-16-nov-2026-309443/"
-      },
-      "brand": "Singapore Airlines",
-      "expires_at": "2026-11-16",
-      "upcoming": false,
-      "starts_at": "2026-11-10",
-      "first_seen": "2026-11-10",
-      "image": "images/deals/singapore-airlines-s-50-off-return-flights-with-dbs-posb-car.jpg",
-      "status": "claimed"
-    },
-    {
-      "id": "udders-sweet-11-11-sale-offers-1-for-1-takeaway-ice-cream-pi",
-      "title": "Udders Sweet 11.11 Sale Offers 1-for-1 Takeaway Ice Cream Pints from 11-13 Nov 2026",
-      "store": "Udders Sweet 11.11 Sale",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Double the ice cream",
-      "expiry": "Ends 13 Nov",
-      "heat": 95,
-      "url": "https://singpromos.com/dining-restaurants-food/udders-sweet-11-11-sale-offers-1-for-1-takeaway-ice-cream-pints-from-11-13-nov-2026-309401/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/udders-sweet-11-11-sale-offers-1-for-1-takeaway-ice-cream-pints-from-11-13-nov-2026-309401/"
-      },
-      "expires_at": "2026-11-13",
-      "upcoming": false,
-      "starts_at": "2026-11-11",
-      "first_seen": "2026-11-10",
-      "image": "images/deals/udders-sweet-11-11-sale-offers-1-for-1-takeaway-ice-cream-pi.jpg"
     },
     {
       "id": "razer-gaming-headphones-now-31-off-hardwarezone-singapore",
@@ -581,39 +655,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-10"
-    },
-    {
-      "id": "mcdonald-s-s-pore-mccrispy-fried-chicken-2pc-meals-at-7-95-u",
-      "title": "McDonald’s S’pore McCrispy Fried Chicken 2pc Meals at $7.95 until 25 Nov",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Choose spicy or non-spicy chicken with fries and a drink, plus an extra-crispy coating",
-      "expiry": "Ends 25 Nov",
-      "heat": 100,
-      "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-mccrispy-fried-chicken-2pc-meals-at-7-95-until-25-nov-309423/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-mccrispy-fried-chicken-2pc-meals-at-7-95-until-25-nov-309423/"
-      },
-      "brand": "McDonald's",
-      "expires_at": "2026-11-25",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-09",
-      "image": "images/deals/mcdonald-s-s-pore-mccrispy-fried-chicken-2pc-meals-at-7-95-u.jpg"
     },
     {
       "id": "sephora-11-11-sale-up-to-50-off-plus-buy-2-save-more-brand-d",
@@ -1082,8 +1123,7 @@
       },
       "image": "images/up-orchard-hotel.jpg",
       "first_seen": "2026-11-03",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "kei-kaisendon-premium-set",
@@ -1435,8 +1475,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1502,8 +1541,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
@@ -1926,8 +1964,7 @@
       },
       "image": "images/up-sushiro.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "popeyes-heartbeat-bucket",
@@ -1960,8 +1997,7 @@
       },
       "image": "images/up-popeyes-heartbeat.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "tangs-sulwhasoo-candle",
@@ -1994,8 +2030,7 @@
       },
       "image": "images/up-tangs-sulwhasoo.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "panasonic-grooming-10off",
@@ -2060,8 +2095,7 @@
       },
       "image": "images/up-refash.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "toysrus-football-sale",
@@ -2094,8 +2128,7 @@
       },
       "image": "images/up-toysrus.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "punggol-harmony-carnival",
@@ -2128,8 +2161,7 @@
       },
       "image": "images/up-punggol-carnival.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "goldlion-moving-out",
