@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "categories": [
     {
       "id": "all",
@@ -269,38 +269,6 @@
       "starts_at": "2026-11-25",
       "first_seen": "2026-11-11",
       "image": "images/deals/kfc-s-pore-avengers-doomsday-menu-from-25-nov-with-7-50-blin.jpg"
-    },
-    {
-      "id": "famous-amos-s-pore-11-11-deal-get-300g-cookies-in-a-bag-for-",
-      "title": "Famous Amos S’pore 11.11 Deal Get 300g Cookies in a Bag for $11.11 on 11 Nov 2026",
-      "store": "Famous Amos",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Two popular cookie flavours in one bag",
-      "expiry": "Ends 11 Nov",
-      "heat": 110,
-      "url": "https://singpromos.com/dining-restaurants-food/famous-amos-spore-11-11-deal-get-300g-cookies-in-a-bag-for-11-11-on-11-nov-2026-309553/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/famous-amos-spore-11-11-deal-get-300g-cookies-in-a-bag-for-11-11-on-11-nov-2026-309553/"
-      },
-      "expires_at": "2026-11-11",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-11",
-      "image": "images/deals/famous-amos-s-pore-11-11-deal-get-300g-cookies-in-a-bag-for-.jpg"
     },
     {
       "id": "burger-king-singapore-s-11-11-sale-brings-1-for-1-whopper-lo",
