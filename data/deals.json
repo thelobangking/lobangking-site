@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "categories": [
     {
       "id": "all",
@@ -147,7 +147,6 @@
     "SUKIYA",
     "SUSHIRO",
     "Samsung",
-    "Sephora",
     "Sheng Siong",
     "Shihlin",
     "Singapore Airlines",
@@ -274,38 +273,6 @@
       "starts_at": "",
       "first_seen": "2026-11-12",
       "image": "images/deals/7-eleven-s-pore-cornetto-royale-buy-1-get-1-free-up-to-55-of.jpg"
-    },
-    {
-      "id": "dunkin-s-pore-dozen-day-buy-9-donuts-get-3-free-on-12-nov-20",
-      "title": "Dunkin’ S’pore Dozen Day Buy 9 Donuts, Get 3 Free on 12 Nov 2026",
-      "store": "Dunkin’",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "A sweet excuse to stock up on favourite flavours",
-      "expiry": "Ends 12 Nov",
-      "heat": 110,
-      "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-dozen-day-buy-9-donuts-get-3-free-on-12-nov-2026-309370/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-dozen-day-buy-9-donuts-get-3-free-on-12-nov-2026-309370/"
-      },
-      "expires_at": "2026-11-12",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-12",
-      "image": "images/deals/dunkin-s-pore-dozen-day-buy-9-donuts-get-3-free-on-12-nov-20.jpg"
     },
     {
       "id": "singfinance-fresh-fund-fixed-deposit-offers-up-to-2-p-a-from",
@@ -436,46 +403,6 @@
       "starts_at": "2026-11-11",
       "first_seen": "2026-11-11",
       "image": "images/deals/singapore-airlines-11-11-return-fares-from-s-198-book-11-20-.jpg"
-    },
-    {
-      "id": "crocs-s-pore-11-11-flash-sale-buy-2-get-40-off-buy-1-get-30-",
-      "title": "Crocs S’pore 11.11 Flash Sale Buy 2+ Get 40% Off, Buy 1 Get 30% Off till 12 Nov",
-      "store": "Crocs",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        },
-        {
-          "type": "discount",
-          "label": "40% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "S$1.11 Jibbitz™ charms, free gifts with S$129 spend and free shipping above S$70",
-      "expiry": "Ends 12 Nov",
-      "heat": 105,
-      "url": "https://singpromos.com/footwear/crocs-spore-11-11-flash-sale-buy-2-get-40-off-buy-1-get-30-off-till-12-nov-309570/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/footwear/crocs-spore-11-11-flash-sale-buy-2-get-40-off-buy-1-get-30-off-till-12-nov-309570/"
-      },
-      "expires_at": "2026-11-12",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-11",
-      "image": "images/deals/crocs-s-pore-11-11-flash-sale-buy-2-get-40-off-buy-1-get-30-.jpg"
     },
     {
       "id": "kfc-s-pore-avengers-doomsday-menu-from-25-nov-with-7-50-blin",
@@ -655,42 +582,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-10"
-    },
-    {
-      "id": "sephora-11-11-sale-up-to-50-off-plus-buy-2-save-more-brand-d",
-      "title": "Sephora 11.11 Sale: Up to 50% Off Plus Buy 2, Save More Brand Deals, Online Only to 12 Nov 2026 - https://www.misslobang",
-      "store": "Sephora",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SEPHORA"
-        },
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "Sephora 11.11 Sale: Up to 50% Off Plus Buy 2, Save More Brand Deals, Online Only to 12 Nov 2026 https://www.misslobang.com/",
-      "expiry": "Ends 12 Nov",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQmFaVUNlcE5IVVROc0VrVTlJU3Z4Zl84enNJaUVzY19xMlFTeC1sMlRhY0pZLTZWdHFRQTZrNnhfTXBjZGNId1RBUHRRNkNBUUJaUU84WWpKZ2JfTWVZUzV3MmVFZnRCU0lZZXA2WU5DWGhRUkJkZXhnZy1lblpDUg?oc=5",
-      "source": {
-        "name": "https://www.misslobang.com/",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQmFaVUNlcE5IVVROc0VrVTlJU3Z4Zl84enNJaUVzY19xMlFTeC1sMlRhY0pZLTZWdHFRQTZrNnhfTXBjZGNId1RBUHRRNkNBUUJaUU84WWpKZ2JfTWVZUzV3MmVFZnRCU0lZZXA2WU5DWGhRUkJkZXhnZy1lblpDUg?oc=5"
-      },
-      "brand": "Sephora",
-      "expires_at": "2026-11-12",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-09"
     },
     {
       "id": "join-the-easy-mode-club-a-fuss-free-way-to-try-the-galaxy-s2",
