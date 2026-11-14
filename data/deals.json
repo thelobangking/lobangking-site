@@ -146,7 +146,6 @@
     "Popeyes",
     "Punggol GRC",
     "REFASH",
-    "Razer",
     "SUKIYA",
     "SUSHIRO",
     "Samsung",
@@ -165,6 +164,111 @@
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "dunkin-s-pore-offers-buy-1-get-1-free-bagels-every-saturday-",
+      "title": "Dunkin’ S’pore offers Buy 1 Get 1 FREE bagels every Saturday from 14 Nov 2026",
+      "store": "Dunkin’",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Four tempting bagel flavours served with creamy cream cheese, available all day",
+      "expiry": "Ongoing",
+      "heat": 135,
+      "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-offers-buy-1-get-1-free-bagels-every-saturday-from-14-nov-2026-309757/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-offers-buy-1-get-1-free-bagels-every-saturday-from-14-nov-2026-309757/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "spotlight": true,
+      "image": "images/deals/dunkin-s-pore-offers-buy-1-get-1-free-bagels-every-saturday-.jpg"
+    },
+    {
+      "id": "unity-pharmacy-buy-1-get-1-deals-till-18-nov-2026",
+      "title": "Unity Pharmacy Buy 1 Get 1 Deals Till 18 Nov 2026",
+      "store": "Unity Pharmacy Buy 1",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Stock up on vitamins, supplements, skincare, toiletries and more for less.",
+      "expiry": "Ends 18 Nov",
+      "heat": 130,
+      "url": "https://singpromos.com/health/unity-pharmacy-buy-1-get-1-deals-till-18-nov-2026-309750/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/health/unity-pharmacy-buy-1-get-1-deals-till-18-nov-2026-309750/"
+      },
+      "expires_at": "2026-11-18",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-14",
+      "image": "images/deals/unity-pharmacy-buy-1-get-1-deals-till-18-nov-2026.jpg"
+    },
+    {
+      "id": "up-to-70-off-selected-items-at-don-don-donki-till-19-jul-set",
+      "title": "Up to 70% off selected items at Don Don Donki till 19 Jul - SETHLUI.com",
+      "store": "Don Don Donki",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "DON DON DONKI"
+        },
+        {
+          "type": "discount",
+          "label": "70% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Up to 70% off selected items at Don Don Donki till 19 Jul SETHLUI.com",
+      "expiry": "Ends 19 Jul",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5",
+      "source": {
+        "name": "SETHLUI.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5"
+      },
+      "brand": "Don Don Donki",
+      "expires_at": "2027-07-19",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-14"
+    },
     {
       "id": "amazon-sg-black-friday-sale-from-19-30-nov-2026-with-daily-f",
       "title": "Amazon.sg Black Friday Sale from 19 – 30 Nov 2026 with Daily Flash Vouchers",
@@ -185,7 +289,7 @@
       },
       "desc": "Shop deals from major brands, daily Flash Drops, extra vouchers and more",
       "expiry": "Ends 30 Nov",
-      "heat": 150,
+      "heat": 140,
       "url": "https://singpromos.com/department-stores/amazon-sg-black-friday-sale-from-19-30-nov-2026-with-daily-flash-vouchers-309711/",
       "source": {
         "name": "SINGPromos",
@@ -196,8 +300,7 @@
       "upcoming": true,
       "starts_at": "2026-11-19",
       "first_seen": "2026-11-13",
-      "image": "images/deals/amazon-sg-black-friday-sale-from-19-30-nov-2026-with-daily-f.jpg",
-      "spotlight": true
+      "image": "images/deals/amazon-sg-black-friday-sale-from-19-30-nov-2026-with-daily-f.jpg"
     },
     {
       "id": "old-chang-kee-offers-free-puff-with-any-5-snacks-purchased-t",
@@ -219,7 +322,7 @@
       },
       "desc": "Choose from three signature puffs for an extra tasty treat this festive season",
       "expiry": "Ends 30 Nov",
-      "heat": 135,
+      "heat": 125,
       "url": "https://singpromos.com/dining-restaurants-food/old-chang-kee-offers-free-puff-with-any-5-snacks-purchased-till-30-nov-2026-309730/",
       "source": {
         "name": "SINGPromos",
@@ -251,7 +354,7 @@
       },
       "desc": "Give old school books a second life at nine donation points islandwide",
       "expiry": "Ends 28 Nov",
-      "heat": 135,
+      "heat": 125,
       "url": "https://singpromos.com/books/fairprice-share-a-textbook-returns-donate-preloved-textbooks-from-14-to-28-nov-2026-309684/",
       "source": {
         "name": "SINGPromos",
@@ -284,7 +387,7 @@
       },
       "desc": "Crispy chicken bacon, juicy tomato and crunchy lettuce for an extra satisfying bite",
       "expiry": "Ongoing",
-      "heat": 130,
+      "heat": 120,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-launches-new-mcspicy-b-l-t-and-mcchicken-b-l-t-burgers-from-12-nov-2026-309669/",
       "source": {
         "name": "SINGPromos",
@@ -317,7 +420,7 @@
       },
       "desc": "Three more days of instant savings, just in time for weekend drives!",
       "expiry": "Ends 15 Nov",
-      "heat": 120,
+      "heat": 110,
       "url": "https://singpromos.com/motor-vehicles/shell-spore-extends-23-off-fuel-with-all-bank-cards-for-go-members-from-13-15-nov-2026-309692/",
       "source": {
         "name": "SINGPromos",
@@ -347,9 +450,9 @@
         "type": "easy",
         "label": "See source for how to redeem"
       },
-      "desc": "Save over 54% on a classic tea-time favourite at eight selected outlets for two hours only.",
+      "desc": "Save over 54% on a classic tea-time favourite for two hours only",
       "expiry": "Ends 16 Nov",
-      "heat": 105,
+      "heat": 95,
       "url": "https://singpromos.com/dining-restaurants-food/polar-puffs-cakes-offers-1-sugar-rolls-at-eight-outlets-on-16-nov-2026-309699/",
       "source": {
         "name": "SINGPromos",
@@ -360,42 +463,6 @@
       "starts_at": "",
       "first_seen": "2026-11-13",
       "image": "images/deals/polar-puffs-cakes-offers-1-sugar-rolls-at-eight-outlets-on-1.jpg"
-    },
-    {
-      "id": "up-to-70-off-selected-items-at-don-don-donki-till-19-jul-yah",
-      "title": "Up to 70% off selected items at Don Don Donki till 19 Jul - Yahoo Lifestyle Singapore",
-      "store": "Don Don Donki",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "DON DON DONKI"
-        },
-        {
-          "type": "discount",
-          "label": "70% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Up to 70% off selected items at Don Don Donki till 19 Jul Yahoo Lifestyle Singapore",
-      "expiry": "Ends 19 Jul",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sVFN2R1k0c1ZMb1F2N1dvVllOTjJKTmdjQ1Mtb1ozY2ZXVGl4aHBBSlVBcVo0WHNKUHYxVnFhVDltRm1jS2w5RjBuLUtwSWRXamg4NjZkbzh2YnZ1dHZuMlFlVnJKM21mY0NLSFpGQnU1TlNKdmc?oc=5",
-      "source": {
-        "name": "Yahoo Lifestyle Singapore",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sVFN2R1k0c1ZMb1F2N1dvVllOTjJKTmdjQ1Mtb1ozY2ZXVGl4aHBBSlVBcVo0WHNKUHYxVnFhVDltRm1jS2w5RjBuLUtwSWRXamg4NjZkbzh2YnZ1dHZuMlFlVnJKM21mY0NLSFpGQnU1TlNKdmc?oc=5"
-      },
-      "brand": "Don Don Donki",
-      "expires_at": "2027-07-19",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-13"
     },
     {
       "id": "uniqlo-singapore-giving-away-free-clicker-key-charms-and-tot",
@@ -474,42 +541,6 @@
       "first_seen": "2026-11-13"
     },
     {
-      "id": "razer-gaming-headphones-now-31-off-hardwarezone",
-      "title": "Razer Gaming Headphones Now 31% Off - HardwareZone",
-      "store": "Razer",
-      "categories": [
-        "entertainment"
-      ],
-      "icon": "🎮",
-      "badges": [
-        {
-          "type": "new",
-          "label": "RAZER"
-        },
-        {
-          "type": "discount",
-          "label": "31% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Razer Gaming Headphones Now 31% Off HardwareZone",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWYUt4SVcxX0VXX1BPR2NFaGFVTV81ODZ3VE83VWdPSE5yM1hVaW83ZDRtcnJJemFLWVUxOXRJaXI3WlE1UEsxcDUxdWNaMFQ1cVJSRVFheFFOVmJTY1dpM081MWhDZmNidVNEUHZVcVRCVHZKbWZaN2Jn?oc=5",
-      "source": {
-        "name": "HardwareZone",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWYUt4SVcxX0VXX1BPR2NFaGFVTV81ODZ3VE83VWdPSE5yM1hVaW83ZDRtcnJJemFLWVUxOXRJaXI3WlE1UEsxcDUxdWNaMFQ1cVJSRVFheFFOVmJTY1dpM081MWhDZmNidVNEUHZVcVRCVHZKbWZaN2Jn?oc=5"
-      },
-      "brand": "Razer",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-13"
-    },
-    {
       "id": "sheng-siong-4-days-special-has-h-agen-dazs-ice-cream-at-2-fo",
       "title": "Sheng Siong 4 Days Special Has Häagen-Dazs Ice Cream at 2 for $19.80 until 15 Nov 2026",
       "store": "Sheng Siong",
@@ -533,7 +564,7 @@
       },
       "desc": "Plus TOP NANOX at 55% off, Glade at half price and more supermarket bargains",
       "expiry": "Ends 15 Nov",
-      "heat": 135,
+      "heat": 125,
       "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-4-days-special-has-haagen-dazs-ice-cream-at-2-for-19-80-until-15-nov-2026-309611/",
       "source": {
         "name": "SINGPromos",
@@ -566,7 +597,7 @@
       },
       "desc": "New collectibles every Thursday at 11am, plus a fun digital dance experience!",
       "expiry": "Ends 16 Dec",
-      "heat": 120,
+      "heat": 110,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-has-10-bt21-collectibles-with-happy-meals-till-16-dec-2026-309638/",
       "source": {
         "name": "SINGPromos",
@@ -607,7 +638,7 @@
       },
       "desc": "Four ice cream flavours at $3 a pair, plus six Dragon Brand bird's nest drinks for $15",
       "expiry": "Ends 15 Nov",
-      "heat": 105,
+      "heat": 95,
       "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-cornetto-royale-buy-1-get-1-free-up-to-55-off-4-day-specials-till-15-nov-2026-309654/",
       "source": {
         "name": "SINGPromos",
@@ -688,42 +719,6 @@
       },
       "brand": "Universal Studios Singapore",
       "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-11"
-    },
-    {
-      "id": "burger-king-11-11-deals-1-for-1-whopper-long-chicken-truffle",
-      "title": "Burger King 11.11 Deals: 1-for-1 Whopper, Long Chicken, Truffle Mayo Burgers and More (9 to 15 Nov 2026) - https://www.m",
-      "store": "Burger King",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "BURGER KING"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Burger King 11.11 Deals: 1-for-1 Whopper, Long Chicken, Truffle Mayo Burgers and More (9 to 15 Nov 2026) https://www.misslobang.com/",
-      "expiry": "Ends 15 Nov",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSm45QWJFeU5jS1A5bU1QRVFjNUZtTjVqOWZjaVY1Y0pORGF3MnNWZTQzUEtVYlVXYmdvemxpM201eVpGVzZ4bG5NXzcxUGtwWTRrMWFETzZ0SHlPa250WTJxVVpkVEx5LTNtSmtrYUpNQVE1VU5FcUVNSkZLLVBEaw?oc=5",
-      "source": {
-        "name": "https://www.misslobang.com/",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSm45QWJFeU5jS1A5bU1QRVFjNUZtTjVqOWZjaVY1Y0pORGF3MnNWZTQzUEtVYlVXYmdvemxpM201eVpGVzZ4bG5NXzcxUGtwWTRrMWFETzZ0SHlPa250WTJxVVpkVEx5LTNtSmtrYUpNQVE1VU5FcUVNSkZLLVBEaw?oc=5"
-      },
-      "brand": "Burger King",
-      "expires_at": "2026-11-15",
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-11"
@@ -1159,8 +1154,7 @@
       },
       "image": "images/up-orchard-hotel.jpg",
       "first_seen": "2026-11-03",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "kei-kaisendon-premium-set",
@@ -1440,8 +1434,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1507,8 +1500,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
@@ -1931,8 +1923,7 @@
       },
       "image": "images/up-sushiro.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "popeyes-heartbeat-bucket",
@@ -1965,8 +1956,7 @@
       },
       "image": "images/up-popeyes-heartbeat.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "tangs-sulwhasoo-candle",
@@ -1999,8 +1989,7 @@
       },
       "image": "images/up-tangs-sulwhasoo.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "panasonic-grooming-10off",
@@ -2065,8 +2054,7 @@
       },
       "image": "images/up-refash.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "toysrus-football-sale",
@@ -2099,8 +2087,7 @@
       },
       "image": "images/up-toysrus.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "punggol-harmony-carnival",
@@ -2133,8 +2120,7 @@
       },
       "image": "images/up-punggol-carnival.jpg",
       "first_seen": "2026-07-05",
-      "upcoming": true,
-      "status": "claimed"
+      "upcoming": true
     },
     {
       "id": "goldlion-moving-out",
