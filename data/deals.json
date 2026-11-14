@@ -198,8 +198,8 @@
       "upcoming": false,
       "starts_at": "2026-11-14",
       "first_seen": "2026-11-14",
-      "spotlight": true,
-      "image": "images/deals/dunkin-s-pore-offers-buy-1-get-1-free-bagels-every-saturday-.jpg"
+      "image": "images/deals/dunkin-s-pore-offers-buy-1-get-1-free-bagels-every-saturday-.jpg",
+      "spotlight": true
     },
     {
       "id": "unity-pharmacy-buy-1-get-1-deals-till-18-nov-2026",
