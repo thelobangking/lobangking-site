@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "categories": [
     {
       "id": "all",
@@ -1301,42 +1301,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-09-30"
-    },
-    {
-      "id": "kids-get-to-build-their-own-meal-at-mcdonald-s-this-children",
-      "title": "Kids Get To Build Their Own Meal At McDonald’s This Children’s Day (+ Free Vanilla Cone!) - Sassy Mama Singapore",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Kids Get To Build Their Own Meal At McDonald’s This Children’s Day (+ Free Vanilla Cone!) Sassy Mama Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRUx0ZGl1V0VoVGZieUpkX2J4N1ZULUF5NVZkOU1TbTBjSl9KdTF6Rldicy1sX1FjN0lBOHdUeS1HbnJnME01M253NHhRTWJ5YTZwakt5UTJYc2xEdDI3R2pB?oc=5",
-      "source": {
-        "name": "Sassy Mama Singapore",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IRUx0ZGl1V0VoVGZieUpkX2J4N1ZULUF5NVZkOU1TbTBjSl9KdTF6Rldicy1sX1FjN0lBOHdUeS1HbnJnME01M253NHhRTWJ5YTZwakt5UTJYc2xEdDI3R2pB?oc=5"
-      },
-      "brand": "McDonald's",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-29"
     },
     {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
