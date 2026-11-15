@@ -198,8 +198,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-15",
-      "spotlight": true,
-      "image": "images/deals/dunkin-s-pore-offers-buy-1-get-1-free-sunny-egg-every-sunday.jpg"
+      "image": "images/deals/dunkin-s-pore-offers-buy-1-get-1-free-sunny-egg-every-sunday.jpg",
+      "spotlight": true
     },
     {
       "id": "dunkin-s-pore-offers-buy-1-get-1-free-bagels-every-saturday-",
