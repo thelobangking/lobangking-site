@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "categories": [
     {
       "id": "all",
@@ -151,7 +151,6 @@
     "Samsung",
     "Sheng Siong",
     "Shihlin",
-    "Singapore Zoo",
     "Sothys",
     "Swensen's",
     "TANGS",
@@ -1260,42 +1259,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-10-31"
-    },
-    {
-      "id": "kids-enter-free-promo-at-singapore-zoo-rainforest-wild-adven",
-      "title": "Kids Enter Free Promo At Singapore Zoo & Rainforest Wild Adventure For Children's Day 2026 - Little Day Out",
-      "store": "Singapore Zoo",
-      "categories": [
-        "entertainment"
-      ],
-      "icon": "🎮",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SINGAPORE ZOO"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Kids Enter Free Promo At Singapore Zoo & Rainforest Wild Adventure For Children's Day 2026 Little Day Out",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMERlTHBGNElBOExBTmZOcTVFQWw1ckRHRHk2UnNKNmZlQk9GLTdlSGRXWmdvVmI3TE9fZEw4R0p3RWx4amNkMzZGVVNQOVpxVVFCQ1prV3V3a3FmX0F1TkJxaUdjR0dSbi1lTWE5ME9LRWx5WWhfZWF4OXZ6cmVMemZ0UTFxZjBsRHViZTFxdk1SR3o0Nm1rSHZDSllicTFC?oc=5",
-      "source": {
-        "name": "Little Day Out",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMERlTHBGNElBOExBTmZOcTVFQWw1ckRHRHk2UnNKNmZlQk9GLTdlSGRXWmdvVmI3TE9fZEw4R0p3RWx4amNkMzZGVVNQOVpxVVFCQ1prV3V3a3FmX0F1TkJxaUdjR0dSbi1lTWE5ME9LRWx5WWhfZWF4OXZ6cmVMemZ0UTFxZjBsRHViZTFxdk1SR3o0Nm1rSHZDSllicTFC?oc=5"
-      },
-      "brand": "Singapore Zoo",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-09-30"
     },
     {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
