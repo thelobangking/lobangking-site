@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "categories": [
     {
       "id": "all",
@@ -150,7 +150,6 @@
     "SUKIYA",
     "SUSHIRO",
     "Samsung",
-    "Sheng Siong",
     "Shihlin",
     "Sothys",
     "Swensen's",
@@ -437,38 +436,6 @@
       "image": "images/deals/mcdonald-s-s-pore-launches-new-mcspicy-b-l-t-and-mcchicken-b.jpg"
     },
     {
-      "id": "shell-s-pore-extends-23-off-fuel-with-all-bank-cards-for-go-",
-      "title": "Shell S’pore Extends 23% Off Fuel with All Bank Cards for GO+ Members from 13-15 Nov 2026",
-      "store": "Shell",
-      "categories": [
-        "transport"
-      ],
-      "icon": "🚗",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "23% OFF"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Three more days of instant savings, just in time for weekend drives!",
-      "expiry": "Ends 15 Nov",
-      "heat": 105,
-      "url": "https://singpromos.com/motor-vehicles/shell-spore-extends-23-off-fuel-with-all-bank-cards-for-go-members-from-13-15-nov-2026-309692/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/motor-vehicles/shell-spore-extends-23-off-fuel-with-all-bank-cards-for-go-members-from-13-15-nov-2026-309692/"
-      },
-      "expires_at": "2026-11-15",
-      "upcoming": false,
-      "starts_at": "2026-11-13",
-      "first_seen": "2026-11-13",
-      "image": "images/deals/shell-s-pore-extends-23-off-fuel-with-all-bank-cards-for-go-.jpg"
-    },
-    {
       "id": "polar-puffs-cakes-offers-1-sugar-rolls-at-eight-outlets-on-1",
       "title": "Polar Puffs & Cakes offers $1 Sugar Rolls at eight outlets on 16 Nov 2026",
       "store": "Polar Puffs & Cakes",
@@ -577,43 +544,6 @@
       "first_seen": "2026-11-13"
     },
     {
-      "id": "sheng-siong-4-days-special-has-h-agen-dazs-ice-cream-at-2-fo",
-      "title": "Sheng Siong 4 Days Special Has Häagen-Dazs Ice Cream at 2 for $19.80 until 15 Nov 2026",
-      "store": "Sheng Siong",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SHENG SIONG"
-        },
-        {
-          "type": "discount",
-          "label": "55% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Plus TOP NANOX at 55% off, Glade at half price and more supermarket bargains",
-      "expiry": "Ends 15 Nov",
-      "heat": 120,
-      "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-4-days-special-has-haagen-dazs-ice-cream-at-2-for-19-80-until-15-nov-2026-309611/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/sheng-siong-4-days-special-has-haagen-dazs-ice-cream-at-2-for-19-80-until-15-nov-2026-309611/"
-      },
-      "brand": "Sheng Siong",
-      "expires_at": "2026-11-15",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-12",
-      "image": "images/deals/sheng-siong-4-days-special-has-h-agen-dazs-ice-cream-at-2-fo.jpg"
-    },
-    {
       "id": "mcdonald-s-s-pore-has-10-bt21-collectibles-with-happy-meals-",
       "title": "McDonald’s S’pore Has 10 BT21 Collectibles With Happy Meals Till 16 Dec 2026",
       "store": "McDonald's",
@@ -645,46 +575,6 @@
       "starts_at": "",
       "first_seen": "2026-11-12",
       "image": "images/deals/mcdonald-s-s-pore-has-10-bt21-collectibles-with-happy-meals-.jpg"
-    },
-    {
-      "id": "7-eleven-s-pore-cornetto-royale-buy-1-get-1-free-up-to-55-of",
-      "title": "7-Eleven S’pore Cornetto Royale Buy 1 Get 1 FREE & Up to 55% Off 4-Day Specials Till 15 Nov 2026",
-      "store": "7-Eleven",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        },
-        {
-          "type": "discount",
-          "label": "55% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Four ice cream flavours at $3 a pair, plus six Dragon Brand bird's nest drinks for $15",
-      "expiry": "Ends 15 Nov",
-      "heat": 90,
-      "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-cornetto-royale-buy-1-get-1-free-up-to-55-off-4-day-specials-till-15-nov-2026-309654/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-cornetto-royale-buy-1-get-1-free-up-to-55-off-4-day-specials-till-15-nov-2026-309654/"
-      },
-      "expires_at": "2026-11-15",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-12",
-      "image": "images/deals/7-eleven-s-pore-cornetto-royale-buy-1-get-1-free-up-to-55-of.jpg"
     },
     {
       "id": "burger-king-singapore-s-11-11-sale-brings-1-for-1-whopper-lo",
