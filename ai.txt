@@ -97,6 +97,7 @@ Disallow: /
 # - Google-Extended
 # - Google-Firebase
 # - Google-Gemini-CLI
+# - Google-GeminiNotebook
 # - Google-NotebookLM
 # - GoogleAgent-Mariner
 # - GoogleAgent-URLContext
@@ -107,6 +108,7 @@ Disallow: /
 # - Grok Bot
 # - GrokAppAndroid
 # - GrokBot
+# - Haiku-SearchBot
 # - HarkBot
 # - HenkBot
 # - Hunyuan
@@ -132,16 +134,18 @@ Disallow: /
 # - LAIONDownloader
 # - LCC
 # - Lightpanda
+# - Liner-User
 # - LinerBot
 # - Linguee Bot
 # - LinkupBot
 # - magpie-crawler
 # - Manus-User
-# - meta-externalagent
 # - Meta-ExternalAgent
+# - meta-externalagent
 # - Meta-ExternalFetcher
 # - meta-externalfetcher
 # - meta-webindexer
+# - MiniMaxAgent
 # - MistralAI-Index
 # - MistralAI-Training
 # - MistralAI-User
@@ -203,8 +207,8 @@ Disallow: /
 # - UseAI
 # - VelenPublicWebCrawler
 # - WARDBot
-# - webzio-extended
 # - Webzio-Extended
+# - webzio-extended
 # - wpbot
 # - WRTNBot
 # - xAI-Grok
