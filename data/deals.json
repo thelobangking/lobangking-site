@@ -198,8 +198,8 @@
       "starts_at": "",
       "first_seen": "2026-11-16",
       "image": "images/deals/agoda-sg-extra-15-off-hotels-with-dbs-posb-cards-till-30-nov.jpg",
-      "spotlight": true,
-      "status": "claimed"
+      "status": "claimed",
+      "spotlight": true
     },
     {
       "id": "burger-king-s-pore-new-app-deals-from-2-95-with-1-for-1-kitk",
