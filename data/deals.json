@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "categories": [
     {
       "id": "all",
@@ -237,39 +237,6 @@
       "starts_at": "",
       "first_seen": "2026-11-16",
       "image": "images/deals/burger-king-s-pore-new-app-deals-from-2-95-with-1-for-1-kitk.jpg"
-    },
-    {
-      "id": "kfc-s-pore-6-50-zinger-meal-app-deal-on-16-nov-2026",
-      "title": "KFC S’pore $6.50 Zinger Meal App Deal on 16 Nov 2026",
-      "store": "KFC",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "KFC"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Save 22% on a crispy chicken burger meal with fries and Coca-Cola Zero Sugar",
-      "expiry": "Ends 16 Nov",
-      "heat": 140,
-      "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-zinger-meal-app-deal-on-16-nov-2026-309787/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-zinger-meal-app-deal-on-16-nov-2026-309787/"
-      },
-      "brand": "KFC",
-      "expires_at": "2026-11-16",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-16",
-      "image": "images/deals/kfc-s-pore-6-50-zinger-meal-app-deal-on-16-nov-2026.jpg"
     },
     {
       "id": "pizza-hut-s-pore-offers-10-large-pizzas-u-p-35-05-on-8-days-",
