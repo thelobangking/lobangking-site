@@ -400,7 +400,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-16",
-      "image": "images/deals/agoda-sg-extra-15-off-hotels-with-dbs-posb-cards-till-30-nov.jpg"
+      "image": "images/deals/agoda-sg-extra-15-off-hotels-with-dbs-posb-cards-till-30-nov.jpg",
+      "status": "claimed"
     },
     {
       "id": "burger-king-s-pore-new-app-deals-from-2-95-with-1-for-1-kitk",
@@ -1370,7 +1371,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1436,7 +1438,8 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg"
+      "image": "images/deals/challenger-ms365.jpg",
+      "status": "claimed"
     },
     {
       "id": "courts-get7",
@@ -2088,7 +2091,8 @@
         "url": "https://sg.everydayonsales.com/warehouse-sale/"
       },
       "first_seen": "2026-07-05",
-      "upcoming": false
+      "upcoming": false,
+      "status": "claimed"
     },
     {
       "id": "moley-apparels-closing",
@@ -2120,7 +2124,8 @@
         "url": "https://sg.everydayonsales.com/warehouse-sale/"
       },
       "first_seen": "2026-07-05",
-      "upcoming": false
+      "upcoming": false,
+      "status": "claimed"
     }
   ]
 }
