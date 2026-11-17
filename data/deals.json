@@ -115,8 +115,8 @@
   "brands_today": [
     "4Fingers",
     "Agoda",
-    "Amazon",
     "BEST Denki",
+    "Best Denki",
     "BreadTalk",
     "Burger King",
     "Chagee",
@@ -127,7 +127,6 @@
     "Decathlon",
     "Don Don Donki",
     "Eu Yan Sang",
-    "FairPrice",
     "GOLDLION",
     "Gain City",
     "Giant",
@@ -136,7 +135,7 @@
     "KFC",
     "Kei Kaisendon",
     "Kenny Rogers Roasters",
-    "McDonald's",
+    "LiHO",
     "Michael Kors",
     "Moley Apparels",
     "Muji",
@@ -150,6 +149,7 @@
     "SUSHIRO",
     "Shihlin",
     "Sothys",
+    "Subway",
     "Swensen's",
     "TANGS",
     "Takagi Ramen",
@@ -162,6 +162,209 @@
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "liho-go-compass-one-offers-1-for-1-drinks-for-two-days-only-",
+      "title": "LiHO GO Compass One offers 1-for-1 drinks for two days only until 18 Nov 2026",
+      "store": "LiHO",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "LIHO"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "All regular menu drinks are included",
+      "expiry": "Ends 18 Nov",
+      "heat": 175,
+      "url": "https://singpromos.com/dining-restaurants-food/liho-go-compass-one-offers-1-for-1-drinks-for-two-days-only-until-18-nov-2026-309888/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/liho-go-compass-one-offers-1-for-1-drinks-for-two-days-only-until-18-nov-2026-309888/"
+      },
+      "brand": "LiHO",
+      "expires_at": "2026-11-18",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-17",
+      "spotlight": true,
+      "image": "images/deals/liho-go-compass-one-offers-1-for-1-drinks-for-two-days-only-.jpg"
+    },
+    {
+      "id": "arena-s-pore-warehouse-sale-up-to-80-off-swimwear-more-from-",
+      "title": "Arena S’pore Warehouse Sale Up to 80% Off Swimwear & More from 19-22 Nov 2026",
+      "store": "Arena",
+      "categories": [
+        "online"
+      ],
+      "icon": "🛒",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "80% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Junior swimwear and goggles from $15, backpacks from $35",
+      "expiry": "Ends 22 Nov",
+      "heat": 130,
+      "url": "https://singpromos.com/warehouse-sales/arena-spore-warehouse-sale-up-to-80-off-swimwear-more-from-19-22-nov-2026-309878/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/warehouse-sales/arena-spore-warehouse-sale-up-to-80-off-swimwear-more-from-19-22-nov-2026-309878/"
+      },
+      "expires_at": "2026-11-22",
+      "upcoming": true,
+      "starts_at": "2026-11-19",
+      "first_seen": "2026-11-17",
+      "image": "images/deals/arena-s-pore-warehouse-sale-up-to-80-off-swimwear-more-from-.jpg"
+    },
+    {
+      "id": "lta-cuts-erp-rates-at-selected-gantries-during-the-dec-2026-",
+      "title": "LTA cuts ERP rates at selected gantries during the Dec 2026 school holidays (23 Nov – 31 Dec 2026)",
+      "store": "LTA cuts ERP rates",
+      "categories": [
+        "transport"
+      ],
+      "icon": "🚗",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Save $1 per passenger car unit across 31 time slots, with 10 becoming ERP-free",
+      "expiry": "Ends 31 Dec",
+      "heat": 125,
+      "url": "https://singpromos.com/motor-vehicles/lta-cuts-erp-rates-at-selected-gantries-during-the-dec-2026-school-holidays-23-nov-31-dec-2026-309864/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/motor-vehicles/lta-cuts-erp-rates-at-selected-gantries-during-the-dec-2026-school-holidays-23-nov-31-dec-2026-309864/"
+      },
+      "expires_at": "2026-12-31",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-17",
+      "image": "images/deals/lta-cuts-erp-rates-at-selected-gantries-during-the-dec-2026-.jpg"
+    },
+    {
+      "id": "exabytes-s-pore-black-friday-sale-offers-up-to-80-off-web-ho",
+      "title": "Exabytes S’pore Black Friday Sale Offers Up to 80% Off Web Hosting Plans",
+      "store": "Exabytes",
+      "categories": [
+        "online"
+      ],
+      "icon": "🛒",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "80% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Three-year hosting from S$482.42 upfront, plus chances to win prizes",
+      "expiry": "Check link for dates",
+      "heat": 115,
+      "url": "https://singpromos.com/web-hosting/exabytes-spore-up-to-80-off-black-friday-sale-309854/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/web-hosting/exabytes-spore-up-to-80-off-black-friday-sale-309854/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-17",
+      "image": "images/deals/exabytes-s-pore-black-friday-sale-offers-up-to-80-off-web-ho.jpg"
+    },
+    {
+      "id": "heavy-traffic-expected-at-woodlands-and-tuas-checkpoints-fro",
+      "title": "Heavy Traffic Expected at Woodlands and Tuas Checkpoints from 20 Nov 2026 to 3 Jan 2027",
+      "store": "Heavy Traffic Expected at",
+      "categories": [
+        "transport"
+      ],
+      "icon": "🚗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Check live traffic cameras, passport requirements and important reminders before travelling",
+      "expiry": "Ongoing",
+      "heat": 100,
+      "url": "https://singpromos.com/motor-vehicles/heavy-traffic-expected-at-woodlands-and-tuas-checkpoints-from-20-nov-2026-to-3-jan-2027-309847/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/motor-vehicles/heavy-traffic-expected-at-woodlands-and-tuas-checkpoints-from-20-nov-2026-to-3-jan-2027-309847/"
+      },
+      "expires_at": "",
+      "upcoming": true,
+      "starts_at": "2026-11-20",
+      "first_seen": "2026-11-17",
+      "image": "images/deals/heavy-traffic-expected-at-woodlands-and-tuas-checkpoints-fro.jpg"
+    },
+    {
+      "id": "uniqlo-singapore-giving-away-free-mini-fleece-jacket-charms-",
+      "title": "UNIQLO Singapore Giving Away FREE Mini Fleece Jacket Charms and Travel Bags From Nov 20",
+      "store": "Uniqlo",
+      "categories": [
+        "travel"
+      ],
+      "icon": "✈️",
+      "badges": [
+        {
+          "type": "new",
+          "label": "UNIQLO"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "A little thank-you gift with your UNIQLO haul.",
+      "expiry": "Check link for dates",
+      "heat": 100,
+      "url": "https://www.greatdeals.com.sg/2026/11/17/uniqlo-free-mini-fleece-jacket-charms-travel-bags-november-2026",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://www.greatdeals.com.sg/2026/11/17/uniqlo-free-mini-fleece-jacket-charms-travel-bags-november-2026"
+      },
+      "brand": "Uniqlo",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-17",
+      "image": "images/deals/uniqlo-singapore-giving-away-free-mini-fleece-jacket-charms-.jpg"
+    },
     {
       "id": "agoda-sg-extra-15-off-hotels-with-dbs-posb-cards-till-30-nov",
       "title": "Agoda SG Extra 15% Off Hotels with DBS/POSB Cards Till 30 Nov 2026",
@@ -186,7 +389,7 @@
       },
       "desc": "Save up to S$30 extra on worldwide hotel bookings, with stays until 30 June 2027.",
       "expiry": "Ends 30 Nov",
-      "heat": 165,
+      "heat": 130,
       "url": "https://singpromos.com/vacations/agoda-sg-extra-15-off-hotels-with-dbs-posb-cards-till-30-nov-2026-309803/",
       "source": {
         "name": "SINGPromos",
@@ -197,9 +400,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-16",
-      "image": "images/deals/agoda-sg-extra-15-off-hotels-with-dbs-posb-cards-till-30-nov.jpg",
-      "status": "claimed",
-      "spotlight": true
+      "image": "images/deals/agoda-sg-extra-15-off-hotels-with-dbs-posb-cards-till-30-nov.jpg"
     },
     {
       "id": "burger-king-s-pore-new-app-deals-from-2-95-with-1-for-1-kitk",
@@ -225,7 +426,7 @@
       },
       "desc": "Save 59% on Mushroom Swiss for new sign-ups, plus $5.95 BBQ Cheesy Gouda Burgers",
       "expiry": "Ends 3 Jan",
-      "heat": 150,
+      "heat": 120,
       "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-new-app-deals-from-2-95-with-1-for-1-kitkat-drinks-till-3-jan-2027-309763/",
       "source": {
         "name": "SINGPromos",
@@ -237,206 +438,6 @@
       "starts_at": "",
       "first_seen": "2026-11-16",
       "image": "images/deals/burger-king-s-pore-new-app-deals-from-2-95-with-1-for-1-kitk.jpg"
-    },
-    {
-      "id": "pizza-hut-s-pore-offers-10-large-pizzas-u-p-35-05-on-8-days-",
-      "title": "Pizza Hut S’pore Offers $10 Large Pizzas (U.P. $35.05) on 8 Days from 17 Nov",
-      "store": "Pizza Hut",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Save up to 71% and tuck into the all-new Chicken Corn Ranch flavour",
-      "expiry": "Ongoing",
-      "heat": 115,
-      "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-offers-10-large-pizzas-u-p-35-05-on-8-days-from-17-nov-309809/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-offers-10-large-pizzas-u-p-35-05-on-8-days-from-17-nov-309809/"
-      },
-      "expires_at": "",
-      "upcoming": true,
-      "starts_at": "2026-11-17",
-      "first_seen": "2026-11-16",
-      "image": "images/deals/pizza-hut-s-pore-offers-10-large-pizzas-u-p-35-05-on-8-days-.jpg"
-    },
-    {
-      "id": "save-up-to-60-at-karcher-friends-family-sale-on-20-nov-2026",
-      "title": "Save up to 60% at Karcher Friends & Family Sale on 20 Nov 2026",
-      "store": "Save up to 60%",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "German-engineered cleaning essentials",
-      "expiry": "Ends 20 Nov",
-      "heat": 110,
-      "url": "https://singpromos.com/warehouse-sales/save-up-to-60-at-karcher-friends-family-sale-on-20-nov-2026-309597/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/warehouse-sales/save-up-to-60-at-karcher-friends-family-sale-on-20-nov-2026-309597/"
-      },
-      "expires_at": "2026-11-20",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-16",
-      "image": "images/deals/save-up-to-60-at-karcher-friends-family-sale-on-20-nov-2026.jpg"
-    },
-    {
-      "id": "popeyes-s-pore-4pc-signature-chicken-for-only-10-u-p-19-60-o",
-      "title": "Popeyes S’pore 4PC Signature Chicken for ONLY $10 (U.P. $19.60) on Weekdays",
-      "store": "Popeyes",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Save nearly 49% on a festive bucket of crispy chicken, available in Classic or Spicy",
-      "expiry": "Check link for dates",
-      "heat": 95,
-      "url": "https://singpromos.com/dining-restaurants-food/popeyes-spore-4pc-signature-chicken-for-only-10-u-p-19-60-on-weekdays-309786/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/popeyes-spore-4pc-signature-chicken-for-only-10-u-p-19-60-on-weekdays-309786/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-16",
-      "image": "images/deals/popeyes-s-pore-4pc-signature-chicken-for-only-10-u-p-19-60-o.jpg"
-    },
-    {
-      "id": "dunkin-s-pore-offers-buy-1-get-1-free-sunny-egg-every-sunday",
-      "title": "Dunkin’ S’pore offers Buy 1 Get 1 FREE Sunny Egg every Sunday",
-      "store": "Dunkin’",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Choose from four delicious whole egg or egg white sandwiches at 15 selected outlets",
-      "expiry": "Check link for dates",
-      "heat": 105,
-      "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-offers-buy-1-get-1-free-sunny-egg-every-sunday-309777/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-offers-buy-1-get-1-free-sunny-egg-every-sunday-309777/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-15",
-      "image": "images/deals/dunkin-s-pore-offers-buy-1-get-1-free-sunny-egg-every-sunday.jpg"
-    },
-    {
-      "id": "dunkin-s-pore-offers-buy-1-get-1-free-bagels-every-saturday-",
-      "title": "Dunkin’ S’pore offers Buy 1 Get 1 FREE bagels every Saturday from 14 Nov 2026",
-      "store": "Dunkin’",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Four tempting bagel flavours served with creamy cream cheese, available all day",
-      "expiry": "Ongoing",
-      "heat": 100,
-      "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-offers-buy-1-get-1-free-bagels-every-saturday-from-14-nov-2026-309757/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-offers-buy-1-get-1-free-bagels-every-saturday-from-14-nov-2026-309757/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-11-14",
-      "first_seen": "2026-11-14",
-      "image": "images/deals/dunkin-s-pore-offers-buy-1-get-1-free-bagels-every-saturday-.jpg"
-    },
-    {
-      "id": "unity-pharmacy-buy-1-get-1-deals-till-18-nov-2026",
-      "title": "Unity Pharmacy Buy 1 Get 1 Deals Till 18 Nov 2026",
-      "store": "Unity Pharmacy Buy 1",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Stock up on vitamins, supplements, skincare, toiletries and more for less.",
-      "expiry": "Ends 18 Nov",
-      "heat": 95,
-      "url": "https://singpromos.com/health/unity-pharmacy-buy-1-get-1-deals-till-18-nov-2026-309750/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/health/unity-pharmacy-buy-1-get-1-deals-till-18-nov-2026-309750/"
-      },
-      "expires_at": "2026-11-18",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-14",
-      "image": "images/deals/unity-pharmacy-buy-1-get-1-deals-till-18-nov-2026.jpg"
     },
     {
       "id": "up-to-70-off-selected-items-at-don-don-donki-till-19-jul-set",
@@ -473,137 +474,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-14"
-    },
-    {
-      "id": "amazon-sg-black-friday-sale-from-19-30-nov-2026-with-daily-f",
-      "title": "Amazon.sg Black Friday Sale from 19 – 30 Nov 2026 with Daily Flash Vouchers",
-      "store": "Amazon",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "new",
-          "label": "AMAZON"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Shop deals from major brands, daily Flash Drops, extra vouchers and more",
-      "expiry": "Ends 30 Nov",
-      "heat": 105,
-      "url": "https://singpromos.com/department-stores/amazon-sg-black-friday-sale-from-19-30-nov-2026-with-daily-flash-vouchers-309711/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/department-stores/amazon-sg-black-friday-sale-from-19-30-nov-2026-with-daily-flash-vouchers-309711/"
-      },
-      "brand": "Amazon",
-      "expires_at": "2026-11-30",
-      "upcoming": true,
-      "starts_at": "2026-11-19",
-      "first_seen": "2026-11-13",
-      "image": "images/deals/amazon-sg-black-friday-sale-from-19-30-nov-2026-with-daily-f.jpg"
-    },
-    {
-      "id": "fairprice-share-a-textbook-returns-donate-preloved-textbooks",
-      "title": "FairPrice Share-A-Textbook returns, donate preloved textbooks from 14 to 28 Nov 2026",
-      "store": "FairPrice",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "FAIRPRICE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Give old school books a second life at nine donation points islandwide",
-      "expiry": "Ends 28 Nov",
-      "heat": 95,
-      "url": "https://singpromos.com/books/fairprice-share-a-textbook-returns-donate-preloved-textbooks-from-14-to-28-nov-2026-309684/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/books/fairprice-share-a-textbook-returns-donate-preloved-textbooks-from-14-to-28-nov-2026-309684/"
-      },
-      "brand": "FairPrice",
-      "expires_at": "2026-11-28",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-13",
-      "image": "images/deals/fairprice-share-a-textbook-returns-donate-preloved-textbooks.jpg"
-    },
-    {
-      "id": "old-chang-kee-offers-free-puff-with-any-5-snacks-purchased-t",
-      "title": "Old Chang Kee Offers Free Puff with Any 5 Snacks Purchased till 30 Nov 2026",
-      "store": "Old Chang Kee Offers",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Choose from three signature puffs for an extra tasty treat this festive season",
-      "expiry": "Ends 30 Nov",
-      "heat": 90,
-      "url": "https://singpromos.com/dining-restaurants-food/old-chang-kee-offers-free-puff-with-any-5-snacks-purchased-till-30-nov-2026-309730/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/old-chang-kee-offers-free-puff-with-any-5-snacks-purchased-till-30-nov-2026-309730/"
-      },
-      "expires_at": "2026-11-30",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-13",
-      "image": "images/deals/old-chang-kee-offers-free-puff-with-any-5-snacks-purchased-t.jpg"
-    },
-    {
-      "id": "mcdonald-s-s-pore-launches-new-mcspicy-b-l-t-and-mcchicken-b",
-      "title": "McDonald’s S’pore launches new McSpicy® B.L.T and McChicken® B.L.T burgers from 12 Nov 2026",
-      "store": "McDonald's",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Crispy chicken bacon, juicy tomato and crunchy lettuce for an extra satisfying bite",
-      "expiry": "Ongoing",
-      "heat": 90,
-      "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-launches-new-mcspicy-b-l-t-and-mcchicken-b-l-t-burgers-from-12-nov-2026-309669/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-launches-new-mcspicy-b-l-t-and-mcchicken-b-l-t-burgers-from-12-nov-2026-309669/"
-      },
-      "brand": "McDonald's",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-11-12",
-      "first_seen": "2026-11-13",
-      "image": "images/deals/mcdonald-s-s-pore-launches-new-mcspicy-b-l-t-and-mcchicken-b.jpg"
     },
     {
       "id": "8-best-bubble-tea-deals-promotions-in-singapore-2026-beutea-",
@@ -646,41 +516,36 @@
       "first_seen": "2026-11-13"
     },
     {
-      "id": "burger-king-singapore-s-11-11-sale-brings-1-for-1-whopper-lo",
-      "title": "Burger King Singapore’s 11.11 Sale Brings 1-FOR-1 WHOPPER, Long Chicken & More Till November 15",
-      "store": "Burger King",
+      "id": "bank-of-china-s-pore-latest-time-deposit-offers-up-to-2-3-p-",
+      "title": "Bank of China S’pore Latest Time Deposit Offers Up To 2.3% p.a. from 16 Nov 2026",
+      "store": "Bank of China",
       "categories": [
-        "food"
+        "finance"
       ],
-      "icon": "🍜",
+      "icon": "💳",
       "badges": [
         {
           "type": "new",
-          "label": "BURGER KING"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
+          "label": "NEW"
         }
       ],
       "access": {
         "type": "easy",
         "label": "See source for how to redeem"
       },
-      "desc": "Burger King is doubling up the good stuff.",
-      "expiry": "Check link for dates",
+      "desc": "Six-month rate rises to 2.20% p.a. from S$20,000, with placements starting at just S$500",
+      "expiry": "Ongoing",
       "heat": 90,
-      "url": "https://www.greatdeals.com.sg/2026/11/11/burger-king-1-for-1-deals-november-2026",
+      "url": "https://singpromos.com/banks-credit-cards/bank-of-china-spore-latest-time-deposit-offers-up-to-2-3-p-a-from-16-nov-2026-309831/",
       "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://www.greatdeals.com.sg/2026/11/11/burger-king-1-for-1-deals-november-2026"
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/banks-credit-cards/bank-of-china-spore-latest-time-deposit-offers-up-to-2-3-p-a-from-16-nov-2026-309831/"
       },
-      "brand": "Burger King",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": "",
+      "starts_at": "2026-11-16",
       "first_seen": "2026-11-11",
-      "image": "images/deals/burger-king-singapore-s-11-11-sale-brings-1-for-1-whopper-lo.jpg"
+      "image": "images/deals/bank-of-china-s-pore-latest-time-deposit-offers-up-to-2-3-p-.jpg"
     },
     {
       "id": "pelago-day-flash-sale-has-1-for-1-singapore-oceanarium-ticke",
@@ -717,6 +582,82 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-11"
+    },
+    {
+      "id": "burger-king-singapore-s-11-11-sale-brings-1-for-1-whopper-lo",
+      "title": "Burger King Singapore's 11.11 Sale Brings 1-FOR-1 WHOPPER, Long Chicken & More Till November 15 - Great Deals Singapore",
+      "store": "Burger King",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "BURGER KING"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Burger King Singapore's 11.11 Sale Brings 1-FOR-1 WHOPPER, Long Chicken & More Till November 15 Great Deals Singapore",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRk5UVkRaTjJobkdaQlVhdE1wd1JtcXVyX2NkYVcySlBVZm50RHo0Yy13WTJXR0o2c2YxZlMxY1JXanlZM0dpREIzdEJSbXgyRF9iQXp2Mk1yR0QtQXpRWEkwX21vaTdEQkRlMVhBMHFuU1lEajJ6UDM0bURsckM2ZGJmcC1TWE0?oc=5",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRk5UVkRaTjJobkdaQlVhdE1wd1JtcXVyX2NkYVcySlBVZm50RHo0Yy13WTJXR0o2c2YxZlMxY1JXanlZM0dpREIzdEJSbXgyRF9iQXp2Mk1yR0QtQXpRWEkwX21vaTdEQkRlMVhBMHFuU1lEajJ6UDM0bURsckM2ZGJmcC1TWE0?oc=5"
+      },
+      "brand": "Burger King",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-11"
+    },
+    {
+      "id": "subway-singapore-brings-back-buy-1-get-1-free-breakfast-wrap",
+      "title": "Subway Singapore Brings Back Buy 1 Get 1 FREE Breakfast Wraps on November 13 & 14 - Great Deals Singapore",
+      "store": "Subway",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "SUBWAY"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Subway Singapore Brings Back Buy 1 Get 1 FREE Breakfast Wraps on November 13 & 14 Great Deals Singapore",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWHNhanBOaVhDUzhDRHV1S0NOTUxqcUthSTMwZEdjaGZWZ1dQTEMtX3FTdGJHUkJoSVhLcjYta2tDMDJKS3VJcDhxYU9sdTFFX1BndmRrUW1JLW1sNWNmRGM4cDhpdlF4WTBLV0J0dmtZWlRFd2JWZFExZkFhZ0pWa2V2SE1xOUhoNE5Da3Z3?oc=5",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWHNhanBOaVhDUzhDRHV1S0NOTUxqcUthSTMwZEdjaGZWZ1dQTEMtX3FTdGJHUkJoSVhLcjYta2tDMDJKS3VJcDhxYU9sdTFFX1BndmRrUW1JLW1sNWNmRGM4cDhpdlF4WTBLV0J0dmtZWlRFd2JWZFExZkFhZ0pWa2V2SE1xOUhoNE5Da3Z3?oc=5"
+      },
+      "brand": "Subway",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-06"
     },
     {
       "id": "muji-jewel-changi-airport-has-an-ongoing-clearance-sale-of-u",
@@ -1184,6 +1125,78 @@
       "first_seen": "2026-10-31"
     },
     {
+      "id": "best-denki-the-grand-electrical-fair-26-27-top-electronics-d",
+      "title": "Best Denki The Grand Electrical Fair 26/27: Top electronics deals, free gifts with purchase, lucky draw, and more - The ",
+      "store": "Best Denki",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "💻",
+      "badges": [
+        {
+          "type": "new",
+          "label": "BEST DENKI"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Best Denki The Grand Electrical Fair 26/27: Top electronics deals, free gifts with purchase, lucky draw, and more The Straits Times",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUlk5VWtwdlBUTDNYS3hFWGI5QmkyNjJhV1I3ZWplVzhYVnhaUHBpay16WGEtTlNyakZCM0RFUjhPTzRNQ0sta1M4SzI5aUpWMi1nWVUxYXlEZUNmQ29mQXRwb2kyOUZqVExQRG5tUUEyR002dkpjdVZxSktKbi11NFFwcEdoWHM?oc=5",
+      "source": {
+        "name": "The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUlk5VWtwdlBUTDNYS3hFWGI5QmkyNjJhV1I3ZWplVzhYVnhaUHBpay16WGEtTlNyakZCM0RFUjhPTzRNQ0sta1M4SzI5aUpWMi1nWVUxYXlEZUNmQ29mQXRwb2kyOUZqVExQRG5tUUEyR002dkpjdVZxSktKbi11NFFwcEdoWHM?oc=5"
+      },
+      "brand": "Best Denki",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-31"
+    },
+    {
+      "id": "gain-city-s-go-green-campaign-offers-up-to-1k-off-on-applian",
+      "title": "Gain City’s Go Green campaign offers up to $1k off on appliances with trade-ins, free weekend repairs - The Straits Time",
+      "store": "Gain City",
+      "categories": [
+        "home"
+      ],
+      "icon": "🏠",
+      "badges": [
+        {
+          "type": "new",
+          "label": "GAIN CITY"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Gain City’s Go Green campaign offers up to $1k off on appliances with trade-ins, free weekend repairs The Straits Times",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWJUYlNxeWI3SmRabHZ4Nk54R21GTER6LW8zZU80SlZfcXd1V2d1SXFJWVpmV200QThibTZxUThqRVRpRklWVDdlczBUNUdLQktWQlRsSVZRbEstSkJQNDF3aWM4ZEVhLUFLMExJOS0yUjhTZmdGUjVMdC1CTjdtMEE3Zkp3LS1oTVdIR0QxbU8tQmNGS2lPRXhPNEY4V3RzdFVzNUtIWVg4ZnBsejdjU2dONGhpLURXekFiTFRjckg3amhpQTFOdXV1TXU?oc=5",
+      "source": {
+        "name": "The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWJUYlNxeWI3SmRabHZ4Nk54R21GTER6LW8zZU80SlZfcXd1V2d1SXFJWVpmV200QThibTZxUThqRVRpRklWVDdlczBUNUdLQktWQlRsSVZRbEstSkJQNDF3aWM4ZEVhLUFLMExJOS0yUjhTZmdGUjVMdC1CTjdtMEE3Zkp3LS1oTVdIR0QxbU8tQmNGS2lPRXhPNEY4V3RzdFVzNUtIWVg4ZnBsejdjU2dONGhpLURXekFiTFRjckg3amhpQTFOdXV1TXU?oc=5"
+      },
+      "brand": "Gain City",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-23"
+    },
+    {
       "id": "watsons-gnc-clearance-sale-2-for-50-off-3-for-60-off-online-",
       "title": "Watsons GNC Clearance Sale: 2 for 50% Off, 3 for 60% Off Online, to 31 Dec 2026 - misslobang.com",
       "store": "Watsons",
@@ -1357,8 +1370,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1424,8 +1436,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
