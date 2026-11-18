@@ -118,11 +118,10 @@
     "BEST Denki",
     "Best Denki",
     "BreadTalk",
-    "Burger King",
     "Chagee",
     "Challenger",
+    "Charles & Keith",
     "Coach",
-    "Cotton On",
     "Courts",
     "Decathlon",
     "Don Don Donki",
@@ -132,6 +131,7 @@
     "Giant",
     "HP",
     "HarbourFront Centre",
+    "Jollibee",
     "KFC",
     "Kei Kaisendon",
     "Kenny Rogers Roasters",
@@ -145,6 +145,7 @@
     "Popeyes",
     "Punggol GRC",
     "REFASH",
+    "Razer",
     "SUKIYA",
     "SUSHIRO",
     "Shihlin",
@@ -162,6 +163,145 @@
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "charles-keith-s-pore-black-friday-early-access-up-to-50-off-",
+      "title": "CHARLES & KEITH S’pore Black Friday Early Access Up to 50% Off + Extra 10% Off Till 19 Nov",
+      "store": "Charles & Keith",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "CHARLES & KEITH"
+        },
+        {
+          "type": "discount",
+          "label": "50% OFF"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Two days of members-only savings on stylish bags, footwear and accessories.",
+      "expiry": "Ends 19 Nov",
+      "heat": 170,
+      "url": "https://singpromos.com/fashion-accessories/charles-keith-spore-black-friday-early-access-up-to-50-off-extra-10-off-till-19-nov-309912/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/fashion-accessories/charles-keith-spore-black-friday-early-access-up-to-50-off-extra-10-off-till-19-nov-309912/"
+      },
+      "brand": "Charles & Keith",
+      "expires_at": "2026-11-19",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-18",
+      "spotlight": true,
+      "image": "images/deals/charles-keith-s-pore-black-friday-early-access-up-to-50-off-.jpg"
+    },
+    {
+      "id": "kfc-s-pore-launches-sweet-purple-potato-cheese-mochi-from-18",
+      "title": "KFC S’pore Launches Sweet Purple Potato Cheese Mochi from 18 Nov 2026",
+      "store": "KFC",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "KFC"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Chewy purple mochi with a luscious cream cheese filling for a limited time only",
+      "expiry": "Ongoing",
+      "heat": 145,
+      "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-launches-sweet-purple-potato-cheese-mochi-from-18-nov-2026-309905/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-launches-sweet-purple-potato-cheese-mochi-from-18-nov-2026-309905/"
+      },
+      "brand": "KFC",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-11-18",
+      "first_seen": "2026-11-18",
+      "image": "images/deals/kfc-s-pore-launches-sweet-purple-potato-cheese-mochi-from-18.jpg"
+    },
+    {
+      "id": "7-eleven-s-pore-ice-cream-deals-up-to-59-off-3-for-6-butterb",
+      "title": "7-Eleven S’pore Ice Cream Deals Up to 59% Off, 3-for-$6 Butterbear, 3-for-$5 Cornetto & More till 1 Dec",
+      "store": "7-Eleven",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "59% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Enjoy savings of up to 59% on refreshing icy treats, including exclusive flavours and new arrivals!",
+      "expiry": "Ends 1 Dec",
+      "heat": 135,
+      "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-ice-cream-deals-up-to-59-off-3-for-6-butterbear-3-for-5-cornetto-more-till-1-dec-309922/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-ice-cream-deals-up-to-59-off-3-for-6-butterbear-3-for-5-cornetto-more-till-1-dec-309922/"
+      },
+      "expires_at": "2026-12-01",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-18",
+      "image": "images/deals/7-eleven-s-pore-ice-cream-deals-up-to-59-off-3-for-6-butterb.jpg"
+    },
+    {
+      "id": "muji-singapore-s-cacao-truffles-are-now-40-off-with-hazelnut",
+      "title": "MUJI Singapore’s Cacao Truffles Are Now 40% OFF, With Hazelnut, Salt Caramel and More - Great Deals Singapore",
+      "store": "Muji",
+      "categories": [
+        "home"
+      ],
+      "icon": "🏠",
+      "badges": [
+        {
+          "type": "new",
+          "label": "MUJI"
+        },
+        {
+          "type": "discount",
+          "label": "40% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "MUJI Singapore’s Cacao Truffles Are Now 40% OFF, With Hazelnut, Salt Caramel and More Great Deals Singapore",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUlDc3MyS1VPU2NGQlVWZXMxQWRZcVVrNGxGLTZDOGJvSXZYZk5NVVZhNW1LS1dCcFNaOVZEblMwMjM4NUFPY3lDVkhqRGJ3MXNqazE2WFNYUnRDSTBsQlZMXzA1aERROThabzNyT3pCcG5xMGNtVEtTWHNkdUI3bW5Yal8?oc=5",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUlDc3MyS1VPU2NGQlVWZXMxQWRZcVVrNGxGLTZDOGJvSXZYZk5NVVZhNW1LS1dCcFNaOVZEblMwMjM4NUFPY3lDVkhqRGJ3MXNqazE2WFNYUnRDSTBsQlZMXzA1aERROThabzNyT3pCcG5xMGNtVEtTWHNkdUI3bW5Yal8?oc=5"
+      },
+      "brand": "Muji",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-18"
+    },
     {
       "id": "liho-go-compass-one-offers-1-for-1-drinks-for-two-days-only-",
       "title": "LiHO GO Compass One offers 1-for-1 drinks for two days only until 18 Nov 2026",
@@ -186,7 +326,7 @@
       },
       "desc": "All regular menu drinks are included",
       "expiry": "Ends 18 Nov",
-      "heat": 175,
+      "heat": 160,
       "url": "https://singpromos.com/dining-restaurants-food/liho-go-compass-one-offers-1-for-1-drinks-for-two-days-only-until-18-nov-2026-309888/",
       "source": {
         "name": "SINGPromos",
@@ -197,8 +337,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-17",
-      "image": "images/deals/liho-go-compass-one-offers-1-for-1-drinks-for-two-days-only-.jpg",
-      "spotlight": true
+      "image": "images/deals/liho-go-compass-one-offers-1-for-1-drinks-for-two-days-only-.jpg"
     },
     {
       "id": "arena-s-pore-warehouse-sale-up-to-80-off-swimwear-more-from-",
@@ -220,7 +359,7 @@
       },
       "desc": "Junior swimwear and goggles from $15, backpacks from $35",
       "expiry": "Ends 22 Nov",
-      "heat": 130,
+      "heat": 115,
       "url": "https://singpromos.com/warehouse-sales/arena-spore-warehouse-sale-up-to-80-off-swimwear-more-from-19-22-nov-2026-309878/",
       "source": {
         "name": "SINGPromos",
@@ -252,7 +391,7 @@
       },
       "desc": "Save $1 per passenger car unit across 31 time slots, with 10 becoming ERP-free",
       "expiry": "Ends 31 Dec",
-      "heat": 125,
+      "heat": 110,
       "url": "https://singpromos.com/motor-vehicles/lta-cuts-erp-rates-at-selected-gantries-during-the-dec-2026-school-holidays-23-nov-31-dec-2026-309864/",
       "source": {
         "name": "SINGPromos",
@@ -284,7 +423,7 @@
       },
       "desc": "Three-year hosting from S$482.42 upfront, plus chances to win prizes",
       "expiry": "Check link for dates",
-      "heat": 115,
+      "heat": 100,
       "url": "https://singpromos.com/web-hosting/exabytes-spore-up-to-80-off-black-friday-sale-309854/",
       "source": {
         "name": "SINGPromos",
@@ -295,38 +434,6 @@
       "starts_at": "",
       "first_seen": "2026-11-17",
       "image": "images/deals/exabytes-s-pore-black-friday-sale-offers-up-to-80-off-web-ho.jpg"
-    },
-    {
-      "id": "heavy-traffic-expected-at-woodlands-and-tuas-checkpoints-fro",
-      "title": "Heavy Traffic Expected at Woodlands and Tuas Checkpoints from 20 Nov 2026 to 3 Jan 2027",
-      "store": "Heavy Traffic Expected at",
-      "categories": [
-        "transport"
-      ],
-      "icon": "🚗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Check live traffic cameras, passport requirements and important reminders before travelling",
-      "expiry": "Ongoing",
-      "heat": 100,
-      "url": "https://singpromos.com/motor-vehicles/heavy-traffic-expected-at-woodlands-and-tuas-checkpoints-from-20-nov-2026-to-3-jan-2027-309847/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/motor-vehicles/heavy-traffic-expected-at-woodlands-and-tuas-checkpoints-from-20-nov-2026-to-3-jan-2027-309847/"
-      },
-      "expires_at": "",
-      "upcoming": true,
-      "starts_at": "2026-11-20",
-      "first_seen": "2026-11-17",
-      "image": "images/deals/heavy-traffic-expected-at-woodlands-and-tuas-checkpoints-fro.jpg"
     },
     {
       "id": "uniqlo-singapore-giving-away-free-mini-fleece-jacket-charms-",
@@ -352,7 +459,7 @@
       },
       "desc": "A little thank-you gift with your UNIQLO haul.",
       "expiry": "Check link for dates",
-      "heat": 100,
+      "heat": 90,
       "url": "https://www.greatdeals.com.sg/2026/11/17/uniqlo-free-mini-fleece-jacket-charms-travel-bags-november-2026",
       "source": {
         "name": "Great Deals Singapore",
@@ -389,7 +496,7 @@
       },
       "desc": "Save up to S$30 extra on worldwide hotel bookings, with stays until 30 June 2027.",
       "expiry": "Ends 30 Nov",
-      "heat": 130,
+      "heat": 115,
       "url": "https://singpromos.com/vacations/agoda-sg-extra-15-off-hotels-with-dbs-posb-cards-till-30-nov-2026-309803/",
       "source": {
         "name": "SINGPromos",
@@ -400,49 +507,11 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-16",
-      "image": "images/deals/agoda-sg-extra-15-off-hotels-with-dbs-posb-cards-till-30-nov.jpg",
-      "status": "claimed"
+      "image": "images/deals/agoda-sg-extra-15-off-hotels-with-dbs-posb-cards-till-30-nov.jpg"
     },
     {
-      "id": "burger-king-s-pore-new-app-deals-from-2-95-with-1-for-1-kitk",
-      "title": "Burger King S’pore New App Deals From $2.95 With 1-for-1 KitKat Drinks Till 3 Jan 2027",
-      "store": "Burger King",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "BURGER KING"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Save 59% on Mushroom Swiss for new sign-ups, plus $5.95 BBQ Cheesy Gouda Burgers",
-      "expiry": "Ends 3 Jan",
-      "heat": 120,
-      "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-new-app-deals-from-2-95-with-1-for-1-kitkat-drinks-till-3-jan-2027-309763/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-new-app-deals-from-2-95-with-1-for-1-kitkat-drinks-till-3-jan-2027-309763/"
-      },
-      "brand": "Burger King",
-      "expires_at": "2027-01-03",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-16",
-      "image": "images/deals/burger-king-s-pore-new-app-deals-from-2-95-with-1-for-1-kitk.jpg"
-    },
-    {
-      "id": "up-to-70-off-selected-items-at-don-don-donki-till-19-jul-set",
-      "title": "Up to 70% off selected items at Don Don Donki till 19 Jul - SETHLUI.com",
+      "id": "up-to-70-off-selected-items-at-don-don-donki-till-19-jul-yah",
+      "title": "Up to 70% off selected items at Don Don Donki till 19 Jul - Yahoo Lifestyle Singapore",
       "store": "Don Don Donki",
       "categories": [
         "food"
@@ -462,19 +531,19 @@
         "type": "easy",
         "label": "See source for how to redeem"
       },
-      "desc": "Up to 70% off selected items at Don Don Donki till 19 Jul SETHLUI.com",
+      "desc": "Up to 70% off selected items at Don Don Donki till 19 Jul Yahoo Lifestyle Singapore",
       "expiry": "Ends 19 Jul",
       "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sVFN2R1k0c1ZMb1F2N1dvVllOTjJKTmdjQ1Mtb1ozY2ZXVGl4aHBBSlVBcVo0WHNKUHYxVnFhVDltRm1jS2w5RjBuLUtwSWRXamg4NjZkbzh2YnZ1dHZuMlFlVnJKM21mY0NLSFpGQnU1TlNKdmc?oc=5",
       "source": {
-        "name": "SETHLUI.com",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5"
+        "name": "Yahoo Lifestyle Singapore",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sVFN2R1k0c1ZMb1F2N1dvVllOTjJKTmdjQ1Mtb1ozY2ZXVGl4aHBBSlVBcVo0WHNKUHYxVnFhVDltRm1jS2w5RjBuLUtwSWRXamg4NjZkbzh2YnZ1dHZuMlFlVnJKM21mY0NLSFpGQnU1TlNKdmc?oc=5"
       },
       "brand": "Don Don Donki",
       "expires_at": "2027-07-19",
       "upcoming": false,
       "starts_at": "",
-      "first_seen": "2026-11-14"
+      "first_seen": "2026-11-13"
     },
     {
       "id": "8-best-bubble-tea-deals-promotions-in-singapore-2026-beutea-",
@@ -517,36 +586,40 @@
       "first_seen": "2026-11-13"
     },
     {
-      "id": "bank-of-china-s-pore-latest-time-deposit-offers-up-to-2-3-p-",
-      "title": "Bank of China S’pore Latest Time Deposit Offers Up To 2.3% p.a. from 16 Nov 2026",
-      "store": "Bank of China",
+      "id": "razer-gaming-headphones-now-31-off-hardwarezone",
+      "title": "Razer Gaming Headphones Now 31% Off - HardwareZone",
+      "store": "Razer",
       "categories": [
-        "finance"
+        "entertainment"
       ],
-      "icon": "💳",
+      "icon": "🎮",
       "badges": [
         {
           "type": "new",
-          "label": "NEW"
+          "label": "RAZER"
+        },
+        {
+          "type": "discount",
+          "label": "31% OFF"
         }
       ],
       "access": {
         "type": "easy",
         "label": "See source for how to redeem"
       },
-      "desc": "Six-month rate rises to 2.20% p.a. from S$20,000, with placements starting at just S$500",
-      "expiry": "Ongoing",
+      "desc": "Razer Gaming Headphones Now 31% Off HardwareZone",
+      "expiry": "Check link for dates",
       "heat": 90,
-      "url": "https://singpromos.com/banks-credit-cards/bank-of-china-spore-latest-time-deposit-offers-up-to-2-3-p-a-from-16-nov-2026-309831/",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWYUt4SVcxX0VXX1BPR2NFaGFVTV81ODZ3VE83VWdPSE5yM1hVaW83ZDRtcnJJemFLWVUxOXRJaXI3WlE1UEsxcDUxdWNaMFQ1cVJSRVFheFFOVmJTY1dpM081MWhDZmNidVNEUHZVcVRCVHZKbWZaN2Jn?oc=5",
       "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/bank-of-china-spore-latest-time-deposit-offers-up-to-2-3-p-a-from-16-nov-2026-309831/"
+        "name": "HardwareZone",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWYUt4SVcxX0VXX1BPR2NFaGFVTV81ODZ3VE83VWdPSE5yM1hVaW83ZDRtcnJJemFLWVUxOXRJaXI3WlE1UEsxcDUxdWNaMFQ1cVJSRVFheFFOVmJTY1dpM081MWhDZmNidVNEUHZVcVRCVHZKbWZaN2Jn?oc=5"
       },
+      "brand": "Razer",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": "2026-11-16",
-      "first_seen": "2026-11-11",
-      "image": "images/deals/bank-of-china-s-pore-latest-time-deposit-offers-up-to-2-3-p-.jpg"
+      "starts_at": "",
+      "first_seen": "2026-11-13"
     },
     {
       "id": "pelago-day-flash-sale-has-1-for-1-singapore-oceanarium-ticke",
@@ -579,42 +652,6 @@
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX2NkcWxiVURPWDJOM3FIdFJHQzA4ckp1Z3lEdmw2UlBiTVhqSG5VVlVjSmt3MWNxNXRyc2FfTjhVOTd6YlNyaW5PRFl6UzFvSGJoQVAzVnlld2lRdEp3NHhyejVkQzVPRS1DbnBDSTQ5UTNCSGNXZnNVWXh1RGZwYzBRLUhpZUpYNjItVVR2NUp1S1pqcjYtQnhNU2VGaXMyNVk0VXZoRU1wbnZtb1dxNWwwaHNlMnU4ZjBwQkRubjBsRG1DTThnbGczQjJocjQ?oc=5"
       },
       "brand": "Universal Studios Singapore",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-11"
-    },
-    {
-      "id": "burger-king-singapore-s-11-11-sale-brings-1-for-1-whopper-lo",
-      "title": "Burger King Singapore's 11.11 Sale Brings 1-FOR-1 WHOPPER, Long Chicken & More Till November 15 - Great Deals Singapore",
-      "store": "Burger King",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "BURGER KING"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Burger King Singapore's 11.11 Sale Brings 1-FOR-1 WHOPPER, Long Chicken & More Till November 15 Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRk5UVkRaTjJobkdaQlVhdE1wd1JtcXVyX2NkYVcySlBVZm50RHo0Yy13WTJXR0o2c2YxZlMxY1JXanlZM0dpREIzdEJSbXgyRF9iQXp2Mk1yR0QtQXpRWEkwX21vaTdEQkRlMVhBMHFuU1lEajJ6UDM0bURsckM2ZGJmcC1TWE0?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRk5UVkRaTjJobkdaQlVhdE1wd1JtcXVyX2NkYVcySlBVZm50RHo0Yy13WTJXR0o2c2YxZlMxY1JXanlZM0dpREIzdEJSbXgyRF9iQXp2Mk1yR0QtQXpRWEkwX21vaTdEQkRlMVhBMHFuU1lEajJ6UDM0bURsckM2ZGJmcC1TWE0?oc=5"
-      },
-      "brand": "Burger King",
       "expires_at": "",
       "upcoming": false,
       "starts_at": "",
@@ -727,42 +764,6 @@
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkpXWDN1NEVRbjFVZk9ya2Z3QzdYVS11MWlPanhDV0xKcGVWbG5BTU9aNktyaktxVFEyR010QXdQTTcybDlJZXh3YTZvVWNVc0pLWjR5WHpoVUE3Q0pOYzYtbzExSnlERVdPV3dFc09IWUZweE5YelJTeGRvVVJDVVJjZzgzbXd1NHJuNi1vNkRfMXYtaWs3cjd6NDhHQWpq?oc=5"
       },
       "brand": "Uniqlo",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-04"
-    },
-    {
-      "id": "cotton-on-isn-t-leaving-sg-anytime-soon-you-can-swing-by-thi",
-      "title": "Cotton On Isn’t Leaving SG Anytime Soon & You Can Swing By This Weekend For Free Matcha To Celebrate - TheSmartLocal",
-      "store": "Cotton On",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "COTTON ON"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Cotton On Isn’t Leaving SG Anytime Soon & You Can Swing By This Weekend For Free Matcha To Celebrate TheSmartLocal",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YWEsyejk0dlJiTF9jNjJkX3o4RThhXy1zSWlBLXUtc3UyU0ZCMGlBNTRMSEd1QWw4aFZ0YUI2NTRjeXlQbENkZGprZUtOTmJKSFVyOWJuSGxudm9uc1N1ZmxWbndPaTExLTI3WU5IVUzSAXZBVV95cUxOblM4S3NweGJMVnBTNktLSl8tanpYWFlMc3RhNHVBU2k2clBFUmFoNk5hbmZhZC14NmlwNEtJTFdOODdxSl8xSDJ0MVJoMmlKcFMtVTNlY1N5T0ROQ3d4cG5oZ296U0lWNmtBaW96QWdlVGZZc2xB?oc=5",
-      "source": {
-        "name": "TheSmartLocal",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YWEsyejk0dlJiTF9jNjJkX3o4RThhXy1zSWlBLXUtc3UyU0ZCMGlBNTRMSEd1QWw4aFZ0YUI2NTRjeXlQbENkZGprZUtOTmJKSFVyOWJuSGxudm9uc1N1ZmxWbndPaTExLTI3WU5IVUzSAXZBVV95cUxOblM4S3NweGJMVnBTNktLSl8tanpYWFlMc3RhNHVBU2k2clBFUmFoNk5hbmZhZC14NmlwNEtJTFdOODdxSl8xSDJ0MVJoMmlKcFMtVTNlY1N5T0ROQ3d4cG5oZ296U0lWNmtBaW96QWdlVGZZc2xB?oc=5"
-      },
-      "brand": "Cotton On",
       "expires_at": "",
       "upcoming": false,
       "starts_at": "",
@@ -1234,6 +1235,42 @@
       "first_seen": "2026-10-21"
     },
     {
+      "id": "international-fried-chicken-day-2026-in-singapore-texas-chic",
+      "title": "International Fried Chicken Day 2026 in Singapore: Texas Chicken $1 Chicken, Popeyes $10.90 5pc Bucket, FREE Jollibee Ch",
+      "store": "Jollibee",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "JOLLIBEE"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "International Fried Chicken Day 2026 in Singapore: Texas Chicken $1 Chicken, Popeyes $10.90 5pc Bucket, FREE Jollibee Chickenjoy & More (3–8 Jul) www.misslobang.com",
+      "expiry": "Ends 8 Jul",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2wydk9CUHREbUJUSTY3MEZtMWQwRmNwNGRUNXByWjYzOThLQXo3d1hwLVYwYjZmY2w0cEpBRWJHbm5WazE2anlFYXllUkV2VGhuODE5NTBDMkwyYlVHcGYxZTBweWF3UnhuZjdTemNIYk9Na3R0ZEJMdFQyMlI4VFNpdVEtSDY3dUtfMkhQZnQ?oc=5",
+      "source": {
+        "name": "www.misslobang.com",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2wydk9CUHREbUJUSTY3MEZtMWQwRmNwNGRUNXByWjYzOThLQXo3d1hwLVYwYjZmY2w0cEpBRWJHbm5WazE2anlFYXllUkV2VGhuODE5NTBDMkwyYlVHcGYxZTBweWF3UnhuZjdTemNIYk9Na3R0ZEJMdFQyMlI4VFNpdVEtSDY3dUtfMkhQZnQ?oc=5"
+      },
+      "brand": "Jollibee",
+      "expires_at": "2027-07-08",
+      "upcoming": true,
+      "starts_at": "2027-07-03",
+      "first_seen": "2026-10-10"
+    },
+    {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
       "title": "Decathlon Singapore hosting second-hand bike festival with refurbished bikes up to 80% off - CNA Lifestyle",
       "store": "Decathlon",
@@ -1268,42 +1305,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-07-10"
-    },
-    {
-      "id": "muji-online-exclusive-sale-just-dropped-with-up-to-40-off-ho",
-      "title": "MUJI Online Exclusive Sale Just Dropped with Up to 40% OFF Home and Living Picks Till April 30 - Great Deals Singapore",
-      "store": "Muji",
-      "categories": [
-        "home"
-      ],
-      "icon": "🏠",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MUJI"
-        },
-        {
-          "type": "discount",
-          "label": "40% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "MUJI Online Exclusive Sale Just Dropped with Up to 40% OFF Home and Living Picks Till April 30 Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmdYcDBWZi15eFkxMnVGZ1Z5RGJYc2wyWEVMUVkwX3JqcjdJUEpjN2lfaXY3emxFRVVxei1CUm9BSWRzODVIdzdycHpGSVozcTVWSl9uZWhTdXVjMzFobWwwb3VRTWkxT1VYc2gwaGw4dkc0T3dTb0twUW9XdXk2ZW1oQkQ?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmdYcDBWZi15eFkxMnVGZ1Z5RGJYc2wyWEVMUVkwX3JqcjdJUEpjN2lfaXY3emxFRVVxei1CUm9BSWRzODVIdzdycHpGSVozcTVWSl9uZWhTdXVjMzFobWwwb3VRTWkxT1VYc2gwaGw4dkc0T3dTb0twUW9XdXk2ZW1oQkQ?oc=5"
-      },
-      "brand": "Muji",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-07-06"
     },
     {
       "id": "nike-singapore-end-of-season-sale-adds-further-markdowns-wit",
@@ -1371,8 +1372,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1438,8 +1438,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
@@ -2091,8 +2090,7 @@
         "url": "https://sg.everydayonsales.com/warehouse-sale/"
       },
       "first_seen": "2026-07-05",
-      "upcoming": false,
-      "status": "claimed"
+      "upcoming": false
     },
     {
       "id": "moley-apparels-closing",
@@ -2124,8 +2122,7 @@
         "url": "https://sg.everydayonsales.com/warehouse-sale/"
       },
       "first_seen": "2026-07-05",
-      "upcoming": false,
-      "status": "claimed"
+      "upcoming": false
     }
   ]
 }
