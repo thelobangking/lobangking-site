@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "categories": [
     {
       "id": "all",
@@ -135,7 +135,6 @@
     "KFC",
     "Kei Kaisendon",
     "Kenny Rogers Roasters",
-    "LiHO",
     "Michael Kors",
     "Moley Apparels",
     "Muji",
@@ -301,43 +300,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-18"
-    },
-    {
-      "id": "liho-go-compass-one-offers-1-for-1-drinks-for-two-days-only-",
-      "title": "LiHO GO Compass One offers 1-for-1 drinks for two days only until 18 Nov 2026",
-      "store": "LiHO",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "LIHO"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "All regular menu drinks are included",
-      "expiry": "Ends 18 Nov",
-      "heat": 160,
-      "url": "https://singpromos.com/dining-restaurants-food/liho-go-compass-one-offers-1-for-1-drinks-for-two-days-only-until-18-nov-2026-309888/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/liho-go-compass-one-offers-1-for-1-drinks-for-two-days-only-until-18-nov-2026-309888/"
-      },
-      "brand": "LiHO",
-      "expires_at": "2026-11-18",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-17",
-      "image": "images/deals/liho-go-compass-one-offers-1-for-1-drinks-for-two-days-only-.jpg"
     },
     {
       "id": "arena-s-pore-warehouse-sale-up-to-80-off-swimwear-more-from-",
