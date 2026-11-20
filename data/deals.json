@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "categories": [
     {
       "id": "all",
@@ -119,7 +119,6 @@
     "BreadTalk",
     "Chagee",
     "Challenger",
-    "Charles & Keith",
     "Coach",
     "Cotton On",
     "Courts",
@@ -426,43 +425,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-19"
-    },
-    {
-      "id": "charles-keith-s-pore-black-friday-early-access-up-to-50-off-",
-      "title": "CHARLES & KEITH S’pore Black Friday Early Access Up to 50% Off + Extra 10% Off Till 19 Nov",
-      "store": "Charles & Keith",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "CHARLES & KEITH"
-        },
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Two days of members-only savings on stylish bags, footwear and accessories.",
-      "expiry": "Ends 19 Nov",
-      "heat": 135,
-      "url": "https://singpromos.com/fashion-accessories/charles-keith-spore-black-friday-early-access-up-to-50-off-extra-10-off-till-19-nov-309912/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/fashion-accessories/charles-keith-spore-black-friday-early-access-up-to-50-off-extra-10-off-till-19-nov-309912/"
-      },
-      "brand": "Charles & Keith",
-      "expires_at": "2026-11-19",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-18",
-      "image": "images/deals/charles-keith-s-pore-black-friday-early-access-up-to-50-off-.jpg"
     },
     {
       "id": "kfc-s-pore-launches-sweet-purple-potato-cheese-mochi-from-18",
