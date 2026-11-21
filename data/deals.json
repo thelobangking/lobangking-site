@@ -296,7 +296,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-20",
-      "image": "images/deals/amazon-sg-buy-220-or-more-in-egift-cards-and-get-a-free-15-b.jpg"
+      "image": "images/deals/amazon-sg-buy-220-or-more-in-egift-cards-and-get-a-free-15-b.jpg",
+      "status": "claimed"
     },
     {
       "id": "fairprice-has-50-off-much-moore-1l-ice-cream-at-8-45-ben-jer",
@@ -1437,7 +1438,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1503,7 +1505,8 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg"
+      "image": "images/deals/challenger-ms365.jpg",
+      "status": "claimed"
     },
     {
       "id": "courts-get7",
@@ -2155,7 +2158,8 @@
         "url": "https://sg.everydayonsales.com/warehouse-sale/"
       },
       "first_seen": "2026-07-05",
-      "upcoming": false
+      "upcoming": false,
+      "status": "claimed"
     },
     {
       "id": "moley-apparels-closing",
@@ -2187,7 +2191,8 @@
         "url": "https://sg.everydayonsales.com/warehouse-sale/"
       },
       "first_seen": "2026-07-05",
-      "upcoming": false
+      "upcoming": false,
+      "status": "claimed"
     }
   ]
 }
