@@ -165,6 +165,103 @@
   ],
   "deals": [
     {
+      "id": "singapore-cable-car-free-sentosa-line-round-trips-daily-morn",
+      "title": "Singapore Cable Car FREE Sentosa Line Round Trips Daily Mornings from 21 Nov to 20 Dec 2026",
+      "store": "Singapore Cable Car FREE",
+      "categories": [
+        "entertainment"
+      ],
+      "icon": "🎮",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "No tickets required",
+      "expiry": "Ends 20 Dec",
+      "heat": 135,
+      "url": "https://singpromos.com/places-of-interest/singapore-cable-car-free-sentosa-line-round-trips-daily-mornings-from-21-nov-to-20-dec-2026-310087/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/places-of-interest/singapore-cable-car-free-sentosa-line-round-trips-daily-mornings-from-21-nov-to-20-dec-2026-310087/"
+      },
+      "expires_at": "2026-12-20",
+      "upcoming": false,
+      "starts_at": "2026-11-21",
+      "first_seen": "2026-11-21",
+      "spotlight": true,
+      "image": "images/deals/singapore-cable-car-free-sentosa-line-round-trips-daily-morn.jpg"
+    },
+    {
+      "id": "tunglok-group-90-min-madness-offers-30-off-la-carte-food-and",
+      "title": "TungLok Group 90-Min Madness offers 30% OFF à la carte food and regular set menus (23 Nov-30 Dec 2026)",
+      "store": "TungLok Group 90-Min Madness",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "30% OFF"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Advance phone or WhatsApp bookings required, with no minimum spend or discount cap",
+      "expiry": "Ends 30 Dec",
+      "heat": 125,
+      "url": "https://singpromos.com/dining-restaurants-food/tunglok-group-90-min-madness-offers-30-off-a-la-carte-food-and-regular-set-menus-23-nov-30-dec-2026-309898/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/tunglok-group-90-min-madness-offers-30-off-a-la-carte-food-and-regular-set-menus-23-nov-30-dec-2026-309898/"
+      },
+      "expires_at": "2026-12-30",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-21",
+      "image": "images/deals/tunglok-group-90-min-madness-offers-30-off-la-carte-food-and.jpg"
+    },
+    {
+      "id": "pcloud-black-friday-2026-lifetime-cloud-storage-from-us-159-",
+      "title": "pCloud Black Friday 2026 Lifetime Cloud Storage from US$159 till 28 Nov 2026",
+      "store": "pCloud Black Friday 2026",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "💻",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Save on lifetime cloud storage plans, including a 3 TB bundle with password management and encryption.",
+      "expiry": "Ends 28 Nov",
+      "heat": 110,
+      "url": "https://singpromos.com/computers-pc/pcloud-black-friday-2026-lifetime-cloud-storage-from-us159-till-28-nov-2026-310073/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/computers-pc/pcloud-black-friday-2026-lifetime-cloud-storage-from-us159-till-28-nov-2026-310073/"
+      },
+      "expires_at": "2026-11-28",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-21",
+      "image": "images/deals/pcloud-black-friday-2026-lifetime-cloud-storage-from-us-159-.jpg"
+    },
+    {
       "id": "amazon-sg-buy-220-or-more-in-egift-cards-and-get-a-free-15-b",
       "title": "Amazon SG Buy $220 or More in eGift Cards and Get a Free $15 Bonus till 30 Nov 2026",
       "store": "Amazon",
@@ -188,7 +285,7 @@
       },
       "desc": "Enjoy up to 6.82% in bonus value, with digital gifting and flexible denominations.",
       "expiry": "Ends 30 Nov",
-      "heat": 160,
+      "heat": 145,
       "url": "https://singpromos.com/department-stores/amazon-sg-buy-220-or-more-in-egift-cards-and-get-a-free-15-bonus-till-30-nov-2026-310033/",
       "source": {
         "name": "SINGPromos",
@@ -199,9 +296,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-20",
-      "image": "images/deals/amazon-sg-buy-220-or-more-in-egift-cards-and-get-a-free-15-b.jpg",
-      "status": "claimed",
-      "spotlight": true
+      "image": "images/deals/amazon-sg-buy-220-or-more-in-egift-cards-and-get-a-free-15-b.jpg"
     },
     {
       "id": "fairprice-has-50-off-much-moore-1l-ice-cream-at-8-45-ben-jer",
@@ -227,7 +322,7 @@
       },
       "desc": "Seven ice cream flavours at half price, plus Cadbury chocolates, Ferrero Rocher and frozen snacks",
       "expiry": "Ends 25 Nov",
-      "heat": 155,
+      "heat": 140,
       "url": "https://singpromos.com/dining-restaurants-food/fairprice-has-50-off-much-moore-1l-ice-cream-at-8-45-ben-jerrys-deals-and-more-till-25-nov-310020/",
       "source": {
         "name": "SINGPromos",
@@ -260,7 +355,7 @@
       },
       "desc": "Grocery, chocolate and household bargains",
       "expiry": "Ends 22 Nov",
-      "heat": 150,
+      "heat": 135,
       "url": "https://singpromos.com/dining-restaurants-food/fairprice-3-day-specials-until-22-nov-2026-with-savings-up-to-48-310052/",
       "source": {
         "name": "SINGPromos",
@@ -297,7 +392,7 @@
       },
       "desc": "Over 200 wagons of apparel, underwear and accessories, plus a free socks gift with minimum spend",
       "expiry": "Ends 30 Nov",
-      "heat": 135,
+      "heat": 120,
       "url": "https://singpromos.com/warehouse-sales/hush-puppies-spore-warehouse-sale-up-to-80-off-with-deals-from-1-90-until-30-nov-2026-310056/",
       "source": {
         "name": "SINGPromos",
@@ -333,7 +428,7 @@
       },
       "desc": "Doorbuster deals up to 60% off, extra 15% off outlet items, S$1.11 charms and free gifts",
       "expiry": "Ends 22 Nov",
-      "heat": 125,
+      "heat": 110,
       "url": "https://singpromos.com/footwear/crocs-spore-black-friday-sale-buy-one-get-50-off-2nd-pair-till-22-nov-310041/",
       "source": {
         "name": "SINGPromos",
@@ -347,7 +442,7 @@
     },
     {
       "id": "sa-sa-4-day-beauty-sale-fragrances-40-off-skincare-from-10-u",
-      "title": "Sa Sa 4-Day Beauty Sale: Fragrances 40% Off, Skincare From $10, Until Sun 22 Nov 2026 - https://www.misslobang.com/",
+      "title": "Sa Sa 4-Day Beauty Sale: Fragrances 40% Off, Skincare From $10, Until Sun 22 Nov 2026 - misslobang.com",
       "store": "Sasa",
       "categories": [
         "fashion"
@@ -367,12 +462,12 @@
         "type": "easy",
         "label": "See source for how to redeem"
       },
-      "desc": "Sa Sa 4-Day Beauty Sale: Fragrances 40% Off, Skincare From $10, Until Sun 22 Nov 2026 https://www.misslobang.com/",
+      "desc": "Sa Sa 4-Day Beauty Sale: Fragrances 40% Off, Skincare From $10, Until Sun 22 Nov 2026 misslobang.com",
       "expiry": "Ends 22 Nov",
       "heat": 90,
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVTFyZmRZaGxMWF81QjNvN0wwcllDREpVQWx3NHZxbDhJdU14VGRMcWluOG5NZ1ZLLVZ3VW95RU5qN2lZSmVxSVZVTVFqeHJra1FwZzV0SWNIbFlETkVrTDBSZjRZWXcyeXpVckltckVaRG5RcEFGdnRQWnp4aFpSRl85ODBqVDBydGxCaG1ncnVQMms?oc=5",
       "source": {
-        "name": "https://www.misslobang.com/",
+        "name": "misslobang.com",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVTFyZmRZaGxMWF81QjNvN0wwcllDREpVQWx3NHZxbDhJdU14VGRMcWluOG5NZ1ZLLVZ3VW95RU5qN2lZSmVxSVZVTVFqeHJra1FwZzV0SWNIbFlETkVrTDBSZjRZWXcyeXpVckltckVaRG5RcEFGdnRQWnp4aFpSRl85ODBqVDBydGxCaG1ncnVQMms?oc=5"
       },
       "brand": "Sasa",
@@ -437,7 +532,7 @@
       },
       "desc": "New maple BBQ burgers, Szechuan Sauce, McPops, desserts and exclusive Hamburglar merchandise await",
       "expiry": "Ends 26 Nov",
-      "heat": 125,
+      "heat": 110,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-launches-maple-bbq-burger-meals-and-new-merch-on-26-nov-2026-309990/",
       "source": {
         "name": "SINGPromos",
@@ -470,7 +565,7 @@
       },
       "desc": "Save $9.70 on premium ice cream and enjoy up to 50% savings on household essentials",
       "expiry": "Ends 25 Nov",
-      "heat": 110,
+      "heat": 95,
       "url": "https://singpromos.com/dining-restaurants-food/giant-spore-haagen-dazs-any-2-at-19-80-dynamo-1-for-1-more-deals-till-25-nov-2026-310013/",
       "source": {
         "name": "SINGPromos",
@@ -481,74 +576,6 @@
       "starts_at": "",
       "first_seen": "2026-11-19",
       "image": "images/deals/giant-s-pore-haagen-dazs-any-2-at-19-80-dynamo-1-for-1-more-.jpg"
-    },
-    {
-      "id": "acronis-s-pore-black-friday-sale-offers-up-to-50-off-true-im",
-      "title": "Acronis S’pore Black Friday Sale Offers Up to 50% Off True Image Subscriptions",
-      "store": "Acronis",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "💻",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Back up important files, clone drives and enjoy annual plans",
-      "expiry": "Check link for dates",
-      "heat": 100,
-      "url": "https://singpromos.com/computers-pc/acronis-spore-black-friday-sale-offers-up-to-50-off-true-image-subscriptions-309979/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/computers-pc/acronis-spore-black-friday-sale-offers-up-to-50-off-true-image-subscriptions-309979/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-19",
-      "image": "images/deals/acronis-s-pore-black-friday-sale-offers-up-to-50-off-true-im.jpg"
-    },
-    {
-      "id": "ihg-hotels-resorts-cyber-sale-offers-up-to-30-off-hotel-stay",
-      "title": "IHG Hotels & Resorts Cyber Sale Offers Up to 30% Off Hotel Stays Worldwide till 3 Dec 2026",
-      "store": "IHG Hotels & Resorts",
-      "categories": [
-        "travel"
-      ],
-      "icon": "✈️",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        },
-        {
-          "type": "discount",
-          "label": "30% OFF"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Save on hotel stays worldwide, with free membership unlocking bigger discounts",
-      "expiry": "Ends 3 Dec",
-      "heat": 95,
-      "url": "https://singpromos.com/vacations/ihg-hotels-resorts-cyber-sale-offers-up-to-30-off-hotel-stays-worldwide-till-3-dec-2026-309930/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/vacations/ihg-hotels-resorts-cyber-sale-offers-up-to-30-off-hotel-stays-worldwide-till-3-dec-2026-309930/"
-      },
-      "expires_at": "2026-12-03",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-19",
-      "image": "images/deals/ihg-hotels-resorts-cyber-sale-offers-up-to-30-off-hotel-stay.jpg"
     },
     {
       "id": "uniqlo-free-mini-fluffy-fleece-charm-spend-s-120-with-a-dbs-",
@@ -585,75 +612,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-19"
-    },
-    {
-      "id": "kfc-s-pore-launches-sweet-purple-potato-cheese-mochi-from-18",
-      "title": "KFC S’pore Launches Sweet Purple Potato Cheese Mochi from 18 Nov 2026",
-      "store": "KFC",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "KFC"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Chewy purple mochi with a luscious cream cheese filling for a limited time only",
-      "expiry": "Ongoing",
-      "heat": 90,
-      "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-launches-sweet-purple-potato-cheese-mochi-from-18-nov-2026-309905/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-launches-sweet-purple-potato-cheese-mochi-from-18-nov-2026-309905/"
-      },
-      "brand": "KFC",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-11-18",
-      "first_seen": "2026-11-18",
-      "image": "images/deals/kfc-s-pore-launches-sweet-purple-potato-cheese-mochi-from-18.jpg"
-    },
-    {
-      "id": "muji-singapore-s-cacao-truffles-are-now-40-off-with-hazelnut",
-      "title": "MUJI Singapore’s Cacao Truffles Are Now 40% OFF, With Hazelnut, Salt Caramel and More - Great Deals Singapore",
-      "store": "Muji",
-      "categories": [
-        "home"
-      ],
-      "icon": "🏠",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MUJI"
-        },
-        {
-          "type": "discount",
-          "label": "40% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "MUJI Singapore’s Cacao Truffles Are Now 40% OFF, With Hazelnut, Salt Caramel and More Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUlDc3MyS1VPU2NGQlVWZXMxQWRZcVVrNGxGLTZDOGJvSXZYZk5NVVZhNW1LS1dCcFNaOVZEblMwMjM4NUFPY3lDVkhqRGJ3MXNqazE2WFNYUnRDSTBsQlZMXzA1aERROThabzNyT3pCcG5xMGNtVEtTWHNkdUI3bW5Yal8?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZUlDc3MyS1VPU2NGQlVWZXMxQWRZcVVrNGxGLTZDOGJvSXZYZk5NVVZhNW1LS1dCcFNaOVZEblMwMjM4NUFPY3lDVkhqRGJ3MXNqazE2WFNYUnRDSTBsQlZMXzA1aERROThabzNyT3pCcG5xMGNtVEtTWHNkdUI3bW5Yal8?oc=5"
-      },
-      "brand": "Muji",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-18"
     },
     {
       "id": "uniqlo-singapore-giving-away-free-mini-fleece-jacket-charms-",
@@ -1342,6 +1300,42 @@
       "first_seen": "2026-10-31"
     },
     {
+      "id": "gain-city-s-go-green-campaign-offers-up-to-1k-off-on-applian",
+      "title": "Gain City’s Go Green campaign offers up to $1k off on appliances with trade-ins, free weekend repairs - The Straits Time",
+      "store": "Gain City",
+      "categories": [
+        "home"
+      ],
+      "icon": "🏠",
+      "badges": [
+        {
+          "type": "new",
+          "label": "GAIN CITY"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Gain City’s Go Green campaign offers up to $1k off on appliances with trade-ins, free weekend repairs The Straits Times",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWJUYlNxeWI3SmRabHZ4Nk54R21GTER6LW8zZU80SlZfcXd1V2d1SXFJWVpmV200QThibTZxUThqRVRpRklWVDdlczBUNUdLQktWQlRsSVZRbEstSkJQNDF3aWM4ZEVhLUFLMExJOS0yUjhTZmdGUjVMdC1CTjdtMEE3Zkp3LS1oTVdIR0QxbU8tQmNGS2lPRXhPNEY4V3RzdFVzNUtIWVg4ZnBsejdjU2dONGhpLURXekFiTFRjckg3amhpQTFOdXV1TXU?oc=5",
+      "source": {
+        "name": "The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWJUYlNxeWI3SmRabHZ4Nk54R21GTER6LW8zZU80SlZfcXd1V2d1SXFJWVpmV200QThibTZxUThqRVRpRklWVDdlczBUNUdLQktWQlRsSVZRbEstSkJQNDF3aWM4ZEVhLUFLMExJOS0yUjhTZmdGUjVMdC1CTjdtMEE3Zkp3LS1oTVdIR0QxbU8tQmNGS2lPRXhPNEY4V3RzdFVzNUtIWVg4ZnBsejdjU2dONGhpLURXekFiTFRjckg3amhpQTFOdXV1TXU?oc=5"
+      },
+      "brand": "Gain City",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-23"
+    },
+    {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
       "title": "Decathlon Singapore hosting second-hand bike festival with refurbished bikes up to 80% off - CNA Lifestyle",
       "store": "Decathlon",
@@ -1443,8 +1437,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1510,8 +1503,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
@@ -2163,8 +2155,7 @@
         "url": "https://sg.everydayonsales.com/warehouse-sale/"
       },
       "first_seen": "2026-07-05",
-      "upcoming": false,
-      "status": "claimed"
+      "upcoming": false
     },
     {
       "id": "moley-apparels-closing",
@@ -2196,8 +2187,7 @@
         "url": "https://sg.everydayonsales.com/warehouse-sale/"
       },
       "first_seen": "2026-07-05",
-      "upcoming": false,
-      "status": "claimed"
+      "upcoming": false
     }
   ]
 }
