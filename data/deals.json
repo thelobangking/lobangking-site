@@ -118,13 +118,12 @@
     "BEST Denki",
     "Best Denki",
     "BreadTalk",
-    "Burger King",
     "Challenger",
+    "Charles & Keith",
     "Coach",
     "Cotton On",
     "Courts",
     "Decathlon",
-    "Don Don Donki",
     "Eu Yan Sang",
     "FairPrice",
     "GOLDLION",
@@ -145,14 +144,12 @@
     "Popeyes",
     "Punggol GRC",
     "REFASH",
-    "Razer",
     "SUKIYA",
     "SUSHIRO",
     "Samsung",
     "Sasa",
     "Shihlin",
     "Sothys",
-    "Subway",
     "Swensen's",
     "TANGS",
     "Takagi Ramen",
@@ -164,6 +161,80 @@
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "charles-keith-s-pore-black-friday-sale-up-to-50-off-extra-10",
+      "title": "CHARLES & KEITH S’pore Black Friday Sale Up to 50% Off + Extra 10% Off Till 30 Nov",
+      "store": "Charles & Keith",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "CHARLES & KEITH"
+        },
+        {
+          "type": "discount",
+          "label": "50% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Save on trending handbags, footwear and accessories, with more savings when buying two selected styles.",
+      "expiry": "Ends 30 Nov",
+      "heat": 175,
+      "url": "https://singpromos.com/fashion-accessories/charles-keith-spore-black-friday-sale-up-to-50-off-extra-10-off-till-30-nov-310112/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/fashion-accessories/charles-keith-spore-black-friday-sale-up-to-50-off-extra-10-off-till-30-nov-310112/"
+      },
+      "brand": "Charles & Keith",
+      "expires_at": "2026-11-30",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-22",
+      "spotlight": true,
+      "image": "images/deals/charles-keith-s-pore-black-friday-sale-up-to-50-off-extra-10.jpg"
+    },
+    {
+      "id": "best-denki-black-friday-pre-sale-up-to-70-off-lg-65-inch-ole",
+      "title": "BEST Denki Black Friday Pre-Sale: Up to 70% Off, LG 65-Inch OLED $2,299, Ninja Crispi Pro $399 and a $1 Gold Bar Draw, 2",
+      "store": "Best Denki",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "💻",
+      "badges": [
+        {
+          "type": "new",
+          "label": "BEST DENKI"
+        },
+        {
+          "type": "discount",
+          "label": "70% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "BEST Denki Black Friday Pre-Sale: Up to 70% Off, LG 65-Inch OLED $2,299, Ninja Crispi Pro $399 and a $1 Gold Bar Draw, 21-26 Nov 2026 https://www.misslobang.com/",
+      "expiry": "Ends 26 Nov",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ1hhYU5qV3pmZVZOaFkybEJoeHhPYnJjNUFGLVlIYXZiOWlaT3VFZXVnWjlaYk1kWE5ZS0JHSHVBV0V4OEdHWmxhMWtucmJYNm1JYjZQV1hZTml4ZzRvaEczYURnVm9ja0VBdTJZQXM3d29WdTgyclNWTTk3VGRwNXg5R29zZUxYaHB3RU1uaXpOeEE?oc=5",
+      "source": {
+        "name": "https://www.misslobang.com/",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ1hhYU5qV3pmZVZOaFkybEJoeHhPYnJjNUFGLVlIYXZiOWlaT3VFZXVnWjlaYk1kWE5ZS0JHSHVBV0V4OEdHWmxhMWtucmJYNm1JYjZQV1hZTml4ZzRvaEczYURnVm9ja0VBdTJZQXM3d29WdTgyclNWTTk3VGRwNXg5R29zZUxYaHB3RU1uaXpOeEE?oc=5"
+      },
+      "brand": "Best Denki",
+      "expires_at": "2026-11-26",
+      "upcoming": false,
+      "starts_at": "2026-11-21",
+      "first_seen": "2026-11-22"
+    },
     {
       "id": "singapore-cable-car-free-sentosa-line-round-trips-daily-morn",
       "title": "Singapore Cable Car FREE Sentosa Line Round Trips Daily Mornings from 21 Nov to 20 Dec 2026",
@@ -184,7 +255,7 @@
       },
       "desc": "No tickets required",
       "expiry": "Ends 20 Dec",
-      "heat": 135,
+      "heat": 130,
       "url": "https://singpromos.com/places-of-interest/singapore-cable-car-free-sentosa-line-round-trips-daily-mornings-from-21-nov-to-20-dec-2026-310087/",
       "source": {
         "name": "SINGPromos",
@@ -194,8 +265,7 @@
       "upcoming": false,
       "starts_at": "2026-11-21",
       "first_seen": "2026-11-21",
-      "image": "images/deals/singapore-cable-car-free-sentosa-line-round-trips-daily-morn.jpg",
-      "spotlight": true
+      "image": "images/deals/singapore-cable-car-free-sentosa-line-round-trips-daily-morn.jpg"
     },
     {
       "id": "tunglok-group-90-min-madness-offers-30-off-la-carte-food-and",
@@ -217,7 +287,7 @@
       },
       "desc": "Advance phone or WhatsApp bookings required, with no minimum spend or discount cap",
       "expiry": "Ends 30 Dec",
-      "heat": 125,
+      "heat": 120,
       "url": "https://singpromos.com/dining-restaurants-food/tunglok-group-90-min-madness-offers-30-off-a-la-carte-food-and-regular-set-menus-23-nov-30-dec-2026-309898/",
       "source": {
         "name": "SINGPromos",
@@ -249,7 +319,7 @@
       },
       "desc": "Save on lifetime cloud storage plans, including a 3 TB bundle with password management and encryption.",
       "expiry": "Ends 28 Nov",
-      "heat": 110,
+      "heat": 105,
       "url": "https://singpromos.com/computers-pc/pcloud-black-friday-2026-lifetime-cloud-storage-from-us159-till-28-nov-2026-310073/",
       "source": {
         "name": "SINGPromos",
@@ -285,7 +355,7 @@
       },
       "desc": "Enjoy up to 6.82% in bonus value, with digital gifting and flexible denominations.",
       "expiry": "Ends 30 Nov",
-      "heat": 145,
+      "heat": 140,
       "url": "https://singpromos.com/department-stores/amazon-sg-buy-220-or-more-in-egift-cards-and-get-a-free-15-bonus-till-30-nov-2026-310033/",
       "source": {
         "name": "SINGPromos",
@@ -296,8 +366,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-20",
-      "image": "images/deals/amazon-sg-buy-220-or-more-in-egift-cards-and-get-a-free-15-b.jpg",
-      "status": "claimed"
+      "image": "images/deals/amazon-sg-buy-220-or-more-in-egift-cards-and-get-a-free-15-b.jpg"
     },
     {
       "id": "fairprice-has-50-off-much-moore-1l-ice-cream-at-8-45-ben-jer",
@@ -323,7 +392,7 @@
       },
       "desc": "Seven ice cream flavours at half price, plus Cadbury chocolates, Ferrero Rocher and frozen snacks",
       "expiry": "Ends 25 Nov",
-      "heat": 140,
+      "heat": 135,
       "url": "https://singpromos.com/dining-restaurants-food/fairprice-has-50-off-much-moore-1l-ice-cream-at-8-45-ben-jerrys-deals-and-more-till-25-nov-310020/",
       "source": {
         "name": "SINGPromos",
@@ -356,7 +425,7 @@
       },
       "desc": "Grocery, chocolate and household bargains",
       "expiry": "Ends 22 Nov",
-      "heat": 135,
+      "heat": 130,
       "url": "https://singpromos.com/dining-restaurants-food/fairprice-3-day-specials-until-22-nov-2026-with-savings-up-to-48-310052/",
       "source": {
         "name": "SINGPromos",
@@ -393,7 +462,7 @@
       },
       "desc": "Over 200 wagons of apparel, underwear and accessories, plus a free socks gift with minimum spend",
       "expiry": "Ends 30 Nov",
-      "heat": 120,
+      "heat": 115,
       "url": "https://singpromos.com/warehouse-sales/hush-puppies-spore-warehouse-sale-up-to-80-off-with-deals-from-1-90-until-30-nov-2026-310056/",
       "source": {
         "name": "SINGPromos",
@@ -429,7 +498,7 @@
       },
       "desc": "Doorbuster deals up to 60% off, extra 15% off outlet items, S$1.11 charms and free gifts",
       "expiry": "Ends 22 Nov",
-      "heat": 110,
+      "heat": 105,
       "url": "https://singpromos.com/footwear/crocs-spore-black-friday-sale-buy-one-get-50-off-2nd-pair-till-22-nov-310041/",
       "source": {
         "name": "SINGPromos",
@@ -533,7 +602,7 @@
       },
       "desc": "New maple BBQ burgers, Szechuan Sauce, McPops, desserts and exclusive Hamburglar merchandise await",
       "expiry": "Ends 26 Nov",
-      "heat": 110,
+      "heat": 105,
       "url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-launches-maple-bbq-burger-meals-and-new-merch-on-26-nov-2026-309990/",
       "source": {
         "name": "SINGPromos",
@@ -566,7 +635,7 @@
       },
       "desc": "Save $9.70 on premium ice cream and enjoy up to 50% savings on household essentials",
       "expiry": "Ends 25 Nov",
-      "heat": 95,
+      "heat": 90,
       "url": "https://singpromos.com/dining-restaurants-food/giant-spore-haagen-dazs-any-2-at-19-80-dynamo-1-for-1-more-deals-till-25-nov-2026-310013/",
       "source": {
         "name": "SINGPromos",
@@ -652,42 +721,6 @@
       "image": "images/deals/uniqlo-singapore-giving-away-free-mini-fleece-jacket-charms-.jpg"
     },
     {
-      "id": "up-to-70-off-selected-items-at-don-don-donki-till-19-jul-set",
-      "title": "Up to 70% off selected items at Don Don Donki till 19 Jul - SETHLUI.com",
-      "store": "Don Don Donki",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "DON DON DONKI"
-        },
-        {
-          "type": "discount",
-          "label": "70% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Up to 70% off selected items at Don Don Donki till 19 Jul SETHLUI.com",
-      "expiry": "Ends 19 Jul",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5",
-      "source": {
-        "name": "SETHLUI.com",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5"
-      },
-      "brand": "Don Don Donki",
-      "expires_at": "2027-07-19",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-14"
-    },
-    {
       "id": "pelago-day-flash-sale-has-1-for-1-singapore-oceanarium-ticke",
       "title": "Pelago Day flash sale has 1-for-1 Singapore Oceanarium tickets and S$55 Universal Studios Singapore tickets - MoneyDiges",
       "store": "Universal Studios Singapore",
@@ -724,118 +757,6 @@
       "first_seen": "2026-11-11"
     },
     {
-      "id": "burger-king-singapore-s-11-11-sale-brings-1-for-1-whopper-lo",
-      "title": "Burger King Singapore's 11.11 Sale Brings 1-FOR-1 WHOPPER, Long Chicken & More Till November 15 - Great Deals Singapore",
-      "store": "Burger King",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "BURGER KING"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Burger King Singapore's 11.11 Sale Brings 1-FOR-1 WHOPPER, Long Chicken & More Till November 15 Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRk5UVkRaTjJobkdaQlVhdE1wd1JtcXVyX2NkYVcySlBVZm50RHo0Yy13WTJXR0o2c2YxZlMxY1JXanlZM0dpREIzdEJSbXgyRF9iQXp2Mk1yR0QtQXpRWEkwX21vaTdEQkRlMVhBMHFuU1lEajJ6UDM0bURsckM2ZGJmcC1TWE0?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRk5UVkRaTjJobkdaQlVhdE1wd1JtcXVyX2NkYVcySlBVZm50RHo0Yy13WTJXR0o2c2YxZlMxY1JXanlZM0dpREIzdEJSbXgyRF9iQXp2Mk1yR0QtQXpRWEkwX21vaTdEQkRlMVhBMHFuU1lEajJ6UDM0bURsckM2ZGJmcC1TWE0?oc=5"
-      },
-      "brand": "Burger King",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-11"
-    },
-    {
-      "id": "razer-gaming-headphones-now-31-off-hardwarezone-singapore",
-      "title": "Razer Gaming Headphones Now 31% Off - HardwareZone Singapore",
-      "store": "Razer",
-      "categories": [
-        "entertainment"
-      ],
-      "icon": "🎮",
-      "badges": [
-        {
-          "type": "new",
-          "label": "RAZER"
-        },
-        {
-          "type": "discount",
-          "label": "31% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Razer Gaming Headphones Now 31% Off HardwareZone Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWYUt4SVcxX0VXX1BPR2NFaGFVTV81ODZ3VE83VWdPSE5yM1hVaW83ZDRtcnJJemFLWVUxOXRJaXI3WlE1UEsxcDUxdWNaMFQ1cVJSRVFheFFOVmJTY1dpM081MWhDZmNidVNEUHZVcVRCVHZKbWZaN2Jn?oc=5",
-      "source": {
-        "name": "HardwareZone Singapore",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWYUt4SVcxX0VXX1BPR2NFaGFVTV81ODZ3VE83VWdPSE5yM1hVaW83ZDRtcnJJemFLWVUxOXRJaXI3WlE1UEsxcDUxdWNaMFQ1cVJSRVFheFFOVmJTY1dpM081MWhDZmNidVNEUHZVcVRCVHZKbWZaN2Jn?oc=5"
-      },
-      "brand": "Razer",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-10"
-    },
-    {
-      "id": "subway-singapore-brings-back-buy-1-get-1-free-breakfast-wrap",
-      "title": "Subway Singapore Brings Back Buy 1 Get 1 FREE Breakfast Wraps on November 13 & 14 - Great Deals Singapore",
-      "store": "Subway",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SUBWAY"
-        },
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Subway Singapore Brings Back Buy 1 Get 1 FREE Breakfast Wraps on November 13 & 14 Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWHNhanBOaVhDUzhDRHV1S0NOTUxqcUthSTMwZEdjaGZWZ1dQTEMtX3FTdGJHUkJoSVhLcjYta2tDMDJKS3VJcDhxYU9sdTFFX1BndmRrUW1JLW1sNWNmRGM4cDhpdlF4WTBLV0J0dmtZWlRFd2JWZFExZkFhZ0pWa2V2SE1xOUhoNE5Da3Z3?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWHNhanBOaVhDUzhDRHV1S0NOTUxqcUthSTMwZEdjaGZWZ1dQTEMtX3FTdGJHUkJoSVhLcjYta2tDMDJKS3VJcDhxYU9sdTFFX1BndmRrUW1JLW1sNWNmRGM4cDhpdlF4WTBLV0J0dmtZWlRFd2JWZFExZkFhZ0pWa2V2SE1xOUhoNE5Da3Z3?oc=5"
-      },
-      "brand": "Subway",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-06"
-    },
-    {
       "id": "muji-jewel-changi-airport-has-an-ongoing-clearance-sale-of-u",
       "title": "MUJI Jewel Changi Airport Has An Ongoing Clearance Sale of Up To 70% Off Homeware & Clothing - Uchify",
       "store": "Muji",
@@ -866,6 +787,42 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HLURCYlZFbGdZcTk3X2xyUVkyem9IeDVvMXJCU2lxTzRUSExWWW9wS3JOUVFuazN5VkRJYmdNMHdaR0cybnJnX2dnaU5icXgtZWd0SV9Bdzk?oc=5"
       },
       "brand": "Muji",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-04"
+    },
+    {
+      "id": "uniqlo-singapore-giving-away-free-lunch-bags-during-thank-yo",
+      "title": "UNIQLO Singapore Giving Away FREE Lunch Bags During Thank You Festival From May 22 to 28 - Great Deals Singapore",
+      "store": "Uniqlo",
+      "categories": [
+        "entertainment"
+      ],
+      "icon": "🎮",
+      "badges": [
+        {
+          "type": "new",
+          "label": "UNIQLO"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "UNIQLO Singapore Giving Away FREE Lunch Bags During Thank You Festival From May 22 to 28 Great Deals Singapore",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkpXWDN1NEVRbjFVZk9ya2Z3QzdYVS11MWlPanhDV0xKcGVWbG5BTU9aNktyaktxVFEyR010QXdQTTcybDlJZXh3YTZvVWNVc0pLWjR5WHpoVUE3Q0pOYzYtbzExSnlERVdPV3dFc09IWUZweE5YelJTeGRvVVJDVVJjZzgzbXd1NHJuNi1vNkRfMXYtaWs3cjd6NDhHQWpq?oc=5",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkpXWDN1NEVRbjFVZk9ya2Z3QzdYVS11MWlPanhDV0xKcGVWbG5BTU9aNktyaktxVFEyR010QXdQTTcybDlJZXh3YTZvVWNVc0pLWjR5WHpoVUE3Q0pOYzYtbzExSnlERVdPV3dFc09IWUZweE5YelJTeGRvVVJDVVJjZzgzbXd1NHJuNi1vNkRfMXYtaWs3cjd6NDhHQWpq?oc=5"
+      },
+      "brand": "Uniqlo",
       "expires_at": "",
       "upcoming": false,
       "starts_at": "",
@@ -1438,8 +1395,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1505,8 +1461,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
@@ -2158,8 +2113,7 @@
         "url": "https://sg.everydayonsales.com/warehouse-sale/"
       },
       "first_seen": "2026-07-05",
-      "upcoming": false,
-      "status": "claimed"
+      "upcoming": false
     },
     {
       "id": "moley-apparels-closing",
@@ -2191,8 +2145,7 @@
         "url": "https://sg.everydayonsales.com/warehouse-sale/"
       },
       "first_seen": "2026-07-05",
-      "upcoming": false,
-      "status": "claimed"
+      "upcoming": false
     }
   ]
 }
