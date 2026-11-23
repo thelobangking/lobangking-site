@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "categories": [
     {
       "id": "all",
@@ -147,7 +147,6 @@
     "SUKIYA",
     "SUSHIRO",
     "Samsung",
-    "Sasa",
     "Shihlin",
     "Sothys",
     "Swensen's",
@@ -407,39 +406,6 @@
       "image": "images/deals/fairprice-has-50-off-much-moore-1l-ice-cream-at-8-45-ben-jer.jpg"
     },
     {
-      "id": "fairprice-3-day-specials-until-22-nov-2026-with-savings-up-t",
-      "title": "FairPrice 3-Day Specials Until 22 Nov 2026 With Savings Up to 48%",
-      "store": "FairPrice",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "FAIRPRICE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Grocery, chocolate and household bargains",
-      "expiry": "Ends 22 Nov",
-      "heat": 130,
-      "url": "https://singpromos.com/dining-restaurants-food/fairprice-3-day-specials-until-22-nov-2026-with-savings-up-to-48-310052/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/fairprice-3-day-specials-until-22-nov-2026-with-savings-up-to-48-310052/"
-      },
-      "brand": "FairPrice",
-      "expires_at": "2026-11-22",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-20",
-      "image": "images/deals/fairprice-3-day-specials-until-22-nov-2026-with-savings-up-t.jpg"
-    },
-    {
       "id": "hush-puppies-s-pore-warehouse-sale-up-to-80-off-with-deals-f",
       "title": "Hush Puppies S’pore Warehouse Sale Up to 80% Off With Deals From $1.90 Until 30 Nov 2026",
       "store": "Hush Puppies",
@@ -474,78 +440,6 @@
       "starts_at": "",
       "first_seen": "2026-11-20",
       "image": "images/deals/hush-puppies-s-pore-warehouse-sale-up-to-80-off-with-deals-f.jpg"
-    },
-    {
-      "id": "crocs-s-pore-black-friday-sale-buy-one-get-50-off-2nd-pair-t",
-      "title": "Crocs S’pore Black Friday Sale Buy One Get 50% off 2nd Pair till 22 Nov",
-      "store": "Crocs",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        },
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Doorbuster deals up to 60% off, extra 15% off outlet items, S$1.11 charms and free gifts",
-      "expiry": "Ends 22 Nov",
-      "heat": 105,
-      "url": "https://singpromos.com/footwear/crocs-spore-black-friday-sale-buy-one-get-50-off-2nd-pair-till-22-nov-310041/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/footwear/crocs-spore-black-friday-sale-buy-one-get-50-off-2nd-pair-till-22-nov-310041/"
-      },
-      "expires_at": "2026-11-22",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-20",
-      "image": "images/deals/crocs-s-pore-black-friday-sale-buy-one-get-50-off-2nd-pair-t.jpg"
-    },
-    {
-      "id": "sa-sa-4-day-beauty-sale-fragrances-40-off-skincare-from-10-u",
-      "title": "Sa Sa 4-Day Beauty Sale: Fragrances 40% Off, Skincare From $10, Until Sun 22 Nov 2026 - misslobang.com",
-      "store": "Sasa",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SASA"
-        },
-        {
-          "type": "discount",
-          "label": "40% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Sa Sa 4-Day Beauty Sale: Fragrances 40% Off, Skincare From $10, Until Sun 22 Nov 2026 misslobang.com",
-      "expiry": "Ends 22 Nov",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVTFyZmRZaGxMWF81QjNvN0wwcllDREpVQWx3NHZxbDhJdU14VGRMcWluOG5NZ1ZLLVZ3VW95RU5qN2lZSmVxSVZVTVFqeHJra1FwZzV0SWNIbFlETkVrTDBSZjRZWXcyeXpVckltckVaRG5RcEFGdnRQWnp4aFpSRl85ODBqVDBydGxCaG1ncnVQMms?oc=5",
-      "source": {
-        "name": "misslobang.com",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVTFyZmRZaGxMWF81QjNvN0wwcllDREpVQWx3NHZxbDhJdU14VGRMcWluOG5NZ1ZLLVZ3VW95RU5qN2lZSmVxSVZVTVFqeHJra1FwZzV0SWNIbFlETkVrTDBSZjRZWXcyeXpVckltckVaRG5RcEFGdnRQWnp4aFpSRl85ODBqVDBydGxCaG1ncnVQMms?oc=5"
-      },
-      "brand": "Sasa",
-      "expires_at": "2026-11-22",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-20"
     },
     {
       "id": "samsung-s-award-winning-floating-oled-tv-with-a-glare-free-s",
