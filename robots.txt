@@ -8,7 +8,7 @@ Content-Signal: search=yes, ai-input=no, ai-train=no
 Allow: /
 Disallow: /privacy.html
 
-# --- AI / scraper crawlers (211): full block ---
+# --- AI / scraper crawlers (213): full block ---
 User-agent: __usage_ai-training
 User-agent: AddSearchBot
 User-agent: AgentDataBot
@@ -93,6 +93,7 @@ User-agent: FirecrawlAgent
 User-agent: FriendlyCrawler
 User-agent: GeistHaus-PageFetcher
 User-agent: Gemini-Deep-Research
+User-agent: GeneralRetrievalBot
 User-agent: Google-Agent
 User-agent: Google-CloudVertexBot
 User-agent: Google-Extended
@@ -111,6 +112,7 @@ User-agent: GrokAppAndroid
 User-agent: GrokBot
 User-agent: Haiku-SearchBot
 User-agent: HarkBot
+User-agent: HatchFeed
 User-agent: HenkBot
 User-agent: Hunyuan
 User-agent: iAskBot
@@ -143,8 +145,8 @@ User-agent: magpie-crawler
 User-agent: Manus-User
 User-agent: Meta-ExternalAgent
 User-agent: meta-externalagent
-User-agent: Meta-ExternalFetcher
 User-agent: meta-externalfetcher
+User-agent: Meta-ExternalFetcher
 User-agent: meta-webindexer
 User-agent: MiniMaxAgent
 User-agent: MistralAI-Index

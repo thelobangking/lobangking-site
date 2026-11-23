@@ -92,6 +92,7 @@ Disallow: /
 # - FriendlyCrawler
 # - GeistHaus-PageFetcher
 # - Gemini-Deep-Research
+# - GeneralRetrievalBot
 # - Google-Agent
 # - Google-CloudVertexBot
 # - Google-Extended
@@ -110,6 +111,7 @@ Disallow: /
 # - GrokBot
 # - Haiku-SearchBot
 # - HarkBot
+# - HatchFeed
 # - HenkBot
 # - Hunyuan
 # - iAskBot
@@ -142,8 +144,8 @@ Disallow: /
 # - Manus-User
 # - Meta-ExternalAgent
 # - meta-externalagent
-# - Meta-ExternalFetcher
 # - meta-externalfetcher
+# - Meta-ExternalFetcher
 # - meta-webindexer
 # - MiniMaxAgent
 # - MistralAI-Index
