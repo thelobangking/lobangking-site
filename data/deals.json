@@ -508,7 +508,8 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-20",
-      "image": "images/deals/amazon-sg-buy-220-or-more-in-egift-cards-and-get-a-free-15-b.jpg"
+      "image": "images/deals/amazon-sg-buy-220-or-more-in-egift-cards-and-get-a-free-15-b.jpg",
+      "status": "claimed"
     },
     {
       "id": "fairprice-has-50-off-much-moore-1l-ice-cream-at-8-45-ben-jer",
@@ -994,7 +995,8 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "takagi-ramen-1for1-ndp",
@@ -1026,7 +1028,8 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "kennyrogers-670-meals",
@@ -1058,7 +1061,8 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "welcia-kose-beauty",
@@ -1090,7 +1094,8 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "hp-double7-savings",
@@ -1122,7 +1127,8 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "sothys-july-skincare",
@@ -1154,7 +1160,8 @@
       "first_seen": "2026-11-03",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "orchard-hotel-nationalday-drinks",
@@ -1219,7 +1226,8 @@
         "url": "https://sg.everydayonsales.com/promotions-freebies/"
       },
       "first_seen": "2026-11-03",
-      "upcoming": false
+      "upcoming": false,
+      "status": "claimed"
     },
     {
       "id": "safra-members-enjoy-1-for-1-universal-studios-singapore-tick",
@@ -1431,7 +1439,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1497,7 +1506,8 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg"
+      "image": "images/deals/challenger-ms365.jpg",
+      "status": "claimed"
     },
     {
       "id": "courts-get7",
@@ -1596,7 +1606,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-09",
       "upcoming": false,
-      "starts_at": "2026-07-06"
+      "starts_at": "2026-07-06",
+      "status": "claimed"
     },
     {
       "id": "breadtalk-26th-anniversary",
@@ -1661,7 +1672,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-31",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "euyansang-online-jul",
@@ -1694,7 +1706,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-08",
       "upcoming": false,
-      "starts_at": "2026-07-02"
+      "starts_at": "2026-07-02",
+      "status": "claimed"
     },
     {
       "id": "bestdenki-oppo-x9s",
@@ -1726,7 +1739,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-31",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "yellowribbon-hellokitty-plush",
@@ -1758,7 +1772,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-31",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "giant-durian-buffet",
@@ -1791,7 +1806,8 @@
       "expires_at": "2027-07-19",
       "upcoming": true,
       "starts_at": "2026-07-18",
-      "image": "images/up-giant-durian.jpg"
+      "image": "images/up-giant-durian.jpg",
+      "status": "claimed"
     },
     {
       "id": "harbourfront-summer-popup",
@@ -1823,7 +1839,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-26",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "kfc-drivethru-voucher",
@@ -1855,7 +1872,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "zenyum-sonic2-50off",
@@ -1887,7 +1905,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-12",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "sushiro-myvillage-opening",
@@ -2018,7 +2037,8 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-15",
       "upcoming": false,
-      "starts_at": ""
+      "starts_at": "",
+      "status": "claimed"
     },
     {
       "id": "refash-go-green-market",
