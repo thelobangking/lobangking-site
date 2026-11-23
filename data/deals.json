@@ -124,6 +124,7 @@
     "Cotton On",
     "Courts",
     "Decathlon",
+    "Don Don Donki",
     "Eu Yan Sang",
     "FairPrice",
     "GOLDLION",
@@ -144,9 +145,9 @@
     "Popeyes",
     "Punggol GRC",
     "REFASH",
+    "Razer",
     "SUKIYA",
     "SUSHIRO",
-    "Samsung",
     "Shihlin",
     "Sothys",
     "Swensen's",
@@ -156,10 +157,153 @@
     "Uniqlo",
     "Universal Studios Singapore",
     "Welcia",
+    "Xiaomi",
     "Yellow Ribbon",
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "kfc-s-pore-6-50-3-piece-o-r-tenders-meal-app-deal-on-23-nov-",
+      "title": "KFC S’pore $6.50 3-Piece O.R. Tenders Meal App Deal on 23 Nov 2026",
+      "store": "KFC",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "KFC"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Crispy chicken tenders, fries and a refreshing drink",
+      "expiry": "Ends 23 Nov",
+      "heat": 150,
+      "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-3-piece-o-r-tenders-meal-app-deal-on-23-nov-2026-310130/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-3-piece-o-r-tenders-meal-app-deal-on-23-nov-2026-310130/"
+      },
+      "brand": "KFC",
+      "expires_at": "2026-11-23",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-23",
+      "spotlight": true,
+      "image": "images/deals/kfc-s-pore-6-50-3-piece-o-r-tenders-meal-app-deal-on-23-nov-.jpg"
+    },
+    {
+      "id": "dunkin-s-pore-payday-deals-from-23-nov-2026-buy-5-donuts-get",
+      "title": "Dunkin’ S’pore Payday Deals from 23 Nov 2026 – Buy 5 Donuts Get 2 Free & 1-for-1 Drinks",
+      "store": "Dunkin’",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Seven donuts for the price of 5, plus Cold Brew and Teh Tarik specials",
+      "expiry": "Ongoing",
+      "heat": 135,
+      "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-payday-deals-from-23-nov-2026-with-2-free-donuts-and-1-for-1-drinks-310143/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-payday-deals-from-23-nov-2026-with-2-free-donuts-and-1-for-1-drinks-310143/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "image": "images/deals/dunkin-s-pore-payday-deals-from-23-nov-2026-buy-5-donuts-get.jpg"
+    },
+    {
+      "id": "muji-online-exclusive-sale-just-dropped-with-up-to-40-off-ho",
+      "title": "MUJI Online Exclusive Sale Just Dropped with Up to 40% OFF Home and Living Picks Till April 30 - Great Deals Singapore",
+      "store": "Muji",
+      "categories": [
+        "home"
+      ],
+      "icon": "🏠",
+      "badges": [
+        {
+          "type": "new",
+          "label": "MUJI"
+        },
+        {
+          "type": "discount",
+          "label": "40% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — see source link to claim"
+      },
+      "desc": "MUJI Online Exclusive Sale Just Dropped with Up to 40% OFF Home and Living Picks Till April 30 Great Deals Singapore",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmdYcDBWZi15eFkxMnVGZ1Z5RGJYc2wyWEVMUVkwX3JqcjdJUEpjN2lfaXY3emxFRVVxei1CUm9BSWRzODVIdzdycHpGSVozcTVWSl9uZWhTdXVjMzFobWwwb3VRTWkxT1VYc2gwaGw4dkc0T3dTb0twUW9XdXk2ZW1oQkQ?oc=5",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmdYcDBWZi15eFkxMnVGZ1Z5RGJYc2wyWEVMUVkwX3JqcjdJUEpjN2lfaXY3emxFRVVxei1CUm9BSWRzODVIdzdycHpGSVozcTVWSl9uZWhTdXVjMzFobWwwb3VRTWkxT1VYc2gwaGw4dkc0T3dTb0twUW9XdXk2ZW1oQkQ?oc=5"
+      },
+      "brand": "Muji",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-23"
+    },
+    {
+      "id": "xiaomi-18-pro-at-singtel-is-the-free-redmi-pad-2-worth-it-da",
+      "title": "Xiaomi 18 Pro at Singtel: Is the Free REDMI Pad 2 Worth It? - DANAMIC",
+      "store": "Xiaomi",
+      "categories": [
+        "electronics"
+      ],
+      "icon": "💻",
+      "badges": [
+        {
+          "type": "new",
+          "label": "XIAOMI"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Xiaomi 18 Pro at Singtel: Is the Free REDMI Pad 2 Worth It? DANAMIC",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTAzSGJKZTd6MXE0UEVHRjZSTE5rV1NNamdlSEdjUXhlY3VsUkUzU2tmTUl6Ti02UE42NWVkNTJ2Rmk4MVFOTWtmbmVYYnByMXcxZ3FQZ2NGUXlOcm5HMWpfdG1zMDN5eU5kRXpibkZGUi10YzN0Q0FpbDhHZ3ZfdllBaXFZejFnaDEzNmNIOW5hTkU?oc=5",
+      "source": {
+        "name": "DANAMIC",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTAzSGJKZTd6MXE0UEVHRjZSTE5rV1NNamdlSEdjUXhlY3VsUkUzU2tmTUl6Ti02UE42NWVkNTJ2Rmk4MVFOTWtmbmVYYnByMXcxZ3FQZ2NGUXlOcm5HMWpfdG1zMDN5eU5kRXpibkZGUi10YzN0Q0FpbDhHZ3ZfdllBaXFZejFnaDEzNmNIOW5hTkU?oc=5"
+      },
+      "brand": "Xiaomi",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-23"
+    },
     {
       "id": "charles-keith-s-pore-black-friday-sale-up-to-50-off-extra-10",
       "title": "CHARLES & KEITH S’pore Black Friday Sale Up to 50% Off + Extra 10% Off Till 30 Nov",
@@ -184,7 +328,7 @@
       },
       "desc": "Save on trending handbags, footwear and accessories, with more savings when buying two selected styles.",
       "expiry": "Ends 30 Nov",
-      "heat": 175,
+      "heat": 165,
       "url": "https://singpromos.com/fashion-accessories/charles-keith-spore-black-friday-sale-up-to-50-off-extra-10-off-till-30-nov-310112/",
       "source": {
         "name": "SINGPromos",
@@ -195,8 +339,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-22",
-      "image": "images/deals/charles-keith-s-pore-black-friday-sale-up-to-50-off-extra-10.jpg",
-      "spotlight": true
+      "image": "images/deals/charles-keith-s-pore-black-friday-sale-up-to-50-off-extra-10.jpg"
     },
     {
       "id": "best-denki-black-friday-pre-sale-up-to-70-off-lg-65-inch-ole",
@@ -254,7 +397,7 @@
       },
       "desc": "No tickets required",
       "expiry": "Ends 20 Dec",
-      "heat": 130,
+      "heat": 120,
       "url": "https://singpromos.com/places-of-interest/singapore-cable-car-free-sentosa-line-round-trips-daily-mornings-from-21-nov-to-20-dec-2026-310087/",
       "source": {
         "name": "SINGPromos",
@@ -286,7 +429,7 @@
       },
       "desc": "Advance phone or WhatsApp bookings required, with no minimum spend or discount cap",
       "expiry": "Ends 30 Dec",
-      "heat": 120,
+      "heat": 110,
       "url": "https://singpromos.com/dining-restaurants-food/tunglok-group-90-min-madness-offers-30-off-a-la-carte-food-and-regular-set-menus-23-nov-30-dec-2026-309898/",
       "source": {
         "name": "SINGPromos",
@@ -318,7 +461,7 @@
       },
       "desc": "Save on lifetime cloud storage plans, including a 3 TB bundle with password management and encryption.",
       "expiry": "Ends 28 Nov",
-      "heat": 105,
+      "heat": 95,
       "url": "https://singpromos.com/computers-pc/pcloud-black-friday-2026-lifetime-cloud-storage-from-us159-till-28-nov-2026-310073/",
       "source": {
         "name": "SINGPromos",
@@ -365,8 +508,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-20",
-      "image": "images/deals/amazon-sg-buy-220-or-more-in-egift-cards-and-get-a-free-15-b.jpg",
-      "status": "claimed"
+      "image": "images/deals/amazon-sg-buy-220-or-more-in-egift-cards-and-get-a-free-15-b.jpg"
     },
     {
       "id": "fairprice-has-50-off-much-moore-1l-ice-cream-at-8-45-ben-jer",
@@ -429,7 +571,7 @@
       },
       "desc": "Over 200 wagons of apparel, underwear and accessories, plus a free socks gift with minimum spend",
       "expiry": "Ends 30 Nov",
-      "heat": 115,
+      "heat": 105,
       "url": "https://singpromos.com/warehouse-sales/hush-puppies-spore-warehouse-sale-up-to-80-off-with-deals-from-1-90-until-30-nov-2026-310056/",
       "source": {
         "name": "SINGPromos",
@@ -440,42 +582,6 @@
       "starts_at": "",
       "first_seen": "2026-11-20",
       "image": "images/deals/hush-puppies-s-pore-warehouse-sale-up-to-80-off-with-deals-f.jpg"
-    },
-    {
-      "id": "samsung-s-award-winning-floating-oled-tv-with-a-glare-free-s",
-      "title": "Samsung’s award-winning ‘floating’ OLED TV with a glare-free screen expands to more markets - Notebookcheck",
-      "store": "Samsung",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "💻",
-      "badges": [
-        {
-          "type": "new",
-          "label": "SAMSUNG"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Samsung’s award-winning ‘floating’ OLED TV with a glare-free screen expands to more markets Notebookcheck",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd1l6dXZVWkhWM1drUVFSUkdycXZtOURJTkJyV0NZcjV1THZDYW5Cc3pBNGlxaGhSNWN2RXlXOHQ5dEpzamNWaVVNSmdSUVlwd2ozZ1RLcW02MGxxUER3Z3JqNUp5N2NuNGFydVo5d3g0REF2XzU2cXhzUDVfRUhiRkpGelIyYWpLelNJWkFDMHhVQUhGMGNSYWQxenVmczRnbEVhUk1Sd1JkdEdQbnlCb3FLWTRYMHVVR0c0WVZLWU5jcS1DRnA1Z2IxQUx0Yjg?oc=5",
-      "source": {
-        "name": "Notebookcheck",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd1l6dXZVWkhWM1drUVFSUkdycXZtOURJTkJyV0NZcjV1THZDYW5Cc3pBNGlxaGhSNWN2RXlXOHQ5dEpzamNWaVVNSmdSUVlwd2ozZ1RLcW02MGxxUER3Z3JqNUp5N2NuNGFydVo5d3g0REF2XzU2cXhzUDVfRUhiRkpGelIyYWpLelNJWkFDMHhVQUhGMGNSYWQxenVmczRnbEVhUk1Sd1JkdEdQbnlCb3FLWTRYMHVVR0c0WVZLWU5jcS1DRnA1Z2IxQUx0Yjg?oc=5"
-      },
-      "brand": "Samsung",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-20"
     },
     {
       "id": "mcdonald-s-s-pore-launches-maple-bbq-burger-meals-and-new-me",
@@ -580,12 +686,12 @@
     },
     {
       "id": "uniqlo-singapore-giving-away-free-mini-fleece-jacket-charms-",
-      "title": "UNIQLO Singapore Giving Away FREE Mini Fleece Jacket Charms and Travel Bags From Nov 20",
+      "title": "UNIQLO Singapore Giving Away FREE Mini Fleece Jacket Charms and Travel Bags From Nov 20 - Great Deals Singapore",
       "store": "Uniqlo",
       "categories": [
-        "travel"
+        "fashion"
       ],
-      "icon": "✈️",
+      "icon": "👗",
       "badges": [
         {
           "type": "new",
@@ -600,20 +706,55 @@
         "type": "easy",
         "label": "See source for how to redeem"
       },
-      "desc": "A little thank-you gift with your UNIQLO haul.",
+      "desc": "UNIQLO Singapore Giving Away FREE Mini Fleece Jacket Charms and Travel Bags From Nov 20 Great Deals Singapore",
       "expiry": "Check link for dates",
       "heat": 90,
-      "url": "https://www.greatdeals.com.sg/2026/11/17/uniqlo-free-mini-fleece-jacket-charms-travel-bags-november-2026",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWsxd3ctQ04xREFFaUpUY0xxUWJ3YVBiNlZxRVBXUkhfSVJyOVlRczJPMHJ1OTh3eDVjNktjTm90cC1RRkc1Z3ZmOFpRelBENlpSZVhWTENZaFZmS1YtVXRrb1p0bDVwd3JxT1VnZ1V2QmtUY196T3plZWVINFAteUFTUFgtU2xQYVlBcUljaHFUSzBCR0NmYWpOdjRndGdNQ1FSZUw2NA?oc=5",
       "source": {
         "name": "Great Deals Singapore",
-        "url": "https://www.greatdeals.com.sg/2026/11/17/uniqlo-free-mini-fleece-jacket-charms-travel-bags-november-2026"
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWsxd3ctQ04xREFFaUpUY0xxUWJ3YVBiNlZxRVBXUkhfSVJyOVlRczJPMHJ1OTh3eDVjNktjTm90cC1RRkc1Z3ZmOFpRelBENlpSZVhWTENZaFZmS1YtVXRrb1p0bDVwd3JxT1VnZ1V2QmtUY196T3plZWVINFAteUFTUFgtU2xQYVlBcUljaHFUSzBCR0NmYWpOdjRndGdNQ1FSZUw2NA?oc=5"
       },
       "brand": "Uniqlo",
       "expires_at": "",
       "upcoming": false,
       "starts_at": "",
-      "first_seen": "2026-11-17",
-      "image": "images/deals/uniqlo-singapore-giving-away-free-mini-fleece-jacket-charms-.jpg"
+      "first_seen": "2026-11-17"
+    },
+    {
+      "id": "up-to-70-off-selected-items-at-don-don-donki-till-19-jul-set",
+      "title": "Up to 70% off selected items at Don Don Donki till 19 Jul - SETHLUI.com",
+      "store": "Don Don Donki",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "DON DON DONKI"
+        },
+        {
+          "type": "discount",
+          "label": "70% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Up to 70% off selected items at Don Don Donki till 19 Jul SETHLUI.com",
+      "expiry": "Ends 19 Jul",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5",
+      "source": {
+        "name": "SETHLUI.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5"
+      },
+      "brand": "Don Don Donki",
+      "expires_at": "2027-07-19",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-14"
     },
     {
       "id": "pelago-day-flash-sale-has-1-for-1-singapore-oceanarium-ticke",
@@ -652,6 +793,42 @@
       "first_seen": "2026-11-11"
     },
     {
+      "id": "razer-gaming-headphones-now-31-off-hardwarezone-singapore",
+      "title": "Razer Gaming Headphones Now 31% Off - HardwareZone Singapore",
+      "store": "Razer",
+      "categories": [
+        "entertainment"
+      ],
+      "icon": "🎮",
+      "badges": [
+        {
+          "type": "new",
+          "label": "RAZER"
+        },
+        {
+          "type": "discount",
+          "label": "31% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Razer Gaming Headphones Now 31% Off HardwareZone Singapore",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWYUt4SVcxX0VXX1BPR2NFaGFVTV81ODZ3VE83VWdPSE5yM1hVaW83ZDRtcnJJemFLWVUxOXRJaXI3WlE1UEsxcDUxdWNaMFQ1cVJSRVFheFFOVmJTY1dpM081MWhDZmNidVNEUHZVcVRCVHZKbWZaN2Jn?oc=5",
+      "source": {
+        "name": "HardwareZone Singapore",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWYUt4SVcxX0VXX1BPR2NFaGFVTV81ODZ3VE83VWdPSE5yM1hVaW83ZDRtcnJJemFLWVUxOXRJaXI3WlE1UEsxcDUxdWNaMFQ1cVJSRVFheFFOVmJTY1dpM081MWhDZmNidVNEUHZVcVRCVHZKbWZaN2Jn?oc=5"
+      },
+      "brand": "Razer",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-10"
+    },
+    {
       "id": "muji-jewel-changi-airport-has-an-ongoing-clearance-sale-of-u",
       "title": "MUJI Jewel Changi Airport Has An Ongoing Clearance Sale of Up To 70% Off Homeware & Clothing - Uchify",
       "store": "Muji",
@@ -682,42 +859,6 @@
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HLURCYlZFbGdZcTk3X2xyUVkyem9IeDVvMXJCU2lxTzRUSExWWW9wS3JOUVFuazN5VkRJYmdNMHdaR0cybnJnX2dnaU5icXgtZWd0SV9Bdzk?oc=5"
       },
       "brand": "Muji",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-04"
-    },
-    {
-      "id": "uniqlo-singapore-giving-away-free-lunch-bags-during-thank-yo",
-      "title": "UNIQLO Singapore Giving Away FREE Lunch Bags During Thank You Festival From May 22 to 28 - Great Deals Singapore",
-      "store": "Uniqlo",
-      "categories": [
-        "entertainment"
-      ],
-      "icon": "🎮",
-      "badges": [
-        {
-          "type": "new",
-          "label": "UNIQLO"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "UNIQLO Singapore Giving Away FREE Lunch Bags During Thank You Festival From May 22 to 28 Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkpXWDN1NEVRbjFVZk9ya2Z3QzdYVS11MWlPanhDV0xKcGVWbG5BTU9aNktyaktxVFEyR010QXdQTTcybDlJZXh3YTZvVWNVc0pLWjR5WHpoVUE3Q0pOYzYtbzExSnlERVdPV3dFc09IWUZweE5YelJTeGRvVVJDVVJjZzgzbXd1NHJuNi1vNkRfMXYtaWs3cjd6NDhHQWpq?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZkpXWDN1NEVRbjFVZk9ya2Z3QzdYVS11MWlPanhDV0xKcGVWbG5BTU9aNktyaktxVFEyR010QXdQTTcybDlJZXh3YTZvVWNVc0pLWjR5WHpoVUE3Q0pOYzYtbzExSnlERVdPV3dFc09IWUZweE5YelJTeGRvVVJDVVJjZzgzbXd1NHJuNi1vNkRfMXYtaWs3cjd6NDhHQWpq?oc=5"
-      },
-      "brand": "Uniqlo",
       "expires_at": "",
       "upcoming": false,
       "starts_at": "",
@@ -1290,8 +1431,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1357,8 +1497,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
