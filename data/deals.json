@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "categories": [
     {
       "id": "all",
@@ -163,40 +163,6 @@
   ],
   "deals": [
     {
-      "id": "kfc-s-pore-6-50-3-piece-o-r-tenders-meal-app-deal-on-23-nov-",
-      "title": "KFC S’pore $6.50 3-Piece O.R. Tenders Meal App Deal on 23 Nov 2026",
-      "store": "KFC",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "KFC"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Crispy chicken tenders, fries and a refreshing drink",
-      "expiry": "Ends 23 Nov",
-      "heat": 150,
-      "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-3-piece-o-r-tenders-meal-app-deal-on-23-nov-2026-310130/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-3-piece-o-r-tenders-meal-app-deal-on-23-nov-2026-310130/"
-      },
-      "brand": "KFC",
-      "expires_at": "2026-11-23",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-23",
-      "image": "images/deals/kfc-s-pore-6-50-3-piece-o-r-tenders-meal-app-deal-on-23-nov-.jpg",
-      "spotlight": true
-    },
-    {
       "id": "dunkin-s-pore-payday-deals-from-23-nov-2026-buy-5-donuts-get",
       "title": "Dunkin’ S’pore Payday Deals from 23 Nov 2026 – Buy 5 Donuts Get 2 Free & 1-for-1 Drinks",
       "store": "Dunkin’",
@@ -230,7 +196,8 @@
       "upcoming": false,
       "starts_at": "2026-11-23",
       "first_seen": "2026-11-23",
-      "image": "images/deals/dunkin-s-pore-payday-deals-from-23-nov-2026-buy-5-donuts-get.jpg"
+      "image": "images/deals/dunkin-s-pore-payday-deals-from-23-nov-2026-buy-5-donuts-get.jpg",
+      "spotlight": true
     },
     {
       "id": "muji-online-exclusive-sale-just-dropped-with-up-to-40-off-ho",
