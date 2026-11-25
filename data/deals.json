@@ -114,16 +114,18 @@
   ],
   "brands_today": [
     "4Fingers",
-    "Amazon",
+    "Adidas",
     "BEST Denki",
     "Best Denki",
     "BreadTalk",
+    "Burger King",
     "Challenger",
     "Charles & Keith",
     "Coach",
     "Cotton On",
     "Courts",
     "Decathlon",
+    "Don Don Donki",
     "Eu Yan Sang",
     "GOLDLION",
     "Gain City",
@@ -140,7 +142,6 @@
     "Nike",
     "Orchard Hotel",
     "Panasonic",
-    "Pedro",
     "Popeyes",
     "Punggol GRC",
     "REFASH",
@@ -148,6 +149,7 @@
     "SUKIYA",
     "SUSHIRO",
     "Scoot",
+    "Sephora",
     "Shihlin",
     "Sothys",
     "Swensen's",
@@ -162,6 +164,245 @@
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "sephora-s-pore-black-friday-sale-till-30-nov-with-up-to-20-o",
+      "title": "Sephora S’pore Black Friday Sale Till 30 Nov With Up to 20% Off Plus Up to 50% Off Clearance Deals",
+      "store": "Sephora",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "SEPHORA"
+        },
+        {
+          "type": "discount",
+          "label": "20% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Enjoy beauty savings with no minimum spend and unlock limited-edition festive gifts",
+      "expiry": "Ends 30 Nov",
+      "heat": 175,
+      "url": "https://singpromos.com/beauty/sephora-spore-black-friday-sale-till-30-nov-with-up-to-20-off-plus-up-to-50-off-clearance-deals-310279/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/beauty/sephora-spore-black-friday-sale-till-30-nov-with-up-to-20-off-plus-up-to-50-off-clearance-deals-310279/"
+      },
+      "brand": "Sephora",
+      "expires_at": "2026-11-30",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-25",
+      "spotlight": true,
+      "image": "images/deals/sephora-s-pore-black-friday-sale-till-30-nov-with-up-to-20-o.jpg"
+    },
+    {
+      "id": "adidas-s-pore-black-friday-sale-offers-extra-30-off-plus-10-",
+      "title": "adidas S’pore Black Friday Sale Offers Extra 30% Off Plus 10% Off for Members Until 2 Dec 2026",
+      "store": "Adidas",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "new",
+          "label": "ADIDAS"
+        },
+        {
+          "type": "discount",
+          "label": "30% OFF"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Over 4,500 styles to explore, including Samba, Gazelle and running shoes",
+      "expiry": "Ends 2 Dec",
+      "heat": 165,
+      "url": "https://singpromos.com/fashion-accessories/adidas-spore-black-friday-sale-offers-extra-30-off-plus-10-off-for-members-until-2-dec-2026-310257/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/fashion-accessories/adidas-spore-black-friday-sale-offers-extra-30-off-plus-10-off-for-members-until-2-dec-2026-310257/"
+      },
+      "brand": "Adidas",
+      "expires_at": "2026-12-02",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-25",
+      "image": "images/deals/adidas-s-pore-black-friday-sale-offers-extra-30-off-plus-10-.jpg"
+    },
+    {
+      "id": "kfc-s-pore-chicken-wafflewich-returns-for-breakfast-from-25-",
+      "title": "KFC S’pore Chicken Wafflewich returns for breakfast from 25 Nov 2026",
+      "store": "KFC",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "KFC"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Freshly made golden waffles meet crispy chicken in a sweet and savoury morning treat",
+      "expiry": "Ongoing",
+      "heat": 140,
+      "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-chicken-wafflewich-returns-for-breakfast-from-25-nov-2026-310245/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-chicken-wafflewich-returns-for-breakfast-from-25-nov-2026-310245/"
+      },
+      "brand": "KFC",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "2026-11-25",
+      "first_seen": "2026-11-25",
+      "image": "images/deals/kfc-s-pore-chicken-wafflewich-returns-for-breakfast-from-25-.jpg"
+    },
+    {
+      "id": "singapore-2026-black-friday-cyber-monday-mega-deals-guide",
+      "title": "Singapore 2026 Black Friday & Cyber Monday Mega Deals Guide",
+      "store": "Singapore 2026 Black Friday",
+      "categories": [
+        "online"
+      ],
+      "icon": "🛒",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — see source link to claim"
+      },
+      "desc": "Discover online bargains, in-store savings and limited-time offers",
+      "expiry": "Check link for dates",
+      "heat": 110,
+      "url": "https://singpromos.com/warehouse-sales/singapore-2026-black-friday-cyber-monday-mega-deals-guide-310097/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/warehouse-sales/singapore-2026-black-friday-cyber-monday-mega-deals-guide-310097/"
+      },
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-25"
+    },
+    {
+      "id": "goldlion-black-friday-sale-40-off-regular-items-at-isetan-sc",
+      "title": "Goldlion Black Friday Sale 40% off regular items at Isetan Scotts from 27 – 29 Nov 2026",
+      "store": "Goldlion Black Friday Sale",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "40% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Refresh the workwear wardrobe with sharper tailoring and stylish business essentials.",
+      "expiry": "Ends 29 Nov",
+      "heat": 110,
+      "url": "https://singpromos.com/fashion-accessories/goldlion-black-friday-sale-40-off-regular-items-at-isetan-scotts-from-27-29-nov-2026-310250/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/fashion-accessories/goldlion-black-friday-sale-40-off-regular-items-at-isetan-scotts-from-27-29-nov-2026-310250/"
+      },
+      "expires_at": "2026-11-29",
+      "upcoming": true,
+      "starts_at": "2026-11-27",
+      "first_seen": "2026-11-25",
+      "image": "images/deals/goldlion-black-friday-sale-40-off-regular-items-at-isetan-sc.jpg"
+    },
+    {
+      "id": "tai-cheong-bakery-singapore-4-egg-tarts-for-8-on-25-nov-2026",
+      "title": "Tai Cheong Bakery Singapore 4 Egg Tarts for $8 on 25 Nov 2026",
+      "store": "Tai Cheong Bakery",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Save on a buttery Hong Kong-style favourite with this one-day mid-week special",
+      "expiry": "Ends 25 Nov",
+      "heat": 95,
+      "url": "https://singpromos.com/dining-restaurants-food/tai-cheong-bakery-singapore-4-egg-tarts-for-8-on-25-nov-2026-310238/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/tai-cheong-bakery-singapore-4-egg-tarts-for-8-on-25-nov-2026-310238/"
+      },
+      "expires_at": "2026-11-25",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-25",
+      "image": "images/deals/tai-cheong-bakery-singapore-4-egg-tarts-for-8-on-25-nov-2026.jpg"
+    },
+    {
+      "id": "agoda-november-mega-sale-up-to-60-off-hotels-flights-up-to-3",
+      "title": "Agoda November Mega Sale: Up to 60% Off Hotels, Flights Up to 30% Off, Plus an Extra 15% With DBS/POSB (16-30 Nov 2026) ",
+      "store": "Universal Studios Singapore",
+      "categories": [
+        "finance"
+      ],
+      "icon": "💳",
+      "badges": [
+        {
+          "type": "new",
+          "label": "AGODA"
+        },
+        {
+          "type": "discount",
+          "label": "60% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Agoda November Mega Sale: Up to 60% Off Hotels, Flights Up to 30% Off, Plus an Extra 15% With DBS/POSB (16-30 Nov 2026) misslobang.com",
+      "expiry": "Ends 30 Nov",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLVFrVXVQVU12cTBpYlpJNUJQRUJfQUxYNzVlVmZiZUhaOTdyelFBUnJDb0k1d09ydFU3RnM0SlBiVGpneVhHMkdXSl8xZDRhU25OYjZVTklUT256THkwblJad3VlYjYtVzhWYjF6ZTlwSE5adTBxT3JzeXJaZTdUZ3UtRFlzcDB4WWcyUkFTcGw1aU0?oc=5",
+      "source": {
+        "name": "misslobang.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLVFrVXVQVU12cTBpYlpJNUJQRUJfQUxYNzVlVmZiZUhaOTdyelFBUnJDb0k1d09ydFU3RnM0SlBiVGpneVhHMkdXSl8xZDRhU25OYjZVTklUT256THkwblJad3VlYjYtVzhWYjF6ZTlwSE5adTBxT3JzeXJaZTdUZ3UtRFlzcDB4WWcyUkFTcGw1aU0?oc=5"
+      },
+      "brand": "Universal Studios Singapore",
+      "expires_at": "2026-11-30",
+      "upcoming": false,
+      "starts_at": "2026-11-16",
+      "first_seen": "2026-11-25"
+    },
     {
       "id": "scoot-s-pore-gottascoottuesdays-black-friday-special-fares-f",
       "title": "Scoot S’pore #GottaScootTuesdays Black Friday Special Fares fr $82 for travel up to Feb 2027",
@@ -182,7 +423,7 @@
       },
       "desc": "Explore 45 destinations with tax-inclusive one-way fares and ScootPlus deals",
       "expiry": "Check link for dates",
-      "heat": 150,
+      "heat": 115,
       "url": "https://singpromos.com/airlines-flights/scoot-spore-gottascoottuesdays-black-friday-special-fares-fr-82-for-travel-up-to-feb-2027-310193/",
       "source": {
         "name": "SINGPromos",
@@ -193,8 +434,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-24",
-      "image": "images/deals/scoot-s-pore-gottascoottuesdays-black-friday-special-fares-f.jpg",
-      "spotlight": true
+      "image": "images/deals/scoot-s-pore-gottascoottuesdays-black-friday-special-fares-f.jpg"
     },
     {
       "id": "luckin-coffee-s-pore-1-for-1-payday-coffee-deal-till-30-nov-",
@@ -216,7 +456,7 @@
       },
       "desc": "Enjoy a seven-day payday treat featuring Little Butter Oat Latte and Tiramisu Latte.",
       "expiry": "Ends 30 Nov",
-      "heat": 135,
+      "heat": 100,
       "url": "https://singpromos.com/dining-restaurants-food/luckin-coffee-spore-1-for-1-payday-coffee-deal-till-30-nov-2026-310218/",
       "source": {
         "name": "SINGPromos",
@@ -227,214 +467,6 @@
       "starts_at": "",
       "first_seen": "2026-11-24",
       "image": "images/deals/luckin-coffee-s-pore-1-for-1-payday-coffee-deal-till-30-nov-.jpg"
-    },
-    {
-      "id": "kenangan-coffee-s-pore-1-for-1-payday-promo-till-25-nov-2026",
-      "title": "Kenangan Coffee S’pore 1-for-1 Payday Promo till 25 Nov 2026, Plus More Deals",
-      "store": "Kenangan Coffee",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "discount",
-          "label": "CASHBACK"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "App-exclusive coffee treats, 2 cups for S$7.50, up to 30% cashback and kiosk savings.",
-      "expiry": "Ends 25 Nov",
-      "heat": 115,
-      "url": "https://singpromos.com/dining-restaurants-food/kenangan-coffee-spore-1-for-1-payday-promo-till-25-nov-2026-plus-more-deals-310146/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/kenangan-coffee-spore-1-for-1-payday-promo-till-25-nov-2026-plus-more-deals-310146/"
-      },
-      "expires_at": "2026-11-25",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-24",
-      "image": "images/deals/kenangan-coffee-s-pore-1-for-1-payday-promo-till-25-nov-2026.jpg"
-    },
-    {
-      "id": "isetan-s-pore-black-friday-10-storewide-vouchers-more-from-2",
-      "title": "Isetan S’pore Black Friday 10% Storewide Vouchers & More From 26-29 Nov 2026",
-      "store": "Isetan",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Member-exclusive bedding vouchers worth up to $50, plus fashion, beauty and home bargains",
-      "expiry": "Ends 29 Nov",
-      "heat": 105,
-      "url": "https://singpromos.com/department-stores/isetan-spore-black-friday-10-storewide-vouchers-more-from-26-29-nov-2026-310178/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/department-stores/isetan-spore-black-friday-10-storewide-vouchers-more-from-26-29-nov-2026-310178/"
-      },
-      "expires_at": "2026-11-29",
-      "upcoming": true,
-      "starts_at": "2026-11-26",
-      "first_seen": "2026-11-24",
-      "image": "images/deals/isetan-s-pore-black-friday-10-storewide-vouchers-more-from-2.jpg"
-    },
-    {
-      "id": "singfinance-fresh-fund-fixed-deposit-offers-up-to-2-18-p-a-f",
-      "title": "SingFinance Fresh-Fund Fixed Deposit Offers Up To 2.18% p.a. from 24 Nov 2026",
-      "store": "SingFinance Fresh-Fund Fixed Deposit",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "Seven tenors, S$1,000 online entry and the option of branch placements from S$10,000.",
-      "expiry": "Ongoing",
-      "heat": 100,
-      "url": "https://singpromos.com/banks-credit-cards/singfinance-fresh-fund-fixed-deposit-offers-up-to-2-18-p-a-from-24-nov-2026-310184/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/banks-credit-cards/singfinance-fresh-fund-fixed-deposit-offers-up-to-2-18-p-a-from-24-nov-2026-310184/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-11-24",
-      "first_seen": "2026-11-24",
-      "image": "images/deals/singfinance-fresh-fund-fixed-deposit-offers-up-to-2-18-p-a-f.jpg"
-    },
-    {
-      "id": "mcdonald-s-singapore-launching-new-spicy-chicken-tenders-wit",
-      "title": "McDonald’s Singapore Launching New Spicy Chicken Tenders with FREE Sampling on Feb 12 & 13 - Great Deals Singapore",
-      "store": "Cotton On",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "MCDONALD'S"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "McDonald’s Singapore Launching New Spicy Chicken Tenders with FREE Sampling on Feb 12 & 13 Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzN1bXpqWjhWWDJzdng2cnNiRGRvSl9TTkd5Y2xiQVNTTGdDWGZzeGdpcWlBVmp5VXJHdlo3X1JoVDVZVm0zdTM3SFFNcDBObFVnY3ZfYV95TXlQQjk1dkk4Y25CbzM5bWpRTTBaaGQta1F0ejN4QlhWMDhDU2o0VjlCRjQxWUlPQXlpN1VhRUZQcmNXUWU3YmhVNA?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzN1bXpqWjhWWDJzdng2cnNiRGRvSl9TTkd5Y2xiQVNTTGdDWGZzeGdpcWlBVmp5VXJHdlo3X1JoVDVZVm0zdTM3SFFNcDBObFVnY3ZfYV95TXlQQjk1dkk4Y25CbzM5bWpRTTBaaGQta1F0ejN4QlhWMDhDU2o0VjlCRjQxWUlPQXlpN1VhRUZQcmNXUWU3YmhVNA?oc=5"
-      },
-      "brand": "Cotton On",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-24"
-    },
-    {
-      "id": "rextrix-launches-the-world-s-first-free-ai-native-mini-game-",
-      "title": "REXTRIX LAUNCHES THE WORLD'S FIRST FREE AI-NATIVE MINI-GAME PLATFORM AT SUPER AI 2026, NAMES JOÃO PEDRO BRAND AMBASSADOR",
-      "store": "Pedro",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "PEDRO"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "REXTRIX LAUNCHES THE WORLD'S FIRST FREE AI-NATIVE MINI-GAME PLATFORM AT SUPER AI 2026, NAMES JOÃO PEDRO BRAND AMBASSADOR The Des Moines Register",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSVMwc2I4RDBZT0FuTUJkX3VWWVdFRnF2VEh0bHRKZ3RMZ0gzOEJlZTJTLS1MQlMzZ0d2TmlIbVBBREl1NjdXUWQ2NTV2QnBJN0lHd1VNMGtSbU41Qy1HM09PWERaRktCQkJYX2dkaXBIbkMzOXJMcG4yZGJsNDhjYkJHVVhQajVLMzZBckpEY0xHVllIcnNjdXd1dDZsczdQOHdZaFNBeGxjUy1MNmFPbmJtSnJuSjg0Z3VDSnpyZmdQMlk2Z0JkcFc1eDh6aWtNOW11enhEeEZnWUFGNjUxR01NNDRleFFBeFVvbVdFWEgzT3hvWk80LUdwWmhtX2E2ZDJUN0FkY3FuNUU?oc=5",
-      "source": {
-        "name": "The Des Moines Register",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSVMwc2I4RDBZT0FuTUJkX3VWWVdFRnF2VEh0bHRKZ3RMZ0gzOEJlZTJTLS1MQlMzZ0d2TmlIbVBBREl1NjdXUWQ2NTV2QnBJN0lHd1VNMGtSbU41Qy1HM09PWERaRktCQkJYX2dkaXBIbkMzOXJMcG4yZGJsNDhjYkJHVVhQajVLMzZBckpEY0xHVllIcnNjdXd1dDZsczdQOHdZaFNBeGxjUy1MNmFPbmJtSnJuSjg0Z3VDSnpyZmdQMlk2Z0JkcFc1eDh6aWtNOW11enhEeEZnWUFGNjUxR01NNDRleFFBeFVvbVdFWEgzT3hvWk80LUdwWmhtX2E2ZDJUN0FkY3FuNUU?oc=5"
-      },
-      "brand": "Pedro",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-24"
-    },
-    {
-      "id": "dunkin-s-pore-payday-deals-from-23-nov-2026-buy-5-donuts-get",
-      "title": "Dunkin’ S’pore Payday Deals from 23 Nov 2026 – Buy 5 Donuts Get 2 Free & 1-for-1 Drinks",
-      "store": "Dunkin’",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Seven donuts for the price of 5, plus Cold Brew and Teh Tarik specials",
-      "expiry": "Ongoing",
-      "heat": 110,
-      "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-payday-deals-from-23-nov-2026-with-2-free-donuts-and-1-for-1-drinks-310143/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/dunkin-spore-payday-deals-from-23-nov-2026-with-2-free-donuts-and-1-for-1-drinks-310143/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "2026-11-23",
-      "first_seen": "2026-11-23",
-      "image": "images/deals/dunkin-s-pore-payday-deals-from-23-nov-2026-buy-5-donuts-get.jpg"
     },
     {
       "id": "muji-online-exclusive-sale-just-dropped-with-up-to-40-off-ho",
@@ -532,7 +564,7 @@
       },
       "desc": "Save on trending handbags, footwear and accessories, with more savings when buying two selected styles.",
       "expiry": "Ends 30 Nov",
-      "heat": 145,
+      "heat": 110,
       "url": "https://singpromos.com/fashion-accessories/charles-keith-spore-black-friday-sale-up-to-50-off-extra-10-off-till-30-nov-310112/",
       "source": {
         "name": "SINGPromos",
@@ -580,108 +612,6 @@
       "upcoming": false,
       "starts_at": "2026-11-21",
       "first_seen": "2026-11-22"
-    },
-    {
-      "id": "singapore-cable-car-free-sentosa-line-round-trips-daily-morn",
-      "title": "Singapore Cable Car FREE Sentosa Line Round Trips Daily Mornings from 21 Nov to 20 Dec 2026",
-      "store": "Singapore Cable Car FREE",
-      "categories": [
-        "entertainment"
-      ],
-      "icon": "🎮",
-      "badges": [
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "No tickets required",
-      "expiry": "Ends 20 Dec",
-      "heat": 100,
-      "url": "https://singpromos.com/places-of-interest/singapore-cable-car-free-sentosa-line-round-trips-daily-mornings-from-21-nov-to-20-dec-2026-310087/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/places-of-interest/singapore-cable-car-free-sentosa-line-round-trips-daily-mornings-from-21-nov-to-20-dec-2026-310087/"
-      },
-      "expires_at": "2026-12-20",
-      "upcoming": false,
-      "starts_at": "2026-11-21",
-      "first_seen": "2026-11-21",
-      "image": "images/deals/singapore-cable-car-free-sentosa-line-round-trips-daily-morn.jpg"
-    },
-    {
-      "id": "tunglok-group-90-min-madness-offers-30-off-la-carte-food-and",
-      "title": "TungLok Group 90-Min Madness offers 30% OFF à la carte food and regular set menus (23 Nov-30 Dec 2026)",
-      "store": "TungLok Group 90-Min Madness",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "30% OFF"
-        }
-      ],
-      "access": {
-        "type": "app",
-        "label": "App or membership may be needed"
-      },
-      "desc": "Advance phone or WhatsApp bookings required, with no minimum spend or discount cap",
-      "expiry": "Ends 30 Dec",
-      "heat": 90,
-      "url": "https://singpromos.com/dining-restaurants-food/tunglok-group-90-min-madness-offers-30-off-a-la-carte-food-and-regular-set-menus-23-nov-30-dec-2026-309898/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/tunglok-group-90-min-madness-offers-30-off-a-la-carte-food-and-regular-set-menus-23-nov-30-dec-2026-309898/"
-      },
-      "expires_at": "2026-12-30",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-21",
-      "image": "images/deals/tunglok-group-90-min-madness-offers-30-off-la-carte-food-and.jpg"
-    },
-    {
-      "id": "amazon-sg-buy-220-or-more-in-egift-cards-and-get-a-free-15-b",
-      "title": "Amazon SG Buy $220 or More in eGift Cards and Get a Free $15 Bonus till 30 Nov 2026",
-      "store": "Amazon",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "new",
-          "label": "AMAZON"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy up to 6.82% in bonus value, with digital gifting and flexible denominations.",
-      "expiry": "Ends 30 Nov",
-      "heat": 120,
-      "url": "https://singpromos.com/department-stores/amazon-sg-buy-220-or-more-in-egift-cards-and-get-a-free-15-bonus-till-30-nov-2026-310033/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/department-stores/amazon-sg-buy-220-or-more-in-egift-cards-and-get-a-free-15-bonus-till-30-nov-2026-310033/"
-      },
-      "brand": "Amazon",
-      "expires_at": "2026-11-30",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-20",
-      "image": "images/deals/amazon-sg-buy-220-or-more-in-egift-cards-and-get-a-free-15-b.jpg",
-      "status": "claimed"
     },
     {
       "id": "uniqlo-free-mini-fluffy-fleece-charm-spend-s-120-with-a-dbs-",
@@ -756,6 +686,42 @@
       "first_seen": "2026-11-17"
     },
     {
+      "id": "up-to-70-off-selected-items-at-don-don-donki-till-19-jul-set",
+      "title": "Up to 70% off selected items at Don Don Donki till 19 Jul - SETHLUI.com",
+      "store": "Don Don Donki",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "DON DON DONKI"
+        },
+        {
+          "type": "discount",
+          "label": "70% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Up to 70% off selected items at Don Don Donki till 19 Jul SETHLUI.com",
+      "expiry": "Ends 19 Jul",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5",
+      "source": {
+        "name": "SETHLUI.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWpDTG1lbHVncC1TRkl6RkpvU2JBY2hmZjlqQ0R0RmFhLUNjOXFZUm16QVd4Vklnc3JJOEdzS1RWRk9TWWt3Y3I3TWhxSEkzbmlaV2xBaVhCSUdFTklyVkt4ZU5oTVZSa3hWWF9zMlVNd3dXclBrMVJpSTBtMmVpU3ZDOHBSaU0?oc=5"
+      },
+      "brand": "Don Don Donki",
+      "expires_at": "2027-07-19",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-14"
+    },
+    {
       "id": "pelago-day-flash-sale-has-1-for-1-singapore-oceanarium-ticke",
       "title": "Pelago Day flash sale has 1-for-1 Singapore Oceanarium tickets and S$55 Universal Studios Singapore tickets - MoneyDiges",
       "store": "Universal Studios Singapore",
@@ -786,6 +752,42 @@
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX2NkcWxiVURPWDJOM3FIdFJHQzA4ckp1Z3lEdmw2UlBiTVhqSG5VVlVjSmt3MWNxNXRyc2FfTjhVOTd6YlNyaW5PRFl6UzFvSGJoQVAzVnlld2lRdEp3NHhyejVkQzVPRS1DbnBDSTQ5UTNCSGNXZnNVWXh1RGZwYzBRLUhpZUpYNjItVVR2NUp1S1pqcjYtQnhNU2VGaXMyNVk0VXZoRU1wbnZtb1dxNWwwaHNlMnU4ZjBwQkRubjBsRG1DTThnbGczQjJocjQ?oc=5"
       },
       "brand": "Universal Studios Singapore",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-11"
+    },
+    {
+      "id": "burger-king-singapore-s-11-11-sale-brings-1-for-1-whopper-lo",
+      "title": "Burger King Singapore's 11.11 Sale Brings 1-FOR-1 WHOPPER, Long Chicken & More Till November 15 - Great Deals Singapore",
+      "store": "Burger King",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "BURGER KING"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Burger King Singapore's 11.11 Sale Brings 1-FOR-1 WHOPPER, Long Chicken & More Till November 15 Great Deals Singapore",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRk5UVkRaTjJobkdaQlVhdE1wd1JtcXVyX2NkYVcySlBVZm50RHo0Yy13WTJXR0o2c2YxZlMxY1JXanlZM0dpREIzdEJSbXgyRF9iQXp2Mk1yR0QtQXpRWEkwX21vaTdEQkRlMVhBMHFuU1lEajJ6UDM0bURsckM2ZGJmcC1TWE0?oc=5",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRk5UVkRaTjJobkdaQlVhdE1wd1JtcXVyX2NkYVcySlBVZm50RHo0Yy13WTJXR0o2c2YxZlMxY1JXanlZM0dpREIzdEJSbXgyRF9iQXp2Mk1yR0QtQXpRWEkwX21vaTdEQkRlMVhBMHFuU1lEajJ6UDM0bURsckM2ZGJmcC1TWE0?oc=5"
+      },
+      "brand": "Burger King",
       "expires_at": "",
       "upcoming": false,
       "starts_at": "",
@@ -826,42 +828,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-10"
-    },
-    {
-      "id": "cotton-on-reaffirms-singapore-presence-with-free-matcha-trea",
-      "title": "Cotton On Reaffirms Singapore Presence With FREE Matcha Treat at 5 Stores on April 4–5 - Great Deals Singapore",
-      "store": "Cotton On",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "COTTON ON"
-        },
-        {
-          "type": "free",
-          "label": "FREE"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Cotton On Reaffirms Singapore Presence With FREE Matcha Treat at 5 Stores on April 4–5 Great Deals Singapore",
-      "expiry": "Check link for dates",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcWpFOXlUZ2lGSV9EOW9vekNCQkYwOEU5Z3M5Q24zc2EyLWhxeGY3SzVCYlNUSTVqZXJsOXJBcGhqVHhmdDhoaC0wZ25Mb0NLSUpXd19OZU1mNkpyeTdsWjJRR1g5OHFhMmJnd3RMcExzZ0x6TDIzOFB0WU1EWmFWWlFwZFFPUQ?oc=5",
-      "source": {
-        "name": "Great Deals Singapore",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcWpFOXlUZ2lGSV9EOW9vekNCQkYwOEU5Z3M5Q24zc2EyLWhxeGY3SzVCYlNUSTVqZXJsOXJBcGhqVHhmdDhoaC0wZ25Mb0NLSUpXd19OZU1mNkpyeTdsWjJRR1g5OHFhMmJnd3RMcExzZ0x6TDIzOFB0WU1EWmFWWlFwZFFPUQ?oc=5"
-      },
-      "brand": "Cotton On",
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-09"
     },
     {
       "id": "muji-jewel-changi-airport-has-an-ongoing-clearance-sale-of-u",
@@ -1466,8 +1432,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1533,8 +1498,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
