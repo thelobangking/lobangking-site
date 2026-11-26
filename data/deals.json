@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "categories": [
     {
       "id": "all",
@@ -334,38 +334,6 @@
       "starts_at": "2026-11-27",
       "first_seen": "2026-11-25",
       "image": "images/deals/goldlion-black-friday-sale-40-off-regular-items-at-isetan-sc.jpg"
-    },
-    {
-      "id": "tai-cheong-bakery-singapore-4-egg-tarts-for-8-on-25-nov-2026",
-      "title": "Tai Cheong Bakery Singapore 4 Egg Tarts for $8 on 25 Nov 2026",
-      "store": "Tai Cheong Bakery",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Save on a buttery Hong Kong-style favourite with this one-day mid-week special",
-      "expiry": "Ends 25 Nov",
-      "heat": 95,
-      "url": "https://singpromos.com/dining-restaurants-food/tai-cheong-bakery-singapore-4-egg-tarts-for-8-on-25-nov-2026-310238/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/tai-cheong-bakery-singapore-4-egg-tarts-for-8-on-25-nov-2026-310238/"
-      },
-      "expires_at": "2026-11-25",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-25",
-      "image": "images/deals/tai-cheong-bakery-singapore-4-egg-tarts-for-8-on-25-nov-2026.jpg"
     },
     {
       "id": "agoda-november-mega-sale-up-to-60-off-hotels-flights-up-to-3",
