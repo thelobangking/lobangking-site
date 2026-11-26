@@ -120,8 +120,8 @@
     "BreadTalk",
     "Burger King",
     "Challenger",
-    "Charles & Keith",
     "Coach",
+    "Cold Storage",
     "Cotton On",
     "Courts",
     "Decathlon",
@@ -132,7 +132,6 @@
     "Giant",
     "HP",
     "HarbourFront Centre",
-    "Harvey Norman",
     "KFC",
     "Kei Kaisendon",
     "Kenny Rogers Roasters",
@@ -152,6 +151,7 @@
     "Sephora",
     "Shihlin",
     "Sothys",
+    "Subway",
     "Swensen's",
     "TANGS",
     "Takagi Ramen",
@@ -164,6 +164,184 @@
     "Zenyum"
   ],
   "deals": [
+    {
+      "id": "cold-storage-1-for-1-magnolia-mag-a-cone-ice-cream-yuu-membe",
+      "title": "Cold Storage 1-for-1 Magnolia Mag-A-Cone Ice Cream yuu Members Deal till 29 Nov 2026",
+      "store": "Cold Storage",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "COLD STORAGE"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        }
+      ],
+      "access": {
+        "type": "app",
+        "label": "App or membership may be needed"
+      },
+      "desc": "Plus savings of up to 50% on other deals",
+      "expiry": "Ends 29 Nov",
+      "heat": 165,
+      "url": "https://singpromos.com/dining-restaurants-food/cold-storage-1-for-1-magnolia-mag-a-cone-ice-cream-yuu-members-deal-till-29-nov-2026-310325/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/cold-storage-1-for-1-magnolia-mag-a-cone-ice-cream-yuu-members-deal-till-29-nov-2026-310325/"
+      },
+      "brand": "Cold Storage",
+      "expires_at": "2026-11-29",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-26",
+      "spotlight": true,
+      "image": "images/deals/cold-storage-1-for-1-magnolia-mag-a-cone-ice-cream-yuu-membe.jpg"
+    },
+    {
+      "id": "converse-s-pore-buy-1-get-1-free-black-friday-promo-till-30-",
+      "title": "Converse S’pore Buy 1 Get 1 FREE Black Friday promo till 30 Nov 2026",
+      "store": "Converse",
+      "categories": [
+        "fashion"
+      ],
+      "icon": "👗",
+      "badges": [
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — see source link to claim"
+      },
+      "desc": "Over 250 online listings, including Chuck 70, limited-edition sneakers and more",
+      "expiry": "Ends 30 Nov",
+      "heat": 135,
+      "url": "https://singpromos.com/footwear/converse-spore-buy-1-get-1-free-black-friday-promo-till-30-nov-2026-310342/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/footwear/converse-spore-buy-1-get-1-free-black-friday-promo-till-30-nov-2026-310342/"
+      },
+      "expires_at": "2026-11-30",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-26",
+      "image": "images/deals/converse-s-pore-buy-1-get-1-free-black-friday-promo-till-30-.jpg"
+    },
+    {
+      "id": "unrival-gamers-market-warehouse-sale-offers-games-from-s-2-a",
+      "title": "Unrival Gamers Market Warehouse Sale Offers Games from S$2 and Up to 70% Off on 27 – 29 Nov 2026",
+      "store": "Unrival Gamers Market Warehouse",
+      "categories": [
+        "transport"
+      ],
+      "icon": "🚗",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE"
+        },
+        {
+          "type": "discount",
+          "label": "70% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Nintendo Switch 2 from S$599, free games with selected titles and three consoles up for grabs.",
+      "expiry": "Ends 29 Nov",
+      "heat": 130,
+      "url": "https://singpromos.com/warehouse-sales/unrival-gamers-market-warehouse-sale-offers-games-from-s2-and-up-to-70-off-on-27-29-nov-2026-310308/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/warehouse-sales/unrival-gamers-market-warehouse-sale-offers-games-from-s2-and-up-to-70-off-on-27-29-nov-2026-310308/"
+      },
+      "expires_at": "2026-11-29",
+      "upcoming": true,
+      "starts_at": "2026-11-27",
+      "first_seen": "2026-11-26",
+      "image": "images/deals/unrival-gamers-market-warehouse-sale-offers-games-from-s-2-a.jpg"
+    },
+    {
+      "id": "a-w-s-pore-black-friday-deals-with-26-90-tumblers-15-off-del",
+      "title": "A&W S’pore Black Friday Deals with $26.90 Tumblers, 15% Off Delivery Combo and More from 26 – 29 Nov",
+      "store": "A&W",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "free",
+          "label": "FREE"
+        },
+        {
+          "type": "discount",
+          "label": "15% OFF"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Free waffles worth up to $9.20, limited-edition tumblers and delivery savings",
+      "expiry": "Ends 29 Nov",
+      "heat": 120,
+      "url": "https://singpromos.com/dining-restaurants-food/aw-spore-black-friday-deals-with-26-90-tumblers-15-off-delivery-combo-and-more-from-26-29-nov-310297/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/dining-restaurants-food/aw-spore-black-friday-deals-with-26-90-tumblers-15-off-delivery-combo-and-more-from-26-29-nov-310297/"
+      },
+      "expires_at": "2026-11-29",
+      "upcoming": false,
+      "starts_at": "2026-11-26",
+      "first_seen": "2026-11-26",
+      "image": "images/deals/a-w-s-pore-black-friday-deals-with-26-90-tumblers-15-off-del.jpg"
+    },
+    {
+      "id": "updated-26-nov-3pm-singapore-2026-black-friday-cyber-monday-",
+      "title": "(Updated 26 Nov, 3pm) Singapore 2026 Black Friday & Cyber Monday Mega Deals Guide",
+      "store": "(Updated 26 Nov, 3pm)",
+      "categories": [
+        "online"
+      ],
+      "icon": "🛒",
+      "badges": [
+        {
+          "type": "new",
+          "label": "NEW"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "Online — see source link to claim"
+      },
+      "desc": "Discover online bargains, in-store savings and limited-time offers",
+      "expiry": "Ends 26 Nov",
+      "heat": 90,
+      "url": "https://singpromos.com/warehouse-sales/singapore-2026-black-friday-cyber-monday-mega-deals-guide-310097/",
+      "source": {
+        "name": "SINGPromos",
+        "url": "https://singpromos.com/warehouse-sales/singapore-2026-black-friday-cyber-monday-mega-deals-guide-310097/"
+      },
+      "expires_at": "2026-11-26",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-26",
+      "image": "images/deals/updated-26-nov-3pm-singapore-2026-black-friday-cyber-monday-.jpg"
+    },
     {
       "id": "sephora-s-pore-black-friday-sale-till-30-nov-with-up-to-20-o",
       "title": "Sephora S’pore Black Friday Sale Till 30 Nov With Up to 20% Off Plus Up to 50% Off Clearance Deals",
@@ -188,7 +366,7 @@
       },
       "desc": "Enjoy beauty savings with no minimum spend and unlock limited-edition festive gifts",
       "expiry": "Ends 30 Nov",
-      "heat": 175,
+      "heat": 155,
       "url": "https://singpromos.com/beauty/sephora-spore-black-friday-sale-till-30-nov-with-up-to-20-off-plus-up-to-50-off-clearance-deals-310279/",
       "source": {
         "name": "SINGPromos",
@@ -199,8 +377,7 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-25",
-      "image": "images/deals/sephora-s-pore-black-friday-sale-till-30-nov-with-up-to-20-o.jpg",
-      "spotlight": true
+      "image": "images/deals/sephora-s-pore-black-friday-sale-till-30-nov-with-up-to-20-o.jpg"
     },
     {
       "id": "adidas-s-pore-black-friday-sale-offers-extra-30-off-plus-10-",
@@ -226,7 +403,7 @@
       },
       "desc": "Over 4,500 styles to explore, including Samba, Gazelle and running shoes",
       "expiry": "Ends 2 Dec",
-      "heat": 165,
+      "heat": 145,
       "url": "https://singpromos.com/fashion-accessories/adidas-spore-black-friday-sale-offers-extra-30-off-plus-10-off-for-members-until-2-dec-2026-310257/",
       "source": {
         "name": "SINGPromos",
@@ -259,7 +436,7 @@
       },
       "desc": "Freshly made golden waffles meet crispy chicken in a sweet and savoury morning treat",
       "expiry": "Ongoing",
-      "heat": 140,
+      "heat": 120,
       "url": "https://singpromos.com/dining-restaurants-food/kfc-spore-chicken-wafflewich-returns-for-breakfast-from-25-nov-2026-310245/",
       "source": {
         "name": "SINGPromos",
@@ -271,37 +448,6 @@
       "starts_at": "2026-11-25",
       "first_seen": "2026-11-25",
       "image": "images/deals/kfc-s-pore-chicken-wafflewich-returns-for-breakfast-from-25-.jpg"
-    },
-    {
-      "id": "singapore-2026-black-friday-cyber-monday-mega-deals-guide",
-      "title": "Singapore 2026 Black Friday & Cyber Monday Mega Deals Guide",
-      "store": "Singapore 2026 Black Friday",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "Discover online bargains, in-store savings and limited-time offers",
-      "expiry": "Check link for dates",
-      "heat": 110,
-      "url": "https://singpromos.com/warehouse-sales/singapore-2026-black-friday-cyber-monday-mega-deals-guide-310097/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/warehouse-sales/singapore-2026-black-friday-cyber-monday-mega-deals-guide-310097/"
-      },
-      "expires_at": "",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-25"
     },
     {
       "id": "goldlion-black-friday-sale-40-off-regular-items-at-isetan-sc",
@@ -323,7 +469,7 @@
       },
       "desc": "Refresh the workwear wardrobe with sharper tailoring and stylish business essentials.",
       "expiry": "Ends 29 Nov",
-      "heat": 110,
+      "heat": 95,
       "url": "https://singpromos.com/fashion-accessories/goldlion-black-friday-sale-40-off-regular-items-at-isetan-scotts-from-27-29-nov-2026-310250/",
       "source": {
         "name": "SINGPromos",
@@ -334,42 +480,6 @@
       "starts_at": "2026-11-27",
       "first_seen": "2026-11-25",
       "image": "images/deals/goldlion-black-friday-sale-40-off-regular-items-at-isetan-sc.jpg"
-    },
-    {
-      "id": "agoda-november-mega-sale-up-to-60-off-hotels-flights-up-to-3",
-      "title": "Agoda November Mega Sale: Up to 60% Off Hotels, Flights Up to 30% Off, Plus an Extra 15% With DBS/POSB (16-30 Nov 2026) ",
-      "store": "Universal Studios Singapore",
-      "categories": [
-        "finance"
-      ],
-      "icon": "💳",
-      "badges": [
-        {
-          "type": "new",
-          "label": "AGODA"
-        },
-        {
-          "type": "discount",
-          "label": "60% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Agoda November Mega Sale: Up to 60% Off Hotels, Flights Up to 30% Off, Plus an Extra 15% With DBS/POSB (16-30 Nov 2026) misslobang.com",
-      "expiry": "Ends 30 Nov",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLVFrVXVQVU12cTBpYlpJNUJQRUJfQUxYNzVlVmZiZUhaOTdyelFBUnJDb0k1d09ydFU3RnM0SlBiVGpneVhHMkdXSl8xZDRhU25OYjZVTklUT256THkwblJad3VlYjYtVzhWYjF6ZTlwSE5adTBxT3JzeXJaZTdUZ3UtRFlzcDB4WWcyUkFTcGw1aU0?oc=5",
-      "source": {
-        "name": "misslobang.com",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLVFrVXVQVU12cTBpYlpJNUJQRUJfQUxYNzVlVmZiZUhaOTdyelFBUnJDb0k1d09ydFU3RnM0SlBiVGpneVhHMkdXSl8xZDRhU25OYjZVTklUT256THkwblJad3VlYjYtVzhWYjF6ZTlwSE5adTBxT3JzeXJaZTdUZ3UtRFlzcDB4WWcyUkFTcGw1aU0?oc=5"
-      },
-      "brand": "Universal Studios Singapore",
-      "expires_at": "2026-11-30",
-      "upcoming": false,
-      "starts_at": "2026-11-16",
-      "first_seen": "2026-11-25"
     },
     {
       "id": "scoot-s-pore-gottascoottuesdays-black-friday-special-fares-f",
@@ -391,7 +501,7 @@
       },
       "desc": "Explore 45 destinations with tax-inclusive one-way fares and ScootPlus deals",
       "expiry": "Check link for dates",
-      "heat": 115,
+      "heat": 100,
       "url": "https://singpromos.com/airlines-flights/scoot-spore-gottascoottuesdays-black-friday-special-fares-fr-82-for-travel-up-to-feb-2027-310193/",
       "source": {
         "name": "SINGPromos",
@@ -403,38 +513,6 @@
       "starts_at": "",
       "first_seen": "2026-11-24",
       "image": "images/deals/scoot-s-pore-gottascoottuesdays-black-friday-special-fares-f.jpg"
-    },
-    {
-      "id": "luckin-coffee-s-pore-1-for-1-payday-coffee-deal-till-30-nov-",
-      "title": "Luckin Coffee S’pore 1-for-1 Payday Coffee Deal Till 30 Nov 2026",
-      "store": "Luckin Coffee",
-      "categories": [
-        "food"
-      ],
-      "icon": "🍜",
-      "badges": [
-        {
-          "type": "discount",
-          "label": "1-FOR-1"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Enjoy a seven-day payday treat featuring Little Butter Oat Latte and Tiramisu Latte.",
-      "expiry": "Ends 30 Nov",
-      "heat": 100,
-      "url": "https://singpromos.com/dining-restaurants-food/luckin-coffee-spore-1-for-1-payday-coffee-deal-till-30-nov-2026-310218/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/dining-restaurants-food/luckin-coffee-spore-1-for-1-payday-coffee-deal-till-30-nov-2026-310218/"
-      },
-      "expires_at": "2026-11-30",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-24",
-      "image": "images/deals/luckin-coffee-s-pore-1-for-1-payday-coffee-deal-till-30-nov-.jpg"
     },
     {
       "id": "muji-online-exclusive-sale-just-dropped-with-up-to-40-off-ho",
@@ -507,43 +585,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-23"
-    },
-    {
-      "id": "charles-keith-s-pore-black-friday-sale-up-to-50-off-extra-10",
-      "title": "CHARLES & KEITH S’pore Black Friday Sale Up to 50% Off + Extra 10% Off Till 30 Nov",
-      "store": "Charles & Keith",
-      "categories": [
-        "fashion"
-      ],
-      "icon": "👗",
-      "badges": [
-        {
-          "type": "new",
-          "label": "CHARLES & KEITH"
-        },
-        {
-          "type": "discount",
-          "label": "50% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "Save on trending handbags, footwear and accessories, with more savings when buying two selected styles.",
-      "expiry": "Ends 30 Nov",
-      "heat": 110,
-      "url": "https://singpromos.com/fashion-accessories/charles-keith-spore-black-friday-sale-up-to-50-off-extra-10-off-till-30-nov-310112/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/fashion-accessories/charles-keith-spore-black-friday-sale-up-to-50-off-extra-10-off-till-30-nov-310112/"
-      },
-      "brand": "Charles & Keith",
-      "expires_at": "2026-11-30",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-22",
-      "image": "images/deals/charles-keith-s-pore-black-friday-sale-up-to-50-off-extra-10.jpg"
     },
     {
       "id": "best-denki-black-friday-pre-sale-up-to-70-off-lg-65-inch-ole",
@@ -796,6 +837,46 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-10"
+    },
+    {
+      "id": "subway-singapore-brings-back-buy-1-get-1-free-breakfast-wrap",
+      "title": "Subway Singapore Brings Back Buy 1 Get 1 FREE Breakfast Wraps on November 13 & 14 - Great Deals Singapore",
+      "store": "Subway",
+      "categories": [
+        "food"
+      ],
+      "icon": "🍜",
+      "badges": [
+        {
+          "type": "new",
+          "label": "SUBWAY"
+        },
+        {
+          "type": "discount",
+          "label": "1-FOR-1"
+        },
+        {
+          "type": "free",
+          "label": "FREE"
+        }
+      ],
+      "access": {
+        "type": "easy",
+        "label": "See source for how to redeem"
+      },
+      "desc": "Subway Singapore Brings Back Buy 1 Get 1 FREE Breakfast Wraps on November 13 & 14 Great Deals Singapore",
+      "expiry": "Check link for dates",
+      "heat": 90,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWHNhanBOaVhDUzhDRHV1S0NOTUxqcUthSTMwZEdjaGZWZ1dQTEMtX3FTdGJHUkJoSVhLcjYta2tDMDJKS3VJcDhxYU9sdTFFX1BndmRrUW1JLW1sNWNmRGM4cDhpdlF4WTBLV0J0dmtZWlRFd2JWZFExZkFhZ0pWa2V2SE1xOUhoNE5Da3Z3?oc=5",
+      "source": {
+        "name": "Great Deals Singapore",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWHNhanBOaVhDUzhDRHV1S0NOTUxqcUthSTMwZEdjaGZWZ1dQTEMtX3FTdGJHUkJoSVhLcjYta2tDMDJKS3VJcDhxYU9sdTFFX1BndmRrUW1JLW1sNWNmRGM4cDhpdlF4WTBLV0J0dmtZWlRFd2JWZFExZkFhZ0pWa2V2SE1xOUhoNE5Da3Z3?oc=5"
+      },
+      "brand": "Subway",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-11-06"
     },
     {
       "id": "muji-jewel-changi-airport-has-an-ongoing-clearance-sale-of-u",
@@ -1263,9 +1344,9 @@
       "first_seen": "2026-10-31"
     },
     {
-      "id": "smeg-appliances-are-going-at-up-to-50-off-at-harvey-norman-s",
-      "title": "SMEG Appliances Are Going At Up To 50% Off At Harvey Norman’s Carpark Sale From 18–20 September - MoneyDigest",
-      "store": "Harvey Norman",
+      "id": "gain-city-s-go-green-campaign-offers-up-to-1k-off-on-applian",
+      "title": "Gain City’s Go Green campaign offers up to $1k off on appliances with trade-ins, free weekend repairs - The Straits Time",
+      "store": "Gain City",
       "categories": [
         "home"
       ],
@@ -1273,30 +1354,30 @@
       "badges": [
         {
           "type": "new",
-          "label": "HARVEY NORMAN"
+          "label": "GAIN CITY"
         },
         {
-          "type": "discount",
-          "label": "50% OFF"
+          "type": "free",
+          "label": "FREE"
         }
       ],
       "access": {
         "type": "app",
         "label": "App or membership may be needed"
       },
-      "desc": "SMEG Appliances Are Going At Up To 50% Off At Harvey Norman’s Carpark Sale From 18–20 September MoneyDigest",
-      "expiry": "Ends 20 Sep",
+      "desc": "Gain City’s Go Green campaign offers up to $1k off on appliances with trade-ins, free weekend repairs The Straits Times",
+      "expiry": "Check link for dates",
       "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMC1Oa3V6NFJndVdHRkxIQXdKdGRIMWNlQk4tOVBOY1RBOWpyazA2amxyZzk5WGw1bzNRbTc4UmRIQnd2OWJqRG93RDRoRUQ2Z1VTeGM0TUo0ZEkySjZyVUN3RE1GcEdVLVc5ajBsUU1FcUhnOXh6ZkYxR0dKNTZXWVo0VGlBZUl6alF0SEt3V21hek5vNzJlc1hMYXl2T0NHeEozZlY2OXoyMFA0MlJSOWs0aktyV0R6ZDBsa1hR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWJUYlNxeWI3SmRabHZ4Nk54R21GTER6LW8zZU80SlZfcXd1V2d1SXFJWVpmV200QThibTZxUThqRVRpRklWVDdlczBUNUdLQktWQlRsSVZRbEstSkJQNDF3aWM4ZEVhLUFLMExJOS0yUjhTZmdGUjVMdC1CTjdtMEE3Zkp3LS1oTVdIR0QxbU8tQmNGS2lPRXhPNEY4V3RzdFVzNUtIWVg4ZnBsejdjU2dONGhpLURXekFiTFRjckg3amhpQTFOdXV1TXU?oc=5",
       "source": {
-        "name": "MoneyDigest",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMC1Oa3V6NFJndVdHRkxIQXdKdGRIMWNlQk4tOVBOY1RBOWpyazA2amxyZzk5WGw1bzNRbTc4UmRIQnd2OWJqRG93RDRoRUQ2Z1VTeGM0TUo0ZEkySjZyVUN3RE1GcEdVLVc5ajBsUU1FcUhnOXh6ZkYxR0dKNTZXWVo0VGlBZUl6alF0SEt3V21hek5vNzJlc1hMYXl2T0NHeEozZlY2OXoyMFA0MlJSOWs0aktyV0R6ZDBsa1hR?oc=5"
+        "name": "The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWJUYlNxeWI3SmRabHZ4Nk54R21GTER6LW8zZU80SlZfcXd1V2d1SXFJWVpmV200QThibTZxUThqRVRpRklWVDdlczBUNUdLQktWQlRsSVZRbEstSkJQNDF3aWM4ZEVhLUFLMExJOS0yUjhTZmdGUjVMdC1CTjdtMEE3Zkp3LS1oTVdIR0QxbU8tQmNGS2lPRXhPNEY4V3RzdFVzNUtIWVg4ZnBsejdjU2dONGhpLURXekFiTFRjckg3amhpQTFOdXV1TXU?oc=5"
       },
-      "brand": "Harvey Norman",
-      "expires_at": "2027-09-20",
-      "upcoming": true,
-      "starts_at": "2027-09-18",
-      "first_seen": "2026-09-17"
+      "brand": "Gain City",
+      "expires_at": "",
+      "upcoming": false,
+      "starts_at": "",
+      "first_seen": "2026-10-23"
     },
     {
       "id": "decathlon-singapore-hosting-second-hand-bike-festival-with-r",
@@ -1400,8 +1481,7 @@
       "first_seen": "2026-07-05",
       "expires_at": "2027-07-10",
       "upcoming": false,
-      "starts_at": "",
-      "status": "claimed"
+      "starts_at": ""
     },
     {
       "id": "gaincity-jul-voucher",
@@ -1467,8 +1547,7 @@
       "expires_at": "2027-07-31",
       "upcoming": false,
       "starts_at": "",
-      "image": "images/deals/challenger-ms365.jpg",
-      "status": "claimed"
+      "image": "images/deals/challenger-ms365.jpg"
     },
     {
       "id": "courts-get7",
