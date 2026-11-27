@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "categories": [
     {
       "id": "all",
@@ -311,38 +311,6 @@
       "image": "images/deals/a-w-s-pore-black-friday-deals-with-26-90-tumblers-15-off-del.jpg"
     },
     {
-      "id": "updated-26-nov-3pm-singapore-2026-black-friday-cyber-monday-",
-      "title": "(Updated 26 Nov, 3pm) Singapore 2026 Black Friday & Cyber Monday Mega Deals Guide",
-      "store": "(Updated 26 Nov, 3pm)",
-      "categories": [
-        "online"
-      ],
-      "icon": "🛒",
-      "badges": [
-        {
-          "type": "new",
-          "label": "NEW"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "Online — see source link to claim"
-      },
-      "desc": "Discover online bargains, in-store savings and limited-time offers",
-      "expiry": "Ends 26 Nov",
-      "heat": 90,
-      "url": "https://singpromos.com/warehouse-sales/singapore-2026-black-friday-cyber-monday-mega-deals-guide-310097/",
-      "source": {
-        "name": "SINGPromos",
-        "url": "https://singpromos.com/warehouse-sales/singapore-2026-black-friday-cyber-monday-mega-deals-guide-310097/"
-      },
-      "expires_at": "2026-11-26",
-      "upcoming": false,
-      "starts_at": "",
-      "first_seen": "2026-11-26",
-      "image": "images/deals/updated-26-nov-3pm-singapore-2026-black-friday-cyber-monday-.jpg"
-    },
-    {
       "id": "sephora-s-pore-black-friday-sale-till-30-nov-with-up-to-20-o",
       "title": "Sephora S’pore Black Friday Sale Till 30 Nov With Up to 20% Off Plus Up to 50% Off Clearance Deals",
       "store": "Sephora",
@@ -585,42 +553,6 @@
       "upcoming": false,
       "starts_at": "",
       "first_seen": "2026-11-23"
-    },
-    {
-      "id": "best-denki-black-friday-pre-sale-up-to-70-off-lg-65-inch-ole",
-      "title": "BEST Denki Black Friday Pre-Sale: Up to 70% Off, LG 65-Inch OLED $2,299, Ninja Crispi Pro $399 and a $1 Gold Bar Draw, 2",
-      "store": "Best Denki",
-      "categories": [
-        "electronics"
-      ],
-      "icon": "💻",
-      "badges": [
-        {
-          "type": "new",
-          "label": "BEST DENKI"
-        },
-        {
-          "type": "discount",
-          "label": "70% OFF"
-        }
-      ],
-      "access": {
-        "type": "easy",
-        "label": "See source for how to redeem"
-      },
-      "desc": "BEST Denki Black Friday Pre-Sale: Up to 70% Off, LG 65-Inch OLED $2,299, Ninja Crispi Pro $399 and a $1 Gold Bar Draw, 21-26 Nov 2026 https://www.misslobang.com/",
-      "expiry": "Ends 26 Nov",
-      "heat": 90,
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ1hhYU5qV3pmZVZOaFkybEJoeHhPYnJjNUFGLVlIYXZiOWlaT3VFZXVnWjlaYk1kWE5ZS0JHSHVBV0V4OEdHWmxhMWtucmJYNm1JYjZQV1hZTml4ZzRvaEczYURnVm9ja0VBdTJZQXM3d29WdTgyclNWTTk3VGRwNXg5R29zZUxYaHB3RU1uaXpOeEE?oc=5",
-      "source": {
-        "name": "https://www.misslobang.com/",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ1hhYU5qV3pmZVZOaFkybEJoeHhPYnJjNUFGLVlIYXZiOWlaT3VFZXVnWjlaYk1kWE5ZS0JHSHVBV0V4OEdHWmxhMWtucmJYNm1JYjZQV1hZTml4ZzRvaEczYURnVm9ja0VBdTJZQXM3d29WdTgyclNWTTk3VGRwNXg5R29zZUxYaHB3RU1uaXpOeEE?oc=5"
-      },
-      "brand": "Best Denki",
-      "expires_at": "2026-11-26",
-      "upcoming": false,
-      "starts_at": "2026-11-21",
-      "first_seen": "2026-11-22"
     },
     {
       "id": "uniqlo-free-mini-fluffy-fleece-charm-spend-s-120-with-a-dbs-",
