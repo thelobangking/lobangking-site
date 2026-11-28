@@ -191,8 +191,8 @@
       "upcoming": false,
       "starts_at": "2026-11-27",
       "first_seen": "2026-11-28",
-      "spotlight": true,
-      "image": "images/deals/hl-bank-s-pore-up-to-2-35-p-a-fixed-deposit-promo-rates-from.jpg"
+      "image": "images/deals/hl-bank-s-pore-up-to-2-35-p-a-fixed-deposit-promo-rates-from.jpg",
+      "spotlight": true
     },
     {
       "id": "uob-s-pore-fixed-deposit-offers-1-70-p-a-across-all-three-te",
